@@ -61,7 +61,7 @@ class PakistanEcommerceScraper:
             url = f"https://www.telemart.pk/search?q={search_term}"
             response = requests.get(url, headers=self.headers, timeout=10)
             soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'product-item-container'})[:10] # Selector updated for 2026
+            items = soup.find_all('div', {'class': 'product-item-container'})[:10]
             for item in items:
                 title = item.find('h4').text.strip()
                 price = self.clean_price(item.find('span', {'class': 'price'}).text)
@@ -90,7 +90,6 @@ class PakistanEcommerceScraper:
 
     # 5. DARAZ (Marketplace)
     def scrape_daraz(self, search_term: str) -> List[Dict]:
-        # Daraz is tricky with requests, adding basic support
         products = []
         try:
             url = f"https://www.daraz.pk/catalog/?q={search_term}"
@@ -109,26 +108,13 @@ class PakistanEcommerceScraper:
     def aggregate_products(self, search_term: str) -> List[Dict]:
         print(f"🔍 Searching for: {search_term}")
         all_raw_data = []
-        
-        # Calling all scrapers
-        print("Fetching from PriceOye...")
         all_raw_data.extend(self.scrape_priceoye(search_term))
         time.sleep(1)
-        
-        print("Fetching from Shophive...")
         all_raw_data.extend(self.scrape_shophive(search_term))
         time.sleep(1)
-        
-        print("Fetching from Telemart...")
         all_raw_data.extend(self.scrape_telemart(search_term))
-        
-        print("Fetching from Vmart...")
         all_raw_data.extend(self.scrape_vmart(search_term))
-        
-        print("Fetching from Daraz...")
         all_raw_data.extend(self.scrape_daraz(search_term))
-
-        # Filtering unique and grouping
         return self.group_similar_products(all_raw_data)
 
     def group_similar_products(self, products: List[Dict]) -> List[Dict]:
@@ -139,12 +125,11 @@ class PakistanEcommerceScraper:
         used_indices = set()
         for i, p1 in enumerate(products):
             if i in used_indices: continue
-            
             cluster = [p1]
             used_indices.add(i)
             for j, p2 in enumerate(products):
                 if j in used_indices: continue
-                if similarity(p1['title'], p2['title']) > 0.65: # Smart grouping
+                if similarity(p1['title'], p2['title']) > 0.65:
                     cluster.append(p2)
                     used_indices.add(j)
             
@@ -163,10 +148,23 @@ class PakistanEcommerceScraper:
             json.dump(data, f, indent=4)
         print(f"✅ Data saved to products.json. Total groups: {len(data)}")
 
-# --- RUN ---
+# --- RUN WITH ALL CATEGORIES ---
 if __name__ == "__main__":
     scraper = PakistanEcommerceScraper()
-    keywords = ['iphone 15', 'samsung s24', 'gaming laptop']
+    
+    # Yahan humne saari categories ke top keywords add kar diye hain
+    keywords = [
+        # Electronics
+        'charger', 'baseus fast charger', 'power bank 20000mah', 'wireless earbuds', 'bluetooth speaker',
+        # Mobiles
+        'iphone 15 pro max', 'samsung s24 ultra', 'redmi note 13', 'infinix hot 40',
+        # Computers
+        'gaming laptop', 'macbook air m2', 'hp victus', 'wireless mouse', 'gaming monitor',
+        # Garion ka saman (Car Accessories)
+        'car dash cam', 'car air purifier', 'tyre inflator portable', 'car vacuum cleaner',
+        # Clothes & Fashion
+        'men shirt cotton', 'women lawn suit', 'winter jacket', 'leather wallet', 'smart watch'
+    ]
     
     final_data = []
     for word in keywords:
