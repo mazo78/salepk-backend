@@ -28,6 +28,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch origin main
+          git reset --mixed origin/main
           git add products.json
           git commit -m "Auto-update: Latest prices fetched" || exit 0
-          git push
+          git push origin main --force
