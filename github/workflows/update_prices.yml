@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull origin main --rebase
           git add products.json
           git commit -m "Auto-update prices" || exit 0
           git push
