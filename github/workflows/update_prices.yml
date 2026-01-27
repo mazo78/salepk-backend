@@ -2,8 +2,8 @@ name: Daily Price Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Rozana raat 12 baje khud chalega
+  workflow_dispatch: # Manually chalane ke liye
 
 jobs:
   build:
@@ -11,12 +11,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0   # Full history laayega
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -24,35 +21,15 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      - name: Configure Git
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
-      - name: Pull latest changes
-        run: |
-          git pull origin main --rebase || git pull origin main
-
       - name: Run Scraper
         run: python scraper.py
 
       - name: Commit and Push changes
         run: |
-          # Check if there are any changes
-          if [ -n "$(git status --porcelain)" ]; then
-            git add products.json
-            
-            # Pull again before committing (in case something changed during scraping)
-            git pull origin main --rebase || git pull origin main
-            
-            git commit -m "Auto-update: Latest prices fetched" || exit 0
-            
-            # Push with automatic retry on conflict
-            git push origin main || {
-              echo "Push failed, pulling latest and retrying..."
-              git pull origin main --rebase
-              git push origin main
-            }
-          else
-            echo "No changes to commit"
-          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git fetch origin main
+          git reset --mixed origin/main
+          git add products.json
+          git commit -m "Auto-update: Latest prices fetched" || exit 0
+          git push origin main --force
