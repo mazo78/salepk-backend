@@ -2,15 +2,17 @@ name: Daily Price Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Yeh rozana raat 12 baje chalega
-  workflow_dispatch: # Isse aap manually bhi chala sakte hain
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Important! Full history laayega
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -22,14 +24,21 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run Scraper
-        run: python scraper.py  # Aapki scraper file ka naam
+        run: python scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git fetch origin main
-          git reset --soft origin/main
+
+          # Latest code pull karo
+          git pull --rebase origin main
+
+          # Diff add karo
           git add products.json
+
+          # Agar koi change nahi hai to commit na kare
           git commit -m "Auto-update: Latest prices fetched" || exit 0
-          git push origin main --force
+
+          # Push
+          git push origin main
