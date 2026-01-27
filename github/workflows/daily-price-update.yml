@@ -1,0 +1,82 @@
+name: Daily Price Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Rozana raat 12 baje khud chalega
+  workflow_dispatch: # Manually chalane ke liye
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push changes
+        shell: bash
+        run: |
+          # Git identity
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+
+          # Stage aur commit karo (agar koi change nahin to commit fail hoga, magar script continue karega)
+          git add products.json
+          git commit -m "Auto-update: Latest prices fetched" || echo "No changes to commit"
+
+          # Retry loop: rebase remote main aur push karo. Agar push reject ho to phir try karo.
+          max_attempts=5
+          attempt=1
+          while [ $attempt -le $max_attempts ]; do
+            echo "Attempt $attempt of $max_attempts"
+
+            # Latest remote laao
+            git fetch origin main
+
+            # Rebase local commits on top of remote main
+            # Agar rebase conflict aaye to abort kar ke exit kar do (manual fix chahiye)
+            if git rebase origin/main; then
+              echo "Rebase successful, trying to push..."
+            else
+              echo "Rebase failed — conflicts must be resolved manually. Aborting."
+              git rebase --abort || true
+              exit 1
+            fi
+
+            # Push karke break karo agar success ho
+            if git push origin HEAD:main; then
+              echo "Push successful."
+              break
+            else
+              echo "Push rejected (probably remote changed). Will retry after short sleep."
+              sleep 2
+            fi
+
+            attempt=$((attempt + 1))
+          done
+
+          if [ $attempt -gt $max_attempts ]; then
+            echo "Push failed after $max_attempts attempts."
+            exit 1
+          fi
+
+          # --- Agar aap force karna hi chahte ho (risky) to ye comment hata kar use kar sakte ho:
+          # git push origin HEAD:main --force-with-lease
+          # --force-with-lease safer hai --force se kyunki woh remote head ko check karta hai.
