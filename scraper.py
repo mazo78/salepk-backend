@@ -1,176 +1,68 @@
-import requests
-from bs4 import BeautifulSoup
-import json
-import time
-from datetime import datetime
-from typing import List, Dict
-import re
+name: Daily Price Update
 
-class PakistanEcommerceScraper:
-    def __init__(self):
-        # Latest 2026 User-Agent taake block na ho
-        self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-    def clean_price(self, price_text: str) -> int:
-        price_text = re.sub(r'[^\d]', '', price_text)
-        try:
-            return int(price_text)
-        except:
-            return 0
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Full history laayega
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-    # 1. PRICE OYE (Best for Mobiles/Tech)
-    def scrape_priceoye(self, search_term: str) -> List[Dict]:
-        products = []
-        try:
-            url = f"https://priceoye.pk/search?q={search_term.replace(' ', '+')}"
-            response = requests.get(url, headers=self.headers, timeout=10)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'product-list'})[:10]
-            for item in items:
-                title = item.find('div', {'class': 'p-title'}).text.strip()
-                price = self.clean_price(item.find('div', {'class': 'price-box'}).text)
-                link = item.find('a')['href']
-                image = item.find('img')['src']
-                products.append({'title': title, 'price': price, 'store': 'PriceOye.pk', 'url': link, 'image': image})
-        except Exception as e: print(f"PriceOye Error: {e}")
-        return products
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
 
-    # 2. SHOPHIVE (Best for Laptops/Apple)
-    def scrape_shophive(self, search_term: str) -> List[Dict]:
-        products = []
-        try:
-            url = f"https://www.shophive.com/catalogsearch/result/?q={search_term}"
-            response = requests.get(url, headers=self.headers, timeout=10)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'product-item-info'})[:10]
-            for item in items:
-                title = item.find('a', {'class': 'product-item-link'}).text.strip()
-                price = self.clean_price(item.find('span', {'data-price-type': 'finalPrice'}).text)
-                link = item.find('a', {'class': 'product-item-link'})['href']
-                image = item.find('img', {'class': 'product-image-photo'})['src']
-                products.append({'title': title, 'price': price, 'store': 'Shophive.com', 'url': link, 'image': image})
-        except Exception as e: print(f"Shophive Error: {e}")
-        return products
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
 
-    # 3. TELEMART (General Electronics)
-    def scrape_telemart(self, search_term: str) -> List[Dict]:
-        products = []
-        try:
-            url = f"https://www.telemart.pk/search?q={search_term}"
-            response = requests.get(url, headers=self.headers, timeout=10)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'product-item-container'})[:10] # Selector updated for 2026
-            for item in items:
-                title = item.find('h4').text.strip()
-                price = self.clean_price(item.find('span', {'class': 'price'}).text)
-                link = "https://www.telemart.pk" + item.find('a')['href']
-                image = item.find('img')['src']
-                products.append({'title': title, 'price': price, 'store': 'Telemart.pk', 'url': link, 'image': image})
-        except Exception as e: print(f"Telemart Error: {e}")
-        return products
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
-    # 4. VMART (Best for Gaming/PC Parts)
-    def scrape_vmart(self, search_term: str) -> List[Dict]:
-        products = []
-        try:
-            url = f"https://www.vmart.pk/search?q={search_term}"
-            response = requests.get(url, headers=self.headers, timeout=10)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'product-inner'})[:10]
-            for item in items:
-                title = item.find('a', {'class': 'product-title'}).text.strip()
-                price = self.clean_price(item.find('span', {'class': 'price'}).text)
-                link = item.find('a')['href']
-                image = item.find('img')['src']
-                products.append({'title': title, 'price': price, 'store': 'Vmart.pk', 'url': link, 'image': image})
-        except Exception as e: print(f"Vmart Error: {e}")
-        return products
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || git pull origin main
 
-    # 5. DARAZ (Marketplace)
-    def scrape_daraz(self, search_term: str) -> List[Dict]:
-        # Daraz is tricky with requests, adding basic support
-        products = []
-        try:
-            url = f"https://www.daraz.pk/catalog/?q={search_term}"
-            response = requests.get(url, headers=self.headers, timeout=10)
-            soup = BeautifulSoup(response.content, 'html.parser')
-            items = soup.find_all('div', {'class': 'gridItem--Yd0sa'})[:10]
-            for item in items:
-                title = item.find('div', {'class': 'title--wFj93'}).text.strip()
-                price = self.clean_price(item.find('span', {'class': 'currency--GVKjl'}).text)
-                link = "https:" + item.find('a')['href']
-                image = item.find('img')['src']
-                products.append({'title': title, 'price': price, 'store': 'Daraz.pk', 'url': link, 'image': image})
-        except Exception as e: print(f"Daraz Error: {e}")
-        return products
+      - name: Run Scraper
+        run: python scraper.py
 
-    def aggregate_products(self, search_term: str) -> List[Dict]:
-        print(f"🔍 Searching for: {search_term}")
-        all_raw_data = []
-        
-        # Calling all scrapers
-        print("Fetching from PriceOye...")
-        all_raw_data.extend(self.scrape_priceoye(search_term))
-        time.sleep(1)
-        
-        print("Fetching from Shophive...")
-        all_raw_data.extend(self.scrape_shophive(search_term))
-        time.sleep(1)
-        
-        print("Fetching from Telemart...")
-        all_raw_data.extend(self.scrape_telemart(search_term))
-        
-        print("Fetching from Vmart...")
-        all_raw_data.extend(self.scrape_vmart(search_term))
-        
-        print("Fetching from Daraz...")
-        all_raw_data.extend(self.scrape_daraz(search_term))
-
-        # Filtering unique and grouping
-        return self.group_similar_products(all_raw_data)
-
-    def group_similar_products(self, products: List[Dict]) -> List[Dict]:
-        from difflib import SequenceMatcher
-        def similarity(a, b): return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-        
-        grouped = []
-        used_indices = set()
-        for i, p1 in enumerate(products):
-            if i in used_indices: continue
+      - name: Commit and Push changes
+        run: |
+          # Check if there are any changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add products.json
+            git commit -m "Auto-update: Latest prices fetched" || exit 0
             
-            cluster = [p1]
-            used_indices.add(i)
-            for j, p2 in enumerate(products):
-                if j in used_indices: continue
-                if similarity(p1['title'], p2['title']) > 0.65: # Smart grouping
-                    cluster.append(p2)
-                    used_indices.add(j)
+            # Fetch and merge latest changes before pushing
+            git fetch origin main
             
-            best = cluster[0]
-            grouped.append({
-                'title': best['title'],
-                'image': best['image'],
-                'prices': [{'store': p['store'], 'price': p['price'], 'url': p['url']} for p in cluster],
-                'min_price': min(p['price'] for p in cluster),
-                'last_updated': datetime.now().strftime("%Y-%m-%d %H:%M")
-            })
-        return sorted(grouped, key=lambda x: x['min_price'])
-
-    def save_to_json(self, data):
-        with open('products.json', 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4)
-        print(f"✅ Data saved to products.json. Total groups: {len(data)}")
-
-# --- RUN ---
-if __name__ == "__main__":
-    scraper = PakistanEcommerceScraper()
-    keywords = ['iphone 15', 'samsung s24', 'gaming laptop']
-    
-    final_data = []
-    for word in keywords:
-        results = scraper.aggregate_products(word)
-        final_data.extend(results)
-    
-    scraper.save_to_json(final_data)
+            # Try rebase first, if it fails use merge
+            if ! git rebase origin/main; then
+              echo "Rebase failed, using merge strategy..."
+              git rebase --abort 2>/dev/null || true
+              git merge origin/main -m "Merge remote changes" || {
+                # If merge fails, reset and re-scrape with latest data
+                echo "Merge conflict detected, resetting and re-scraping..."
+                git merge --abort 2>/dev/null || true
+                git reset --hard origin/main
+                python scraper.py
+                git add products.json
+                git commit -m "Auto-update: Latest prices fetched"
+              }
+            fi
+            
+            # Push the changes
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
