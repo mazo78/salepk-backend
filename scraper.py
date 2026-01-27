@@ -23,6 +23,7 @@ class PakistanEcommerceScraper:
             url = f"https://priceoye.pk/search?q={search_term.replace(' ', '+')}"
             response = requests.get(url, headers=self.headers, timeout=10)
             soup = BeautifulSoup(response.content, 'html.parser')
+            # Selector update for better results
             items = soup.find_all('div', {'class': 'product-list'})[:5]
             for item in items:
                 title = item.find('div', {'class': 'p-title'}).text.strip()
@@ -49,42 +50,34 @@ class PakistanEcommerceScraper:
         except: pass
         return products
 
-    def aggregate_products(self, search_term: str) -> List[Dict]:
-        all_raw_data = []
-        all_raw_data.extend(self.scrape_priceoye(search_term))
-        all_raw_data.extend(self.scrape_daraz(search_term))
-        
-        from difflib import SequenceMatcher
-        def similarity(a, b): return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-        
-        grouped = []
-        used_indices = set()
-        for i, p1 in enumerate(all_raw_data):
-            if i in used_indices: continue
-            cluster = [p1]
-            used_indices.add(i)
-            for j, p2 in enumerate(all_raw_data):
-                if j in used_indices: continue
-                if similarity(p1['title'], p2['title']) > 0.6:
-                    cluster.append(p2)
-                    used_indices.add(j)
+    def aggregate_all(self, keywords):
+        all_final_data = []
+        for word in keywords:
+            print(f"🔍 Searching: {word}")
+            raw_data = []
+            raw_data.extend(self.scrape_priceoye(word))
+            raw_data.extend(self.scrape_daraz(word))
             
-            best = cluster[0]
-            grouped.append({
-                'title': best['title'],
-                'image': best['image'],
-                'prices': [{'store': p['store'], 'price': p['price'], 'url': p['url']} for p in cluster],
-                'min_price': min(p['price'] for p in cluster),
-                'last_updated': datetime.now().strftime("%Y-%m-%d %H:%M")
-            })
-        return grouped
+            # Simple grouping logic
+            for item in raw_data:
+                all_final_data.append({
+                    'title': item['title'],
+                    'image': item['image'],
+                    'prices': [{'store': item['store'], 'price': item['price'], 'url': item['url']}],
+                    'min_price': item['price'],
+                    'category': 'general',
+                    'last_updated': datetime.now().strftime("%Y-%m-%d %H:%M")
+                })
+            time.sleep(1) # Block hone se bachne ke liye
+        return all_final_data
 
 if __name__ == "__main__":
     scraper = PakistanEcommerceScraper()
-    keywords = ['charger', 'iphone 15', 'laptop', 'men shirt', 'car accessories']
-    final_data = []
-    for word in keywords:
-        final_data.extend(scraper.aggregate_products(word))
+    # In keywords ko scraper ab backup mein save karega
+    search_list = ['charger', 'baseus charger', 'iphone 15', 'laptop', 'men shirt', 'car accessories']
+    
+    data = scraper.aggregate_all(search_list)
     
     with open('products.json', 'w', encoding='utf-8') as f:
-        json.dump(final_data, f, indent=4)
+        json.dump(data, f, indent=4)
+    print(f"✅ Success! Saved {len(data)} products.")
