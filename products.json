@@ -1,352 +1,1052 @@
 [
   {
     "id": 1,
-    "title": "Arduino Uno R3",
-    "brand": "Arduino",
+    "title": "ESP32 DevKit WiFi+BT",
+    "brand": "Espressif",
     "category": "microcontrollers",
-    "image": "https://via.placeholder.com/500",
+    "image": "https://via.placeholder.com/500?text=ESP32+DevKit+WiFi+BT",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 4215,
+        "url": "https://digilog.pk/search?q=ESP32+DevKit+WiFi+BT"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 2863,
+        "url": "https://electrobes.com/search?q=ESP32+DevKit+WiFi+BT"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 1485,
+        "url": "https://epro.pk/search?q=ESP32+DevKit+WiFi+BT"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 6261,
+        "url": "https://robostan.pk/search?q=ESP32+DevKit+WiFi+BT"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 1822,
-        "url": "https://priceoye.pk/search?q=Arduino+Uno+R3"
+        "price": 5505,
+        "url": "https://priceoye.pk/search?q=ESP32+DevKit+WiFi+BT"
       },
       {
         "store": "Telemart.pk",
-        "price": 2065,
-        "url": "https://telemart.pk/search?q=Arduino+Uno+R3"
+        "price": 4947,
+        "url": "https://telemart.pk/search?q=ESP32+DevKit+WiFi+BT"
       },
       {
         "store": "iShopping.pk",
-        "price": 2792,
-        "url": "https://ishopping.pk/search?q=Arduino+Uno+R3"
+        "price": 6305,
+        "url": "https://ishopping.pk/search?q=ESP32+DevKit+WiFi+BT"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2806,
-        "url": "https://symbios.pk/search?q=Arduino+Uno+R3"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 1982,
-        "url": "https://homeshopping.pk/search?q=Arduino+Uno+R3"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 1945,
-        "url": "https://clicky.pk/search?q=Arduino+Uno+R3"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 1947,
-        "url": "https://shoprex.com/search?q=Arduino+Uno+R3"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 1909,
-        "url": "https://buyon.pk/search?q=Arduino+Uno+R3"
+        "store": "Daraz.pk",
+        "price": 5225,
+        "url": "https://daraz.pk/search?q=ESP32+DevKit+WiFi+BT"
       }
     ],
-    "last_updated": "2026-01-28T19:40:58.589172"
+    "last_updated": "2026-01-28T20:09:38.377834"
   },
   {
     "id": 2,
-    "title": "STM32 Blue Pill",
+    "title": "STM32 Blue Pill STM32F103",
     "brand": "STM",
     "category": "microcontrollers",
-    "image": "https://via.placeholder.com/500",
+    "image": "https://via.placeholder.com/500?text=STM32+Blue+Pill+STM32F103",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 7023,
+        "url": "https://digilog.pk/search?q=STM32+Blue+Pill+STM32F103"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6150,
+        "url": "https://electrobes.com/search?q=STM32+Blue+Pill+STM32F103"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 5681,
+        "url": "https://epro.pk/search?q=STM32+Blue+Pill+STM32F103"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 8109,
+        "url": "https://robostan.pk/search?q=STM32+Blue+Pill+STM32F103"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2115,
-        "url": "https://priceoye.pk/search?q=STM32+Blue+Pill"
+        "price": 8071,
+        "url": "https://priceoye.pk/search?q=STM32+Blue+Pill+STM32F103"
       },
       {
         "store": "Telemart.pk",
-        "price": 1429,
-        "url": "https://telemart.pk/search?q=STM32+Blue+Pill"
+        "price": 8375,
+        "url": "https://telemart.pk/search?q=STM32+Blue+Pill+STM32F103"
       },
       {
         "store": "iShopping.pk",
-        "price": 1149,
-        "url": "https://ishopping.pk/search?q=STM32+Blue+Pill"
+        "price": 6556,
+        "url": "https://ishopping.pk/search?q=STM32+Blue+Pill+STM32F103"
       },
       {
-        "store": "Symbios.pk",
-        "price": 1941,
-        "url": "https://symbios.pk/search?q=STM32+Blue+Pill"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2006,
-        "url": "https://homeshopping.pk/search?q=STM32+Blue+Pill"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 1552,
-        "url": "https://clicky.pk/search?q=STM32+Blue+Pill"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 1594,
-        "url": "https://shoprex.com/search?q=STM32+Blue+Pill"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 2118,
-        "url": "https://buyon.pk/search?q=STM32+Blue+Pill"
+        "store": "Daraz.pk",
+        "price": 8818,
+        "url": "https://daraz.pk/search?q=STM32+Blue+Pill+STM32F103"
       }
     ],
-    "last_updated": "2026-01-28T19:41:00.090269"
+    "last_updated": "2026-01-28T20:09:38.578192"
   },
   {
     "id": 3,
-    "title": "Dawlance Refrigerator",
-    "brand": "Dawlance",
-    "category": "appliances",
-    "image": "https://via.placeholder.com/500",
+    "title": "Arduino Uno R3 Kit",
+    "brand": "Arduino",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500?text=Arduino+Uno+R3+Kit",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 8842,
+        "url": "https://digilog.pk/search?q=Arduino+Uno+R3+Kit"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9268,
+        "url": "https://electrobes.com/search?q=Arduino+Uno+R3+Kit"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6992,
+        "url": "https://epro.pk/search?q=Arduino+Uno+R3+Kit"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 5992,
+        "url": "https://robostan.pk/search?q=Arduino+Uno+R3+Kit"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2815,
-        "url": "https://priceoye.pk/search?q=Dawlance+Refrigerator"
+        "price": 9850,
+        "url": "https://priceoye.pk/search?q=Arduino+Uno+R3+Kit"
       },
       {
         "store": "Telemart.pk",
-        "price": 2311,
-        "url": "https://telemart.pk/search?q=Dawlance+Refrigerator"
+        "price": 9667,
+        "url": "https://telemart.pk/search?q=Arduino+Uno+R3+Kit"
       },
       {
         "store": "iShopping.pk",
-        "price": 1840,
-        "url": "https://ishopping.pk/search?q=Dawlance+Refrigerator"
+        "price": 8033,
+        "url": "https://ishopping.pk/search?q=Arduino+Uno+R3+Kit"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2838,
-        "url": "https://symbios.pk/search?q=Dawlance+Refrigerator"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2386,
-        "url": "https://homeshopping.pk/search?q=Dawlance+Refrigerator"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 2743,
-        "url": "https://clicky.pk/search?q=Dawlance+Refrigerator"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 2009,
-        "url": "https://shoprex.com/search?q=Dawlance+Refrigerator"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 2376,
-        "url": "https://buyon.pk/search?q=Dawlance+Refrigerator"
+        "store": "Daraz.pk",
+        "price": 6495,
+        "url": "https://daraz.pk/search?q=Arduino+Uno+R3+Kit"
       }
     ],
-    "last_updated": "2026-01-28T19:41:01.591353"
+    "last_updated": "2026-01-28T20:09:38.779136"
   },
   {
     "id": 4,
-    "title": "Westpoint Dry Iron",
-    "brand": "Westpoint",
-    "category": "appliances",
-    "image": "https://via.placeholder.com/500",
+    "title": "Raspberry Pi 4 4GB",
+    "brand": "Raspberry",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500?text=Raspberry+Pi+4+4GB",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 5758,
+        "url": "https://digilog.pk/search?q=Raspberry+Pi+4+4GB"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 8158,
+        "url": "https://electrobes.com/search?q=Raspberry+Pi+4+4GB"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 5007,
+        "url": "https://epro.pk/search?q=Raspberry+Pi+4+4GB"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 8829,
+        "url": "https://robostan.pk/search?q=Raspberry+Pi+4+4GB"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2661,
-        "url": "https://priceoye.pk/search?q=Westpoint+Dry+Iron"
+        "price": 9419,
+        "url": "https://priceoye.pk/search?q=Raspberry+Pi+4+4GB"
       },
       {
         "store": "Telemart.pk",
-        "price": 1903,
-        "url": "https://telemart.pk/search?q=Westpoint+Dry+Iron"
+        "price": 7432,
+        "url": "https://telemart.pk/search?q=Raspberry+Pi+4+4GB"
       },
       {
         "store": "iShopping.pk",
-        "price": 2046,
-        "url": "https://ishopping.pk/search?q=Westpoint+Dry+Iron"
+        "price": 9838,
+        "url": "https://ishopping.pk/search?q=Raspberry+Pi+4+4GB"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2316,
-        "url": "https://symbios.pk/search?q=Westpoint+Dry+Iron"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2951,
-        "url": "https://homeshopping.pk/search?q=Westpoint+Dry+Iron"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 2822,
-        "url": "https://clicky.pk/search?q=Westpoint+Dry+Iron"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 2091,
-        "url": "https://shoprex.com/search?q=Westpoint+Dry+Iron"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 2001,
-        "url": "https://buyon.pk/search?q=Westpoint+Dry+Iron"
+        "store": "Daraz.pk",
+        "price": 9035,
+        "url": "https://daraz.pk/search?q=Raspberry+Pi+4+4GB"
       }
     ],
-    "last_updated": "2026-01-28T19:41:03.092829"
+    "last_updated": "2026-01-28T20:09:38.979508"
   },
   {
     "id": 5,
-    "title": "Royal Ceiling Fan",
-    "brand": "Royal",
-    "category": "fans",
-    "image": "https://via.placeholder.com/500",
+    "title": "L298N Motor Driver",
+    "brand": "Generic",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500?text=L298N+Motor+Driver",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 7125,
+        "url": "https://digilog.pk/search?q=L298N+Motor+Driver"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 5580,
+        "url": "https://electrobes.com/search?q=L298N+Motor+Driver"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6709,
+        "url": "https://epro.pk/search?q=L298N+Motor+Driver"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 7122,
+        "url": "https://robostan.pk/search?q=L298N+Motor+Driver"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2498,
-        "url": "https://priceoye.pk/search?q=Royal+Ceiling+Fan"
+        "price": 5070,
+        "url": "https://priceoye.pk/search?q=L298N+Motor+Driver"
       },
       {
         "store": "Telemart.pk",
-        "price": 2717,
-        "url": "https://telemart.pk/search?q=Royal+Ceiling+Fan"
+        "price": 7532,
+        "url": "https://telemart.pk/search?q=L298N+Motor+Driver"
       },
       {
         "store": "iShopping.pk",
-        "price": 2992,
-        "url": "https://ishopping.pk/search?q=Royal+Ceiling+Fan"
+        "price": 6785,
+        "url": "https://ishopping.pk/search?q=L298N+Motor+Driver"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2002,
-        "url": "https://symbios.pk/search?q=Royal+Ceiling+Fan"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2357,
-        "url": "https://homeshopping.pk/search?q=Royal+Ceiling+Fan"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 2356,
-        "url": "https://clicky.pk/search?q=Royal+Ceiling+Fan"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 2907,
-        "url": "https://shoprex.com/search?q=Royal+Ceiling+Fan"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 1818,
-        "url": "https://buyon.pk/search?q=Royal+Ceiling+Fan"
+        "store": "Daraz.pk",
+        "price": 7373,
+        "url": "https://daraz.pk/search?q=L298N+Motor+Driver"
       }
     ],
-    "last_updated": "2026-01-28T19:41:04.594412"
+    "last_updated": "2026-01-28T20:09:39.180374"
   },
   {
     "id": 6,
-    "title": "LED Bulb 12W",
-    "brand": "Philips",
-    "category": "lighting",
-    "image": "https://via.placeholder.com/500",
+    "title": "TowerPro SG90 Servo",
+    "brand": "TowerPro",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500?text=TowerPro+SG90+Servo",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 6059,
+        "url": "https://digilog.pk/search?q=TowerPro+SG90+Servo"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 8323,
+        "url": "https://electrobes.com/search?q=TowerPro+SG90+Servo"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 7590,
+        "url": "https://epro.pk/search?q=TowerPro+SG90+Servo"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 5674,
+        "url": "https://robostan.pk/search?q=TowerPro+SG90+Servo"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2311,
-        "url": "https://priceoye.pk/search?q=LED+Bulb+12W"
+        "price": 5171,
+        "url": "https://priceoye.pk/search?q=TowerPro+SG90+Servo"
       },
       {
         "store": "Telemart.pk",
-        "price": 2214,
-        "url": "https://telemart.pk/search?q=LED+Bulb+12W"
+        "price": 9151,
+        "url": "https://telemart.pk/search?q=TowerPro+SG90+Servo"
       },
       {
         "store": "iShopping.pk",
-        "price": 2022,
-        "url": "https://ishopping.pk/search?q=LED+Bulb+12W"
+        "price": 6877,
+        "url": "https://ishopping.pk/search?q=TowerPro+SG90+Servo"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2472,
-        "url": "https://symbios.pk/search?q=LED+Bulb+12W"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2509,
-        "url": "https://homeshopping.pk/search?q=LED+Bulb+12W"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 2835,
-        "url": "https://clicky.pk/search?q=LED+Bulb+12W"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 2511,
-        "url": "https://shoprex.com/search?q=LED+Bulb+12W"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 2019,
-        "url": "https://buyon.pk/search?q=LED+Bulb+12W"
+        "store": "Daraz.pk",
+        "price": 6716,
+        "url": "https://daraz.pk/search?q=TowerPro+SG90+Servo"
       }
     ],
-    "last_updated": "2026-01-28T19:41:06.097902"
+    "last_updated": "2026-01-28T20:09:39.381179"
   },
   {
     "id": 7,
-    "title": "Room Heater",
-    "brand": "Local",
-    "category": "appliances",
-    "image": "https://via.placeholder.com/500",
+    "title": "NVIDIA RTX 4060 GPU",
+    "brand": "MSI",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=NVIDIA+RTX+4060+GPU",
     "prices": [
       {
+        "store": "Digilog.pk",
+        "price": 4610,
+        "url": "https://digilog.pk/search?q=NVIDIA+RTX+4060+GPU"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9452,
+        "url": "https://electrobes.com/search?q=NVIDIA+RTX+4060+GPU"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 7217,
+        "url": "https://epro.pk/search?q=NVIDIA+RTX+4060+GPU"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 5854,
+        "url": "https://robostan.pk/search?q=NVIDIA+RTX+4060+GPU"
+      },
+      {
         "store": "PriceOye.pk",
-        "price": 2554,
-        "url": "https://priceoye.pk/search?q=Room+Heater"
+        "price": 9422,
+        "url": "https://priceoye.pk/search?q=NVIDIA+RTX+4060+GPU"
       },
       {
         "store": "Telemart.pk",
-        "price": 2535,
-        "url": "https://telemart.pk/search?q=Room+Heater"
+        "price": 6902,
+        "url": "https://telemart.pk/search?q=NVIDIA+RTX+4060+GPU"
       },
       {
         "store": "iShopping.pk",
-        "price": 2278,
-        "url": "https://ishopping.pk/search?q=Room+Heater"
+        "price": 9304,
+        "url": "https://ishopping.pk/search?q=NVIDIA+RTX+4060+GPU"
       },
       {
-        "store": "Symbios.pk",
-        "price": 2274,
-        "url": "https://symbios.pk/search?q=Room+Heater"
-      },
-      {
-        "store": "HomeShopping.pk",
-        "price": 2199,
-        "url": "https://homeshopping.pk/search?q=Room+Heater"
-      },
-      {
-        "store": "Clicky.pk",
-        "price": 2009,
-        "url": "https://clicky.pk/search?q=Room+Heater"
-      },
-      {
-        "store": "ShopRex.com",
-        "price": 2735,
-        "url": "https://shoprex.com/search?q=Room+Heater"
-      },
-      {
-        "store": "Buyon.pk",
-        "price": 2067,
-        "url": "https://buyon.pk/search?q=Room+Heater"
+        "store": "Daraz.pk",
+        "price": 9999,
+        "url": "https://daraz.pk/search?q=NVIDIA+RTX+4060+GPU"
       }
     ],
-    "last_updated": "2026-01-28T19:41:07.601294"
+    "last_updated": "2026-01-28T20:09:39.582119"
+  },
+  {
+    "id": 8,
+    "title": "Samsung 980 NVMe SSD 500GB",
+    "brand": "Samsung",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Samsung+980+NVMe+SSD+500GB",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 18095,
+        "url": "https://digilog.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 19937,
+        "url": "https://electrobes.com/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 18919,
+        "url": "https://epro.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 20365,
+        "url": "https://robostan.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 18356,
+        "url": "https://priceoye.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 22081,
+        "url": "https://telemart.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 20453,
+        "url": "https://ishopping.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 17502,
+        "url": "https://daraz.pk/search?q=Samsung+980+NVMe+SSD+500GB"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:39.782784"
+  },
+  {
+    "id": 9,
+    "title": "Logitech G102 Lightsync",
+    "brand": "Logitech",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Logitech+G102+Lightsync",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 8285,
+        "url": "https://digilog.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9280,
+        "url": "https://electrobes.com/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 9241,
+        "url": "https://epro.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 5327,
+        "url": "https://robostan.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 6747,
+        "url": "https://priceoye.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 4573,
+        "url": "https://telemart.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 8382,
+        "url": "https://ishopping.pk/search?q=Logitech+G102+Lightsync"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 5032,
+        "url": "https://daraz.pk/search?q=Logitech+G102+Lightsync"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:39.983440"
+  },
+  {
+    "id": 10,
+    "title": "Redragon K552 RGB Keyboard",
+    "brand": "Redragon",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Redragon+K552+RGB+Keyboard",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 9294,
+        "url": "https://digilog.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6725,
+        "url": "https://electrobes.com/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 5736,
+        "url": "https://epro.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 9825,
+        "url": "https://robostan.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 9727,
+        "url": "https://priceoye.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 6284,
+        "url": "https://telemart.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 6214,
+        "url": "https://ishopping.pk/search?q=Redragon+K552+RGB+Keyboard"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 5324,
+        "url": "https://daraz.pk/search?q=Redragon+K552+RGB+Keyboard"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:40.184320"
+  },
+  {
+    "id": 11,
+    "title": "Asus 27 Inch Gaming Monitor",
+    "brand": "Asus",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Asus+27+Inch+Gaming+Monitor",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 9544,
+        "url": "https://digilog.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6884,
+        "url": "https://electrobes.com/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 8666,
+        "url": "https://epro.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 4938,
+        "url": "https://robostan.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 9286,
+        "url": "https://priceoye.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 5834,
+        "url": "https://telemart.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 9591,
+        "url": "https://ishopping.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 6033,
+        "url": "https://daraz.pk/search?q=Asus+27+Inch+Gaming+Monitor"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:40.385146"
+  },
+  {
+    "id": 12,
+    "title": "Haier 1.5 Ton Inverter AC",
+    "brand": "Haier",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Haier+1.5+Ton+Inverter+AC",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 146114,
+        "url": "https://digilog.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 141506,
+        "url": "https://electrobes.com/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 144289,
+        "url": "https://epro.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 145694,
+        "url": "https://robostan.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 145305,
+        "url": "https://priceoye.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 141824,
+        "url": "https://telemart.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 144939,
+        "url": "https://ishopping.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 145437,
+        "url": "https://daraz.pk/search?q=Haier+1.5+Ton+Inverter+AC"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:40.585953"
+  },
+  {
+    "id": 13,
+    "title": "Dawlance Fridge 9191 WB",
+    "brand": "Dawlance",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Dawlance+Fridge+9191+WB",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 7020,
+        "url": "https://digilog.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9152,
+        "url": "https://electrobes.com/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6399,
+        "url": "https://epro.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 8978,
+        "url": "https://robostan.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 9594,
+        "url": "https://priceoye.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 8233,
+        "url": "https://telemart.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 9650,
+        "url": "https://ishopping.pk/search?q=Dawlance+Fridge+9191+WB"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 7900,
+        "url": "https://daraz.pk/search?q=Dawlance+Fridge+9191+WB"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:40.786431"
+  },
+  {
+    "id": 14,
+    "title": "Super Asia Room Cooler",
+    "brand": "Super Asia",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Super+Asia+Room+Cooler",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 4912,
+        "url": "https://digilog.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6241,
+        "url": "https://electrobes.com/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 4908,
+        "url": "https://epro.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 9939,
+        "url": "https://robostan.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 9723,
+        "url": "https://priceoye.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 4979,
+        "url": "https://telemart.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 9522,
+        "url": "https://ishopping.pk/search?q=Super+Asia+Room+Cooler"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 9782,
+        "url": "https://daraz.pk/search?q=Super+Asia+Room+Cooler"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:40.986983"
+  },
+  {
+    "id": 15,
+    "title": "Nasgas Gas Heater",
+    "brand": "Nasgas",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Nasgas+Gas+Heater",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 9325,
+        "url": "https://digilog.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6452,
+        "url": "https://electrobes.com/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6435,
+        "url": "https://epro.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 8666,
+        "url": "https://robostan.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 7014,
+        "url": "https://priceoye.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 4805,
+        "url": "https://telemart.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 4897,
+        "url": "https://ishopping.pk/search?q=Nasgas+Gas+Heater"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 9376,
+        "url": "https://daraz.pk/search?q=Nasgas+Gas+Heater"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:41.187865"
+  },
+  {
+    "id": 16,
+    "title": "Orient 40 Inch LED TV",
+    "brand": "Orient",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Orient+40+Inch+LED+TV",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 7583,
+        "url": "https://digilog.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9183,
+        "url": "https://electrobes.com/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 7084,
+        "url": "https://epro.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 7911,
+        "url": "https://robostan.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 8958,
+        "url": "https://priceoye.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 8797,
+        "url": "https://telemart.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 9449,
+        "url": "https://ishopping.pk/search?q=Orient+40+Inch+LED+TV"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 9566,
+        "url": "https://daraz.pk/search?q=Orient+40+Inch+LED+TV"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:41.388489"
+  },
+  {
+    "id": 17,
+    "title": "TP-Link WR840N Router",
+    "brand": "TP-Link",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=TP-Link+WR840N+Router",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 6769,
+        "url": "https://digilog.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9057,
+        "url": "https://electrobes.com/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 5157,
+        "url": "https://epro.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 6401,
+        "url": "https://robostan.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 8774,
+        "url": "https://priceoye.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 7147,
+        "url": "https://telemart.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 5157,
+        "url": "https://ishopping.pk/search?q=TP-Link+WR840N+Router"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 8608,
+        "url": "https://daraz.pk/search?q=TP-Link+WR840N+Router"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:41.588931"
+  },
+  {
+    "id": 18,
+    "title": "Tenda AC1200 Smart Router",
+    "brand": "Tenda",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/500?text=Tenda+AC1200+Smart+Router",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 4970,
+        "url": "https://digilog.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 4513,
+        "url": "https://electrobes.com/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6716,
+        "url": "https://epro.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 6983,
+        "url": "https://robostan.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 8518,
+        "url": "https://priceoye.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 7529,
+        "url": "https://telemart.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 8973,
+        "url": "https://ishopping.pk/search?q=Tenda+AC1200+Smart+Router"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 6166,
+        "url": "https://daraz.pk/search?q=Tenda+AC1200+Smart+Router"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:41.789377"
+  },
+  {
+    "id": 19,
+    "title": "Inverex Veyron 1.2KW UPS",
+    "brand": "Inverex",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Inverex+Veyron+1.2KW+UPS",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 5635,
+        "url": "https://digilog.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 9849,
+        "url": "https://electrobes.com/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 6757,
+        "url": "https://epro.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 6368,
+        "url": "https://robostan.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 9281,
+        "url": "https://priceoye.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 9127,
+        "url": "https://telemart.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 9584,
+        "url": "https://ishopping.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 6236,
+        "url": "https://daraz.pk/search?q=Inverex+Veyron+1.2KW+UPS"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:41.990037"
+  },
+  {
+    "id": 20,
+    "title": "Solar Panel 550W Mono",
+    "brand": "Longi",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Solar+Panel+550W+Mono",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 45331,
+        "url": "https://digilog.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 46328,
+        "url": "https://electrobes.com/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 46376,
+        "url": "https://epro.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 48304,
+        "url": "https://robostan.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 48499,
+        "url": "https://priceoye.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 47080,
+        "url": "https://telemart.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 49653,
+        "url": "https://ishopping.pk/search?q=Solar+Panel+550W+Mono"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 49122,
+        "url": "https://daraz.pk/search?q=Solar+Panel+550W+Mono"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:42.191048"
+  },
+  {
+    "id": 21,
+    "title": "Phoenix Deep Cycle Battery",
+    "brand": "Phoenix",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500?text=Phoenix+Deep+Cycle+Battery",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 7388,
+        "url": "https://digilog.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 6091,
+        "url": "https://electrobes.com/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 7638,
+        "url": "https://epro.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 6337,
+        "url": "https://robostan.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 6943,
+        "url": "https://priceoye.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 9605,
+        "url": "https://telemart.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 8806,
+        "url": "https://ishopping.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 5712,
+        "url": "https://daraz.pk/search?q=Phoenix+Deep+Cycle+Battery"
+      }
+    ],
+    "last_updated": "2026-01-28T20:09:42.391711"
   }
 ]
