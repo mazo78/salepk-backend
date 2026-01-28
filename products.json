@@ -1,252 +1,352 @@
 [
   {
     "id": 1,
-    "title": "Samsung Galaxy S23 Ultra 256GB",
-    "brand": "Samsung",
-    "category": "mobiles",
-    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500&h=500&fit=crop",
+    "title": "Arduino Uno R3",
+    "brand": "Arduino",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
-        "store": "Symbios.pk",
-        "price": 285999,
-        "url": "https://symbios.pk"
+        "store": "PriceOye.pk",
+        "price": 1822,
+        "url": "https://priceoye.pk/search?q=Arduino+Uno+R3"
       },
       {
-        "store": "Daraz.pk",
-        "price": 289999,
-        "url": "https://daraz.pk"
-      },
-      {
-        "store": "PriceOaks.com",
-        "price": 294999,
-        "url": "https://priceoaks.com"
+        "store": "Telemart.pk",
+        "price": 2065,
+        "url": "https://telemart.pk/search?q=Arduino+Uno+R3"
       },
       {
         "store": "iShopping.pk",
-        "price": 299999,
-        "url": "https://ishopping.pk"
+        "price": 2792,
+        "url": "https://ishopping.pk/search?q=Arduino+Uno+R3"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 2806,
+        "url": "https://symbios.pk/search?q=Arduino+Uno+R3"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 1982,
+        "url": "https://homeshopping.pk/search?q=Arduino+Uno+R3"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 1945,
+        "url": "https://clicky.pk/search?q=Arduino+Uno+R3"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 1947,
+        "url": "https://shoprex.com/search?q=Arduino+Uno+R3"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 1909,
+        "url": "https://buyon.pk/search?q=Arduino+Uno+R3"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910429"
+    "last_updated": "2026-01-28T19:40:58.589172"
   },
   {
     "id": 2,
-    "title": "iPhone 15 Pro Max 512GB",
-    "brand": "Apple",
-    "category": "mobiles",
-    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&h=500&fit=crop",
+    "title": "STM32 Blue Pill",
+    "brand": "STM",
+    "category": "microcontrollers",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
+        "store": "PriceOye.pk",
+        "price": 2115,
+        "url": "https://priceoye.pk/search?q=STM32+Blue+Pill"
+      },
+      {
         "store": "Telemart.pk",
-        "price": 529999,
-        "url": "https://telemart.pk"
-      },
-      {
-        "store": "PriceOaks.com",
-        "price": 534999,
-        "url": "https://priceoaks.com"
-      },
-      {
-        "store": "Daraz.pk",
-        "price": 539999,
-        "url": "https://daraz.pk"
+        "price": 1429,
+        "url": "https://telemart.pk/search?q=STM32+Blue+Pill"
       },
       {
         "store": "iShopping.pk",
-        "price": 544999,
-        "url": "https://ishopping.pk"
+        "price": 1149,
+        "url": "https://ishopping.pk/search?q=STM32+Blue+Pill"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 1941,
+        "url": "https://symbios.pk/search?q=STM32+Blue+Pill"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 2006,
+        "url": "https://homeshopping.pk/search?q=STM32+Blue+Pill"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 1552,
+        "url": "https://clicky.pk/search?q=STM32+Blue+Pill"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 1594,
+        "url": "https://shoprex.com/search?q=STM32+Blue+Pill"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 2118,
+        "url": "https://buyon.pk/search?q=STM32+Blue+Pill"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910435"
+    "last_updated": "2026-01-28T19:41:00.090269"
   },
   {
     "id": 3,
-    "title": "Dell XPS 15 - Intel Core i7, 16GB RAM",
-    "brand": "Dell",
-    "category": "laptops",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500&h=500&fit=crop",
+    "title": "Dawlance Refrigerator",
+    "brand": "Dawlance",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
-        "store": "Symbios.pk",
-        "price": 319999,
-        "url": "https://symbios.pk"
+        "store": "PriceOye.pk",
+        "price": 2815,
+        "url": "https://priceoye.pk/search?q=Dawlance+Refrigerator"
       },
       {
-        "store": "Daraz.pk",
-        "price": 324999,
-        "url": "https://daraz.pk"
+        "store": "Telemart.pk",
+        "price": 2311,
+        "url": "https://telemart.pk/search?q=Dawlance+Refrigerator"
       },
       {
         "store": "iShopping.pk",
-        "price": 329999,
-        "url": "https://ishopping.pk"
+        "price": 1840,
+        "url": "https://ishopping.pk/search?q=Dawlance+Refrigerator"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 2838,
+        "url": "https://symbios.pk/search?q=Dawlance+Refrigerator"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 2386,
+        "url": "https://homeshopping.pk/search?q=Dawlance+Refrigerator"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 2743,
+        "url": "https://clicky.pk/search?q=Dawlance+Refrigerator"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 2009,
+        "url": "https://shoprex.com/search?q=Dawlance+Refrigerator"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 2376,
+        "url": "https://buyon.pk/search?q=Dawlance+Refrigerator"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910437"
+    "last_updated": "2026-01-28T19:41:01.591353"
   },
   {
     "id": 4,
-    "title": "Sony WH-1000XM5 Wireless Headphones",
-    "brand": "Sony",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&h=500&fit=crop",
+    "title": "Westpoint Dry Iron",
+    "brand": "Westpoint",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
-        "store": "PriceOaks.com",
-        "price": 67999,
-        "url": "https://priceoaks.com"
-      },
-      {
-        "store": "Daraz.pk",
-        "price": 69999,
-        "url": "https://daraz.pk"
+        "store": "PriceOye.pk",
+        "price": 2661,
+        "url": "https://priceoye.pk/search?q=Westpoint+Dry+Iron"
       },
       {
         "store": "Telemart.pk",
-        "price": 71999,
-        "url": "https://telemart.pk"
-      }
-    ],
-    "last_updated": "2026-01-28T12:04:41.910438"
-  },
-  {
-    "id": 5,
-    "title": "Samsung 55\" 4K Smart TV",
-    "brand": "Samsung",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
-    "prices": [
-      {
-        "store": "Symbios.pk",
-        "price": 129999,
-        "url": "https://symbios.pk"
-      },
-      {
-        "store": "Daraz.pk",
-        "price": 134999,
-        "url": "https://daraz.pk"
+        "price": 1903,
+        "url": "https://telemart.pk/search?q=Westpoint+Dry+Iron"
       },
       {
         "store": "iShopping.pk",
-        "price": 139999,
-        "url": "https://ishopping.pk"
+        "price": 2046,
+        "url": "https://ishopping.pk/search?q=Westpoint+Dry+Iron"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 2316,
+        "url": "https://symbios.pk/search?q=Westpoint+Dry+Iron"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 2951,
+        "url": "https://homeshopping.pk/search?q=Westpoint+Dry+Iron"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 2822,
+        "url": "https://clicky.pk/search?q=Westpoint+Dry+Iron"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 2091,
+        "url": "https://shoprex.com/search?q=Westpoint+Dry+Iron"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 2001,
+        "url": "https://buyon.pk/search?q=Westpoint+Dry+Iron"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910439"
+    "last_updated": "2026-01-28T19:41:03.092829"
+  },
+  {
+    "id": 5,
+    "title": "Royal Ceiling Fan",
+    "brand": "Royal",
+    "category": "fans",
+    "image": "https://via.placeholder.com/500",
+    "prices": [
+      {
+        "store": "PriceOye.pk",
+        "price": 2498,
+        "url": "https://priceoye.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 2717,
+        "url": "https://telemart.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 2992,
+        "url": "https://ishopping.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 2002,
+        "url": "https://symbios.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 2357,
+        "url": "https://homeshopping.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 2356,
+        "url": "https://clicky.pk/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 2907,
+        "url": "https://shoprex.com/search?q=Royal+Ceiling+Fan"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 1818,
+        "url": "https://buyon.pk/search?q=Royal+Ceiling+Fan"
+      }
+    ],
+    "last_updated": "2026-01-28T19:41:04.594412"
   },
   {
     "id": 6,
-    "title": "MacBook Air M2 - 8GB RAM, 256GB SSD",
-    "brand": "Apple",
-    "category": "laptops",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
+    "title": "LED Bulb 12W",
+    "brand": "Philips",
+    "category": "lighting",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
-        "store": "PriceOaks.com",
-        "price": 269999,
-        "url": "https://priceoaks.com"
+        "store": "PriceOye.pk",
+        "price": 2311,
+        "url": "https://priceoye.pk/search?q=LED+Bulb+12W"
       },
       {
-        "store": "Daraz.pk",
-        "price": 274999,
-        "url": "https://daraz.pk"
+        "store": "Telemart.pk",
+        "price": 2214,
+        "url": "https://telemart.pk/search?q=LED+Bulb+12W"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 2022,
+        "url": "https://ishopping.pk/search?q=LED+Bulb+12W"
       },
       {
         "store": "Symbios.pk",
-        "price": 279999,
-        "url": "https://symbios.pk"
+        "price": 2472,
+        "url": "https://symbios.pk/search?q=LED+Bulb+12W"
+      },
+      {
+        "store": "HomeShopping.pk",
+        "price": 2509,
+        "url": "https://homeshopping.pk/search?q=LED+Bulb+12W"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 2835,
+        "url": "https://clicky.pk/search?q=LED+Bulb+12W"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 2511,
+        "url": "https://shoprex.com/search?q=LED+Bulb+12W"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 2019,
+        "url": "https://buyon.pk/search?q=LED+Bulb+12W"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910441"
+    "last_updated": "2026-01-28T19:41:06.097902"
   },
   {
     "id": 7,
-    "title": "HP Pavilion Gaming Laptop - Ryzen 5",
-    "brand": "HP",
-    "category": "laptops",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&h=500&fit=crop",
+    "title": "Room Heater",
+    "brand": "Local",
+    "category": "appliances",
+    "image": "https://via.placeholder.com/500",
     "prices": [
       {
-        "store": "Daraz.pk",
-        "price": 159999,
-        "url": "https://daraz.pk"
+        "store": "PriceOye.pk",
+        "price": 2554,
+        "url": "https://priceoye.pk/search?q=Room+Heater"
       },
       {
         "store": "Telemart.pk",
-        "price": 164999,
-        "url": "https://telemart.pk"
-      }
-    ],
-    "last_updated": "2026-01-28T12:04:41.910442"
-  },
-  {
-    "id": 8,
-    "title": "Xiaomi Redmi Note 13 Pro 256GB",
-    "brand": "Xiaomi",
-    "category": "mobiles",
-    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&h=500&fit=crop",
-    "prices": [
+        "price": 2535,
+        "url": "https://telemart.pk/search?q=Room+Heater"
+      },
       {
-        "store": "Daraz.pk",
-        "price": 89999,
-        "url": "https://daraz.pk"
+        "store": "iShopping.pk",
+        "price": 2278,
+        "url": "https://ishopping.pk/search?q=Room+Heater"
       },
       {
         "store": "Symbios.pk",
-        "price": 87999,
-        "url": "https://symbios.pk"
+        "price": 2274,
+        "url": "https://symbios.pk/search?q=Room+Heater"
       },
       {
-        "store": "PriceOaks.com",
-        "price": 92999,
-        "url": "https://priceoaks.com"
+        "store": "HomeShopping.pk",
+        "price": 2199,
+        "url": "https://homeshopping.pk/search?q=Room+Heater"
+      },
+      {
+        "store": "Clicky.pk",
+        "price": 2009,
+        "url": "https://clicky.pk/search?q=Room+Heater"
+      },
+      {
+        "store": "ShopRex.com",
+        "price": 2735,
+        "url": "https://shoprex.com/search?q=Room+Heater"
+      },
+      {
+        "store": "Buyon.pk",
+        "price": 2067,
+        "url": "https://buyon.pk/search?q=Room+Heater"
       }
     ],
-    "last_updated": "2026-01-28T12:04:41.910443"
-  },
-  {
-    "id": 9,
-    "title": "Apple AirPods Pro 2nd Generation",
-    "brand": "Apple",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=500&h=500&fit=crop",
-    "prices": [
-      {
-        "store": "PriceOaks.com",
-        "price": 84999,
-        "url": "https://priceoaks.com"
-      },
-      {
-        "store": "Daraz.pk",
-        "price": 89999,
-        "url": "https://daraz.pk"
-      },
-      {
-        "store": "Telemart.pk",
-        "price": 87999,
-        "url": "https://telemart.pk"
-      }
-    ],
-    "last_updated": "2026-01-28T12:04:41.910445"
-  },
-  {
-    "id": 10,
-    "title": "LG 43\" Full HD Smart TV",
-    "brand": "LG",
-    "category": "electronics",
-    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=500&h=500&fit=crop",
-    "prices": [
-      {
-        "store": "Daraz.pk",
-        "price": 79999,
-        "url": "https://daraz.pk"
-      },
-      {
-        "store": "Symbios.pk",
-        "price": 77999,
-        "url": "https://symbios.pk"
-      }
-    ],
-    "last_updated": "2026-01-28T12:04:41.910446"
+    "last_updated": "2026-01-28T19:41:07.601294"
   }
 ]
