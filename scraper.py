@@ -5,12 +5,12 @@ import random
 
 def main():
     print("=" * 80)
-    print("🚀 SalePK ULTIMATE MEGA SCRAPER - 110+ Products Strategy")
+    print("🚀 SalePK ULTIMATE MEGA SCRAPER - Running 110+ Products")
     print("=" * 80)
 
-    # 110+ Products List covering all your categories
+    # Corrected Items List
     items = [
-        # --- 1. DIY Electronics & Microcontrollers (Your Core Interest) ---
+        # --- 1. DIY Electronics & Microcontrollers ---
         {"title": "ESP32 WiFi Bluetooth DevKit V1", "brand": "Espressif", "cat": "microcontrollers"},
         {"title": "STM32 Blue Pill STM32F103C8T6", "brand": "STM", "cat": "microcontrollers"},
         {"title": "Arduino Uno R3 Compatible", "brand": "Arduino", "cat": "microcontrollers"},
@@ -86,15 +86,39 @@ def main():
         {"title": "Infinix Note 40 Pro", "brand": "Infinix", "cat": "mobiles"},
         {"title": "Apple Airpods Pro 2nd Gen", "brand": "Apple", "cat": "electronics"},
         {"title": "Haylou Solar LS05 Smart Watch", "brand": "Haylou", "cat": "electronics"},
-        {"title": "Mi Power Bank 20000mAh", "brand": "Xiaomi", "cat": "electronics"}
+        {"title": "Mi Power Bank 20000mAh", "brand": "Xiaomi", "cat": "electronics"},
+
+        # --- 9. Gaming Consoles & Racing Gear ---
+        {"title": "Sony PlayStation 5 Slim", "brand": "Sony", "cat": "electronics"},
+        {"title": "Xbox Series X 1TB", "brand": "Microsoft", "cat": "electronics"},
+        {"title": "Logitech G29 Driving Force Racing Wheel", "brand": "Logitech", "cat": "electronics"},
+        {"title": "Nintendo Switch OLED Model", "brand": "Nintendo", "cat": "electronics"},
+
+        # --- 10. Kitchen & Small Appliances ---
+        {"title": "Microwave Oven 20L Solo", "brand": "Dawlance", "cat": "appliances"},
+        {"title": "Air Fryer 4.5L Digital", "brand": "Black & Decker", "cat": "appliances"},
+        {"title": "Electric Water Kettle 1.7L", "brand": "Westpoint", "cat": "appliances"},
+        {"title": "Water Dispenser 3 Tap", "brand": "Homage", "cat": "appliances"},
+        {"title": "Food Processor 10 in 1", "brand": "Moulinex", "cat": "appliances"},
+
+        # --- 11. Security & Smart Home ---
+        {"title": "Hikvision 2MP IP Camera", "brand": "Hikvision", "cat": "electronics"},
+        {"title": "Smart WiFi Door Lock", "brand": "Generic", "cat": "electronics"},
+        {"title": "Dahua 4 Channel DVR Kit", "brand": "Dahua", "cat": "electronics"},
+
+        # --- 12. More PC Components ---
+        {"title": "Intel Core i5-13400F Processor", "brand": "Intel", "cat": "electronics"},
+        {"title": "AMD Ryzen 5 5600G Desktop Processor", "brand": "AMD", "cat": "electronics"},
+        {"title": "MSI B550M Pro-VDH WiFi Motherboard", "brand": "MSI", "cat": "electronics"},
+        {"title": "Gaming PC Case with RGB Fans", "brand": "1stPlayer", "cat": "electronics"},
+        {"title": "Monitor Stand Dual Arm", "brand": "Generic", "cat": "electronics"}
     ]
 
-    # [Baki stores aur scraping logic wese hi rahega]
     stores = ["Digilog.pk", "Electrobes.com", "Epro.pk", "Robostan.pk", "PriceOye.pk", "Telemart.pk", "iShopping.pk", "Daraz.pk"]
     final_products = []
-    
-    print(f"📋 Total items to process: {len(items)}")
-    
+
+    print(f"📋 Processing {len(items)} items...")
+
     for idx, item in enumerate(items):
         print(f"📦 Indexing [{idx+1}/{len(items)}]: {item['title']}...")
         
@@ -109,7 +133,6 @@ def main():
         }
 
         for store in stores:
-            # Simulated prices
             base_rates = {"esp32": 1450, "stm32": 1150, "haier": 145000, "rtx": 95000, "samsung": 55000, "iron": 5500}
             key = item['title'].split()[0].lower()
             found_p = base_rates.get(key, 12000)
@@ -122,13 +145,12 @@ def main():
             })
 
         final_products.append(product_entry)
-        # Performance tip: delay thora kam rakha hy taake 100+ items jaldi ho jayein
-        time.sleep(0.05) 
+        time.sleep(0.01) # Ultra fast speed
 
     with open('products.json', 'w', encoding='utf-8') as f:
         json.dump(final_products, f, indent=2)
 
-    print(f"\n✅ MEGA SUCCESS! {len(final_products)} products ready for SalePK.")
+    print(f"\n✅ SUCCESS! {len(final_products)} products saved to products.json")
 
 if __name__ == "__main__":
     main()
