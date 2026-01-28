@@ -2,46 +2,72 @@ name: Daily Price Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:  # Manual trigger option
+    # Runs every day at midnight UTC (5 AM Pakistan Time)
+    - cron: '0 0 * * *'
+  
+  # Allows manual trigger from Actions tab
+  workflow_dispatch:
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+    
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
       
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
       
-      - name: Run scraper
+      - name: 🤖 Run price scraper
         run: |
           python scraper.py
-        continue-on-error: true
       
-      - name: Check for changes
+      - name: 📊 Check for changes
         id: check_changes
         run: |
-          git diff --quiet products.json || echo "changed=true" >> $GITHUB_OUTPUT
+          if git diff --quiet products.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
       
-      - name: Commit and push if changed
+      - name: 💾 Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
           git add products.json
-          git commit -m "🔄 Auto-update: Latest prices $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "🔄 Auto-update: Latest prices fetched on $(date +'%Y-%m-%d %H:%M:%S UTC')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📤 Upload products as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: products-data
+          path: products.json
+          retention-days: 7
+      
+      - name: ✅ Summary
+        run: |
+          echo "### 🎉 Workflow Completed Successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Products Updated:** $(jq '. | length' products.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Timestamp:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changes:** ${{ steps.check_changes.outputs.changed }}" >> $GITHUB_STEP_SUMMARY
