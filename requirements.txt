@@ -1,5 +1,9 @@
-flask
-flask-cors
-requests
-beautifulsoup4
-gunicorn
+# Python Dependencies for SalePK Scraper
+# Install: pip install -r requirements.txt
+
+# Currently no external dependencies needed for demo version
+# Uncomment below when implementing real scraping:
+
+# requests==2.31.0
+# beautifulsoup4==4.12.2
+# lxml==4.9.3
