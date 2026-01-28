@@ -1,279 +1,252 @@
 [
-    {
-        "title": "Eouro Transparent Case for iPhone 15 Pro",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/i/m/image-removebg-preview_-_2023-11-06t195100.671_1.png",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 124900,
-                "url": "https://www.shophive.com/eouro-transparent-case-for-iphone-15-pro/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 124900,
-                "url": "https://www.shophive.com/eouro-transparent-case-for-iphone-15-pro-max/"
-            }
-        ],
-        "min_price": 124900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Apple iPhone 15",
-        "image": "https://static.priceoye.pk/images/product-placeholder.gif",
-        "prices": [
-            {
-                "store": "PriceOye.pk",
-                "price": 260999,
-                "url": "https://priceoye.pk/mobiles/apple/apple-iphone-15"
-            }
-        ],
-        "min_price": 260999,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Spigen iPhone 15 Pro Airskin Hybrid Case Clear \u2013 ACS06697",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/c/a/case_53.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 389900,
-                "url": "https://www.shophive.com/spigen-iphone-15-pro-airskin-hybrid-case-clear-acs06697/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 569900,
-                "url": "https://www.shophive.com/spigen-iphone-15-pro-ultra-magfit-case-white-acs06715/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 389900,
-                "url": "https://www.shophive.com/spigen-iphone-15-pro-ultra-hybrid-case-clear-acs06707/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 829900,
-                "url": "https://www.shophive.com/spigen-iphone-15-pro-classic-c1-magfit-case-graphite-acs06742/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 389900,
-                "url": "https://www.shophive.com/spigen-iphone-15-pro-ultra-hybrid-case-matte-black-acs06713/"
-            }
-        ],
-        "min_price": 389900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Apple iPhone 15 Pro FineWoven Case with MagSafe",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/i/p/iphone_5_1.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 2699900,
-                "url": "https://www.shophive.com/apple-iphone-15-pro-finewoven-case-with-magsafe/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 599900,
-                "url": "https://www.shophive.com/apple-iphone-15-pro-crystal-clear-case-with-magsafe/"
-            }
-        ],
-        "min_price": 599900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "ESR Classic Hybrid Halolock Case For iPhone 15 Pro",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/i/m/image-removebg-preview_-_2023-12-27t185437.124_1.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 679900,
-                "url": "https://www.shophive.com/esr-classic-hybrid-halolock-case-for-iphone-15-pro/"
-            }
-        ],
-        "min_price": 679900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung Galaxy S24",
-        "image": "https://static.priceoye.pk/images/product-placeholder.gif",
-        "prices": [
-            {
-                "store": "PriceOye.pk",
-                "price": 218999,
-                "url": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s24"
-            }
-        ],
-        "min_price": 218999,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung Galaxy S24 Ultra Vegan Leather Case",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/c/o/cover.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 1019900,
-                "url": "https://www.shophive.com/samsung-galaxy-s24-ultra-vegan-leather-case/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 1499900,
-                "url": "https://www.shophive.com/samsung-galaxy-s24-ultra-s-view-wallet-case/"
-            }
-        ],
-        "min_price": 1019900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung LS19A330NHMXUE 19\" 60Hz Flat LED Monitor",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/s/a/samsung_ls19a330nhmxue_60hz_flat_led_monitor2.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 2249900,
-                "url": "https://www.shophive.com/samsung-ls19a330nhmxue-19-60hz-flat-led-monitor/"
-            }
-        ],
-        "min_price": 2249900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung LS27AG320NEXXP 27\" G3 Odyssey FHD Gaming Monitor",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/s/a/samsung_27_odyssey_g3_gaming_monitor_-_ls27ag320nmxzn_4.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 8799900,
-                "url": "https://www.shophive.com/samsung-ls27ag320nexxp-27-g3-odyssey-fhd-gaming-monitor/"
-            }
-        ],
-        "min_price": 8799900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung WA70H4000SGURT 7Kg Washing Machine",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/i/m/image-removebg-preview_-_2022-03-14t135229.639.png",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 8899900,
-                "url": "https://www.shophive.com/samsung-wa70h4000sgurt-7kg-washing-machine/"
-            }
-        ],
-        "min_price": 8899900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Samsung 65\" QN70F Neo QLED 4K AI Smart TV (2025)",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/s/a/samsung_65_qn70f_neo_qled_4k_ai_smart_tv_1.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 45999900,
-                "url": "https://www.shophive.com/samsung-65-qn70f-neo-qled-4k-ai-smart-tv-2025/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 65999900,
-                "url": "https://www.shophive.com/samsung-75-qn70f-neo-qled-4k-ai-smart-tv-2025/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 89999900,
-                "url": "https://www.shophive.com/samsung-85-qn70f-neo-qled-4k-ai-smart-tv-2025/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 99999900,
-                "url": "https://www.shophive.com/samsung-75-qn85f-neo-qled-4k-ai-smart-tv-2025/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 124999900,
-                "url": "https://www.shophive.com/samsung-85-qn85f-neo-qled-4k-ai-smart-tv-2025/"
-            }
-        ],
-        "min_price": 45999900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "HP Victus 15-FA2787NR Core i7-13620H Gaming Laptop (16GB-512GB SSD) RTX 5060 8GB",
-        "image": "https://static.priceoye.pk/images/product-placeholder.gif",
-        "prices": [
-            {
-                "store": "PriceOye.pk",
-                "price": 351999,
-                "url": "https://priceoye.pk/laptops/hp/hp-victus-15-fa2787nr-core-i7-13620h-gaming-laptop-16gb-512gb-ssd-rtx-5060-8gb"
-            }
-        ],
-        "min_price": 351999,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "Lenovo LOQ 15IRX9 i7-13650HX 16GB 512GB SSD Gaming Laptop",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/l/a/laptop_4_3_6_1.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 32499900,
-                "url": "https://www.shophive.com/lenovo-loq-15irx9-i7-13650hx-16gb-512gb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 42899900,
-                "url": "https://www.shophive.com/lenovo-loq-15irx9-i7-14700hx-24gb-512gb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 22849900,
-                "url": "https://www.shophive.com/lenovo-loq-15irx9-i5-13450hx-12gb-512gb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 33899900,
-                "url": "https://www.shophive.com/lenovo-loq-15irx9-i7-13650hx-24gb-512gb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 34899900,
-                "url": "https://www.shophive.com/lenovo-loq-15irx9-i7-13650hx-16gb-1tb-ssd-8gc-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 37949900,
-                "url": "https://www.shophive.com/hp-omen-16-wd0073dx-i7-13620h-16gb-1tb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 35499900,
-                "url": "https://www.shophive.com/hp-victus-15-fa2093dx-i7-13620h-16gb-1tb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 38499900,
-                "url": "https://www.shophive.com/hp-omen-16-wf0083dx-i9-13900hx-16gb-1tb-ssd-gaming-laptop/"
-            }
-        ],
-        "min_price": 22849900,
-        "last_updated": "2026-01-27 15:48"
-    },
-    {
-        "title": "MSi Katana 15 HX B14WFK i9-14900HX 16GB 1TB SSD Gaming Laptop",
-        "image": "https://www.shophive.com/media/catalog/product/cache/3875881abdd255ac261538b8462285e9/m/s/msi_katana_15_hx_b14wfk_i9-14900hx_16gb_1tb_ssd_gaming_laptop_5.jpg",
-        "prices": [
-            {
-                "store": "Shophive.com",
-                "price": 58299900,
-                "url": "https://www.shophive.com/msi-katana-15-hx-b14wfk-i9-14900hx-16gb-1tb-ssd-gaming-laptop/"
-            },
-            {
-                "store": "Shophive.com",
-                "price": 52499900,
-                "url": "https://www.shophive.com/acer-predator-helios-300-i7-12700h-16gb-1tb-ssd-gaming-laptop/"
-            }
-        ],
-        "min_price": 52499900,
-        "last_updated": "2026-01-27 15:48"
-    }
+  {
+    "id": 1,
+    "title": "Samsung Galaxy S23 Ultra 256GB",
+    "brand": "Samsung",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Symbios.pk",
+        "price": 285999,
+        "url": "https://symbios.pk"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 289999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "PriceOaks.com",
+        "price": 294999,
+        "url": "https://priceoaks.com"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 299999,
+        "url": "https://ishopping.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173848"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 15 Pro Max 512GB",
+    "brand": "Apple",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Telemart.pk",
+        "price": 529999,
+        "url": "https://telemart.pk"
+      },
+      {
+        "store": "PriceOaks.com",
+        "price": 534999,
+        "url": "https://priceoaks.com"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 539999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 544999,
+        "url": "https://ishopping.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173853"
+  },
+  {
+    "id": 3,
+    "title": "Dell XPS 15 - Intel Core i7, 16GB RAM",
+    "brand": "Dell",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Symbios.pk",
+        "price": 319999,
+        "url": "https://symbios.pk"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 324999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 329999,
+        "url": "https://ishopping.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173855"
+  },
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "PriceOaks.com",
+        "price": 67999,
+        "url": "https://priceoaks.com"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 69999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 71999,
+        "url": "https://telemart.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173857"
+  },
+  {
+    "id": 5,
+    "title": "Samsung 55\" 4K Smart TV",
+    "brand": "Samsung",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Symbios.pk",
+        "price": 129999,
+        "url": "https://symbios.pk"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 134999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 139999,
+        "url": "https://ishopping.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173858"
+  },
+  {
+    "id": 6,
+    "title": "MacBook Air M2 - 8GB RAM, 256GB SSD",
+    "brand": "Apple",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "PriceOaks.com",
+        "price": 269999,
+        "url": "https://priceoaks.com"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 274999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 279999,
+        "url": "https://symbios.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173860"
+  },
+  {
+    "id": 7,
+    "title": "HP Pavilion Gaming Laptop - Ryzen 5",
+    "brand": "HP",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Daraz.pk",
+        "price": 159999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 164999,
+        "url": "https://telemart.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173861"
+  },
+  {
+    "id": 8,
+    "title": "Xiaomi Redmi Note 13 Pro 256GB",
+    "brand": "Xiaomi",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Daraz.pk",
+        "price": 89999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 87999,
+        "url": "https://symbios.pk"
+      },
+      {
+        "store": "PriceOaks.com",
+        "price": 92999,
+        "url": "https://priceoaks.com"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173862"
+  },
+  {
+    "id": 9,
+    "title": "Apple AirPods Pro 2nd Generation",
+    "brand": "Apple",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "PriceOaks.com",
+        "price": 84999,
+        "url": "https://priceoaks.com"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 89999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 87999,
+        "url": "https://telemart.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173863"
+  },
+  {
+    "id": 10,
+    "title": "LG 43\" Full HD Smart TV",
+    "brand": "LG",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=500&h=500&fit=crop",
+    "prices": [
+      {
+        "store": "Daraz.pk",
+        "price": 79999,
+        "url": "https://daraz.pk"
+      },
+      {
+        "store": "Symbios.pk",
+        "price": 77999,
+        "url": "https://symbios.pk"
+      }
+    ],
+    "last_updated": "2026-01-28T09:31:44.173865"
+  }
 ]
