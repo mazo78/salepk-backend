@@ -29,9 +29,10 @@ jobs:
         run: python scraper.py
       
       - name: Commit changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "GitHub Actions"
-          git add products.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update prices"
-          git push
+  run: |
+    git config --local user.email "github-actions[bot]@users.noreply.github.com"
+    git config --local user.name "github-actions[bot]"
+    git pull origin main --rebase  # Ye line sab se aham hai
+    git add .
+    git commit -m "Auto-update prices" || echo "No changes to commit"
+    git push origin main
