@@ -8,41 +8,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 2866,
+        "price": 2506,
         "url": "https://digilog.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
         "store": "Electrobes.com",
-        "price": 3718,
+        "price": 3458,
         "url": "https://electrobes.com/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
         "store": "Epro.pk",
-        "price": 4567,
+        "price": 1726,
         "url": "https://epro.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
         "store": "Robostan.pk",
-        "price": 5358,
+        "price": 4486,
         "url": "https://robostan.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
         "store": "PriceOye.pk",
-        "price": 4905,
+        "price": 1187,
         "url": "https://priceoye.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
         "store": "Telemart.pk",
-        "price": 2755,
+        "price": 1931,
         "url": "https://telemart.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       },
       {
+        "store": "iShopping.pk",
+        "price": 4369,
+        "url": "https://ishopping.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 3769,
+        "price": 2390,
         "url": "https://daraz.pk/search?q=ESP32+WiFi+Bluetooth+DevKit+V1"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.669762"
+    "last_updated": "2026-01-28T20:22:48.875617"
   },
   {
     "id": 2,
@@ -53,41 +58,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 4000,
+        "price": 1235,
         "url": "https://digilog.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
         "store": "Electrobes.com",
-        "price": 1729,
+        "price": 1894,
         "url": "https://electrobes.com/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
         "store": "Epro.pk",
-        "price": 1550,
+        "price": 4941,
         "url": "https://epro.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
         "store": "Robostan.pk",
-        "price": 2166,
+        "price": 5111,
         "url": "https://robostan.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
         "store": "PriceOye.pk",
-        "price": 4771,
+        "price": 3458,
         "url": "https://priceoye.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
         "store": "Telemart.pk",
-        "price": 3351,
+        "price": 2356,
         "url": "https://telemart.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       },
       {
+        "store": "iShopping.pk",
+        "price": 4486,
+        "url": "https://ishopping.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 825,
+        "price": 3734,
         "url": "https://daraz.pk/search?q=STM32+Blue+Pill+STM32F103C8T6"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.680566"
+    "last_updated": "2026-01-28T20:22:48.880841"
   },
   {
     "id": 3,
@@ -98,41 +108,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14498,
+        "price": 2753,
         "url": "https://digilog.pk/search?q=Arduino+Uno+R3+Compatible"
       },
       {
         "store": "Electrobes.com",
-        "price": 13676,
+        "price": 5001,
         "url": "https://electrobes.com/search?q=Arduino+Uno+R3+Compatible"
       },
       {
         "store": "Epro.pk",
-        "price": 13359,
+        "price": 2517,
         "url": "https://epro.pk/search?q=Arduino+Uno+R3+Compatible"
       },
       {
         "store": "Robostan.pk",
-        "price": 15374,
+        "price": 3742,
         "url": "https://robostan.pk/search?q=Arduino+Uno+R3+Compatible"
       },
       {
         "store": "PriceOye.pk",
-        "price": 11699,
+        "price": 4644,
         "url": "https://priceoye.pk/search?q=Arduino+Uno+R3+Compatible"
       },
       {
         "store": "Telemart.pk",
-        "price": 14416,
+        "price": 4168,
         "url": "https://telemart.pk/search?q=Arduino+Uno+R3+Compatible"
       },
       {
+        "store": "iShopping.pk",
+        "price": 5052,
+        "url": "https://ishopping.pk/search?q=Arduino+Uno+R3+Compatible"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12766,
+        "price": 5710,
         "url": "https://daraz.pk/search?q=Arduino+Uno+R3+Compatible"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.690758"
+    "last_updated": "2026-01-28T20:22:48.886467"
   },
   {
     "id": 4,
@@ -143,41 +158,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 15174,
+        "price": 14389,
         "url": "https://digilog.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
         "store": "Electrobes.com",
-        "price": 12439,
+        "price": 15643,
         "url": "https://electrobes.com/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
         "store": "Epro.pk",
-        "price": 14521,
+        "price": 15208,
         "url": "https://epro.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
         "store": "Robostan.pk",
-        "price": 14326,
+        "price": 14402,
         "url": "https://robostan.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
         "store": "PriceOye.pk",
-        "price": 13327,
+        "price": 14397,
         "url": "https://priceoye.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
         "store": "Telemart.pk",
-        "price": 13434,
+        "price": 13907,
         "url": "https://telemart.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       },
       {
+        "store": "iShopping.pk",
+        "price": 14813,
+        "url": "https://ishopping.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14222,
+        "price": 15922,
         "url": "https://daraz.pk/search?q=Raspberry+Pi+4+Model+B+4GB"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.701050"
+    "last_updated": "2026-01-28T20:22:48.891637"
   },
   {
     "id": 5,
@@ -188,41 +208,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 11567,
+        "price": 12710,
         "url": "https://digilog.pk/search?q=BTS7960+43A+Motor+Driver"
       },
       {
         "store": "Electrobes.com",
-        "price": 11960,
+        "price": 12367,
         "url": "https://electrobes.com/search?q=BTS7960+43A+Motor+Driver"
       },
       {
         "store": "Epro.pk",
-        "price": 12231,
+        "price": 13488,
         "url": "https://epro.pk/search?q=BTS7960+43A+Motor+Driver"
       },
       {
         "store": "Robostan.pk",
-        "price": 13656,
+        "price": 15886,
         "url": "https://robostan.pk/search?q=BTS7960+43A+Motor+Driver"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12340,
+        "price": 14804,
         "url": "https://priceoye.pk/search?q=BTS7960+43A+Motor+Driver"
       },
       {
         "store": "Telemart.pk",
-        "price": 12625,
+        "price": 11675,
         "url": "https://telemart.pk/search?q=BTS7960+43A+Motor+Driver"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13641,
+        "url": "https://ishopping.pk/search?q=BTS7960+43A+Motor+Driver"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12401,
+        "price": 11502,
         "url": "https://daraz.pk/search?q=BTS7960+43A+Motor+Driver"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.711231"
+    "last_updated": "2026-01-28T20:22:48.896843"
   },
   {
     "id": 6,
@@ -233,41 +258,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 12473,
+        "price": 13015,
         "url": "https://digilog.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
         "store": "Electrobes.com",
-        "price": 13161,
+        "price": 13642,
         "url": "https://electrobes.com/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
         "store": "Epro.pk",
-        "price": 13415,
+        "price": 14861,
         "url": "https://epro.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
         "store": "Robostan.pk",
-        "price": 14608,
+        "price": 15254,
         "url": "https://robostan.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14472,
+        "price": 15402,
         "url": "https://priceoye.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
         "store": "Telemart.pk",
-        "price": 15063,
+        "price": 12622,
         "url": "https://telemart.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       },
       {
+        "store": "iShopping.pk",
+        "price": 11546,
+        "url": "https://ishopping.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 11836,
+        "price": 13719,
         "url": "https://daraz.pk/search?q=L298N+Dual+H-Bridge+Motor+Driver"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.721560"
+    "last_updated": "2026-01-28T20:22:48.902503"
   },
   {
     "id": 7,
@@ -278,41 +308,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 15234,
+        "price": 15033,
         "url": "https://digilog.pk/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
         "store": "Electrobes.com",
-        "price": 13215,
+        "price": 15444,
         "url": "https://electrobes.com/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
         "store": "Epro.pk",
-        "price": 12461,
+        "price": 15096,
         "url": "https://epro.pk/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
         "store": "Robostan.pk",
-        "price": 14029,
+        "price": 11692,
         "url": "https://robostan.pk/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
         "store": "PriceOye.pk",
-        "price": 15150,
+        "price": 12853,
         "url": "https://priceoye.pk/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
         "store": "Telemart.pk",
-        "price": 13232,
+        "price": 15154,
         "url": "https://telemart.pk/search?q=OLED+Display+0.96+Inch+I2C"
       },
       {
+        "store": "iShopping.pk",
+        "price": 11696,
+        "url": "https://ishopping.pk/search?q=OLED+Display+0.96+Inch+I2C"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12782,
+        "price": 12546,
         "url": "https://daraz.pk/search?q=OLED+Display+0.96+Inch+I2C"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.732248"
+    "last_updated": "2026-01-28T20:22:48.907638"
   },
   {
     "id": 8,
@@ -323,41 +358,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 11908,
+        "price": 14414,
         "url": "https://digilog.pk/search?q=SG90+Micro+Servo+Motor"
       },
       {
         "store": "Electrobes.com",
-        "price": 15605,
+        "price": 12811,
         "url": "https://electrobes.com/search?q=SG90+Micro+Servo+Motor"
       },
       {
         "store": "Epro.pk",
-        "price": 14591,
+        "price": 12324,
         "url": "https://epro.pk/search?q=SG90+Micro+Servo+Motor"
       },
       {
         "store": "Robostan.pk",
-        "price": 14040,
+        "price": 11632,
         "url": "https://robostan.pk/search?q=SG90+Micro+Servo+Motor"
       },
       {
         "store": "PriceOye.pk",
-        "price": 13959,
+        "price": 11699,
         "url": "https://priceoye.pk/search?q=SG90+Micro+Servo+Motor"
       },
       {
         "store": "Telemart.pk",
-        "price": 12804,
+        "price": 11640,
         "url": "https://telemart.pk/search?q=SG90+Micro+Servo+Motor"
       },
       {
+        "store": "iShopping.pk",
+        "price": 15666,
+        "url": "https://ishopping.pk/search?q=SG90+Micro+Servo+Motor"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14601,
+        "price": 15026,
         "url": "https://daraz.pk/search?q=SG90+Micro+Servo+Motor"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.742551"
+    "last_updated": "2026-01-28T20:22:48.912843"
   },
   {
     "id": 9,
@@ -368,41 +408,46 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 12653,
+        "price": 5611,
         "url": "https://digilog.pk/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
         "store": "Electrobes.com",
-        "price": 15091,
+        "price": 4771,
         "url": "https://electrobes.com/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
         "store": "Epro.pk",
-        "price": 15450,
+        "price": 3479,
         "url": "https://epro.pk/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
         "store": "Robostan.pk",
-        "price": 12022,
+        "price": 2216,
         "url": "https://robostan.pk/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14572,
+        "price": 2198,
         "url": "https://priceoye.pk/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
         "store": "Telemart.pk",
-        "price": 13780,
+        "price": 3169,
         "url": "https://telemart.pk/search?q=Arduino+Nano+V3.0+Mini"
       },
       {
+        "store": "iShopping.pk",
+        "price": 2588,
+        "url": "https://ishopping.pk/search?q=Arduino+Nano+V3.0+Mini"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 11881,
+        "price": 4862,
         "url": "https://daraz.pk/search?q=Arduino+Nano+V3.0+Mini"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.752762"
+    "last_updated": "2026-01-28T20:22:48.918486"
   },
   {
     "id": 10,
@@ -413,44 +458,199 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 13831,
+        "price": 15520,
         "url": "https://digilog.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
         "store": "Electrobes.com",
-        "price": 12664,
+        "price": 13306,
         "url": "https://electrobes.com/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
         "store": "Epro.pk",
-        "price": 14719,
+        "price": 13495,
         "url": "https://epro.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
         "store": "Robostan.pk",
-        "price": 12882,
+        "price": 12321,
         "url": "https://robostan.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
         "store": "PriceOye.pk",
-        "price": 13144,
+        "price": 15221,
         "url": "https://priceoye.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
         "store": "Telemart.pk",
-        "price": 15655,
+        "price": 14650,
         "url": "https://telemart.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       },
       {
+        "store": "iShopping.pk",
+        "price": 11535,
+        "url": "https://ishopping.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12830,
+        "price": 14840,
         "url": "https://daraz.pk/search?q=MPU6050+6-Axis+Gyro+Sensor"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.763032"
+    "last_updated": "2026-01-28T20:22:48.923657"
   },
   {
     "id": 11,
+    "title": "12V 10A Power Supply",
+    "brand": "Generic",
+    "category": "electronics",
+    "image": "https://www.digilog.pk/images/detailed/1/12V-10A-Power-Supply.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 12079,
+        "url": "https://digilog.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 13656,
+        "url": "https://electrobes.com/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 13872,
+        "url": "https://epro.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 14130,
+        "url": "https://robostan.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 11692,
+        "url": "https://priceoye.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 11547,
+        "url": "https://telemart.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 15810,
+        "url": "https://ishopping.pk/search?q=12V+10A+Power+Supply"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12158,
+        "url": "https://daraz.pk/search?q=12V+10A+Power+Supply"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:48.928855"
+  },
+  {
+    "id": 12,
+    "title": "ESP8266 NodeMCU V3",
+    "brand": "Espressif",
+    "category": "microcontrollers",
+    "image": "https://www.digilog.pk/images/detailed/6/NodeMCU-ESP8266-V3.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 12103,
+        "url": "https://digilog.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 11899,
+        "url": "https://electrobes.com/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 12138,
+        "url": "https://epro.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 12149,
+        "url": "https://robostan.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 15860,
+        "url": "https://priceoye.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 11740,
+        "url": "https://telemart.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 14875,
+        "url": "https://ishopping.pk/search?q=ESP8266+NodeMCU+V3"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 15053,
+        "url": "https://daraz.pk/search?q=ESP8266+NodeMCU+V3"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:48.934503"
+  },
+  {
+    "id": 13,
+    "title": "HC-SR04 Ultrasonic Sensor",
+    "brand": "Generic",
+    "category": "microcontrollers",
+    "image": "https://www.digilog.pk/images/detailed/1/HC-SR04-Ultrasonic-Sensor.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 14206,
+        "url": "https://digilog.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 15090,
+        "url": "https://electrobes.com/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 12712,
+        "url": "https://epro.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 14232,
+        "url": "https://robostan.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 12967,
+        "url": "https://priceoye.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 13464,
+        "url": "https://telemart.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 12207,
+        "url": "https://ishopping.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12784,
+        "url": "https://daraz.pk/search?q=HC-SR04+Ultrasonic+Sensor"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:48.939691"
+  },
+  {
+    "id": 14,
     "title": "Samsung 40 Inch Full HD LED TV",
     "brand": "Samsung",
     "category": "electronics",
@@ -458,44 +658,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 58532,
+        "price": 58173,
         "url": "https://digilog.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
         "store": "Electrobes.com",
-        "price": 57169,
+        "price": 57535,
         "url": "https://electrobes.com/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
         "store": "Epro.pk",
-        "price": 55183,
+        "price": 56305,
         "url": "https://epro.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
         "store": "Robostan.pk",
-        "price": 55693,
+        "price": 55816,
         "url": "https://robostan.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
         "store": "PriceOye.pk",
-        "price": 58878,
+        "price": 55023,
         "url": "https://priceoye.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
         "store": "Telemart.pk",
-        "price": 57640,
+        "price": 54551,
         "url": "https://telemart.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       },
       {
+        "store": "iShopping.pk",
+        "price": 58874,
+        "url": "https://ishopping.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 54586,
+        "price": 56539,
         "url": "https://daraz.pk/search?q=Samsung+40+Inch+Full+HD+LED+TV"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.773771"
+    "last_updated": "2026-01-28T20:22:48.945252"
   },
   {
-    "id": 12,
+    "id": 15,
     "title": "TCL 32 Inch Android Smart LED",
     "brand": "TCL",
     "category": "electronics",
@@ -503,134 +708,149 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14249,
+        "price": 13843,
         "url": "https://digilog.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
         "store": "Electrobes.com",
-        "price": 12932,
+        "price": 15051,
         "url": "https://electrobes.com/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
         "store": "Epro.pk",
-        "price": 14627,
+        "price": 14936,
         "url": "https://epro.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
         "store": "Robostan.pk",
-        "price": 14540,
+        "price": 15609,
         "url": "https://robostan.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14528,
+        "price": 12447,
         "url": "https://priceoye.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
         "store": "Telemart.pk",
-        "price": 12533,
+        "price": 14646,
         "url": "https://telemart.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13407,
+        "url": "https://ishopping.pk/search?q=TCL+32+Inch+Android+Smart+LED"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12376,
+        "price": 14039,
         "url": "https://daraz.pk/search?q=TCL+32+Inch+Android+Smart+LED"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.783998"
+    "last_updated": "2026-01-28T20:22:48.950421"
   },
   {
-    "id": 13,
-    "title": "Sony Bravia 55 Inch 4K OLED",
-    "brand": "Sony",
+    "id": 16,
+    "title": "EcoStar 43 Inch 4K UHD Smart TV",
+    "brand": "EcoStar",
     "category": "electronics",
-    "image": "https://m.media-amazon.com/images/I/81S7q6XG9kL.jpg",
+    "image": "https://images.priceoye.pk/ecostar-43-inch-4k-uhd-smart-led-tv-cx-43u871-pakistan-priceoye-64j18-500x500.webp",
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 13384,
-        "url": "https://digilog.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 14727,
+        "url": "https://digilog.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "Electrobes.com",
-        "price": 12752,
-        "url": "https://electrobes.com/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 15249,
+        "url": "https://electrobes.com/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "Epro.pk",
-        "price": 12839,
-        "url": "https://epro.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 12856,
+        "url": "https://epro.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "Robostan.pk",
-        "price": 14786,
-        "url": "https://robostan.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 11821,
+        "url": "https://robostan.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "PriceOye.pk",
-        "price": 11670,
-        "url": "https://priceoye.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 14914,
+        "url": "https://priceoye.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "Telemart.pk",
-        "price": 11764,
-        "url": "https://telemart.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 14230,
+        "url": "https://telemart.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 15221,
+        "url": "https://ishopping.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       },
       {
         "store": "Daraz.pk",
-        "price": 13449,
-        "url": "https://daraz.pk/search?q=Sony+Bravia+55+Inch+4K+OLED"
+        "price": 12140,
+        "url": "https://daraz.pk/search?q=EcoStar+43+Inch+4K+UHD+Smart+TV"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.794730"
+    "last_updated": "2026-01-28T20:22:48.955615"
   },
   {
-    "id": 14,
+    "id": 17,
     "title": "Dell 24 Inch IPS Monitor SE2422H",
     "brand": "Dell",
     "category": "electronics",
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-computing/monitors/s-series/se2422h/media-gallery/monitor-se2422h-gallery-1.psd",
+    "image": "https://m.media-amazon.com/images/I/81S88m4E7LL.jpg",
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14710,
+        "price": 15404,
         "url": "https://digilog.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
         "store": "Electrobes.com",
-        "price": 15927,
+        "price": 11667,
         "url": "https://electrobes.com/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
         "store": "Epro.pk",
-        "price": 13106,
+        "price": 12040,
         "url": "https://epro.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
         "store": "Robostan.pk",
-        "price": 12453,
+        "price": 15586,
         "url": "https://robostan.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12499,
+        "price": 12127,
         "url": "https://priceoye.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
         "store": "Telemart.pk",
-        "price": 13708,
+        "price": 13707,
         "url": "https://telemart.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       },
       {
+        "store": "iShopping.pk",
+        "price": 14901,
+        "url": "https://ishopping.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 15230,
+        "price": 12520,
         "url": "https://daraz.pk/search?q=Dell+24+Inch+IPS+Monitor+SE2422H"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.804923"
+    "last_updated": "2026-01-28T20:22:48.961180"
   },
   {
-    "id": 15,
+    "id": 18,
     "title": "HP 22 Inch FHD Display Monitor",
     "brand": "HP",
     "category": "electronics",
@@ -638,44 +858,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14402,
+        "price": 14272,
         "url": "https://digilog.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
         "store": "Electrobes.com",
-        "price": 13808,
+        "price": 13041,
         "url": "https://electrobes.com/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
         "store": "Epro.pk",
-        "price": 15482,
+        "price": 15733,
         "url": "https://epro.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
         "store": "Robostan.pk",
-        "price": 11647,
+        "price": 13501,
         "url": "https://robostan.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
         "store": "PriceOye.pk",
-        "price": 15993,
+        "price": 15868,
         "url": "https://priceoye.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
         "store": "Telemart.pk",
-        "price": 13556,
+        "price": 14923,
         "url": "https://telemart.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13148,
+        "url": "https://ishopping.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 15895,
+        "price": 12420,
         "url": "https://daraz.pk/search?q=HP+22+Inch+FHD+Display+Monitor"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.815109"
+    "last_updated": "2026-01-28T20:22:48.966377"
   },
   {
-    "id": 16,
+    "id": 19,
     "title": "Samsung Odyssey G5 Curved 27 inch",
     "brand": "Samsung",
     "category": "electronics",
@@ -683,44 +908,99 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 58779,
+        "price": 58483,
         "url": "https://digilog.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
         "store": "Electrobes.com",
-        "price": 58460,
+        "price": 56717,
         "url": "https://electrobes.com/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
         "store": "Epro.pk",
-        "price": 55380,
+        "price": 54630,
         "url": "https://epro.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
         "store": "Robostan.pk",
-        "price": 55970,
+        "price": 55569,
         "url": "https://robostan.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
         "store": "PriceOye.pk",
-        "price": 58870,
+        "price": 54707,
         "url": "https://priceoye.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
         "store": "Telemart.pk",
-        "price": 54890,
+        "price": 55347,
         "url": "https://telemart.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       },
       {
+        "store": "iShopping.pk",
+        "price": 54832,
+        "url": "https://ishopping.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 57678,
+        "price": 58932,
         "url": "https://daraz.pk/search?q=Samsung+Odyssey+G5+Curved+27+inch"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.825757"
+    "last_updated": "2026-01-28T20:22:48.971569"
   },
   {
-    "id": 17,
+    "id": 20,
+    "title": "Asus TUF Gaming 27 Inch 165Hz",
+    "brand": "Asus",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/81S7q6XG9kL.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 15522,
+        "url": "https://digilog.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 14520,
+        "url": "https://electrobes.com/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 12809,
+        "url": "https://epro.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 12995,
+        "url": "https://robostan.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 12547,
+        "url": "https://priceoye.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 15425,
+        "url": "https://telemart.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 14251,
+        "url": "https://ishopping.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 13094,
+        "url": "https://daraz.pk/search?q=Asus+TUF+Gaming+27+Inch+165Hz"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:48.977049"
+  },
+  {
+    "id": 21,
     "title": "Logitech G502 Hero Gaming Mouse",
     "brand": "Logitech",
     "category": "electronics",
@@ -728,44 +1008,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14034,
+        "price": 14077,
         "url": "https://digilog.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
         "store": "Electrobes.com",
-        "price": 15593,
+        "price": 14724,
         "url": "https://electrobes.com/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
         "store": "Epro.pk",
-        "price": 12230,
+        "price": 13241,
         "url": "https://epro.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
         "store": "Robostan.pk",
-        "price": 14921,
+        "price": 15191,
         "url": "https://robostan.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12914,
+        "price": 12787,
         "url": "https://priceoye.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
         "store": "Telemart.pk",
-        "price": 15493,
+        "price": 12790,
         "url": "https://telemart.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       },
       {
+        "store": "iShopping.pk",
+        "price": 14287,
+        "url": "https://ishopping.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14512,
+        "price": 13933,
         "url": "https://daraz.pk/search?q=Logitech+G502+Hero+Gaming+Mouse"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.835978"
+    "last_updated": "2026-01-28T20:22:48.982246"
   },
   {
-    "id": 18,
+    "id": 22,
     "title": "Redragon K552 Mechanical Keyboard",
     "brand": "Redragon",
     "category": "electronics",
@@ -773,44 +1058,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 15635,
+        "price": 14049,
         "url": "https://digilog.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
         "store": "Electrobes.com",
-        "price": 14911,
+        "price": 13286,
         "url": "https://electrobes.com/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
         "store": "Epro.pk",
-        "price": 12869,
+        "price": 15172,
         "url": "https://epro.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
         "store": "Robostan.pk",
-        "price": 13890,
+        "price": 15239,
         "url": "https://robostan.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14063,
+        "price": 13880,
         "url": "https://priceoye.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
         "store": "Telemart.pk",
-        "price": 15729,
+        "price": 11839,
         "url": "https://telemart.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13555,
+        "url": "https://ishopping.pk/search?q=Redragon+K552+Mechanical+Keyboard"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 15633,
+        "price": 15513,
         "url": "https://daraz.pk/search?q=Redragon+K552+Mechanical+Keyboard"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.846599"
+    "last_updated": "2026-01-28T20:22:48.987429"
   },
   {
-    "id": 19,
+    "id": 23,
     "title": "NVIDIA RTX 4060 Graphic Card",
     "brand": "MSI",
     "category": "electronics",
@@ -818,44 +1108,99 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14492,
+        "price": 14234,
         "url": "https://digilog.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
         "store": "Electrobes.com",
-        "price": 11943,
+        "price": 15706,
         "url": "https://electrobes.com/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
         "store": "Epro.pk",
-        "price": 13690,
+        "price": 12630,
         "url": "https://epro.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
         "store": "Robostan.pk",
-        "price": 15674,
+        "price": 12849,
         "url": "https://robostan.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12103,
+        "price": 11824,
         "url": "https://priceoye.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
         "store": "Telemart.pk",
-        "price": 15665,
+        "price": 12287,
         "url": "https://telemart.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       },
       {
+        "store": "iShopping.pk",
+        "price": 14744,
+        "url": "https://ishopping.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14886,
+        "price": 13909,
         "url": "https://daraz.pk/search?q=NVIDIA+RTX+4060+Graphic+Card"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.856827"
+    "last_updated": "2026-01-28T20:22:48.992721"
   },
   {
-    "id": 20,
+    "id": 24,
+    "title": "AMD Radeon RX 6700 XT GPU",
+    "brand": "Sapphire",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/71X-g2I-iL.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 13763,
+        "url": "https://digilog.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 15111,
+        "url": "https://electrobes.com/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 13256,
+        "url": "https://epro.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 12914,
+        "url": "https://robostan.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 12939,
+        "url": "https://priceoye.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 15208,
+        "url": "https://telemart.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 13395,
+        "url": "https://ishopping.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12529,
+        "url": "https://daraz.pk/search?q=AMD+Radeon+RX+6700+XT+GPU"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:48.997869"
+  },
+  {
+    "id": 25,
     "title": "Samsung 980 Pro 1TB NVMe SSD",
     "brand": "Samsung",
     "category": "electronics",
@@ -863,44 +1208,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 57191,
+        "price": 58966,
         "url": "https://digilog.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
         "store": "Electrobes.com",
-        "price": 57798,
+        "price": 54798,
         "url": "https://electrobes.com/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
         "store": "Epro.pk",
-        "price": 58462,
+        "price": 55085,
         "url": "https://epro.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
         "store": "Robostan.pk",
-        "price": 58120,
+        "price": 56404,
         "url": "https://robostan.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
         "store": "PriceOye.pk",
-        "price": 58611,
+        "price": 57178,
         "url": "https://priceoye.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
         "store": "Telemart.pk",
-        "price": 54789,
+        "price": 56386,
         "url": "https://telemart.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       },
       {
+        "store": "iShopping.pk",
+        "price": 55541,
+        "url": "https://ishopping.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 55868,
+        "price": 56164,
         "url": "https://daraz.pk/search?q=Samsung+980+Pro+1TB+NVMe+SSD"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.867027"
+    "last_updated": "2026-01-28T20:22:49.003062"
   },
   {
-    "id": 21,
+    "id": 26,
     "title": "Corsair Vengeance 16GB DDR4 RAM",
     "brand": "Corsair",
     "category": "electronics",
@@ -908,44 +1258,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14102,
+        "price": 15798,
         "url": "https://digilog.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
         "store": "Electrobes.com",
-        "price": 13492,
+        "price": 14552,
         "url": "https://electrobes.com/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
         "store": "Epro.pk",
-        "price": 14147,
+        "price": 14607,
         "url": "https://epro.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
         "store": "Robostan.pk",
-        "price": 13017,
+        "price": 15947,
         "url": "https://robostan.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
         "store": "PriceOye.pk",
-        "price": 11517,
+        "price": 13794,
         "url": "https://priceoye.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
         "store": "Telemart.pk",
-        "price": 13288,
+        "price": 15293,
         "url": "https://telemart.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       },
       {
+        "store": "iShopping.pk",
+        "price": 11929,
+        "url": "https://ishopping.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14444,
+        "price": 12966,
         "url": "https://daraz.pk/search?q=Corsair+Vengeance+16GB+DDR4+RAM"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.877546"
+    "last_updated": "2026-01-28T20:22:49.008271"
   },
   {
-    "id": 22,
+    "id": 27,
     "title": "DeepCool AK400 CPU Cooler",
     "brand": "DeepCool",
     "category": "electronics",
@@ -953,89 +1308,149 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 11546,
+        "price": 15659,
         "url": "https://digilog.pk/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
         "store": "Electrobes.com",
-        "price": 14532,
+        "price": 13467,
         "url": "https://electrobes.com/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
         "store": "Epro.pk",
-        "price": 15906,
+        "price": 14061,
         "url": "https://epro.pk/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
         "store": "Robostan.pk",
-        "price": 14181,
+        "price": 14267,
         "url": "https://robostan.pk/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
         "store": "PriceOye.pk",
-        "price": 15677,
+        "price": 14393,
         "url": "https://priceoye.pk/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
         "store": "Telemart.pk",
-        "price": 14353,
+        "price": 13925,
         "url": "https://telemart.pk/search?q=DeepCool+AK400+CPU+Cooler"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13295,
+        "url": "https://ishopping.pk/search?q=DeepCool+AK400+CPU+Cooler"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 15146,
+        "price": 15686,
         "url": "https://daraz.pk/search?q=DeepCool+AK400+CPU+Cooler"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.887772"
+    "last_updated": "2026-01-28T20:22:49.013485"
   },
   {
-    "id": 23,
-    "title": "A4Tech Bloody Gaming Headset",
-    "brand": "A4Tech",
+    "id": 28,
+    "title": "Sony PlayStation 5 Slim",
+    "brand": "Sony",
     "category": "electronics",
-    "image": "https://m.media-amazon.com/images/I/61S5x6G7YhL.jpg",
+    "image": "https://m.media-amazon.com/images/I/5105S8B0q-L.jpg",
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 13913,
-        "url": "https://digilog.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 15536,
+        "url": "https://digilog.pk/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "Electrobes.com",
-        "price": 15111,
-        "url": "https://electrobes.com/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 15636,
+        "url": "https://electrobes.com/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "Epro.pk",
-        "price": 14814,
-        "url": "https://epro.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 15255,
+        "url": "https://epro.pk/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "Robostan.pk",
-        "price": 11910,
-        "url": "https://robostan.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 15566,
+        "url": "https://robostan.pk/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "PriceOye.pk",
-        "price": 11500,
-        "url": "https://priceoye.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 14346,
+        "url": "https://priceoye.pk/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "Telemart.pk",
-        "price": 15351,
-        "url": "https://telemart.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 14542,
+        "url": "https://telemart.pk/search?q=Sony+PlayStation+5+Slim"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 13313,
+        "url": "https://ishopping.pk/search?q=Sony+PlayStation+5+Slim"
       },
       {
         "store": "Daraz.pk",
-        "price": 15408,
-        "url": "https://daraz.pk/search?q=A4Tech+Bloody+Gaming+Headset"
+        "price": 11516,
+        "url": "https://daraz.pk/search?q=Sony+PlayStation+5+Slim"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.897965"
+    "last_updated": "2026-01-28T20:22:49.018671"
   },
   {
-    "id": 24,
+    "id": 29,
+    "title": "Logitech G29 Racing Wheel",
+    "brand": "Logitech",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/61IYY8m6K0L.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 12211,
+        "url": "https://digilog.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 15548,
+        "url": "https://electrobes.com/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 13099,
+        "url": "https://epro.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 13780,
+        "url": "https://robostan.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 13570,
+        "url": "https://priceoye.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 15490,
+        "url": "https://telemart.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 12538,
+        "url": "https://ishopping.pk/search?q=Logitech+G29+Racing+Wheel"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 13463,
+        "url": "https://daraz.pk/search?q=Logitech+G29+Racing+Wheel"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:49.023857"
+  },
+  {
+    "id": 30,
     "title": "Haier 1.5 Ton DC Inverter AC",
     "brand": "Haier",
     "category": "appliances",
@@ -1043,44 +1458,99 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 148901,
+        "price": 146220,
         "url": "https://digilog.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
         "store": "Electrobes.com",
-        "price": 147030,
+        "price": 145770,
         "url": "https://electrobes.com/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
         "store": "Epro.pk",
-        "price": 146572,
+        "price": 145874,
         "url": "https://epro.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
         "store": "Robostan.pk",
-        "price": 145076,
+        "price": 147911,
         "url": "https://robostan.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
         "store": "PriceOye.pk",
-        "price": 145943,
+        "price": 145620,
         "url": "https://priceoye.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
         "store": "Telemart.pk",
-        "price": 145150,
+        "price": 148105,
         "url": "https://telemart.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       },
       {
+        "store": "iShopping.pk",
+        "price": 145309,
+        "url": "https://ishopping.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 144643,
+        "price": 144540,
         "url": "https://daraz.pk/search?q=Haier+1.5+Ton+DC+Inverter+AC"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.908103"
+    "last_updated": "2026-01-28T20:22:49.029109"
   },
   {
-    "id": 25,
+    "id": 31,
+    "title": "Gree 1.5 Ton Fairy Inverter AC",
+    "brand": "Gree",
+    "category": "appliances",
+    "image": "https://images.priceoye.pk/gree-1-5-ton-gs-18fith7-inverter-ac-pakistan-priceoye-v6451-500x500.webp",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 13529,
+        "url": "https://digilog.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 11880,
+        "url": "https://electrobes.com/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 14935,
+        "url": "https://epro.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 14920,
+        "url": "https://robostan.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 12449,
+        "url": "https://priceoye.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 12195,
+        "url": "https://telemart.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 13088,
+        "url": "https://ishopping.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12448,
+        "url": "https://daraz.pk/search?q=Gree+1.5+Ton+Fairy+Inverter+AC"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:49.034510"
+  },
+  {
+    "id": 32,
     "title": "Super Asia Room Cooler 5000 Plus",
     "brand": "Super Asia",
     "category": "appliances",
@@ -1088,89 +1558,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 13524,
+        "price": 12488,
         "url": "https://digilog.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
         "store": "Electrobes.com",
-        "price": 14685,
+        "price": 12788,
         "url": "https://electrobes.com/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
         "store": "Epro.pk",
-        "price": 13178,
+        "price": 13265,
         "url": "https://epro.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
         "store": "Robostan.pk",
-        "price": 14551,
+        "price": 11691,
         "url": "https://robostan.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14536,
+        "price": 12856,
         "url": "https://priceoye.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
         "store": "Telemart.pk",
-        "price": 13780,
+        "price": 14498,
         "url": "https://telemart.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       },
       {
+        "store": "iShopping.pk",
+        "price": 12663,
+        "url": "https://ishopping.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12776,
+        "price": 14109,
         "url": "https://daraz.pk/search?q=Super+Asia+Room+Cooler+5000+Plus"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.918601"
+    "last_updated": "2026-01-28T20:22:49.039788"
   },
   {
-    "id": 26,
-    "title": "Sui Gas Heater Double Burner",
-    "brand": "Nasgas",
-    "category": "appliances",
-    "image": "https://nasgas.com/wp-content/uploads/2021/10/heater.jpg",
-    "prices": [
-      {
-        "store": "Digilog.pk",
-        "price": 14668,
-        "url": "https://digilog.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "Electrobes.com",
-        "price": 13548,
-        "url": "https://electrobes.com/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "Epro.pk",
-        "price": 15711,
-        "url": "https://epro.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "Robostan.pk",
-        "price": 15384,
-        "url": "https://robostan.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "PriceOye.pk",
-        "price": 12848,
-        "url": "https://priceoye.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "Telemart.pk",
-        "price": 13294,
-        "url": "https://telemart.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      },
-      {
-        "store": "Daraz.pk",
-        "price": 13673,
-        "url": "https://daraz.pk/search?q=Sui+Gas+Heater+Double+Burner"
-      }
-    ],
-    "last_updated": "2026-01-28T20:21:09.928808"
-  },
-  {
-    "id": 27,
+    "id": 33,
     "title": "Dawlance Refrigerator 9191 WB",
     "brand": "Dawlance",
     "category": "appliances",
@@ -1178,89 +1608,149 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 15110,
+        "price": 14824,
         "url": "https://digilog.pk/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
         "store": "Electrobes.com",
-        "price": 12656,
+        "price": 12710,
         "url": "https://electrobes.com/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
         "store": "Epro.pk",
-        "price": 12351,
+        "price": 13434,
         "url": "https://epro.pk/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
         "store": "Robostan.pk",
-        "price": 13572,
+        "price": 13383,
         "url": "https://robostan.pk/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12419,
+        "price": 12375,
         "url": "https://priceoye.pk/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
         "store": "Telemart.pk",
-        "price": 14752,
+        "price": 11662,
         "url": "https://telemart.pk/search?q=Dawlance+Refrigerator+9191+WB"
       },
       {
+        "store": "iShopping.pk",
+        "price": 15679,
+        "url": "https://ishopping.pk/search?q=Dawlance+Refrigerator+9191+WB"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 14888,
+        "price": 15707,
         "url": "https://daraz.pk/search?q=Dawlance+Refrigerator+9191+WB"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.938994"
+    "last_updated": "2026-01-28T20:22:49.045144"
   },
   {
-    "id": 28,
-    "title": "Electric Quartz Heater 2000W",
-    "brand": "Generic",
+    "id": 34,
+    "title": "Nasgas Sui Gas Heater",
+    "brand": "Nasgas",
     "category": "appliances",
-    "image": "https://m.media-amazon.com/images/I/71Y0P6GqL-L.jpg",
+    "image": "https://nasgas.com/wp-content/uploads/2021/10/heater.jpg",
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14795,
-        "url": "https://digilog.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 11880,
+        "url": "https://digilog.pk/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "Electrobes.com",
-        "price": 14064,
-        "url": "https://electrobes.com/search?q=Electric+Quartz+Heater+2000W"
+        "price": 15706,
+        "url": "https://electrobes.com/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "Epro.pk",
-        "price": 12874,
-        "url": "https://epro.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 13426,
+        "url": "https://epro.pk/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "Robostan.pk",
-        "price": 15421,
-        "url": "https://robostan.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 15544,
+        "url": "https://robostan.pk/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12335,
-        "url": "https://priceoye.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 11574,
+        "url": "https://priceoye.pk/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "Telemart.pk",
-        "price": 12751,
-        "url": "https://telemart.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 13412,
+        "url": "https://telemart.pk/search?q=Nasgas+Sui+Gas+Heater"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 12119,
+        "url": "https://ishopping.pk/search?q=Nasgas+Sui+Gas+Heater"
       },
       {
         "store": "Daraz.pk",
-        "price": 15067,
-        "url": "https://daraz.pk/search?q=Electric+Quartz+Heater+2000W"
+        "price": 12610,
+        "url": "https://daraz.pk/search?q=Nasgas+Sui+Gas+Heater"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.949225"
+    "last_updated": "2026-01-28T20:22:49.050432"
   },
   {
-    "id": 29,
+    "id": 35,
+    "title": "Westpoint Dry Iron Classic",
+    "brand": "Westpoint",
+    "category": "appliances",
+    "image": "https://www.telemart.pk/uploads/product_image/product_1234_1.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 14494,
+        "url": "https://digilog.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 12167,
+        "url": "https://electrobes.com/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 11554,
+        "url": "https://epro.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 15344,
+        "url": "https://robostan.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 15620,
+        "url": "https://priceoye.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 12295,
+        "url": "https://telemart.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 14837,
+        "url": "https://ishopping.pk/search?q=Westpoint+Dry+Iron+Classic"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12870,
+        "url": "https://daraz.pk/search?q=Westpoint+Dry+Iron+Classic"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:49.055706"
+  },
+  {
+    "id": 36,
     "title": "TP-Link Archer C6 WiFi Router",
     "brand": "TP-Link",
     "category": "electronics",
@@ -1268,44 +1758,49 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14700,
+        "price": 15128,
         "url": "https://digilog.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
         "store": "Electrobes.com",
-        "price": 15056,
+        "price": 15438,
         "url": "https://electrobes.com/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
         "store": "Epro.pk",
-        "price": 15990,
+        "price": 13245,
         "url": "https://epro.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
         "store": "Robostan.pk",
-        "price": 12457,
+        "price": 15009,
         "url": "https://robostan.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
         "store": "PriceOye.pk",
-        "price": 12941,
+        "price": 15360,
         "url": "https://priceoye.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
         "store": "Telemart.pk",
-        "price": 11614,
+        "price": 14083,
         "url": "https://telemart.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13958,
+        "url": "https://ishopping.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 11897,
+        "price": 11841,
         "url": "https://daraz.pk/search?q=TP-Link+Archer+C6+WiFi+Router"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.959458"
+    "last_updated": "2026-01-28T20:22:49.061398"
   },
   {
-    "id": 30,
+    "id": 37,
     "title": "Tenda N300 Wireless Router",
     "brand": "Tenda",
     "category": "electronics",
@@ -1313,40 +1808,95 @@
     "prices": [
       {
         "store": "Digilog.pk",
-        "price": 14752,
+        "price": 15975,
         "url": "https://digilog.pk/search?q=Tenda+N300+Wireless+Router"
       },
       {
         "store": "Electrobes.com",
-        "price": 15450,
+        "price": 15351,
         "url": "https://electrobes.com/search?q=Tenda+N300+Wireless+Router"
       },
       {
         "store": "Epro.pk",
-        "price": 12054,
+        "price": 13747,
         "url": "https://epro.pk/search?q=Tenda+N300+Wireless+Router"
       },
       {
         "store": "Robostan.pk",
-        "price": 13558,
+        "price": 15227,
         "url": "https://robostan.pk/search?q=Tenda+N300+Wireless+Router"
       },
       {
         "store": "PriceOye.pk",
-        "price": 14889,
+        "price": 12608,
         "url": "https://priceoye.pk/search?q=Tenda+N300+Wireless+Router"
       },
       {
         "store": "Telemart.pk",
-        "price": 13377,
+        "price": 13877,
         "url": "https://telemart.pk/search?q=Tenda+N300+Wireless+Router"
       },
       {
+        "store": "iShopping.pk",
+        "price": 13502,
+        "url": "https://ishopping.pk/search?q=Tenda+N300+Wireless+Router"
+      },
+      {
         "store": "Daraz.pk",
-        "price": 12631,
+        "price": 13735,
         "url": "https://daraz.pk/search?q=Tenda+N300+Wireless+Router"
       }
     ],
-    "last_updated": "2026-01-28T20:21:09.969664"
+    "last_updated": "2026-01-28T20:22:49.066687"
+  },
+  {
+    "id": 38,
+    "title": "Xiaomi Mi Range Extender",
+    "brand": "Xiaomi",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/31I-g2I-iL.jpg",
+    "prices": [
+      {
+        "store": "Digilog.pk",
+        "price": 14313,
+        "url": "https://digilog.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "Electrobes.com",
+        "price": 11696,
+        "url": "https://electrobes.com/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "Epro.pk",
+        "price": 12851,
+        "url": "https://epro.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "Robostan.pk",
+        "price": 11822,
+        "url": "https://robostan.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "PriceOye.pk",
+        "price": 13524,
+        "url": "https://priceoye.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "Telemart.pk",
+        "price": 14615,
+        "url": "https://telemart.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "iShopping.pk",
+        "price": 14047,
+        "url": "https://ishopping.pk/search?q=Xiaomi+Mi+Range+Extender"
+      },
+      {
+        "store": "Daraz.pk",
+        "price": 12809,
+        "url": "https://daraz.pk/search?q=Xiaomi+Mi+Range+Extender"
+      }
+    ],
+    "last_updated": "2026-01-28T20:22:49.072027"
   }
 ]
