@@ -27,20 +27,25 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      
+
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit changes
+      - name: Commit and Push
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
 
-          # Remote se latest pakro
+          # Remote ka latest commit load karo
           git fetch origin main
-          git reset --soft origin/main   # Yeh important fix hai
 
+          # HEAD ko remote main par point kar do
+          git reset --mixed origin/main
+
+          # Ab tumhare naye changes staging me chalay jayenge
           git add -A
-          git commit -m "Auto-update prices" || echo "No changes"
 
+          git commit -m "Auto-update prices" || echo "No changes"
+          
+          # Push direct to main
           git push origin HEAD:main
