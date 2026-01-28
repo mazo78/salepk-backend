@@ -2,34 +2,46 @@ name: Daily Price Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Rozana raat 12 baje khud chalega
-  workflow_dispatch: # Manually chalane ke liye
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Manual trigger option
 
 jobs:
-  build:
+  scrape-and-update:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
-
+        with:
+          fetch-depth: 0
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
-
+          python-version: '3.11'
+      
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
-
-      - name: Run Scraper
-        run: python scraper.py
-
-      - name: Commit and Push changes
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+      
+      - name: Run scraper
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git fetch origin main
-          git reset --mixed origin/main
+          python scraper.py
+        continue-on-error: true
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet products.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
           git add products.json
-          git commit -m "Auto-update: Latest prices fetched" || exit 0
-          git push origin main --force
+          git commit -m "🔄 Auto-update: Latest prices $(date +'%Y-%m-%d %H:%M')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
