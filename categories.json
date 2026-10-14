@@ -1,0 +1,159 @@
+{
+  "updated": "2026-10-14T12:24:19.600681+00:00",
+  "categories": [
+    {
+      "slug": "graphics-cards",
+      "name": "Graphics Cards",
+      "name_ur": "گرافکس کارڈ",
+      "file": "graphics-cards.json",
+      "count": 62,
+      "min_price": 3400,
+      "stores": [
+        "ZAH Computers"
+      ],
+      "subcategories": [
+        {
+          "slug": "nvidia",
+          "name": "NVIDIA GeForce",
+          "count": 48
+        },
+        {
+          "slug": "amd",
+          "name": "AMD Radeon",
+          "count": 12
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "tvs",
+      "name": "LED / LCD TVs",
+      "name_ur": "ٹی وی",
+      "file": "tvs.json",
+      "count": 173,
+      "min_price": 37000,
+      "stores": [
+        "Japan Electronics"
+      ],
+      "subcategories": [
+        {
+          "slug": "qled-oled",
+          "name": "QLED / OLED / Mini-LED",
+          "count": 19
+        },
+        {
+          "slug": "4k-smart",
+          "name": "4K Smart TV",
+          "count": 40
+        },
+        {
+          "slug": "smart",
+          "name": "Smart / Android TV",
+          "count": 10
+        },
+        {
+          "slug": "led",
+          "name": "LED TV",
+          "count": 104
+        }
+      ]
+    },
+    {
+      "slug": "electronics-modules",
+      "name": "Electronics Modules & Boards",
+      "name_ur": "الیکٹرانکس ماڈیول",
+      "file": "electronics-modules.json",
+      "count": 249,
+      "min_price": 10,
+      "stores": [
+        "Digilog"
+      ],
+      "subcategories": [
+        {
+          "slug": "raspberry-pi",
+          "name": "Raspberry Pi / SBC",
+          "count": 3
+        },
+        {
+          "slug": "arduino",
+          "name": "Arduino Boards",
+          "count": 6
+        },
+        {
+          "slug": "wireless-comm",
+          "name": "Wireless & Communication",
+          "count": 4
+        },
+        {
+          "slug": "sensors",
+          "name": "Sensors",
+          "count": 4
+        },
+        {
+          "slug": "displays",
+          "name": "Displays (LCD / OLED / TFT)",
+          "count": 4
+        },
+        {
+          "slug": "leds",
+          "name": "LEDs & LED Strips",
+          "count": 1
+        },
+        {
+          "slug": "motor-drivers",
+          "name": "Motor Drivers",
+          "count": 2
+        },
+        {
+          "slug": "motors",
+          "name": "Motors & Servos",
+          "count": 2
+        },
+        {
+          "slug": "relays-switching",
+          "name": "Relays & Switching",
+          "count": 3
+        },
+        {
+          "slug": "batteries",
+          "name": "Batteries & Cells",
+          "count": 7
+        },
+        {
+          "slug": "audio",
+          "name": "Audio Modules & Amplifiers",
+          "count": 1
+        },
+        {
+          "slug": "components",
+          "name": "Components (R / C / ICs)",
+          "count": 20
+        },
+        {
+          "slug": "tools",
+          "name": "Tools (Soldering / Meters)",
+          "count": 29
+        },
+        {
+          "slug": "robotics-3d",
+          "name": "Robotics, RC & 3D Printing",
+          "count": 1
+        },
+        {
+          "slug": "kits",
+          "name": "Kits",
+          "count": 1
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 161
+        }
+      ]
+    }
+  ]
+}
