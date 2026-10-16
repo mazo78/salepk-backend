@@ -1,5 +1,226 @@
 [
   {
+    "title": "OKTRA 19 Inch Premium HD LED TV (K568-19)",
+    "brand": "Oktra",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 10499,
+        "url": "https://priceoye.pk/led-tv/oktra/oktra-19-inch-premium-hd-led-tv-k568-19",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813731+00:00",
+    "id": 1
+  },
+  {
+    "title": "Samsung 20 Inch HD LED TV (20J4003)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 17099,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-20-inch-hd-led-tv-20j4003",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703320+00:00",
+    "id": 2
+  },
+  {
+    "title": "EcoStar 32 Inch 568 Series LED TV (CX32U568A)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 26190,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-32-inch-568-series-tv-cx32u568a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160431+00:00",
+    "id": 3
+  },
+  {
+    "title": "Orient 32 Inch Falcon HD LED TV",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 26370,
+        "url": "https://priceoye.pk/led-tv/orient/orient-32-inch-falcon-hd-led-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702672+00:00",
+    "id": 4
+  },
+  {
+    "title": "Sharp 32 Inch HD Smart LED TV (LC32LE185M)",
+    "brand": "Sharp",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 27900,
+        "url": "https://priceoye.pk/led-tv/sharp/sharp-32-inch-hd-led-tv-lc32le185m",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703527+00:00",
+    "id": 5
+  },
+  {
+    "title": "Changhong Ruba 32 Inch Smart LED TV (L32H7Ki)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 28255,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-smart-led-tv-l32h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703839+00:00",
+    "id": 6
+  },
+  {
+    "title": "OKTRA 24 Inch Premium HD LED TV (K568-24)",
+    "brand": "Oktra",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 29499,
+        "url": "https://priceoye.pk/led-tv/oktra/oktra-24-inch-premium-hd-led-tv-k568-24",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813932+00:00",
+    "id": 7
+  },
+  {
+    "title": "EcoStar 40 Inch LED TV (CX40U545)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 29699,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-40-inch-led-tv-cx-40u545",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702785+00:00",
+    "id": 8
+  },
+  {
+    "title": "Orient 32 Inch Macaw HD LED TV",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 30499,
+        "url": "https://priceoye.pk/led-tv/orient/orient-32-inch-macaw-hd-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.159503+00:00",
+    "id": 9
+  },
+  {
+    "title": "Changhong Ruba 32 Inch Smart LED TV (32F5800i)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 32200,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-smart-led-tv-32f5800i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160312+00:00",
+    "id": 10
+  },
+  {
+    "title": "Orient 40 Inch Jaguar FHD LED TV",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 32500,
+        "url": "https://priceoye.pk/led-tv/orient/orient-40-inch-jaguar-fhd-led-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704257+00:00",
+    "id": 11
+  },
+  {
+    "title": "EcoStar 32 Inch Sound Pro LED TV(CX32U575)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 35500,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-32-inch-sound-pro-led-tv-cx32u575",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185971+00:00",
+    "id": 12
+  },
+  {
+    "title": "Hisense 40 Inch HD LED TV (40N2173)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 35990,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-40-inch-hd-led-tv-40n2173",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702136+00:00",
+    "id": 13
+  },
+  {
     "title": "Dawlance LED TV 32 Inch E3A-HD",
     "brand": "Dawlance",
     "category": "tvs",
@@ -14,8 +235,127 @@
         "old_price": 45800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524099+00:00",
-    "id": 1
+    "last_updated": "2026-10-14T12:30:10.946352+00:00",
+    "id": 14
+  },
+  {
+    "title": "Akira 43 Inch HD LED TV (43MG430)",
+    "brand": "Akira",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 37900,
+        "url": "https://priceoye.pk/led-tv/akira/akira-43-inch-hd-led-tv-43mg430",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162936+00:00",
+    "id": 15
+  },
+  {
+    "title": "Hisense 43 Inch HD LED TV (43N2173)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 38820,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-43-inch-hd-led-tv-43n2173",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702547+00:00",
+    "id": 16
+  },
+  {
+    "title": "Ecostar 40 Inch Smart HD LED TV (CX40U852)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 39900,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-40-inch-smart-hd-led-tv-cx-40u852",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162836+00:00",
+    "id": 17
+  },
+  {
+    "title": "MULTYNET 32 Inch Androidtv (32NX7)",
+    "brand": "Multynet",
+    "category": "tvs",
+    "subcategory": "other",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 39900,
+        "url": "https://priceoye.pk/led-tv/multynet/multynet-32-inch-androidtv-32nx7",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814269+00:00",
+    "id": 18
+  },
+  {
+    "title": "Haier 32 Inch Smart HD LED TV (LE32K6600G)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 39999,
+        "url": "https://priceoye.pk/led-tv/haier/haier-32-inch-smart-hd-led-tv-le32k6600g",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.705017+00:00",
+    "id": 19
+  },
+  {
+    "title": "Orient 40 Inch FHD Falcon LED TV",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 40499,
+        "url": "https://priceoye.pk/led-tv/orient/orient-40-inch-fhd-falcon-led-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703941+00:00",
+    "id": 20
+  },
+  {
+    "title": "Sony 32 Inch HD Smart LED TV (32W600D)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 40500,
+        "url": "https://priceoye.pk/led-tv/sony/sony-32-inch-hd-32w600d-s",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.159792+00:00",
+    "id": 21
   },
   {
     "title": "Beetro LED TV 32 Inch (TJ-32S7452) Android (Bezel Less)",
@@ -32,8 +372,59 @@
         "old_price": 43300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525175+00:00",
-    "id": 2
+    "last_updated": "2026-10-14T12:30:10.948838+00:00",
+    "id": 22
+  },
+  {
+    "title": "Hisense 40 Inch Smart FHD LED TV (40N2179)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 41400,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-40-inch-smart-full-hd-led-tv-40n2179",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702289+00:00",
+    "id": 23
+  },
+  {
+    "title": "Sony 32 Inch HD LED TV (KLV32R302E)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 41499,
+        "url": "https://priceoye.pk/led-tv/sony/sony-32-inch-klv-32r302e",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.159651+00:00",
+    "id": 24
+  },
+  {
+    "title": "Changhong Ruba 43 Inch FHD LED TV (43G3SM)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 44300,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-43-inch-full-hd-led-tv-43g3sm",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160546+00:00",
+    "id": 25
   },
   {
     "title": "IFFALCON LED 32\" 32S55A (QLED)",
@@ -50,8 +441,42 @@
         "old_price": 50500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526070+00:00",
-    "id": 3
+    "last_updated": "2026-10-14T12:30:10.950209+00:00",
+    "id": 26
+  },
+  {
+    "title": "Hisense 43 Inch FHD Smart LED TV (43N2179)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 46969,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-43-inch-full-smart-hd-led-tv-43n2179",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.701937+00:00",
+    "id": 27
+  },
+  {
+    "title": "Hisense 43 Inch FHD Smart LED TV (E5600EX)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 47990,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-43-inch-fhd-smart-led-tv-e5600ex",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704612+00:00",
+    "id": 28
   },
   {
     "title": "Xiaomi LED 32\" 32A 2026",
@@ -68,8 +493,25 @@
         "old_price": 53600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525128+00:00",
-    "id": 4
+    "last_updated": "2026-10-14T12:30:10.948773+00:00",
+    "id": 29
+  },
+  {
+    "title": "Changhong Ruba 32 Inch FHD LED TV (L32H7KI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 48999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-hd-led-tv-l32h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.182978+00:00",
+    "id": 30
   },
   {
     "title": "Hisense LED 32\" 32A4N (FHD Google TV)",
@@ -86,8 +528,8 @@
         "old_price": 52600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524224+00:00",
-    "id": 5
+    "last_updated": "2026-10-14T12:30:10.946809+00:00",
+    "id": 31
   },
   {
     "title": "Haier LED 32\" H32K85GX (Google TV)",
@@ -104,8 +546,25 @@
         "old_price": 57800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525565+00:00",
-    "id": 6
+    "last_updated": "2026-10-14T12:30:10.949618+00:00",
+    "id": 32
+  },
+  {
+    "title": "OKTRA 40 Inch Smart HD LED TV (K569S-40)",
+    "brand": "Oktra",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 50000,
+        "url": "https://priceoye.pk/led-tv/oktra/oktra-40-inch-smart-hd-led-tv-k569s-40",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814403+00:00",
+    "id": 33
   },
   {
     "title": "TCL LED 32\" 32S51K (Q LED)",
@@ -122,8 +581,8 @@
         "old_price": 59000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524533+00:00",
-    "id": 7
+    "last_updated": "2026-10-14T12:30:10.947190+00:00",
+    "id": 34
   },
   {
     "title": "Haier LED 32\" H32S80EFX",
@@ -140,8 +599,8 @@
         "old_price": 62000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524161+00:00",
-    "id": 8
+    "last_updated": "2026-10-14T12:30:10.946586+00:00",
+    "id": 35
   },
   {
     "title": "Haier LED 32\" H32S80GFX (Q LED)",
@@ -158,8 +617,59 @@
         "old_price": 62000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525867+00:00",
-    "id": 9
+    "last_updated": "2026-10-14T12:30:10.949971+00:00",
+    "id": 36
+  },
+  {
+    "title": "Samsung 40 Inch HD Smart LED TV (40N5300)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 53000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-40-inch-smart-led-tv-40n5300",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162114+00:00",
+    "id": 37
+  },
+  {
+    "title": "Hisense 49 Inch HD LED TV (49M2160)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 53340,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-49-inch-hd-led-tv-49m2160",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.701779+00:00",
+    "id": 38
+  },
+  {
+    "title": "Haier 32 Inch FHD LED TV (H32D2M)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 54999,
+        "url": "https://priceoye.pk/led-tv/haier/haier-32-inch-fhd-led-tv-h32d2m",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185438+00:00",
+    "id": 39
   },
   {
     "title": "TCL LED 32\" 32S59K (Q LED)",
@@ -176,8 +686,42 @@
         "old_price": 64300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524544+00:00",
-    "id": 10
+    "last_updated": "2026-10-14T12:30:10.947215+00:00",
+    "id": 40
+  },
+  {
+    "title": "Aiwa 43 Inch 4K Android Smart TV",
+    "brand": "Aiwa",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 56999,
+        "url": "https://priceoye.pk/led-tv/aiwa/aiwa-43-inch-4k-android-smart-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814510+00:00",
+    "id": 41
+  },
+  {
+    "title": "Hisense 43 Inch 4K UHD Smart LED TV (43A6100)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 57889,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-43-inch-uhd-4k-smart-led-tv-43a6100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702427+00:00",
+    "id": 42
   },
   {
     "title": "IFFALCON LED 40\" 40S55A (QLED)",
@@ -194,8 +738,8 @@
         "old_price": 67300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526079+00:00",
-    "id": 11
+    "last_updated": "2026-10-14T12:30:10.950219+00:00",
+    "id": 43
   },
   {
     "title": "Haier LED TV 40 Inch H40K800FX (Android Google TV)",
@@ -212,8 +756,42 @@
         "old_price": 73700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525186+00:00",
-    "id": 12
+    "last_updated": "2026-10-14T12:30:10.948873+00:00",
+    "id": 44
+  },
+  {
+    "title": "PEL 49 Inch Full HD LED TV",
+    "brand": "Pel",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 62899,
+        "url": "https://priceoye.pk/led-tv/pel/pel-49-inch-full-hd-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161338+00:00",
+    "id": 45
+  },
+  {
+    "title": "Changhong Ruba 43 Inch 4K UHD Smart LED TV (U43G7Si)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 63399,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-43-inch-4k-uhd-smart-led-tv-u43g7si",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.702937+00:00",
+    "id": 46
   },
   {
     "title": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
@@ -230,8 +808,8 @@
         "old_price": 67400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524825+00:00",
-    "id": 13
+    "last_updated": "2026-10-14T12:30:10.947932+00:00",
+    "id": 47
   },
   {
     "title": "Ecostar LED 40\" CX-40Q874 (Q-LED)",
@@ -248,8 +826,42 @@
         "old_price": 68400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524850+00:00",
-    "id": 14
+    "last_updated": "2026-10-14T12:30:10.948014+00:00",
+    "id": 48
+  },
+  {
+    "title": "Pel 43 Inch ColorOn Full HD LED Smart TV",
+    "brand": "Pel",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 64900,
+        "url": "https://priceoye.pk/led-tv/pel/pel-43-inch-coloron-full-hd-led-smart-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813536+00:00",
+    "id": 49
+  },
+  {
+    "title": "TCL 49 Inch FHD Smart LED TV (L49S6500)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 65499,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-49-inch-full-hd-smart-led-tv-l49s6500",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.158842+00:00",
+    "id": 50
   },
   {
     "title": "Haier LED 40\" 40K85FFX",
@@ -266,8 +878,8 @@
         "old_price": 76800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525084+00:00",
-    "id": 15
+    "last_updated": "2026-10-14T12:30:10.948704+00:00",
+    "id": 51
   },
   {
     "title": "Hisense LED 40\" 40A4Q (FHD Google TV)",
@@ -284,8 +896,8 @@
         "old_price": 70500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525974+00:00",
-    "id": 16
+    "last_updated": "2026-10-14T12:30:10.950097+00:00",
+    "id": 52
   },
   {
     "title": "IFFALCON LED 43\" 43S55A (QLED)",
@@ -302,8 +914,25 @@
         "old_price": 76800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526259+00:00",
-    "id": 17
+    "last_updated": "2026-10-14T12:30:10.950336+00:00",
+    "id": 53
+  },
+  {
+    "title": "MULTYNET 50 Inch Android TV (50SU7)",
+    "brand": "Multynet",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 68200,
+        "url": "https://priceoye.pk/led-tv/multynet/multynet-50-inch-android-tv-50su7",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813831+00:00",
+    "id": 54
   },
   {
     "title": "TCL LED 40\" 40S51K (Q LED)",
@@ -320,8 +949,76 @@
         "old_price": 77900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524556+00:00",
-    "id": 18
+    "last_updated": "2026-10-14T12:30:10.947238+00:00",
+    "id": 55
+  },
+  {
+    "title": "Changhong Ruba 40 Inch HD LED TV (L40H7Ni)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 69999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-40-inch-hd-led-tv-l40h7ni",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183277+00:00",
+    "id": 56
+  },
+  {
+    "title": "TCL 55 Inch FHD Smart LED TV (55S62)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 70000,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-fhd-smart-led-tv-55s62",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703170+00:00",
+    "id": 57
+  },
+  {
+    "title": "Sony 40 Inch HD Smart LED TV (40W652)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 71999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-40-inch-smart-led-tv-40w652",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162431+00:00",
+    "id": 58
+  },
+  {
+    "title": "Sony Bravia 43 Inch FHD Smart LED TV (KDL43W800G)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 71999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-bravia-43-inch-fhd-smart-led-tv-kdl43w800g",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704719+00:00",
+    "id": 59
   },
   {
     "title": "Haier LED 43\" H43K85FFX (Android Google TV)",
@@ -338,8 +1035,25 @@
         "old_price": 86300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524732+00:00",
-    "id": 19
+    "last_updated": "2026-10-14T12:30:10.947668+00:00",
+    "id": 60
+  },
+  {
+    "title": "Changhong Ruba 43 Inch UHD LED TV (L43H7KI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 73999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-43-inch-uhd-led-tv-l43h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.705210+00:00",
+    "id": 61
   },
   {
     "title": "Haier LED 43\" H43K800FX",
@@ -356,8 +1070,8 @@
         "old_price": 84200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524133+00:00",
-    "id": 20
+    "last_updated": "2026-10-14T12:30:10.946406+00:00",
+    "id": 62
   },
   {
     "title": "ECOSTAR LED 43\" CX-43Q874",
@@ -374,8 +1088,25 @@
         "old_price": 79900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524909+00:00",
-    "id": 21
+    "last_updated": "2026-10-14T12:30:10.948167+00:00",
+    "id": 63
+  },
+  {
+    "title": "Samsung 49 Inch Series 5 HD Smart LED TV (49N5300)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 75800,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-49-inch-hd-smart-led-tv-49n5300",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161971+00:00",
+    "id": 64
   },
   {
     "title": "Xiaomi LED 43\" 43A 2026 (FHD Android)",
@@ -392,8 +1123,25 @@
         "old_price": 84200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525656+00:00",
-    "id": 22
+    "last_updated": "2026-10-14T12:30:10.949724+00:00",
+    "id": 65
+  },
+  {
+    "title": "LG 43 Inch HD LED TV (43UK6300)",
+    "brand": "Lg",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 76500,
+        "url": "https://priceoye.pk/led-tv/lg/lg-43-inch-hd-43uk6300",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160079+00:00",
+    "id": 66
   },
   {
     "title": "TCL LED 40\" 40S59K (Q LED)",
@@ -410,8 +1158,25 @@
         "old_price": 86400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524569+00:00",
-    "id": 23
+    "last_updated": "2026-10-14T12:30:10.947260+00:00",
+    "id": 67
+  },
+  {
+    "title": "EcoStar 55 Inch 4K Smart LED TV (CX55UD921P)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 76900,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-55-inch-4k-smart-led-tv-cx55ud921p",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160999+00:00",
+    "id": 68
   },
   {
     "title": "Hisense LED 43\" 43A6K (4K UHD Google TV)",
@@ -428,8 +1193,25 @@
         "old_price": 115700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524235+00:00",
-    "id": 24
+    "last_updated": "2026-10-14T12:30:10.946832+00:00",
+    "id": 69
+  },
+  {
+    "title": "Hisense 50 Inch 4K UHD Smart LED TV (50U7A)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 77399,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-50-inch-uhd-4k-smart-led-tv-with-warranty-50u7a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.163286+00:00",
+    "id": 70
   },
   {
     "title": "TCL LED 43\" 43S51K (Q LED)",
@@ -446,8 +1228,42 @@
         "old_price": 88500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524592+00:00",
-    "id": 25
+    "last_updated": "2026-10-14T12:30:10.947305+00:00",
+    "id": 71
+  },
+  {
+    "title": "Aiwa 50 inch 4k led flat smart tv",
+    "brand": "Aiwa",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 78999,
+        "url": "https://priceoye.pk/led-tv/aiwa/aiwa-50-inch-4k-led-flat-smart-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814607+00:00",
+    "id": 72
+  },
+  {
+    "title": "Haier 50 Inch LED TV (50U6900)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 79854,
+        "url": "https://priceoye.pk/led-tv/haier/haier-50-inch-led-tv-50u6900",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703737+00:00",
+    "id": 73
   },
   {
     "title": "Hisense LED 43\" 43Q6N (Q LED)",
@@ -464,8 +1280,25 @@
         "old_price": 116400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524838+00:00",
-    "id": 26
+    "last_updated": "2026-10-14T12:30:10.947960+00:00",
+    "id": 74
+  },
+  {
+    "title": "Samsung 32 Inch HD Flat Smart TV (T5300)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 79999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-32-inch-hd-flat-smart-tv-t5300",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184700+00:00",
+    "id": 75
   },
   {
     "title": "MULTYNET LED 43\" 43AR7 (ANDROID GOOGLE TV)",
@@ -482,8 +1315,8 @@
         "old_price": 84800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525768+00:00",
-    "id": 27
+    "last_updated": "2026-10-14T12:30:10.949859+00:00",
+    "id": 76
   },
   {
     "title": "IFFALCON LED 50\" 50S55A (QLED)",
@@ -500,8 +1333,42 @@
         "old_price": 91500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526089+00:00",
-    "id": 28
+    "last_updated": "2026-10-14T12:30:10.950230+00:00",
+    "id": 77
+  },
+  {
+    "title": "Changhong Ruba 50 Inch Smart LED TV (U50H7Ki)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 82600,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-50-inch-smart-led-tv-u50h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704138+00:00",
+    "id": 78
+  },
+  {
+    "title": "TCL 55 Inch 4K UHD Smart LED TV (P8US)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 83999,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-4k-uhd-smart-led-tv-p8",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703632+00:00",
+    "id": 79
   },
   {
     "title": "TCL LED 43\" 43S59K (Q LED)",
@@ -518,8 +1385,8 @@
         "old_price": 95800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524604+00:00",
-    "id": 29
+    "last_updated": "2026-10-14T12:30:10.947326+00:00",
+    "id": 80
   },
   {
     "title": "Samsung LED 43\" UA-43F6000FUSMM",
@@ -536,8 +1403,25 @@
         "old_price": 91600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526039+00:00",
-    "id": 30
+    "last_updated": "2026-10-14T12:30:10.950170+00:00",
+    "id": 81
+  },
+  {
+    "title": "LG 49 Inch Smart LED TV (49LK6100)",
+    "brand": "Lg",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 86000,
+        "url": "https://priceoye.pk/led-tv/lg/lg-49-inch-smart-led-tv-49lk6100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160661+00:00",
+    "id": 82
   },
   {
     "title": "ECOSTAR LED 43\" CX-43Q964 (4K Q-LED)",
@@ -554,8 +1438,8 @@
         "old_price": 97800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525901+00:00",
-    "id": 31
+    "last_updated": "2026-10-14T12:30:10.950008+00:00",
+    "id": 83
   },
   {
     "title": "IFFALCON LED 43\" 43U65A Pro (QLED)",
@@ -572,8 +1456,25 @@
         "old_price": 95700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526383+00:00",
-    "id": 32
+    "last_updated": "2026-10-14T12:30:10.950346+00:00",
+    "id": 84
+  },
+  {
+    "title": "Sony Bravia 49 Inch FHD Smart LED TV (KDL49W800G)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 88499,
+        "url": "https://priceoye.pk/led-tv/sony/sony-bravia-49-inch-fhd-smart-led-tv-kdl49w800g",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704819+00:00",
+    "id": 85
   },
   {
     "title": "Haier LED 50\" 50S80GFX (Q LED)",
@@ -590,8 +1491,8 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525814+00:00",
-    "id": 33
+    "last_updated": "2026-10-14T12:30:10.949912+00:00",
+    "id": 86
   },
   {
     "title": "Haier LED 50\" 50S81GFX (QLED)",
@@ -608,8 +1509,42 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525921+00:00",
-    "id": 34
+    "last_updated": "2026-10-14T12:30:10.950036+00:00",
+    "id": 87
+  },
+  {
+    "title": "Changhong Ruba 55 Inches 4K UHD Smart LED TV (U55G7SI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 89399,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-55-inch-4k-smart-led-tv-u55g7si",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160200+00:00",
+    "id": 88
+  },
+  {
+    "title": "Changhong Ruba 50 Inch UHD LED TV (U50H7KI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 89999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-50-inch-uhd-led-tv-u50h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.705306+00:00",
+    "id": 89
   },
   {
     "title": "Dawlance LED TV 50 Inch G3A Pro",
@@ -626,8 +1561,8 @@
         "old_price": 118500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524083+00:00",
-    "id": 35
+    "last_updated": "2026-10-14T12:30:10.946329+00:00",
+    "id": 90
   },
   {
     "title": "Dawlance LED TV 50 Inch 50G22",
@@ -644,8 +1579,8 @@
         "old_price": 113200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524038+00:00",
-    "id": 36
+    "last_updated": "2026-10-14T12:30:10.946296+00:00",
+    "id": 91
   },
   {
     "title": "Haier LED 43\" 43S80EUX (Q LED)",
@@ -662,8 +1597,8 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524720+00:00",
-    "id": 37
+    "last_updated": "2026-10-14T12:30:10.947631+00:00",
+    "id": 92
   },
   {
     "title": "Haier LED 43\" 43S81EUX (Q LED)",
@@ -680,8 +1615,8 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525097+00:00",
-    "id": 38
+    "last_updated": "2026-10-14T12:30:10.948727+00:00",
+    "id": 93
   },
   {
     "title": "TCL LED 50 50S51K (Q LED)",
@@ -698,8 +1633,25 @@
         "old_price": 104200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524863+00:00",
-    "id": 39
+    "last_updated": "2026-10-14T12:30:10.948049+00:00",
+    "id": 94
+  },
+  {
+    "title": "Hisense 50 Inch Smart LED TV(A7400F)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 92900,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-50-inch-smart-led-tv-a7400f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814816+00:00",
+    "id": 95
   },
   {
     "title": "Xiaomi LED 43\" 43A PRO 2026 (Q LED)",
@@ -716,8 +1668,25 @@
         "old_price": 105200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525668+00:00",
-    "id": 40
+    "last_updated": "2026-10-14T12:30:10.949739+00:00",
+    "id": 96
+  },
+  {
+    "title": "Sony 49 Inch 4K Smart LED TV (KD49X7000F)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 92999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-49-inch-4k-kd-49x7000f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.159121+00:00",
+    "id": 97
   },
   {
     "title": "TCL LED 43\" 43P79K (Q LED)",
@@ -734,8 +1703,25 @@
         "old_price": 110500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524580+00:00",
-    "id": 41
+    "last_updated": "2026-10-14T12:30:10.947283+00:00",
+    "id": 98
+  },
+  {
+    "title": "Orient 50 Inch 4K UHD Fantasy Smart LED TV (50S)",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 94500,
+        "url": "https://priceoye.pk/led-tv/orient/orient-fantasy-50-inch-4k-uhd-smart-led-tv-fanuhd50s",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703064+00:00",
+    "id": 99
   },
   {
     "title": "Samsung LED 43\" UA43T5300AUSMM (Smart)",
@@ -752,8 +1738,25 @@
         "old_price": 100000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524113+00:00",
-    "id": 42
+    "last_updated": "2026-10-14T12:30:10.946374+00:00",
+    "id": 100
+  },
+  {
+    "title": "EcoStar 65 Inch FHD LED TV (CX65U565)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 95000,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-65-inch-full-hd-led-tv-cx65u565",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162220+00:00",
+    "id": 101
   },
   {
     "title": "TCL LED 50\" 50S59K",
@@ -770,8 +1773,8 @@
         "old_price": 109400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525052+00:00",
-    "id": 43
+    "last_updated": "2026-10-14T12:30:10.948645+00:00",
+    "id": 102
   },
   {
     "title": "Hisense LED 43\" 43Q6Q (4K Q LED)",
@@ -788,8 +1791,8 @@
         "old_price": 106300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525985+00:00",
-    "id": 44
+    "last_updated": "2026-10-14T12:30:10.950110+00:00",
+    "id": 103
   },
   {
     "title": "TCL LED 43\" 43T6D (Q LED)",
@@ -806,8 +1809,42 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525610+00:00",
-    "id": 45
+    "last_updated": "2026-10-14T12:30:10.949674+00:00",
+    "id": 104
+  },
+  {
+    "title": "EcoStar 55 Inch 4K Smart LED TV (CX55UD930P)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 99800,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-55-inch-4k-smart-led-tv-cx55ud930p",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161234+00:00",
+    "id": 105
+  },
+  {
+    "title": "EcoStar 65 Inch 4K Smart LED TV (CX65UD921P)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 99900,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-65-inch-4k-smart-led-tv-cx65ud921p",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160893+00:00",
+    "id": 106
   },
   {
     "title": "Ecostar LED 50\" CX-50Q966 (Q-LED)",
@@ -824,8 +1861,8 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524499+00:00",
-    "id": 46
+    "last_updated": "2026-10-14T12:30:10.947112+00:00",
+    "id": 107
   },
   {
     "title": "Ecostar LED 50\" CX-50Q964",
@@ -842,8 +1879,42 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524920+00:00",
-    "id": 47
+    "last_updated": "2026-10-14T12:30:10.948192+00:00",
+    "id": 108
+  },
+  {
+    "title": "Sony 49 Inch 4K Smart LED TV (49X7500F)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 99999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-49-inch-4k-49x7500f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.159908+00:00",
+    "id": 109
+  },
+  {
+    "title": "TCL 55 Inch 4K LED TV (P615)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 100000,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-4k-led-tv-p615",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185018+00:00",
+    "id": 110
   },
   {
     "title": "Hisense LED 50\" 50A6K (4K UHD Google TV)",
@@ -860,8 +1931,8 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524246+00:00",
-    "id": 48
+    "last_updated": "2026-10-14T12:30:10.946857+00:00",
+    "id": 111
   },
   {
     "title": "IFFALCON LED 50\" 50U65A Pro (QLED)",
@@ -878,8 +1949,8 @@
         "old_price": 114700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526098+00:00",
-    "id": 49
+    "last_updated": "2026-10-14T12:30:10.950259+00:00",
+    "id": 112
   },
   {
     "title": "Dawlance LED TV 55 Inch 55G22",
@@ -896,8 +1967,42 @@
         "old_price": 129000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524487+00:00",
-    "id": 50
+    "last_updated": "2026-10-14T12:30:10.947031+00:00",
+    "id": 113
+  },
+  {
+    "title": "Samsung 50 Inch TU7000 Crystal UHD 4K Smart TV",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 106049,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-50-inch-tu7000-crystal-uhd-4k-smart-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184600+00:00",
+    "id": 114
+  },
+  {
+    "title": "Hisense 55 Inch 4K UHD Smart LED TV (55U7A)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 106767,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-55-inch-uhd-4k-smart-led-tv-55u7a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.163197+00:00",
+    "id": 115
   },
   {
     "title": "Samsung LED 43\" CY-43U8000FUSMM (4K + Smart)",
@@ -914,8 +2019,8 @@
         "old_price": 113700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525599+00:00",
-    "id": 51
+    "last_updated": "2026-10-14T12:30:10.949661+00:00",
+    "id": 116
   },
   {
     "title": "Haier LED 50\" 50S80EUX (Q LED)",
@@ -932,8 +2037,8 @@
         "old_price": 127300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524200+00:00",
-    "id": 52
+    "last_updated": "2026-10-14T12:30:10.946750+00:00",
+    "id": 117
   },
   {
     "title": "Haier LED 50\" 50S81EUX (Q LED)",
@@ -950,8 +2055,8 @@
         "old_price": 127300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524743+00:00",
-    "id": 53
+    "last_updated": "2026-10-14T12:30:10.947699+00:00",
+    "id": 118
   },
   {
     "title": "Haier LED 50\" 50S80GUX (Q LED)",
@@ -968,8 +2073,25 @@
         "old_price": 127300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525824+00:00",
-    "id": 54
+    "last_updated": "2026-10-14T12:30:10.949924+00:00",
+    "id": 119
+  },
+  {
+    "title": "TCL 55 Inch 4K LED TV (P725)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 109500,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-4k-led-tv-p725",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185112+00:00",
+    "id": 120
   },
   {
     "title": "ECOSTAR LED 55\" CX-55Q964 (Q-LED)",
@@ -986,8 +2108,8 @@
         "old_price": 127900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524510+00:00",
-    "id": 55
+    "last_updated": "2026-10-14T12:30:10.947139+00:00",
+    "id": 121
   },
   {
     "title": "ECOSTAR LED 55\" CX-55Q966 (Q-LED)",
@@ -1004,8 +2126,8 @@
         "old_price": 127900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524521+00:00",
-    "id": 56
+    "last_updated": "2026-10-14T12:30:10.947167+00:00",
+    "id": 122
   },
   {
     "title": "TCL LED 55\" 55P6K (4K UHD)",
@@ -1022,8 +2144,8 @@
         "old_price": 126300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524627+00:00",
-    "id": 57
+    "last_updated": "2026-10-14T12:30:10.947377+00:00",
+    "id": 123
   },
   {
     "title": "Hisense LED 50\" 50Q6N (Q LED)",
@@ -1040,8 +2162,8 @@
         "old_price": 156400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524875+00:00",
-    "id": 58
+    "last_updated": "2026-10-14T12:30:10.948085+00:00",
+    "id": 124
   },
   {
     "title": "TCL LED 43\" 43P79L",
@@ -1058,8 +2180,8 @@
         "old_price": 124200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525259+00:00",
-    "id": 59
+    "last_updated": "2026-10-14T12:30:10.949053+00:00",
+    "id": 125
   },
   {
     "title": "TCL LED 43\" 43P7L (Q LED)",
@@ -1076,8 +2198,8 @@
         "old_price": 124200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526061+00:00",
-    "id": 60
+    "last_updated": "2026-10-14T12:30:10.950198+00:00",
+    "id": 126
   },
   {
     "title": "Haier LED 50\" H50S5UG PRO (4K Android)",
@@ -1094,8 +2216,8 @@
         "old_price": 124300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524212+00:00",
-    "id": 61
+    "last_updated": "2026-10-14T12:30:10.946783+00:00",
+    "id": 127
   },
   {
     "title": "Skyworth LED 55\" 55Q6600G-QLED",
@@ -1112,8 +2234,8 @@
         "old_price": 142200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524451+00:00",
-    "id": 62
+    "last_updated": "2026-10-14T12:30:10.946965+00:00",
+    "id": 128
   },
   {
     "title": "HISENSE LED 55\" 55A6N (4K UHD)",
@@ -1130,8 +2252,8 @@
         "old_price": 134700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525856+00:00",
-    "id": 63
+    "last_updated": "2026-10-14T12:30:10.949959+00:00",
+    "id": 129
   },
   {
     "title": "Dawlance LED TV 55 Inch G3A Pro",
@@ -1148,8 +2270,25 @@
         "old_price": 144800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525161+00:00",
-    "id": 64
+    "last_updated": "2026-10-14T12:30:10.948811+00:00",
+    "id": 130
+  },
+  {
+    "title": "Samsung 58 Inch 4K UHD Smart LED TV (RU7100)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 115999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-58-inch-4k-uhd-smart-led-tv-ru7100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704411+00:00",
+    "id": 131
   },
   {
     "title": "Haier LED 55\" 55K85GUX",
@@ -1166,8 +2305,8 @@
         "old_price": 130500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525890+00:00",
-    "id": 65
+    "last_updated": "2026-10-14T12:30:10.949996+00:00",
+    "id": 132
   },
   {
     "title": "TCL LED 50\" 50T6D (Q LED)",
@@ -1184,8 +2323,25 @@
         "old_price": 132600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525622+00:00",
-    "id": 66
+    "last_updated": "2026-10-14T12:30:10.949686+00:00",
+    "id": 133
+  },
+  {
+    "title": "TCL 50 Inch 4K LED TV (P615)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 119999,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-50-inch-4k-led-tv-p615",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184897+00:00",
+    "id": 134
   },
   {
     "title": "ECOSTAR LED 58\" CX-58Q968 (Q-LED)",
@@ -1202,8 +2358,8 @@
         "old_price": 143100
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525912+00:00",
-    "id": 67
+    "last_updated": "2026-10-14T12:30:10.950023+00:00",
+    "id": 135
   },
   {
     "title": "IFFALCON LED 55\" 55U65A Pro (QLED)",
@@ -1220,8 +2376,8 @@
         "old_price": 136400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526107+00:00",
-    "id": 68
+    "last_updated": "2026-10-14T12:30:10.950271+00:00",
+    "id": 136
   },
   {
     "title": "TCL LED 55\" 55P6L (4K UHD)",
@@ -1238,8 +2394,25 @@
         "old_price": 141000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525371+00:00",
-    "id": 69
+    "last_updated": "2026-10-14T12:30:10.949308+00:00",
+    "id": 137
+  },
+  {
+    "title": "Samsung 43 Inch Full HD Flat Smart TV (T5300)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 124999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-43-inch-full-hd-flat-smart-tv-t5300",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184803+00:00",
+    "id": 138
   },
   {
     "title": "Haier LED 55\" H55S80EUX",
@@ -1256,8 +2429,8 @@
         "old_price": 147300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524173+00:00",
-    "id": 70
+    "last_updated": "2026-10-14T12:30:10.946627+00:00",
+    "id": 139
   },
   {
     "title": "Haier LED 55\" 55S81EUX (Q LED)",
@@ -1274,8 +2447,8 @@
         "old_price": 147300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524755+00:00",
-    "id": 71
+    "last_updated": "2026-10-14T12:30:10.947727+00:00",
+    "id": 140
   },
   {
     "title": "Haier LED 55\" 55S80GUX (QLED)",
@@ -1292,8 +2465,8 @@
         "old_price": 147300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525930+00:00",
-    "id": 72
+    "last_updated": "2026-10-14T12:30:10.950047+00:00",
+    "id": 141
   },
   {
     "title": "HAIER LED 55\" 55S81GUX (Q LED)",
@@ -1310,8 +2483,59 @@
         "old_price": 147300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525961+00:00",
-    "id": 73
+    "last_updated": "2026-10-14T12:30:10.950083+00:00",
+    "id": 142
+  },
+  {
+    "title": "EcoStar 65 Inch HD Smart LED TV (65UD951)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 127150,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-65-inch-hd-smart-led-tv-65ud951",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.705115+00:00",
+    "id": 143
+  },
+  {
+    "title": "EcoStar 49 Inch Sound Pro LED TV(CX49U571A)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 128158,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-49-inch-sound-pro-led-tv-cx49u571a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185755+00:00",
+    "id": 144
+  },
+  {
+    "title": "Samsung 55 Inch 4K UHD Smart LED TV (55RU7400)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 128899,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-4k-uhd-flat-smart-tv-55ru7400",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.163108+00:00",
+    "id": 145
   },
   {
     "title": "TCL LED 55\" 55T6C (Q LED)",
@@ -1328,8 +2552,8 @@
         "old_price": 146300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524651+00:00",
-    "id": 74
+    "last_updated": "2026-10-14T12:30:10.947428+00:00",
+    "id": 146
   },
   {
     "title": "Haier LED 50\" H50S800UX",
@@ -1346,8 +2570,8 @@
         "old_price": 157800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524149+00:00",
-    "id": 75
+    "last_updated": "2026-10-14T12:30:10.946552+00:00",
+    "id": 147
   },
   {
     "title": "Hisense LED 55\" 55A6K (4K UHD Google TV)",
@@ -1364,8 +2588,8 @@
         "old_price": 146300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524256+00:00",
-    "id": 76
+    "last_updated": "2026-10-14T12:30:10.946879+00:00",
+    "id": 148
   },
   {
     "title": "Haier LED 50\" H50S800UX PRO (Q LED)",
@@ -1382,8 +2606,25 @@
         "old_price": 136800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525577+00:00",
-    "id": 77
+    "last_updated": "2026-10-14T12:30:10.949633+00:00",
+    "id": 149
+  },
+  {
+    "title": "Sony 55 Inch 4K UHD Smart LED TV (55X7500F)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 129999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-55-inch-4k-kd-55x7500f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.158992+00:00",
+    "id": 150
   },
   {
     "title": "Xiaomi LED 55\" 55A PRO 2026",
@@ -1400,8 +2641,8 @@
         "old_price": 149400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525148+00:00",
-    "id": 78
+    "last_updated": "2026-10-14T12:30:10.948792+00:00",
+    "id": 151
   },
   {
     "title": "TCL LED 55\" 55T6D (Q LED)",
@@ -1418,8 +2659,25 @@
         "old_price": 153600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525634+00:00",
-    "id": 79
+    "last_updated": "2026-10-14T12:30:10.949699+00:00",
+    "id": 152
+  },
+  {
+    "title": "Haier 65 Inch 4K FHD Smart LED TV (K6600)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 135999,
+        "url": "https://priceoye.pk/led-tv/haier/haier-65-inch-4k-fhd-smart-led-tv-k6600",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704918+00:00",
+    "id": 153
   },
   {
     "title": "TCL LED 50\" 50P79L (Q LED)",
@@ -1436,8 +2694,8 @@
         "old_price": 150500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525270+00:00",
-    "id": 80
+    "last_updated": "2026-10-14T12:30:10.949136+00:00",
+    "id": 154
   },
   {
     "title": "Hisense LED 55\" 55Q6Q (4K Q LED)",
@@ -1454,8 +2712,25 @@
         "old_price": 151500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525995+00:00",
-    "id": 81
+    "last_updated": "2026-10-14T12:30:10.950121+00:00",
+    "id": 155
+  },
+  {
+    "title": "Haier 55 Inch 4K LED TV (LE55S6UG)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 137899,
+        "url": "https://priceoye.pk/led-tv/haier/haier-55-inch-4k-led-tv-le55s6ug",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185324+00:00",
+    "id": 156
   },
   {
     "title": "SAMSUNG LED 50\" CY-50U8000FUSMM",
@@ -1472,8 +2747,8 @@
         "old_price": 147400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525835+00:00",
-    "id": 82
+    "last_updated": "2026-10-14T12:30:10.949936+00:00",
+    "id": 157
   },
   {
     "title": "LG LED 50\" 50UA8450PSA 4K UHD",
@@ -1490,8 +2765,42 @@
         "old_price": 176900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525478+00:00",
-    "id": 83
+    "last_updated": "2026-10-14T12:30:10.949445+00:00",
+    "id": 158
+  },
+  {
+    "title": "Changhong Ruba 55 Inch UHD LED TV (L55H7KI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 142900,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-55-inch-uhd-led-tv-l55h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.705401+00:00",
+    "id": 159
+  },
+  {
+    "title": "Sony 55 Inch 4K HDR LED TV (X75H)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 144000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-55-inch-4k-hdr-led-tv-x75h",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.812960+00:00",
+    "id": 160
   },
   {
     "title": "Samsung LED 55\" CY-55U8000FUSMM",
@@ -1508,8 +2817,42 @@
         "old_price": 163200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525337+00:00",
-    "id": 84
+    "last_updated": "2026-10-14T12:30:10.949248+00:00",
+    "id": 161
+  },
+  {
+    "title": "Haier 65 Inch 4K LED TV (LE65U6900UG)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 149999,
+        "url": "https://priceoye.pk/led-tv/haier/haier-65-inch-4k-led-tv-le65u6900ug",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185650+00:00",
+    "id": 162
+  },
+  {
+    "title": "Orient 65 Inch Animation UHD LED TV",
+    "brand": "Orient",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 150000,
+        "url": "https://priceoye.pk/led-tv/orient/orient-65-inch-animation-uhd-led-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813256+00:00",
+    "id": 163
   },
   {
     "title": "IFFALCON LED 55\" 55U85A (Mini QLED)",
@@ -1526,8 +2869,25 @@
         "old_price": 173600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526413+00:00",
-    "id": 85
+    "last_updated": "2026-10-14T12:30:10.950357+00:00",
+    "id": 164
+  },
+  {
+    "title": "EcoStar 65 Inch 4K Smart LED TV (CX65UD930P)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 154999,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-65-inch-4k-smart-led-tv-cx65ud930p",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161130+00:00",
+    "id": 165
   },
   {
     "title": "Hisense LED 55\" 55Q7Q (4K UHD Q LED)",
@@ -1544,8 +2904,8 @@
         "old_price": 178900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526006+00:00",
-    "id": 86
+    "last_updated": "2026-10-14T12:30:10.950135+00:00",
+    "id": 166
   },
   {
     "title": "DAWLANCE LED 65\" CANVAS (4K UHD)",
@@ -1562,8 +2922,8 @@
         "old_price": 177800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525467+00:00",
-    "id": 87
+    "last_updated": "2026-10-14T12:30:10.949432+00:00",
+    "id": 167
   },
   {
     "title": "TCL LED 55\" 55P8K (Q LED)",
@@ -1580,8 +2940,8 @@
         "old_price": 184200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524638+00:00",
-    "id": 88
+    "last_updated": "2026-10-14T12:30:10.947404+00:00",
+    "id": 168
   },
   {
     "title": "TCL LED 55\" 55P79L (Q LED)",
@@ -1598,8 +2958,25 @@
         "old_price": 177300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525282+00:00",
-    "id": 89
+    "last_updated": "2026-10-14T12:30:10.949170+00:00",
+    "id": 169
+  },
+  {
+    "title": "TCL 55 Inch 4K QLED TV (C725)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 164999,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-4k-qled-tv-c725",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183798+00:00",
+    "id": 170
   },
   {
     "title": "Haier LED 55\" 55M80FUX",
@@ -1616,8 +2993,25 @@
         "old_price": 199900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524931+00:00",
-    "id": 90
+    "last_updated": "2026-10-14T12:30:10.948221+00:00",
+    "id": 171
+  },
+  {
+    "title": "TCL 65 Inch 4K LED TV (P725)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 170000,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-65-inch-4k-led-tv-p725",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185215+00:00",
+    "id": 172
   },
   {
     "title": "Samsung LED 50\" QA-50Q7FAAUSMM",
@@ -1634,8 +3028,8 @@
         "old_price": 181100
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524970+00:00",
-    "id": 91
+    "last_updated": "2026-10-14T12:30:10.948335+00:00",
+    "id": 173
   },
   {
     "title": "TCL LED 50\" 50C6K",
@@ -1652,8 +3046,8 @@
         "old_price": 201000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525041+00:00",
-    "id": 92
+    "last_updated": "2026-10-14T12:30:10.948618+00:00",
+    "id": 174
   },
   {
     "title": "Dawlance LED 55\" Delta Series",
@@ -1670,8 +3064,25 @@
         "old_price": 186600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524887+00:00",
-    "id": 93
+    "last_updated": "2026-10-14T12:30:10.948115+00:00",
+    "id": 175
+  },
+  {
+    "title": "TCL 55 Inch 4K QLED TV (C815)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 176000,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-4k-qled-tv-c815",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184128+00:00",
+    "id": 176
   },
   {
     "title": "TCL LED 55\" 55P8L (MINI Q LED)",
@@ -1688,8 +3099,8 @@
         "old_price": 204200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525405+00:00",
-    "id": 94
+    "last_updated": "2026-10-14T12:30:10.949367+00:00",
+    "id": 177
   },
   {
     "title": "IFFALCON LED 65\" 65U65A Pro (QLED)",
@@ -1706,8 +3117,8 @@
         "old_price": 199900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526127+00:00",
-    "id": 95
+    "last_updated": "2026-10-14T12:30:10.950282+00:00",
+    "id": 178
   },
   {
     "title": "Samsung 55” Crystal UHD 55DU7000 4K Smart TV",
@@ -1724,8 +3135,8 @@
         "old_price": 193700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525224+00:00",
-    "id": 96
+    "last_updated": "2026-10-14T12:30:10.948975+00:00",
+    "id": 179
   },
   {
     "title": "Haier LED TV 55 Inch 55S900UX",
@@ -1742,8 +3153,8 @@
         "old_price": 228400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525208+00:00",
-    "id": 97
+    "last_updated": "2026-10-14T12:30:10.948932+00:00",
+    "id": 180
   },
   {
     "title": "TCL LED 65\" 65P6L (4K UHD)",
@@ -1760,8 +3171,8 @@
         "old_price": 210500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525382+00:00",
-    "id": 98
+    "last_updated": "2026-10-14T12:30:10.949331+00:00",
+    "id": 181
   },
   {
     "title": "Haier LED 65\" 65K85FUX (4K + SMART)",
@@ -1778,8 +3189,8 @@
         "old_price": 205200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525117+00:00",
-    "id": 99
+    "last_updated": "2026-10-14T12:30:10.948747+00:00",
+    "id": 182
   },
   {
     "title": "Samsung LED 55\" CY-55DU8000USMZ",
@@ -1796,8 +3207,8 @@
         "old_price": 209500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525236+00:00",
-    "id": 100
+    "last_updated": "2026-10-14T12:30:10.948999+00:00",
+    "id": 183
   },
   {
     "title": "Xiaomi LED 65\" 65A PRO 2026",
@@ -1814,8 +3225,8 @@
         "old_price": 218900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525348+00:00",
-    "id": 101
+    "last_updated": "2026-10-14T12:30:10.949271+00:00",
+    "id": 184
   },
   {
     "title": "Haier LED 65\" 65S80EUX (Q LED)",
@@ -1832,8 +3243,8 @@
         "old_price": 215700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524766+00:00",
-    "id": 102
+    "last_updated": "2026-10-14T12:30:10.947755+00:00",
+    "id": 185
   },
   {
     "title": "Haier LED 65\" 65S81EUX (Q LED)",
@@ -1850,8 +3261,8 @@
         "old_price": 215700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524779+00:00",
-    "id": 103
+    "last_updated": "2026-10-14T12:30:10.947814+00:00",
+    "id": 186
   },
   {
     "title": "LG LED 55\" 55NANO80ASA (4K UHD)",
@@ -1868,8 +3279,8 @@
         "old_price": 210600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525733+00:00",
-    "id": 104
+    "last_updated": "2026-10-14T12:30:10.949821+00:00",
+    "id": 187
   },
   {
     "title": "Haier LED 65\" 65S80GUX (Q LED)",
@@ -1886,8 +3297,8 @@
         "old_price": 215700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525791+00:00",
-    "id": 105
+    "last_updated": "2026-10-14T12:30:10.949887+00:00",
+    "id": 188
   },
   {
     "title": "TCL LED 65\" 65T6D (Q LED)",
@@ -1904,8 +3315,8 @@
         "old_price": 224200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525645+00:00",
-    "id": 106
+    "last_updated": "2026-10-14T12:30:10.949711+00:00",
+    "id": 189
   },
   {
     "title": "MultyNet LED 65\" 65IQ50 (Q LED)",
@@ -1922,8 +3333,25 @@
         "old_price": 209500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525326+00:00",
-    "id": 107
+    "last_updated": "2026-10-14T12:30:10.949235+00:00",
+    "id": 190
+  },
+  {
+    "title": "Haier 65 Inch 4K LED TV (LE65S8000UG)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 199900,
+        "url": "https://priceoye.pk/led-tv/haier/haier-65-inch-4k-led-tv-le65s8000ug",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185540+00:00",
+    "id": 191
   },
   {
     "title": "Samsung LED 55\" QA-55Q7FAAUSMM",
@@ -1940,8 +3368,42 @@
         "old_price": 222200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524982+00:00",
-    "id": 108
+    "last_updated": "2026-10-14T12:30:10.948370+00:00",
+    "id": 192
+  },
+  {
+    "title": "Samsung 65 Inch 4K Smart LED TV (65RU7100)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 199999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-4k-smart-led-tv-65ru7100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162730+00:00",
+    "id": 193
+  },
+  {
+    "title": "Samsung 55 Inch UHD 4K Smart TV (AU7000)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 199999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-uhd-4k-smart-tv-au7000",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184317+00:00",
+    "id": 194
   },
   {
     "title": "Sony LED 55\" KD-55X75K (4K UHD)",
@@ -1958,8 +3420,8 @@
         "old_price": 210600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524791+00:00",
-    "id": 109
+    "last_updated": "2026-10-14T12:30:10.947849+00:00",
+    "id": 195
   },
   {
     "title": "TCL LED 55\" 55C6K (Mini Q LED)",
@@ -1976,8 +3438,25 @@
         "old_price": 232600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524616+00:00",
-    "id": 110
+    "last_updated": "2026-10-14T12:30:10.947348+00:00",
+    "id": 196
+  },
+  {
+    "title": "Sony 65 Inch 4K HDR LED TV (X75H)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 202000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-65-inch-4k-hdr-led-tv-x75h",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813068+00:00",
+    "id": 197
   },
   {
     "title": "IFFALCON LED 65\" 65U85A (Mini QLED)",
@@ -1994,8 +3473,25 @@
         "old_price": 242000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526177+00:00",
-    "id": 111
+    "last_updated": "2026-10-14T12:30:10.950317+00:00",
+    "id": 198
+  },
+  {
+    "title": "Changhong Ruba 70 Inch UHD LED TV (U70H7TI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 211000,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-70-inch-uhd-ips-tv-u70h7ti",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.182524+00:00",
+    "id": 199
   },
   {
     "title": "Samsung LED 55\" CY-55Q60DAUSMZ (4K + Smart)",
@@ -2012,8 +3508,8 @@
         "old_price": 226400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524440+00:00",
-    "id": 112
+    "last_updated": "2026-10-14T12:30:10.946946+00:00",
+    "id": 200
   },
   {
     "title": "Hisense LED 65\" 65Q7Q (4K Q LED)",
@@ -2030,8 +3526,8 @@
         "old_price": 248400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526016+00:00",
-    "id": 113
+    "last_updated": "2026-10-14T12:30:10.950146+00:00",
+    "id": 201
   },
   {
     "title": "TCL LED 55\" 55A400 PRO (ART TV)",
@@ -2048,8 +3544,25 @@
         "old_price": 252600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526463+00:00",
-    "id": 114
+    "last_updated": "2026-10-14T12:30:10.950371+00:00",
+    "id": 202
+  },
+  {
+    "title": "TCL 65 Inch 4K QLED TV (C815)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 224900,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-65-inch-4k-qled-tv-c815",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184220+00:00",
+    "id": 203
   },
   {
     "title": "TCL LED 65\" 65P8K (Q LED)",
@@ -2066,8 +3579,25 @@
         "old_price": 263100
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524673+00:00",
-    "id": 115
+    "last_updated": "2026-10-14T12:30:10.947483+00:00",
+    "id": 204
+  },
+  {
+    "title": "Samsung 55 Inch 4K HD Smart QLED TV (55Q7F)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 226999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-4k-smart-qled-tv-55q7f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161738+00:00",
+    "id": 205
   },
   {
     "title": "LG LED 65\" 65UA8450PSA (4K UHD)",
@@ -2084,8 +3614,8 @@
         "old_price": 305300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525712+00:00",
-    "id": 116
+    "last_updated": "2026-10-14T12:30:10.949798+00:00",
+    "id": 206
   },
   {
     "title": "TCL LED 65\" 65P79L (Q LED)",
@@ -2102,8 +3632,25 @@
         "old_price": 255700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525293+00:00",
-    "id": 117
+    "last_updated": "2026-10-14T12:30:10.949193+00:00",
+    "id": 207
+  },
+  {
+    "title": "Samsung 55 Inch QLED 4K Smart TV (Q70A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 233999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q70a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183073+00:00",
+    "id": 208
   },
   {
     "title": "Haier LED 75\" 75K85FUX (4K + SMART)",
@@ -2120,8 +3667,42 @@
         "old_price": 291500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525802+00:00",
-    "id": 118
+    "last_updated": "2026-10-14T12:30:10.949899+00:00",
+    "id": 209
+  },
+  {
+    "title": "Samsung 65 Inch 4K UHD Smart QLED TV (65Q6FN)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 237990,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-4k-uhd-smart-qled-tv-65q6fn",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.703422+00:00",
+    "id": 210
+  },
+  {
+    "title": "Sony 55 Inch 4K Full Array LED TV (X95H)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 239000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-55-inch-4k-full-array-led-tv-x95h",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.186124+00:00",
+    "id": 211
   },
   {
     "title": "Haier LED 65\" H65S800UX PRO (Q LED)",
@@ -2138,8 +3719,8 @@
         "old_price": 252600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525588+00:00",
-    "id": 119
+    "last_updated": "2026-10-14T12:30:10.949647+00:00",
+    "id": 212
   },
   {
     "title": "LG LED 55\" 55QNED82ASA (4K UHD)",
@@ -2156,8 +3737,8 @@
         "old_price": 314800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525499+00:00",
-    "id": 120
+    "last_updated": "2026-10-14T12:30:10.949505+00:00",
+    "id": 213
   },
   {
     "title": "TCL LED 65\" 65P8L (MINI Q LED)",
@@ -2174,8 +3755,8 @@
         "old_price": 284200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525418+00:00",
-    "id": 121
+    "last_updated": "2026-10-14T12:30:10.949381+00:00",
+    "id": 214
   },
   {
     "title": "Samsung LED 55\" CY-55Q70DAUSMZ (4K + Smart)",
@@ -2192,8 +3773,25 @@
         "old_price": 262200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524814+00:00",
-    "id": 122
+    "last_updated": "2026-10-14T12:30:10.947905+00:00",
+    "id": 215
+  },
+  {
+    "title": "MULTYNET 75 Inch Android TV (75QA7)",
+    "brand": "Multynet",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 249900,
+        "url": "https://priceoye.pk/led-tv/multynet/multynet-75-inch-android-tv-75qa7",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813630+00:00",
+    "id": 216
   },
   {
     "title": "Skyworth LED 75\" 75Q6600G-QLED",
@@ -2210,8 +3808,25 @@
         "old_price": 309500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524474+00:00",
-    "id": 123
+    "last_updated": "2026-10-14T12:30:10.947004+00:00",
+    "id": 217
+  },
+  {
+    "title": "Samsung 55 Inch QLED 4K Smart TV (Q60A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 249999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q60a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183167+00:00",
+    "id": 218
   },
   {
     "title": "Dawlance LED 65\" Delta Series",
@@ -2228,8 +3843,76 @@
         "old_price": 262600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524898+00:00",
-    "id": 124
+    "last_updated": "2026-10-14T12:30:10.948142+00:00",
+    "id": 219
+  },
+  {
+    "title": "TCL 65 Inch QLED 4K TV (C725)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 252000,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-65-inch-qled-4k-tv-c725",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183888+00:00",
+    "id": 220
+  },
+  {
+    "title": "Haier 75 Inch 4K UHD Smart LED TV (LE75H9100UA)",
+    "brand": "Haier",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 254899,
+        "url": "https://priceoye.pk/led-tv/haier/haier-75-inch-4k-uhd-smart-led-tv-le75h9100ua",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:51.704513+00:00",
+    "id": 221
+  },
+  {
+    "title": "EcoStar 75 Inch 4K Smart LED TV (CX75UD921P)",
+    "brand": "Ecostar",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 259999,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-75-inch-4k-smart-led-tv-cx75ud921p",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.160786+00:00",
+    "id": 222
+  },
+  {
+    "title": "Sony 55 Inch 4K HDR LED TV (X90J)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 259999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-55-inch-4k-hdr-led-tv-x90j",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813162+00:00",
+    "id": 223
   },
   {
     "title": "IFFALCON LED 75\" 75U65A Pro (QLED)",
@@ -2246,8 +3929,8 @@
         "old_price": 287900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526136+00:00",
-    "id": 125
+    "last_updated": "2026-10-14T12:30:10.950295+00:00",
+    "id": 224
   },
   {
     "title": "Samsung 65DU7000 65\" Crystal UHD 4K",
@@ -2264,8 +3947,25 @@
         "old_price": 276900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525247+00:00",
-    "id": 126
+    "last_updated": "2026-10-14T12:30:10.949021+00:00",
+    "id": 225
+  },
+  {
+    "title": "Samsung 55 Inch Curved 4K HD Smart LED TV (55Q8C)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 265000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-curved-4k-smart-led-tv-55q8cn",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161851+00:00",
+    "id": 226
   },
   {
     "title": "TCL LED 75\" 75P6L (4K UHD)",
@@ -2282,8 +3982,25 @@
         "old_price": 304200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525392+00:00",
-    "id": 127
+    "last_updated": "2026-10-14T12:30:10.949353+00:00",
+    "id": 227
+  },
+  {
+    "title": "Changhong Ruba 75 Inch UHD LED TV (U75K9I)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 270200,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-75-inch-uhd-led-tv-u75k9i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.182649+00:00",
+    "id": 228
   },
   {
     "title": "HAIER LED 75\" 75S81EUX (Q LED)",
@@ -2300,8 +4017,8 @@
         "old_price": 316800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525878+00:00",
-    "id": 128
+    "last_updated": "2026-10-14T12:30:10.949984+00:00",
+    "id": 229
   },
   {
     "title": "Haier LED 75\" 75S81GUX (Q LED)",
@@ -2318,8 +4035,8 @@
         "old_price": 316800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525942+00:00",
-    "id": 129
+    "last_updated": "2026-10-14T12:30:10.950059+00:00",
+    "id": 230
   },
   {
     "title": "Hisense LED 75\" 75A6N (4K UHD Google TV)",
@@ -2336,8 +4053,8 @@
         "old_price": 302000
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526027+00:00",
-    "id": 130
+    "last_updated": "2026-10-14T12:30:10.950158+00:00",
+    "id": 231
   },
   {
     "title": "TCL LED 65\" 65C6K (Mini Q LED)",
@@ -2354,8 +4071,8 @@
         "old_price": 317800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524662+00:00",
-    "id": 131
+    "last_updated": "2026-10-14T12:30:10.947452+00:00",
+    "id": 232
   },
   {
     "title": "TCL LED 75\" 75P79K (Q LED)",
@@ -2372,8 +4089,25 @@
         "old_price": 326300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524697+00:00",
-    "id": 132
+    "last_updated": "2026-10-14T12:30:10.947539+00:00",
+    "id": 233
+  },
+  {
+    "title": "Samsung 65 Inch 4K UHD TV (65NU7100)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 274250,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-4k-uhd-tv-ue65nu7100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161440+00:00",
+    "id": 234
   },
   {
     "title": "LG LED 55\" 55QNED86ASA (4K UHD)",
@@ -2390,8 +4124,8 @@
         "old_price": 314800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525511+00:00",
-    "id": 133
+    "last_updated": "2026-10-14T12:30:10.949530+00:00",
+    "id": 235
   },
   {
     "title": "Hisense LED 75\" 75Q6N",
@@ -2408,8 +4142,8 @@
         "old_price": 319900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524953+00:00",
-    "id": 134
+    "last_updated": "2026-10-14T12:30:10.948298+00:00",
+    "id": 236
   },
   {
     "title": "Samsung LED 65\" QA-65Q7FAAUSMM",
@@ -2426,8 +4160,8 @@
         "old_price": 307400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524992+00:00",
-    "id": 135
+    "last_updated": "2026-10-14T12:30:10.948427+00:00",
+    "id": 237
   },
   {
     "title": "LG LED 65\" 65UT8000 (4K UHD)",
@@ -2444,8 +4178,25 @@
         "old_price": 310600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525743+00:00",
-    "id": 136
+    "last_updated": "2026-10-14T12:30:10.949833+00:00",
+    "id": 238
+  },
+  {
+    "title": "Samsung 65 Inch UHD 4K Smart TV (AU7000)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 299999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-uhd-4k-smart-tv-au7000",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184500+00:00",
+    "id": 239
   },
   {
     "title": "TCL LED 65\" 65A400 PRO (ART TV)",
@@ -2462,8 +4213,8 @@
         "old_price": 347300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526511+00:00",
-    "id": 137
+    "last_updated": "2026-10-14T12:30:10.950412+00:00",
+    "id": 240
   },
   {
     "title": "IFFALCON LED 75\" 75U85A (Mini QLED)",
@@ -2480,8 +4231,8 @@
         "old_price": 348400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526224+00:00",
-    "id": 138
+    "last_updated": "2026-10-14T12:30:10.950326+00:00",
+    "id": 241
   },
   {
     "title": "Samsung LED 65\" CY-65Q60DAUSMZ (4K + Smart)",
@@ -2498,8 +4249,76 @@
         "old_price": 323200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524359+00:00",
-    "id": 139
+    "last_updated": "2026-10-14T12:30:10.946900+00:00",
+    "id": 242
+  },
+  {
+    "title": "Samsung 65 Inch Crystal UHD 4K Smart TV (AU9000)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 309000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-crystal-uhd-4k-smart-tv-au9000",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183375+00:00",
+    "id": 243
+  },
+  {
+    "title": "Samsung 75 Inch 4K HD Smart LED TV (75RU7100)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 318399,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-75-inch-4k-smart-led-tv-75ru7100",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.162323+00:00",
+    "id": 244
+  },
+  {
+    "title": "TCL 55 Inch Mini LED 4K TV",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 320900,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-mini-led-4k-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183598+00:00",
+    "id": 245
+  },
+  {
+    "title": "TCL 75 Inch 4K QLED TV (C725)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 329900,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-75-inch-4k-qled-tv-c725",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184007+00:00",
+    "id": 246
   },
   {
     "title": "TCL LED 75\" 75P79L (Q LED)",
@@ -2516,8 +4335,42 @@
         "old_price": 370500
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525305+00:00",
-    "id": 140
+    "last_updated": "2026-10-14T12:30:10.949207+00:00",
+    "id": 247
+  },
+  {
+    "title": "Sony 65 Inch 4K LED TV (X95G)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 339000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-65-inch-4k-led-tv-x95g",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.185849+00:00",
+    "id": 248
+  },
+  {
+    "title": "Sony 50 Inch 4K HDR LED TV (X80J)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 349000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-50-inch-4k-hdr-led-tv-x80j",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813351+00:00",
+    "id": 249
   },
   {
     "title": "TCL LED 75\" 75P8L (MINI Q LED)",
@@ -2534,8 +4387,8 @@
         "old_price": 409400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525433+00:00",
-    "id": 141
+    "last_updated": "2026-10-14T12:30:10.949394+00:00",
+    "id": 250
   },
   {
     "title": "LG LED 65\" 65QNED82ASA (4K UHD)",
@@ -2552,8 +4405,8 @@
         "old_price": 384300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525753+00:00",
-    "id": 142
+    "last_updated": "2026-10-14T12:30:10.949844+00:00",
+    "id": 251
   },
   {
     "title": "Samsung LED 65\" 65Q8F (Q-LED)",
@@ -2570,8 +4423,25 @@
         "old_price": 390600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526050+00:00",
-    "id": 143
+    "last_updated": "2026-10-14T12:30:10.950183+00:00",
+    "id": 252
+  },
+  {
+    "title": "Samsung 65 Inch Smart QLED TV (65q6f)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 377000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-qled-65q6f",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161633+00:00",
+    "id": 253
   },
   {
     "title": "LG LED 75\" 75UA8450PSA (4K UHD)",
@@ -2588,8 +4458,8 @@
         "old_price": 421100
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525488+00:00",
-    "id": 144
+    "last_updated": "2026-10-14T12:30:10.949458+00:00",
+    "id": 254
   },
   {
     "title": "LG LED 65\" 65QNED86ASA (4K UHD)",
@@ -2606,8 +4476,8 @@
         "old_price": 431600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525521+00:00",
-    "id": 145
+    "last_updated": "2026-10-14T12:30:10.949547+00:00",
+    "id": 255
   },
   {
     "title": "TCL LED 75\" 75C6K (Mini Q LED)",
@@ -2624,8 +4494,8 @@
         "old_price": 452600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524684+00:00",
-    "id": 146
+    "last_updated": "2026-10-14T12:30:10.947512+00:00",
+    "id": 256
   },
   {
     "title": "Samsung LED 75\" 75DU8000 4K + Smart",
@@ -2642,8 +4512,25 @@
         "old_price": 455800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525197+00:00",
-    "id": 147
+    "last_updated": "2026-10-14T12:30:10.948902+00:00",
+    "id": 257
+  },
+  {
+    "title": "TCL 65 Inch Mini LED 4K TV",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 416900,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-65-inch-mini-led-4k-tv",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183708+00:00",
+    "id": 258
   },
   {
     "title": "IFFALCON LED 85\" 85U65A Pro (QLED)",
@@ -2660,8 +4547,8 @@
         "old_price": 463100
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526158+00:00",
-    "id": 148
+    "last_updated": "2026-10-14T12:30:10.950306+00:00",
+    "id": 259
   },
   {
     "title": "HISENSE LED 85\" 85Q6N (Q LED)",
@@ -2678,8 +4565,8 @@
         "old_price": 526300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525779+00:00",
-    "id": 149
+    "last_updated": "2026-10-14T12:30:10.949874+00:00",
+    "id": 260
   },
   {
     "title": "TCL LED 75\" 75A400 PRO (ART TV)",
@@ -2696,8 +4583,42 @@
         "old_price": 484200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.526556+00:00",
-    "id": 150
+    "last_updated": "2026-10-14T12:30:10.950441+00:00",
+    "id": 261
+  },
+  {
+    "title": "Sony 75 Inch 4K HDR LED TV (X80J)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 429999,
+        "url": "https://priceoye.pk/led-tv/sony/sony-75-inch-4k-hdr-led-tv-x80j",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.813441+00:00",
+    "id": 262
+  },
+  {
+    "title": "Changhong Ruba 82 Inch UHD LED TV (U82K9I)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 439999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-82-inch-uhd-led-tv-u82k9i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.182764+00:00",
+    "id": 263
   },
   {
     "title": "Haier LED 85\" 85M80FUX",
@@ -2714,8 +4635,8 @@
         "old_price": 673600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524942+00:00",
-    "id": 151
+    "last_updated": "2026-10-14T12:30:10.948248+00:00",
+    "id": 264
   },
   {
     "title": "Skyworth LED 85\" 85G6600G-UHD",
@@ -2732,8 +4653,8 @@
         "old_price": 526400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524464+00:00",
-    "id": 152
+    "last_updated": "2026-10-14T12:30:10.946985+00:00",
+    "id": 265
   },
   {
     "title": "Samsung LED 75\" CY-75Q70DUSMZ (4K + Smart)",
@@ -2750,8 +4671,8 @@
         "old_price": 532700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524421+00:00",
-    "id": 153
+    "last_updated": "2026-10-14T12:30:10.946920+00:00",
+    "id": 266
   },
   {
     "title": "TCL LED 85\" 85P79L (Q LED)",
@@ -2768,8 +4689,8 @@
         "old_price": 588400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525315+00:00",
-    "id": 154
+    "last_updated": "2026-10-14T12:30:10.949221+00:00",
+    "id": 267
   },
   {
     "title": "TCL LED 85\" 85P8L (MINI Q LED)",
@@ -2786,8 +4707,8 @@
         "old_price": 637800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525445+00:00",
-    "id": 155
+    "last_updated": "2026-10-14T12:30:10.949407+00:00",
+    "id": 268
   },
   {
     "title": "LG LED 75\" 75QNED86ASA (4K UHD)",
@@ -2804,8 +4725,8 @@
         "old_price": 631600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525531+00:00",
-    "id": 156
+    "last_updated": "2026-10-14T12:30:10.949571+00:00",
+    "id": 269
   },
   {
     "title": "TCL LED 75\" 75C7K",
@@ -2822,8 +4743,8 @@
         "old_price": 726300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525063+00:00",
-    "id": 157
+    "last_updated": "2026-10-14T12:30:10.948675+00:00",
+    "id": 270
   },
   {
     "title": "Samsung LED 85\" 85DU8000",
@@ -2840,8 +4761,8 @@
         "old_price": 746400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525004+00:00",
-    "id": 158
+    "last_updated": "2026-10-14T12:30:10.948476+00:00",
+    "id": 271
   },
   {
     "title": "LG LED 75\" 75QNED80T6 (4K SMART)",
@@ -2858,8 +4779,8 @@
         "old_price": 693700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525846+00:00",
-    "id": 159
+    "last_updated": "2026-10-14T12:30:10.949947+00:00",
+    "id": 272
   },
   {
     "title": "Samsung LED 75\" CY-75Q80DAUSMZ",
@@ -2876,8 +4797,8 @@
         "old_price": 667400
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524187+00:00",
-    "id": 160
+    "last_updated": "2026-10-14T12:30:10.946677+00:00",
+    "id": 273
   },
   {
     "title": "LG LED 86\" 86UA8450PSA (4K UHD)",
@@ -2894,8 +4815,8 @@
         "old_price": 684200
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525723+00:00",
-    "id": 161
+    "last_updated": "2026-10-14T12:30:10.949810+00:00",
+    "id": 274
   },
   {
     "title": "TCL LED 85\" 85C6K (Mini Q LED)",
@@ -2912,8 +4833,25 @@
         "old_price": 746300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524708+00:00",
-    "id": 162
+    "last_updated": "2026-10-14T12:30:10.947567+00:00",
+    "id": 275
+  },
+  {
+    "title": "Samsung 75 Inch UHD 4K SMART QLED TV (QN75Q6FN)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 700000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-75-inch-uhd-4k-smart-qled-tv-qn75q6fn",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:48.161539+00:00",
+    "id": 276
   },
   {
     "title": "Samsung LED 85\" 85Q70D (IN)",
@@ -2930,8 +4868,8 @@
         "old_price": 795800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.524803+00:00",
-    "id": 163
+    "last_updated": "2026-10-14T12:30:10.947879+00:00",
+    "id": 277
   },
   {
     "title": "Samsung LED 85\" CY-85Q70DUSMZ",
@@ -2948,8 +4886,25 @@
         "old_price": 795800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525015+00:00",
-    "id": 164
+    "last_updated": "2026-10-14T12:30:10.948528+00:00",
+    "id": 278
+  },
+  {
+    "title": "Sony 65 Inch 4K Full Array LED TV (X90H)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 799000,
+        "url": "https://priceoye.pk/led-tv/sony/sony-65-inch-4k-full-array-led-tv-x90h",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.186230+00:00",
+    "id": 279
   },
   {
     "title": "Haier LED 100\" H100S90FUX (MINI QLED)",
@@ -2966,8 +4921,8 @@
         "old_price": 947300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525951+00:00",
-    "id": 165
+    "last_updated": "2026-10-14T12:30:10.950070+00:00",
+    "id": 280
   },
   {
     "title": "TCL LED 98\" 98P8L (MINI Q LED)",
@@ -2984,8 +4939,8 @@
         "old_price": 977800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525456+00:00",
-    "id": 166
+    "last_updated": "2026-10-14T12:30:10.949420+00:00",
+    "id": 281
   },
   {
     "title": "TCL LED 85\" 85C7K",
@@ -3002,8 +4957,8 @@
         "old_price": 947300
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525029+00:00",
-    "id": 167
+    "last_updated": "2026-10-14T12:30:10.948578+00:00",
+    "id": 282
   },
   {
     "title": "TCL LED 85\" 85C7L (MINI Q LED)",
@@ -3020,8 +4975,25 @@
         "old_price": 999900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525543+00:00",
-    "id": 168
+    "last_updated": "2026-10-14T12:30:10.949588+00:00",
+    "id": 283
+  },
+  {
+    "title": "TCL 75 Inch 8K QLED TV (X915)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 888888,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-75-inch-8k-qled-tv-x915",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.184405+00:00",
+    "id": 284
   },
   {
     "title": "Samsung LED 98\" UA-98DU9000",
@@ -3038,8 +5010,8 @@
         "old_price": 1157900
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525361+00:00",
-    "id": 169
+    "last_updated": "2026-10-14T12:30:10.949296+00:00",
+    "id": 285
   },
   {
     "title": "TCL LED 98\" 98C7L (MINI Q LED)",
@@ -3056,8 +5028,8 @@
         "old_price": 1473600
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525554+00:00",
-    "id": 170
+    "last_updated": "2026-10-14T12:30:10.949604+00:00",
+    "id": 286
   },
   {
     "title": "LG LED 98\" 98UT9000 (4K UHD)",
@@ -3074,8 +5046,59 @@
         "old_price": 1473700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525700+00:00",
-    "id": 171
+    "last_updated": "2026-10-14T12:30:10.949784+00:00",
+    "id": 287
+  },
+  {
+    "title": "Hisense 100 Inch Smart LED TV(100LN60D)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 1394999,
+        "url": "https://priceoye.pk/led-tv/hisense/hisense-100-inch-smart-led-tv-100ln60d",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:58.814715+00:00",
+    "id": 288
+  },
+  {
+    "title": "Samsung 82 Inch QLED 8K Smart TV (Q800T)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 1850000,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-82-inch-qled-8k-smart-tv-q800t",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.183508+00:00",
+    "id": 289
+  },
+  {
+    "title": "Samsung 85 Inch Neo QLED 4K Smart TV (QN85A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 1899999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-85-inch-neo-qled-4k-smart-tv-qn85a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T04:09:55.182866+00:00",
+    "id": 290
   },
   {
     "title": "Samsung LED 98\" QA98Q80CAUXZN",
@@ -3092,8 +5115,8 @@
         "old_price": 2315700
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525679+00:00",
-    "id": 172
+    "last_updated": "2026-10-14T12:30:10.949753+00:00",
+    "id": 291
   },
   {
     "title": "LG LED 83\" 83G46LA",
@@ -3110,7 +5133,7 @@
         "old_price": 2265800
       }
     ],
-    "last_updated": "2026-10-14T12:24:19.525690+00:00",
-    "id": 173
+    "last_updated": "2026-10-14T12:30:10.949769+00:00",
+    "id": 292
   }
 ]
