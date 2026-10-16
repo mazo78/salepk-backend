@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-16T04:34:48.940264+00:00",
+  "updated": "2026-10-16T07:35:59.718380+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 163,
+      "count": 155,
       "min_price": 2149,
       "stores": [
         "PriceOye"
@@ -30,7 +30,7 @@
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 12
+          "count": 14
         },
         {
           "slug": "oppo-vivo-realme",
@@ -40,7 +40,7 @@
         {
           "slug": "other",
           "name": "Other",
-          "count": 126
+          "count": 116
         }
       ]
     },
