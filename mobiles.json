@@ -1,39 +1,5 @@
 [
   {
-    "title": "LvTel Simba",
-    "brand": "Lvtel",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/lvtel-simba-pakistan-priceoye-ktzvl-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2149,
-        "url": "https://priceoye.pk/mobiles/lvtel/lvtel-simba",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683358+00:00",
-    "id": 1
-  },
-  {
-    "title": "LvTel Mufasa",
-    "brand": "Lvtel",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/lvtel-mufasa-pakistan-priceoye-x7q0z-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2149,
-        "url": "https://priceoye.pk/mobiles/lvtel/lvtel-mufasa",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683396+00:00",
-    "id": 2
-  },
-  {
     "title": "itel it2165 eco",
     "brand": "Itel",
     "category": "mobiles",
@@ -48,8 +14,8 @@
         "old_price": 2299
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684700+00:00",
-    "id": 3
+    "last_updated": "2026-10-16T07:35:59.511618+00:00",
+    "id": 1
   },
   {
     "title": "Digit 260",
@@ -65,93 +31,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684820+00:00",
-    "id": 4
-  },
-  {
-    "title": "Digit Nova",
-    "brand": "Digit",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/digit-nova-pakistan-priceoye-6oi4g-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2249,
-        "url": "https://priceoye.pk/mobiles/digit/digit-nova",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683541+00:00",
-    "id": 5
-  },
-  {
-    "title": "XMobile X1818",
-    "brand": "Xmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-x1818-pakistan-priceoye-94imu-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2249,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-x1818",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683580+00:00",
-    "id": 6
-  },
-  {
-    "title": "Qmobile QGuru Plus",
-    "brand": "Qmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/qmobile-guru-plus-pakistan-priceoye-awfm7-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2299,
-        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-qguru-plus",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.682077+00:00",
-    "id": 7
-  },
-  {
-    "title": "Villaon V200S",
-    "brand": "Villaon",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/villaon-v200s-pakistan-priceoye-1yci5-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2299,
-        "url": "https://priceoye.pk/mobiles/villaon/villaon-v200s",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683010+00:00",
-    "id": 8
-  },
-  {
-    "title": "QMobile QGuru Pro",
-    "brand": "Qmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/qmobile-qguru-pro-pakistan-priceoye-a1h3v-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2299,
-        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-qguru-pro",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683473+00:00",
-    "id": 9
+    "last_updated": "2026-10-16T07:35:59.511920+00:00",
+    "id": 2
   },
   {
     "title": "me Mobile Power Bold",
@@ -168,8 +49,25 @@
         "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684479+00:00",
-    "id": 10
+    "last_updated": "2026-10-16T07:35:59.501630+00:00",
+    "id": 3
+  },
+  {
+    "title": "Qmobile QGuru Plus",
+    "brand": "Qmobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/qmobile-guru-plus-pakistan-priceoye-awfm7-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2299,
+        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-qguru-plus",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.503538+00:00",
+    "id": 4
   },
   {
     "title": "Villaon V105",
@@ -186,8 +84,8 @@
         "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684782+00:00",
-    "id": 11
+    "last_updated": "2026-10-16T07:35:59.507283+00:00",
+    "id": 5
   },
   {
     "title": "Sego Value 200",
@@ -204,8 +102,25 @@
         "old_price": 2599
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685255+00:00",
-    "id": 12
+    "last_updated": "2026-10-16T07:35:59.507433+00:00",
+    "id": 6
+  },
+  {
+    "title": "Villaon V200S",
+    "brand": "Villaon",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/villaon-v200s-pakistan-priceoye-1yci5-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2299,
+        "url": "https://priceoye.pk/mobiles/villaon/villaon-v200s",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.520350+00:00",
+    "id": 7
   },
   {
     "title": "Memobile Power 300",
@@ -221,60 +136,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687228+00:00",
-    "id": 13
-  },
-  {
-    "title": "GRESSO 007i",
-    "brand": "Gresso",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/gresso-007i-pakistan-priceoye-7pznp-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2349,
-        "url": "https://priceoye.pk/mobiles/gresso/gresso-007i",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.682615+00:00",
-    "id": 14
-  },
-  {
-    "title": "Spice S9 Power",
-    "brand": "Spice",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/spice-s9-power-pakistan-priceoye-y5wmx-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2349,
-        "url": "https://priceoye.pk/mobiles/spice/spice-s9-power",
-        "in_stock": true,
-        "old_price": 2399
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683167+00:00",
-    "id": 15
-  },
-  {
-    "title": "Digit Neo",
-    "brand": "Digit",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/digit-neo-pakistan-priceoye-ujggl-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2349,
-        "url": "https://priceoye.pk/mobiles/digit/digit-neo",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683507+00:00",
-    "id": 16
+    "last_updated": "2026-10-16T07:35:59.521841+00:00",
+    "id": 8
   },
   {
     "title": "Villaon V5606",
@@ -290,8 +153,25 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684647+00:00",
-    "id": 17
+    "last_updated": "2026-10-16T07:35:59.504869+00:00",
+    "id": 9
+  },
+  {
+    "title": "GRESSO 007i",
+    "brand": "Gresso",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/gresso-007i-pakistan-priceoye-7pznp-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2349,
+        "url": "https://priceoye.pk/mobiles/gresso/gresso-007i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.508093+00:00",
+    "id": 10
   },
   {
     "title": "Digit C1",
@@ -308,8 +188,26 @@
         "old_price": 2399
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685027+00:00",
-    "id": 18
+    "last_updated": "2026-10-16T07:35:59.512557+00:00",
+    "id": 11
+  },
+  {
+    "title": "Spice S9 Power",
+    "brand": "Spice",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/spice-s9-power-pakistan-priceoye-y5wmx-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2349,
+        "url": "https://priceoye.pk/mobiles/spice/spice-s9-power",
+        "in_stock": true,
+        "old_price": 2399
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.522631+00:00",
+    "id": 12
   },
   {
     "title": "Hello Tech V2",
@@ -325,42 +223,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682436+00:00",
-    "id": 19
-  },
-  {
-    "title": "Faywa Prime 4",
-    "brand": "Faywa",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/faywa-prime-4-pakistan-priceoye-4ofhb-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2399,
-        "url": "https://priceoye.pk/mobiles/faywa/faywa-prime-4",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683433+00:00",
-    "id": 20
-  },
-  {
-    "title": "Faywa Bass Power",
-    "brand": "Faywa",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/faywa-bass-power-pakistan-priceoye-im8f5-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2399,
-        "url": "https://priceoye.pk/mobiles/faywa/faywa-bass-power",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.684085+00:00",
-    "id": 21
+    "last_updated": "2026-10-16T07:35:59.506543+00:00",
+    "id": 13
   },
   {
     "title": "Gresso Turbo 2",
@@ -376,8 +240,25 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686422+00:00",
-    "id": 22
+    "last_updated": "2026-10-16T07:35:59.508241+00:00",
+    "id": 14
+  },
+  {
+    "title": "Faywa Bass Power",
+    "brand": "Faywa",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/faywa-bass-power-pakistan-priceoye-im8f5-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2399,
+        "url": "https://priceoye.pk/mobiles/faywa/faywa-bass-power",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.515843+00:00",
+    "id": 15
   },
   {
     "title": "Digit Prime",
@@ -393,8 +274,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686531+00:00",
-    "id": 23
+    "last_updated": "2026-10-16T07:35:59.518819+00:00",
+    "id": 16
   },
   {
     "title": "Spice S7 Power",
@@ -411,8 +292,8 @@
         "old_price": 2799
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683129+00:00",
-    "id": 24
+    "last_updated": "2026-10-16T07:35:59.522483+00:00",
+    "id": 17
   },
   {
     "title": "XMobile X2 Selfie",
@@ -428,25 +309,43 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681814+00:00",
-    "id": 25
+    "last_updated": "2026-10-16T07:35:59.501858+00:00",
+    "id": 18
   },
   {
-    "title": "XMobile Chief 100",
-    "brand": "Xmobile",
+    "title": "FAYWA F111",
+    "brand": "Faywa",
     "category": "mobiles",
     "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-chief-100-pakistan-priceoye-mtt4l-100x100.webp",
+    "image": "https://images.priceoye.pk/f111-pakistan-priceoye-6hvm3-100x100.webp",
     "prices": [
       {
         "store": "PriceOye",
-        "price": 2429,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-chief-100",
+        "price": 2439,
+        "url": "https://priceoye.pk/mobiles/faywa/f111",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683621+00:00",
-    "id": 26
+    "last_updated": "2026-10-16T07:35:59.505233+00:00",
+    "id": 19
+  },
+  {
+    "title": "Itel It2165",
+    "brand": "Itel",
+    "category": "mobiles",
+    "subcategory": "infinix-tecno",
+    "image": "https://images.priceoye.pk/itel-it2165-pakistan-priceoye-86qt9-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2449,
+        "url": "https://priceoye.pk/mobiles/itel/itel-it2165",
+        "in_stock": true,
+        "old_price": 2999
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.505101+00:00",
+    "id": 20
   },
   {
     "title": "Sego Power 200s",
@@ -463,8 +362,8 @@
         "old_price": 2499
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682692+00:00",
-    "id": 27
+    "last_updated": "2026-10-16T07:35:59.508709+00:00",
+    "id": 21
   },
   {
     "title": "Zentality B3310",
@@ -480,8 +379,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682770+00:00",
-    "id": 28
+    "last_updated": "2026-10-16T07:35:59.509020+00:00",
+    "id": 22
   },
   {
     "title": "QMobile Q2165 Music",
@@ -497,8 +396,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683289+00:00",
-    "id": 29
+    "last_updated": "2026-10-16T07:35:59.523547+00:00",
+    "id": 23
   },
   {
     "title": "Sego Power 200",
@@ -515,25 +414,26 @@
         "old_price": 3200
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682731+00:00",
-    "id": 30
+    "last_updated": "2026-10-16T07:35:59.508855+00:00",
+    "id": 24
   },
   {
-    "title": "Digit power king",
-    "brand": "Digit",
+    "title": "QMobile Q5606",
+    "brand": "Qmobile",
     "category": "mobiles",
     "subcategory": "other",
-    "image": "https://images.priceoye.pk/digit-power-king-pakistan-priceoye-ktg69-100x100.webp",
+    "image": "https://images.priceoye.pk/qmobile-q5606-pakistan-priceoye-ftxqw-100x100.webp",
     "prices": [
       {
         "store": "PriceOye",
         "price": 2499,
-        "url": "https://priceoye.pk/mobiles/digit/digit-power-king",
-        "in_stock": true
+        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-q5606",
+        "in_stock": true,
+        "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684022+00:00",
-    "id": 31
+    "last_updated": "2026-10-16T07:35:59.510922+00:00",
+    "id": 25
   },
   {
     "title": "Digit C2",
@@ -550,8 +450,8 @@
         "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687262+00:00",
-    "id": 32
+    "last_updated": "2026-10-16T07:35:59.521979+00:00",
+    "id": 26
   },
   {
     "title": "Me Mobile Yorker bold",
@@ -568,8 +468,8 @@
         "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687309+00:00",
-    "id": 33
+    "last_updated": "2026-10-16T07:35:59.522151+00:00",
+    "id": 27
   },
   {
     "title": "Spice S10 power",
@@ -585,25 +485,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683208+00:00",
-    "id": 34
-  },
-  {
-    "title": "XMobile Retro 100 lite",
-    "brand": "Xmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-retro-100-lite-pakistan-priceoye-y0b68-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2519,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-retro-100-lite",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683665+00:00",
-    "id": 35
+    "last_updated": "2026-10-16T07:35:59.522778+00:00",
+    "id": 28
   },
   {
     "title": "QMobile Boom 100",
@@ -619,8 +502,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682851+00:00",
-    "id": 36
+    "last_updated": "2026-10-16T07:35:59.510202+00:00",
+    "id": 29
   },
   {
     "title": "Hello Tech E500",
@@ -636,8 +519,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682397+00:00",
-    "id": 37
+    "last_updated": "2026-10-16T07:35:59.506395+00:00",
+    "id": 30
   },
   {
     "title": "Villaon V120",
@@ -653,8 +536,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686950+00:00",
-    "id": 38
+    "last_updated": "2026-10-16T07:35:59.520507+00:00",
+    "id": 31
   },
   {
     "title": "QMobile Boom 200",
@@ -670,8 +553,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682891+00:00",
-    "id": 39
+    "last_updated": "2026-10-16T07:35:59.510497+00:00",
+    "id": 32
+  },
+  {
+    "title": "XMobile X3",
+    "brand": "Xmobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/xmobile-x3-pakistan-priceoye-blhie-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2649,
+        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-x3",
+        "in_stock": true,
+        "old_price": 2899
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.502322+00:00",
+    "id": 33
   },
   {
     "title": "Qmobile Q150s",
@@ -687,8 +588,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682115+00:00",
-    "id": 40
+    "last_updated": "2026-10-16T07:35:59.503684+00:00",
+    "id": 34
   },
   {
     "title": "Villaon V210",
@@ -704,8 +605,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682193+00:00",
-    "id": 41
+    "last_updated": "2026-10-16T07:35:59.505021+00:00",
+    "id": 35
   },
   {
     "title": "Calme Ultra Lite S",
@@ -722,44 +623,8 @@
         "old_price": 2799
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682316+00:00",
-    "id": 42
-  },
-  {
-    "title": "Me Mobile E800 pro",
-    "brand": "Me Mobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/me-mobile-e800-pro-pakistan-priceoye-c6cv3-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2749,
-        "url": "https://priceoye.pk/mobiles/me-mobile/me-mobile-e800-pro",
-        "in_stock": true,
-        "old_price": 2999
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683090+00:00",
-    "id": 43
-  },
-  {
-    "title": "Digit D1",
-    "brand": "Digit",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/digit-d1-pakistan-priceoye-bwafo-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2749,
-        "url": "https://priceoye.pk/mobiles/digit/digit-d1",
-        "in_stock": true,
-        "old_price": 2999
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683324+00:00",
-    "id": 44
+    "last_updated": "2026-10-16T07:35:59.505556+00:00",
+    "id": 36
   },
   {
     "title": "Gionee Q27",
@@ -776,8 +641,8 @@
         "old_price": 2999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685063+00:00",
-    "id": 45
+    "last_updated": "2026-10-16T07:35:59.512695+00:00",
+    "id": 37
   },
   {
     "title": "VgoTel Easy 200 lite",
@@ -793,8 +658,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686775+00:00",
-    "id": 46
+    "last_updated": "2026-10-16T07:35:59.519678+00:00",
+    "id": 38
+  },
+  {
+    "title": "Me Mobile E800 pro",
+    "brand": "Me Mobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/me-mobile-e800-pro-pakistan-priceoye-c6cv3-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 2749,
+        "url": "https://priceoye.pk/mobiles/me-mobile/me-mobile-e800-pro",
+        "in_stock": true,
+        "old_price": 2999
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.522320+00:00",
+    "id": 39
   },
   {
     "title": "Itel It 2165 Pro",
@@ -810,8 +693,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687444+00:00",
-    "id": 47
+    "last_updated": "2026-10-16T07:35:59.523737+00:00",
+    "id": 40
   },
   {
     "title": "Itel It 2210",
@@ -827,25 +710,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686670+00:00",
-    "id": 48
-  },
-  {
-    "title": "Memobile Power 17",
-    "brand": "Me Mobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/memobile-power-17-pakistan-priceoye-pf1xv-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2799,
-        "url": "https://priceoye.pk/mobiles/me-mobile/memobile-power-17",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683790+00:00",
-    "id": 49
+    "last_updated": "2026-10-16T07:35:59.519259+00:00",
+    "id": 41
   },
   {
     "title": "Itel it2166",
@@ -861,8 +727,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686058+00:00",
-    "id": 50
+    "last_updated": "2026-10-16T07:35:59.503759+00:00",
+    "id": 42
   },
   {
     "title": "Digit Hero 3",
@@ -878,25 +744,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685142+00:00",
-    "id": 51
-  },
-  {
-    "title": "Villaon V220",
-    "brand": "Villaon",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/villaon-v220-pakistan-priceoye-txigj-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 2899,
-        "url": "https://priceoye.pk/mobiles/villaon/villaon-v220",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.682354+00:00",
-    "id": 52
+    "last_updated": "2026-10-16T07:35:59.513646+00:00",
+    "id": 43
   },
   {
     "title": "Faywa F4",
@@ -913,25 +762,25 @@
         "old_price": 2985
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685713+00:00",
-    "id": 53
+    "last_updated": "2026-10-16T07:35:59.502746+00:00",
+    "id": 44
   },
   {
-    "title": "Qmobile Boom300 Cam",
-    "brand": "Qmobile",
+    "title": "Villaon V220",
+    "brand": "Villaon",
     "category": "mobiles",
     "subcategory": "other",
-    "image": "https://images.priceoye.pk/qmobile-boom300-cam-pakistan-priceoye-kdrjp-100x100.webp",
+    "image": "https://images.priceoye.pk/villaon-v220-pakistan-priceoye-txigj-100x100.webp",
     "prices": [
       {
         "store": "PriceOye",
-        "price": 2949,
-        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-boom300-cam",
+        "price": 2899,
+        "url": "https://priceoye.pk/mobiles/villaon/villaon-v220",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683931+00:00",
-    "id": 54
+    "last_updated": "2026-10-16T07:35:59.506237+00:00",
+    "id": 45
   },
   {
     "title": "QMobile E4 2025",
@@ -947,8 +796,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682970+00:00",
-    "id": 55
+    "last_updated": "2026-10-16T07:35:59.511098+00:00",
+    "id": 46
   },
   {
     "title": "GFive P70 Max",
@@ -964,25 +813,25 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683047+00:00",
-    "id": 56
+    "last_updated": "2026-10-16T07:35:59.521351+00:00",
+    "id": 47
   },
   {
-    "title": "XMobile X20",
-    "brand": "Xmobile",
+    "title": "HMD 105 Pure",
+    "brand": "Hmd",
     "category": "mobiles",
     "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-x20-pakistan-priceoye-tps8a-100x100.webp",
+    "image": "https://images.priceoye.pk/hmd-105-pure-pakistan-priceoye-rnspb-100x100.webp",
     "prices": [
       {
         "store": "PriceOye",
-        "price": 3019,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-x20",
+        "price": 3049,
+        "url": "https://priceoye.pk/mobiles/hmd/hmd-105-pure",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683701+00:00",
-    "id": 57
+    "last_updated": "2026-10-16T07:35:59.509719+00:00",
+    "id": 48
   },
   {
     "title": "Faywa Bass Pro",
@@ -999,8 +848,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.683247+00:00",
-    "id": 58
+    "last_updated": "2026-10-16T07:35:59.523071+00:00",
+    "id": 49
   },
   {
     "title": "Hello Tech G8",
@@ -1016,8 +865,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682476+00:00",
-    "id": 59
+    "last_updated": "2026-10-16T07:35:59.506770+00:00",
+    "id": 50
   },
   {
     "title": "Gfive Magic Smart",
@@ -1033,8 +882,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687034+00:00",
-    "id": 60
+    "last_updated": "2026-10-16T07:35:59.520826+00:00",
+    "id": 51
   },
   {
     "title": "XMobile Dabang Plus",
@@ -1051,8 +900,26 @@
         "old_price": 3849
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681870+00:00",
-    "id": 61
+    "last_updated": "2026-10-16T07:35:59.502022+00:00",
+    "id": 52
+  },
+  {
+    "title": "XMobile X4 Music",
+    "brand": "Xmobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/xmobile-x4-music-pakistan-priceoye-diuq8-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3099,
+        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-x4-music",
+        "in_stock": true,
+        "old_price": 3170
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.503992+00:00",
+    "id": 53
   },
   {
     "title": "Gresso E7",
@@ -1068,8 +935,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684855+00:00",
-    "id": 62
+    "last_updated": "2026-10-16T07:35:59.512052+00:00",
+    "id": 54
   },
   {
     "title": "Calme C222",
@@ -1085,8 +952,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685216+00:00",
-    "id": 63
+    "last_updated": "2026-10-16T07:35:59.513972+00:00",
+    "id": 55
+  },
+  {
+    "title": "Memobile I touch",
+    "brand": "Me Mobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/memobile-i-touch-pakistan-priceoye-6xkem-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3149,
+        "url": "https://priceoye.pk/mobiles/me-mobile/memobile-i-touch",
+        "in_stock": true,
+        "old_price": 3850
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.505926+00:00",
+    "id": 56
   },
   {
     "title": "Sego music 500",
@@ -1103,8 +988,8 @@
         "old_price": 3650
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682653+00:00",
-    "id": 64
+    "last_updated": "2026-10-16T07:35:59.508559+00:00",
+    "id": 57
   },
   {
     "title": "QMobile Boom 400",
@@ -1120,8 +1005,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682931+00:00",
-    "id": 65
+    "last_updated": "2026-10-16T07:35:59.510763+00:00",
+    "id": 58
   },
   {
     "title": "Club Mobile Grace",
@@ -1138,8 +1023,25 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687183+00:00",
-    "id": 66
+    "last_updated": "2026-10-16T07:35:59.521677+00:00",
+    "id": 59
+  },
+  {
+    "title": "Gresso SILK SLIM",
+    "brand": "Gresso",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/gresso-silk-slim-pakistan-priceoye-8bimo-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3150,
+        "url": "https://priceoye.pk/mobiles/gresso/gresso-silk-slim",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.504563+00:00",
+    "id": 60
   },
   {
     "title": "Qmobile Boom600 Cam",
@@ -1155,8 +1057,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684743+00:00",
-    "id": 67
+    "last_updated": "2026-10-16T07:35:59.511782+00:00",
+    "id": 61
   },
   {
     "title": "Calme C150i",
@@ -1173,8 +1075,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687139+00:00",
-    "id": 68
+    "last_updated": "2026-10-16T07:35:59.521504+00:00",
+    "id": 62
   },
   {
     "title": "Me Mobile Cammando",
@@ -1191,8 +1093,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686993+00:00",
-    "id": 69
+    "last_updated": "2026-10-16T07:35:59.520675+00:00",
+    "id": 63
   },
   {
     "title": "Xmobile D4 Ultra",
@@ -1209,25 +1111,8 @@
         "old_price": 4099
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681996+00:00",
-    "id": 70
-  },
-  {
-    "title": "XMobile Prime 100",
-    "brand": "Xmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-prime-100-pakistan-priceoye-xaxbh-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 3239,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-prime-100",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683745+00:00",
-    "id": 71
+    "last_updated": "2026-10-16T07:35:59.503204+00:00",
+    "id": 64
   },
   {
     "title": "Memobile ismart",
@@ -1244,8 +1129,8 @@
         "old_price": 3299
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682238+00:00",
-    "id": 72
+    "last_updated": "2026-10-16T07:35:59.505389+00:00",
+    "id": 65
   },
   {
     "title": "Memobile I Smart Ultra",
@@ -1262,8 +1147,8 @@
         "old_price": 3449
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682539+00:00",
-    "id": 73
+    "last_updated": "2026-10-16T07:35:59.507782+00:00",
+    "id": 66
   },
   {
     "title": "Nokia 105 Classic",
@@ -1280,8 +1165,8 @@
         "old_price": 4199
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685869+00:00",
-    "id": 74
+    "last_updated": "2026-10-16T07:35:59.516145+00:00",
+    "id": 67
   },
   {
     "title": "Xmobile G3 Plus",
@@ -1298,8 +1183,25 @@
         "old_price": 3399
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682036+00:00",
-    "id": 75
+    "last_updated": "2026-10-16T07:35:59.503369+00:00",
+    "id": 68
+  },
+  {
+    "title": "Club Mobile Winner",
+    "brand": "Club Mobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/club-mobile-winner-pakistan-priceoye-tzbua-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3299,
+        "url": "https://priceoye.pk/mobiles/club-mobile/club-mobile-winner",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.508404+00:00",
+    "id": 69
   },
   {
     "title": "Gresso A10",
@@ -1315,8 +1217,25 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684516+00:00",
-    "id": 76
+    "last_updated": "2026-10-16T07:35:59.504412+00:00",
+    "id": 70
+  },
+  {
+    "title": "QMobile QHero",
+    "brand": "Qmobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/qmobile-qhero-pakistan-priceoye-0vt62-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3349,
+        "url": "https://priceoye.pk/mobiles/qmobile/qmobile-qhero",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.504136+00:00",
+    "id": 71
   },
   {
     "title": "Memobile I Smart Pro",
@@ -1332,8 +1251,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684358+00:00",
-    "id": 77
+    "last_updated": "2026-10-16T07:35:59.507606+00:00",
+    "id": 72
   },
   {
     "title": "Gfive 16 Pro 2G",
@@ -1350,8 +1269,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686872+00:00",
-    "id": 78
+    "last_updated": "2026-10-16T07:35:59.520049+00:00",
+    "id": 73
   },
   {
     "title": "Gfive G95",
@@ -1368,8 +1287,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687068+00:00",
-    "id": 79
+    "last_updated": "2026-10-16T07:35:59.520959+00:00",
+    "id": 74
   },
   {
     "title": "Spice S22 Power",
@@ -1386,8 +1305,25 @@
         "old_price": 3399
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687348+00:00",
-    "id": 80
+    "last_updated": "2026-10-16T07:35:59.522924+00:00",
+    "id": 75
+  },
+  {
+    "title": "Club Mobile 15 pro Metal",
+    "brand": "Club Mobile",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/club-mobile-15-pro-metal-pakistan-priceoye-kx0tr-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3350,
+        "url": "https://priceoye.pk/mobiles/club-mobile/club-mobile-15-pro-metal",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.505754+00:00",
+    "id": 76
   },
   {
     "title": "QMobile QPrime",
@@ -1403,8 +1339,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686286+00:00",
-    "id": 81
+    "last_updated": "2026-10-16T07:35:59.518058+00:00",
+    "id": 77
   },
   {
     "title": "Itel Muzik 300",
@@ -1420,8 +1356,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684676+00:00",
-    "id": 82
+    "last_updated": "2026-10-16T07:35:59.511534+00:00",
+    "id": 78
   },
   {
     "title": "Calme SL100",
@@ -1438,8 +1374,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686209+00:00",
-    "id": 83
+    "last_updated": "2026-10-16T07:35:59.517339+00:00",
+    "id": 79
   },
   {
     "title": "GFive Magic",
@@ -1456,8 +1392,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687104+00:00",
-    "id": 84
+    "last_updated": "2026-10-16T07:35:59.521188+00:00",
+    "id": 80
   },
   {
     "title": "E-Tachi iPro",
@@ -1474,8 +1410,8 @@
         "old_price": 4999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681955+00:00",
-    "id": 85
+    "last_updated": "2026-10-16T07:35:59.502467+00:00",
+    "id": 81
   },
   {
     "title": "Spice ipro Ultra",
@@ -1491,43 +1427,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682579+00:00",
-    "id": 86
-  },
-  {
-    "title": "Bontel B2000 Plus",
-    "brand": "Bontel",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/bontel-b2000-plus-pakistan-priceoye-yzpmb-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 3499,
-        "url": "https://priceoye.pk/mobiles/bontel/bontel-b2000-plus",
-        "in_stock": true,
-        "old_price": 4999
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.684257+00:00",
-    "id": 87
-  },
-  {
-    "title": "Bontel 8800",
-    "brand": "Bontel",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/bontel-8800-pakistan-priceoye-z5g74-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 3599,
-        "url": "https://priceoye.pk/mobiles/bontel/bontel-8800",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.684215+00:00",
-    "id": 88
+    "last_updated": "2026-10-16T07:35:59.507951+00:00",
+    "id": 82
   },
   {
     "title": "VGO TEL Beauty Max",
@@ -1543,8 +1444,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682156+00:00",
-    "id": 89
+    "last_updated": "2026-10-16T07:35:59.504724+00:00",
+    "id": 83
   },
   {
     "title": "Gfive G96",
@@ -1561,8 +1462,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684935+00:00",
-    "id": 90
+    "last_updated": "2026-10-16T07:35:59.512351+00:00",
+    "id": 84
   },
   {
     "title": "Vgo tel i555",
@@ -1579,8 +1480,8 @@
         "old_price": 3999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684897+00:00",
-    "id": 91
+    "last_updated": "2026-10-16T07:35:59.512208+00:00",
+    "id": 85
   },
   {
     "title": "HMD 102",
@@ -1596,8 +1497,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685662+00:00",
-    "id": 92
+    "last_updated": "2026-10-16T07:35:59.515332+00:00",
+    "id": 86
   },
   {
     "title": "Qmobile E1000 Party 2021",
@@ -1613,8 +1514,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681716+00:00",
-    "id": 93
+    "last_updated": "2026-10-16T07:35:59.501450+00:00",
+    "id": 87
+  },
+  {
+    "title": "Itel Magic 4",
+    "brand": "Itel",
+    "category": "mobiles",
+    "subcategory": "infinix-tecno",
+    "image": "https://images.priceoye.pk/itel-magic-4-it6360-pakistan-priceoye-26xrc-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 3899,
+        "url": "https://priceoye.pk/mobiles/itel/itel-magic-4-it6360",
+        "in_stock": true,
+        "old_price": 4099
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.503837+00:00",
+    "id": 88
   },
   {
     "title": "XMobile Marshall 100 Lite",
@@ -1630,8 +1549,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684430+00:00",
-    "id": 94
+    "last_updated": "2026-10-16T07:35:59.511298+00:00",
+    "id": 89
   },
   {
     "title": "XMobile X1000 Music",
@@ -1647,59 +1566,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681916+00:00",
-    "id": 95
-  },
-  {
-    "title": "XMobile Alpha 2431",
-    "brand": "Xmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-alpha-2431-pakistan-priceoye-85e4z-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 3999,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-alpha-2431",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.684131+00:00",
-    "id": 96
-  },
-  {
-    "title": "XMobile Marshall 100",
-    "brand": "Xmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/xmobile-marshall-100-pakistan-priceoye-i45oh-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 3999,
-        "url": "https://priceoye.pk/mobiles/xmobile/xmobile-marshall-100",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.684178+00:00",
-    "id": 97
-  },
-  {
-    "title": "QPhantom",
-    "brand": "Qmobile",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/qphantom-pakistan-priceoye-eult5-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 4099,
-        "url": "https://priceoye.pk/mobiles/qmobile/qphantom",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.682274+00:00",
-    "id": 98
+    "last_updated": "2026-10-16T07:35:59.502185+00:00",
+    "id": 90
   },
   {
     "title": "Nokia 106 2023",
@@ -1716,8 +1584,8 @@
         "old_price": 4999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685829+00:00",
-    "id": 99
+    "last_updated": "2026-10-16T07:35:59.515990+00:00",
+    "id": 91
   },
   {
     "title": "Faywa Play Tv",
@@ -1733,8 +1601,25 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686327+00:00",
-    "id": 100
+    "last_updated": "2026-10-16T07:35:59.518212+00:00",
+    "id": 92
+  },
+  {
+    "title": "VGO TEL i15",
+    "brand": "Vgo Tel",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/vgo-tel-i15-pakistan-priceoye-fnaw4-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 4299,
+        "url": "https://priceoye.pk/mobiles/vgo-tel/vgo-tel-i15",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.504277+00:00",
+    "id": 93
   },
   {
     "title": "Nokia 108 (2024)",
@@ -1751,26 +1636,8 @@
         "old_price": 4999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686103+00:00",
-    "id": 101
-  },
-  {
-    "title": "VGO TEL Smart HI-FI",
-    "brand": "Vgo Tel",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/vgo-tel-smart-hi-fi-pakistan-priceoye-dyu4r-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 4699,
-        "url": "https://priceoye.pk/mobiles/vgo-tel/vgo-tel-smart-hi-fi",
-        "in_stock": true,
-        "old_price": 4799
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.681770+00:00",
-    "id": 102
+    "last_updated": "2026-10-16T07:35:59.516718+00:00",
+    "id": 94
   },
   {
     "title": "Itel Neo R60+ 4G",
@@ -1787,8 +1654,8 @@
         "old_price": 6399
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685568+00:00",
-    "id": 103
+    "last_updated": "2026-10-16T07:35:59.514847+00:00",
+    "id": 95
   },
   {
     "title": "Nokia 110 2023",
@@ -1805,8 +1672,8 @@
         "old_price": 6899
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684993+00:00",
-    "id": 104
+    "last_updated": "2026-10-16T07:35:59.502614+00:00",
+    "id": 96
   },
   {
     "title": "Nokia 125 (2024)",
@@ -1823,8 +1690,8 @@
         "old_price": 5999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686606+00:00",
-    "id": 105
+    "last_updated": "2026-10-16T07:35:59.506988+00:00",
+    "id": 97
   },
   {
     "title": "Qmobile Q Galaxy",
@@ -1841,8 +1708,8 @@
         "old_price": 5629
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682493+00:00",
-    "id": 106
+    "last_updated": "2026-10-16T07:35:59.507065+00:00",
+    "id": 98
   },
   {
     "title": "QMobile QMagic",
@@ -1858,8 +1725,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.682811+00:00",
-    "id": 107
+    "last_updated": "2026-10-16T07:35:59.509190+00:00",
+    "id": 99
   },
   {
     "title": "Nokia 130 Music",
@@ -1876,8 +1743,25 @@
         "old_price": 6500
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686461+00:00",
-    "id": 108
+    "last_updated": "2026-10-16T07:35:59.518537+00:00",
+    "id": 100
+  },
+  {
+    "title": "Calme 4g Platinum",
+    "brand": "Calme",
+    "category": "mobiles",
+    "subcategory": "other",
+    "image": "https://images.priceoye.pk/calme-4g-platinum-pakistan-priceoye-ba6na-100x100.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 6999,
+        "url": "https://priceoye.pk/mobiles/calme/calme-4g-platinum",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-16T07:35:59.506081+00:00",
+    "id": 101
   },
   {
     "title": "Faywa Pro 1 4g",
@@ -1894,8 +1778,8 @@
         "old_price": 7600
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684578+00:00",
-    "id": 109
+    "last_updated": "2026-10-16T07:35:59.511451+00:00",
+    "id": 102
   },
   {
     "title": "Calme 4G Super",
@@ -1912,8 +1796,8 @@
         "old_price": 7799
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685180+00:00",
-    "id": 110
+    "last_updated": "2026-10-16T07:35:59.513830+00:00",
+    "id": 103
   },
   {
     "title": "Calme 4G 8210",
@@ -1929,8 +1813,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685295+00:00",
-    "id": 111
+    "last_updated": "2026-10-16T07:35:59.509351+00:00",
+    "id": 104
   },
   {
     "title": "Sego Spro",
@@ -1947,8 +1831,8 @@
         "old_price": 13999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685752+00:00",
-    "id": 112
+    "last_updated": "2026-10-16T07:35:59.515559+00:00",
+    "id": 105
   },
   {
     "title": "Sego iPro",
@@ -1965,8 +1849,8 @@
         "old_price": 14999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685332+00:00",
-    "id": 113
+    "last_updated": "2026-10-16T07:35:59.514117+00:00",
+    "id": 106
   },
   {
     "title": "Nokia 3210",
@@ -1982,8 +1866,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685521+00:00",
-    "id": 114
+    "last_updated": "2026-10-16T07:35:59.514668+00:00",
+    "id": 107
   },
   {
     "title": "Vgo Tel Onyx 2",
@@ -2000,8 +1884,8 @@
         "old_price": 14750
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681634+00:00",
-    "id": 115
+    "last_updated": "2026-10-16T07:35:59.501217+00:00",
+    "id": 108
   },
   {
     "title": "Nokia 5710",
@@ -2018,8 +1902,8 @@
         "old_price": 19999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685367+00:00",
-    "id": 116
+    "last_updated": "2026-10-16T07:35:59.502897+00:00",
+    "id": 109
   },
   {
     "title": "Villaon V50s",
@@ -2036,8 +1920,8 @@
         "old_price": 19999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686247+00:00",
-    "id": 117
+    "last_updated": "2026-10-16T07:35:59.517848+00:00",
+    "id": 110
   },
   {
     "title": "Sego Smart 20 HD",
@@ -2054,26 +1938,8 @@
         "old_price": 21999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686710+00:00",
-    "id": 118
-  },
-  {
-    "title": "Sego Note 80x Limited Edition",
-    "brand": "Sego",
-    "category": "mobiles",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/sego-note-80x-limited-edition-pakistan-priceoye-a8lxp-100x100.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 24749,
-        "url": "https://priceoye.pk/mobiles/sego/sego-note-80x-limited-edition",
-        "in_stock": true,
-        "old_price": 27999
-      }
-    ],
-    "last_updated": "2026-10-16T04:09:47.683882+00:00",
-    "id": 119
+    "last_updated": "2026-10-16T07:35:59.519432+00:00",
+    "id": 111
   },
   {
     "title": "ZTE Blade A35",
@@ -2090,8 +1956,8 @@
         "old_price": 27999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686384+00:00",
-    "id": 120
+    "last_updated": "2026-10-16T07:35:59.518358+00:00",
+    "id": 112
   },
   {
     "title": "VGO Tel New 16 Pro",
@@ -2108,8 +1974,8 @@
         "old_price": 26889
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686172+00:00",
-    "id": 121
+    "last_updated": "2026-10-16T07:35:59.517038+00:00",
+    "id": 113
   },
   {
     "title": "Dcode Cygnal Evo",
@@ -2126,8 +1992,8 @@
         "old_price": 33999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685105+00:00",
-    "id": 122
+    "last_updated": "2026-10-16T07:35:59.513424+00:00",
+    "id": 114
   },
   {
     "title": "Itel A100C",
@@ -2144,8 +2010,8 @@
         "old_price": 31999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687420+00:00",
-    "id": 123
+    "last_updated": "2026-10-16T07:35:59.523638+00:00",
+    "id": 115
   },
   {
     "title": "Realme Note 60x",
@@ -2162,8 +2028,8 @@
         "old_price": 33999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685545+00:00",
-    "id": 124
+    "last_updated": "2026-10-16T07:35:59.514762+00:00",
+    "id": 116
   },
   {
     "title": "ZTE Nubia A56",
@@ -2180,8 +2046,8 @@
         "old_price": 35999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686005+00:00",
-    "id": 125
+    "last_updated": "2026-10-16T07:35:59.516486+00:00",
+    "id": 117
   },
   {
     "title": "Itel A200 Plus",
@@ -2198,8 +2064,8 @@
         "old_price": 31999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686650+00:00",
-    "id": 126
+    "last_updated": "2026-10-16T07:35:59.519067+00:00",
+    "id": 118
   },
   {
     "title": "Dcode Cygnal Prime",
@@ -2216,8 +2082,8 @@
         "old_price": 41999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686913+00:00",
-    "id": 127
+    "last_updated": "2026-10-16T07:35:59.520205+00:00",
+    "id": 119
   },
   {
     "title": "Xiaomi Redmi 9C",
@@ -2234,8 +2100,8 @@
         "old_price": 39999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.684954+00:00",
-    "id": 128
+    "last_updated": "2026-10-16T07:35:59.512419+00:00",
+    "id": 120
   },
   {
     "title": "Xiaomi Redmi A7 Pro",
@@ -2252,8 +2118,8 @@
         "old_price": 39999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686035+00:00",
-    "id": 129
+    "last_updated": "2026-10-16T07:35:59.516560+00:00",
+    "id": 121
   },
   {
     "title": "Honor X5c Plus",
@@ -2270,8 +2136,8 @@
         "old_price": 39999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686833+00:00",
-    "id": 130
+    "last_updated": "2026-10-16T07:35:59.519894+00:00",
+    "id": 122
   },
   {
     "title": "Vivo Y05e",
@@ -2288,8 +2154,8 @@
         "old_price": 46198
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685628+00:00",
-    "id": 131
+    "last_updated": "2026-10-16T07:35:59.515072+00:00",
+    "id": 123
   },
   {
     "title": "ZTE Nubia V60 Design (8GB-256GB)",
@@ -2306,8 +2172,8 @@
         "old_price": 41999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687400+00:00",
-    "id": 132
+    "last_updated": "2026-10-16T07:35:59.523374+00:00",
+    "id": 124
   },
   {
     "title": "Realme C100i",
@@ -2324,8 +2190,8 @@
         "old_price": 40999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681487+00:00",
-    "id": 133
+    "last_updated": "2026-10-16T07:35:59.500826+00:00",
+    "id": 125
   },
   {
     "title": "Infinix Smart 20",
@@ -2342,8 +2208,8 @@
         "old_price": 39999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.680298+00:00",
-    "id": 134
+    "last_updated": "2026-10-16T07:35:59.496607+00:00",
+    "id": 126
   },
   {
     "title": "Tecno Spark Go 3",
@@ -2360,8 +2226,8 @@
         "old_price": 39999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687465+00:00",
-    "id": 135
+    "last_updated": "2026-10-16T07:35:59.523820+00:00",
+    "id": 127
   },
   {
     "title": "Vivo Y05",
@@ -2378,8 +2244,8 @@
         "old_price": 44999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681449+00:00",
-    "id": 136
+    "last_updated": "2026-10-16T07:35:59.500734+00:00",
+    "id": 128
   },
   {
     "title": "Honor X6c",
@@ -2396,8 +2262,8 @@
         "old_price": 49999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686496+00:00",
-    "id": 137
+    "last_updated": "2026-10-16T07:35:59.518676+00:00",
+    "id": 129
   },
   {
     "title": "Xiaomi Redmi 15C",
@@ -2414,8 +2280,8 @@
         "old_price": 46999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681415+00:00",
-    "id": 138
+    "last_updated": "2026-10-16T07:35:59.500649+00:00",
+    "id": 130
   },
   {
     "title": "Realme Note 70",
@@ -2431,8 +2297,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686629+00:00",
-    "id": 139
+    "last_updated": "2026-10-16T07:35:59.518986+00:00",
+    "id": 131
   },
   {
     "title": "Xiaomi Poco C85",
@@ -2449,8 +2315,8 @@
         "old_price": 57999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686795+00:00",
-    "id": 140
+    "last_updated": "2026-10-16T07:35:59.519745+00:00",
+    "id": 132
   },
   {
     "title": "Realme C75x",
@@ -2467,8 +2333,8 @@
         "old_price": 54999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685606+00:00",
-    "id": 141
+    "last_updated": "2026-10-16T07:35:59.514992+00:00",
+    "id": 133
   },
   {
     "title": "ZTE Nubia Focus Pro 5G",
@@ -2485,8 +2351,8 @@
         "old_price": 59999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685448+00:00",
-    "id": 142
+    "last_updated": "2026-10-16T07:35:59.514365+00:00",
+    "id": 134
   },
   {
     "title": "Tecno Spark 50",
@@ -2503,8 +2369,8 @@
         "old_price": 64999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681558+00:00",
-    "id": 143
+    "last_updated": "2026-10-16T07:35:59.501014+00:00",
+    "id": 135
   },
   {
     "title": "Oppo A6",
@@ -2521,8 +2387,8 @@
         "old_price": 74999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681519+00:00",
-    "id": 144
+    "last_updated": "2026-10-16T07:35:59.500905+00:00",
+    "id": 136
   },
   {
     "title": "Xiaomi Redmi Note 14 Pro",
@@ -2539,8 +2405,8 @@
         "old_price": 85999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685468+00:00",
-    "id": 145
+    "last_updated": "2026-10-16T07:35:59.514473+00:00",
+    "id": 137
   },
   {
     "title": "Nothing CMF Phone 1 5G",
@@ -2557,8 +2423,8 @@
         "old_price": 80999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681383+00:00",
-    "id": 146
+    "last_updated": "2026-10-16T07:35:59.500574+00:00",
+    "id": 138
   },
   {
     "title": "Honor X8d",
@@ -2575,8 +2441,8 @@
         "old_price": 84999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681275+00:00",
-    "id": 147
+    "last_updated": "2026-10-16T07:35:59.500385+00:00",
+    "id": 139
   },
   {
     "title": "Infinix Note 60 Edge 5G",
@@ -2593,8 +2459,8 @@
         "old_price": 99999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681200+00:00",
-    "id": 148
+    "last_updated": "2026-10-16T07:35:59.500228+00:00",
+    "id": 140
   },
   {
     "title": "Nothing CMF Phone 2 Pro",
@@ -2611,8 +2477,8 @@
         "old_price": 109999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685935+00:00",
-    "id": 149
+    "last_updated": "2026-10-16T07:35:59.516324+00:00",
+    "id": 141
   },
   {
     "title": "Motorola Edge 70 Fusion",
@@ -2629,8 +2495,8 @@
         "old_price": 139999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.681138+00:00",
-    "id": 150
+    "last_updated": "2026-10-16T07:35:59.500059+00:00",
+    "id": 142
   },
   {
     "title": "Honor X9d",
@@ -2647,8 +2513,8 @@
         "old_price": 154999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685790+00:00",
-    "id": 151
+    "last_updated": "2026-10-16T07:35:59.515693+00:00",
+    "id": 143
   },
   {
     "title": "Samsung Galaxy A56 5G",
@@ -2664,8 +2530,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685583+00:00",
-    "id": 152
+    "last_updated": "2026-10-16T07:35:59.514906+00:00",
+    "id": 144
   },
   {
     "title": "Samsung Galaxy Z Flip 5",
@@ -2682,8 +2548,8 @@
         "old_price": 399999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686345+00:00",
-    "id": 153
+    "last_updated": "2026-10-16T07:35:59.503048+00:00",
+    "id": 145
   },
   {
     "title": "Oppo Reno 15 Pro",
@@ -2700,8 +2566,8 @@
         "old_price": 249999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.687489+00:00",
-    "id": 154
+    "last_updated": "2026-10-16T07:35:59.523908+00:00",
+    "id": 146
   },
   {
     "title": "Samsung Galaxy S22 Ultra",
@@ -2718,8 +2584,8 @@
         "old_price": 424999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685679+00:00",
-    "id": 155
+    "last_updated": "2026-10-16T07:35:59.515425+00:00",
+    "id": 147
   },
   {
     "title": "Samsung Galaxy S23 Ultra",
@@ -2736,8 +2602,8 @@
         "old_price": 382999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686566+00:00",
-    "id": 156
+    "last_updated": "2026-10-16T07:35:59.518896+00:00",
+    "id": 148
   },
   {
     "title": "Samsung Galaxy Z Fold 4",
@@ -2754,8 +2620,8 @@
         "old_price": 539999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686549+00:00",
-    "id": 157
+    "last_updated": "2026-10-16T07:35:59.501699+00:00",
+    "id": 149
   },
   {
     "title": "Xiaomi Mix Flip",
@@ -2772,8 +2638,8 @@
         "old_price": 399999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685886+00:00",
-    "id": 158
+    "last_updated": "2026-10-16T07:35:59.507135+00:00",
+    "id": 150
   },
   {
     "title": "Samsung Galaxy Z Flip 6",
@@ -2790,8 +2656,8 @@
         "old_price": 384999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685404+00:00",
-    "id": 159
+    "last_updated": "2026-10-16T07:35:59.514193+00:00",
+    "id": 151
   },
   {
     "title": "Xiaomi 14",
@@ -2808,8 +2674,8 @@
         "old_price": 339999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686731+00:00",
-    "id": 160
+    "last_updated": "2026-10-16T07:35:59.519507+00:00",
+    "id": 152
   },
   {
     "title": "Samsung Galaxy Z Fold 5",
@@ -2826,8 +2692,8 @@
         "old_price": 656999
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685385+00:00",
-    "id": 161
+    "last_updated": "2026-10-16T07:35:59.502983+00:00",
+    "id": 153
   },
   {
     "title": "Apple iPhone 16",
@@ -2844,8 +2710,8 @@
         "old_price": 345000
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.685485+00:00",
-    "id": 162
+    "last_updated": "2026-10-16T07:35:59.514529+00:00",
+    "id": 154
   },
   {
     "title": "Vivo X Fold 5",
@@ -2862,7 +2728,7 @@
         "old_price": 497000
       }
     ],
-    "last_updated": "2026-10-16T04:09:47.686128+00:00",
-    "id": 163
+    "last_updated": "2026-10-16T07:35:59.516805+00:00",
+    "id": 155
   }
 ]
