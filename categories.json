@@ -1,46 +1,83 @@
 {
-  "updated": "2026-10-16T07:52:56.544043+00:00",
+  "updated": "2026-10-17T18:17:25.749684+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 155,
+      "count": 248,
       "min_price": 2149,
       "stores": [
-        "PriceOye"
+        "MiStore Pakistan",
+        "PriceOye",
+        "TeleX"
       ],
       "subcategories": [
         {
           "slug": "apple",
           "name": "Apple iPhone",
-          "count": 1
+          "count": 13
         },
         {
           "slug": "samsung",
           "name": "Samsung",
-          "count": 8
+          "count": 25
         },
         {
           "slug": "xiaomi",
           "name": "Xiaomi / Redmi / Poco",
-          "count": 7
+          "count": 40
         },
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 14
+          "count": 11
         },
         {
           "slug": "oppo-vivo-realme",
           "name": "Oppo / Vivo / Realme",
-          "count": 9
+          "count": 19
+        },
+        {
+          "slug": "honor",
+          "name": "Honor",
+          "count": 3
+        },
+        {
+          "slug": "nothing",
+          "name": "Nothing / CMF",
+          "count": 7
+        },
+        {
+          "slug": "motorola",
+          "name": "Motorola",
+          "count": 1
+        },
+        {
+          "slug": "nokia-hmd",
+          "name": "Nokia / HMD",
+          "count": 7
+        },
+        {
+          "slug": "dcode",
+          "name": "Dcode",
+          "count": 3
+        },
+        {
+          "slug": "qmobile",
+          "name": "QMobile",
+          "count": 14
+        },
+        {
+          "slug": "pakistani-feature-phones",
+          "name": "Other Mobile Brands",
+          "count": 102
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 116
+          "count": 3
         }
       ]
     }
