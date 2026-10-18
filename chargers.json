@@ -389,6 +389,20 @@
     "image": "",
     "prices": [
       {
+        "store": "Hall Road Lahore",
+        "price": 5929,
+        "url": "https://hallroadlahore.pk/products/xiaomi-10000mah-mi-power-bank",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Digilog",
+        "price": 6050,
+        "url": "https://digilog.pk/products/xiaomi-10000mah-mi-power-bank",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Czone",
         "price": 8000,
         "url": "https://www.czone.com.pk/peripherals-misc-power-pack-xiaomi-wireless-power-bank-30w-10000mah-charger-30w-wireless-flash-charging-10000mah-wpb25zm-pakistan-p.20093.aspx",
@@ -430,6 +444,13 @@
         "price": 9400,
         "url": "https://www.czone.com.pk/ugreen-nexode-10000mah-30w-power-bank",
         "in_stock": true
+      },
+      {
+        "store": "Digilog",
+        "price": 2270,
+        "url": "https://digilog.pk/products/remax-22-5w-10000mah-dual-port-fast-charging-power-bank-with-led-display-rpp-666",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-18T13:41:09.284102+00:00",
@@ -480,6 +501,13 @@
     "image": "",
     "prices": [
       {
+        "store": "Hall Road Lahore",
+        "price": 2127,
+        "url": "https://hallroadlahore.pk/products/remax-kiyuan-series-20w-22-5w-pd-qc-fast-charging-power-bank-10000mah-rpp-5-white",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Czone",
         "price": 10500,
         "url": "https://www.czone.com.pk/ugreen-10000mah-magnetic-wireless-power-bank-20w",
@@ -515,6 +543,20 @@
     "subcategory": "power-banks",
     "image": "",
     "prices": [
+      {
+        "store": "Hall Road Lahore",
+        "price": 3361,
+        "url": "https://hallroadlahore.pk/products/aspor-a316-20000mah-22-5w-high-speed-power-bank-with-built-in-cable",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Digilog",
+        "price": 3430,
+        "url": "https://digilog.pk/products/aspor-a316-20000mah-22-5w-high-speed-power-bank-with-built-in-cable",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Czone",
         "price": 15999,
