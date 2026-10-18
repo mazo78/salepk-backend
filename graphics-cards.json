@@ -119,6 +119,13 @@
         "price": 85000,
         "url": "https://zahcomputers.pk/product/ease-e305e-geforce-rtx-3050-graphics-card-6gb",
         "in_stock": true
+      },
+      {
+        "store": "Shophive",
+        "price": 99999,
+        "url": "https://www.shophive.com/ease-e305e-geforce-rtx-3050-6gb-gddr6-graphics-card/",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-18T13:37:26.680203+00:00",
