@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:48:27.697454+00:00",
+  "updated": "2026-10-18T14:37:40.667401+00:00",
   "categories": [
     {
       "slug": "mobiles",
@@ -90,6 +90,7 @@
       "min_price": 3400,
       "stores": [
         "Czone",
+        "Shophive",
         "ZAH Computers"
       ],
       "subcategories": [
@@ -176,7 +177,9 @@
       "count": 16,
       "min_price": 24000,
       "stores": [
-        "Czone"
+        "Czone",
+        "Shophive",
+        "TeleX"
       ],
       "subcategories": [
         {
@@ -232,7 +235,9 @@
       "count": 38,
       "min_price": 1500,
       "stores": [
-        "Czone"
+        "Czone",
+        "Digilog",
+        "Hall Road Lahore"
       ],
       "subcategories": [
         {
@@ -266,10 +271,14 @@
       "min_price": 2,
       "stores": [
         "Digilog",
+        "Digilog PK Components",
         "Electrobes",
+        "Electronics Hub",
+        "Hall Road",
         "Hall Road Lahore",
         "Robostan",
-        "Smart Samaan"
+        "Smart Samaan",
+        "TeleX"
       ],
       "subcategories": [
         {
