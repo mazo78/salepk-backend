@@ -13,25 +13,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.358375+00:00",
-    "id": 1
-  },
-  {
-    "title": "Ugreen EC305 25845 2-Port Fast Car Charger, USB-C PD 30W Max and USB-A QC 22.5W Max, 30W, Black",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "car-chargers",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 1800,
-        "url": "https://www.czone.com.pk/ugreen-ec305-25845-2-port-fast-car-charger",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:27:56.358582+00:00",
-    "id": 2
+    "last_updated": "2026-10-18T13:41:03.797906+00:00",
+    "id": 1,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Xiaomi 22.5W Power Adapter (Type-A), USB-A, Up To 22.5W Fast Charging, 100-240V Wide Voltage Support, White",
@@ -47,8 +31,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.554108+00:00",
-    "id": 3
+    "last_updated": "2026-10-18T13:40:43.059440+00:00",
+    "id": 2,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Cabletime 30W USB-C GaN Wall Charger PD 3.0 for iPhone, 30W Max, EU Plug, PC Fireproof Shell, G30AW",
@@ -64,8 +49,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.554319+00:00",
-    "id": 4
+    "last_updated": "2026-10-18T13:40:43.059650+00:00",
+    "id": 3,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Mi 37W Dual Port Car Charger, Single Port 27W Max Fast Charging, Dual Port 37W Max Output, LED Power Indicator, Black",
@@ -81,8 +67,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.358777+00:00",
-    "id": 5
+    "last_updated": "2026-10-18T13:41:03.798305+00:00",
+    "id": 4,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN 2-Port Car Charger, 24W Max Output, 20W USB-C PD and 18W USB-A QC 3.0, Model 30780",
@@ -99,26 +86,9 @@
         "old_price": 4950
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.358967+00:00",
-    "id": 6
-  },
-  {
-    "title": "Samsung 25W Power Adapter Wall Charger, Super Fast Charging 25W PD 3.0 PPS, Black",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "wall-chargers",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 2900,
-        "url": "https://www.czone.com.pk/samsung-25w-power-adapter-wall-charger-super-fast-charging-25w-pd-30-pps-black",
-        "in_stock": false,
-        "old_price": 4400
-      }
-    ],
-    "last_updated": "2026-10-16T04:27:35.554496+00:00",
-    "id": 7
+    "last_updated": "2026-10-18T13:41:03.798456+00:00",
+    "id": 5,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Ugreen Nexode USB-C GaN Fast Charger 20W, PD3.0 QC4.0 PPS AFC, 90902 CD318",
@@ -134,8 +104,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.554648+00:00",
-    "id": 8
+    "last_updated": "2026-10-18T13:40:43.060310+00:00",
+    "id": 6,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN 2-Port Fast Car Charger, 63W USB-C and USB-A, 45W PD Super Fast Charging 2.0, Multiple Charging Protocols, Model 35023",
@@ -151,8 +122,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.359154+00:00",
-    "id": 9
+    "last_updated": "2026-10-18T13:41:03.798602+00:00",
+    "id": 7,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Ugreen 2-Port GaN Fast Charger, 30W, 1xUSB-C Plus 1xUSB, QC3.0, X516",
@@ -168,8 +140,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.554797+00:00",
-    "id": 10
+    "last_updated": "2026-10-18T13:40:43.060645+00:00",
+    "id": 8,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Amaze NEXUS Pro 20000mAh Power Bank, Fast Charging, Dual Input Micro USB and USB-C, USB-A and USB-C Output, Model A233, White or Black",
@@ -185,8 +158,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.364750+00:00",
-    "id": 11
+    "last_updated": "2026-10-18T13:41:09.283178+00:00",
+    "id": 9,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "CABLETIME GA45W GaN 45W Ultra-Fast Dual Ports Wall Charger, USB-C PD 3.0 and PPS, Dual USB-C and USB-A, EU Plug, GA45W, CT-GAN45-PW",
@@ -203,8 +177,9 @@
         "old_price": 6100
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.554967+00:00",
-    "id": 12
+    "last_updated": "2026-10-18T13:40:43.060961+00:00",
+    "id": 10,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Uno RG 30W USB-C GaN Charger, LED Screen, Foldable Plug, Black, 15550",
@@ -220,25 +195,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555118+00:00",
-    "id": 13
-  },
-  {
-    "title": "UGREEN NEXODE Fast Car Charger With Retractable USB-C Cable 60W, 3-in-1 3-Port, PD 3.0 QC 3.0 PPS SCP AFC, 30W Retractable USB-C Cable Up To 70cm, Space Grey 55212B EC602",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "car-chargers",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 4900,
-        "url": "https://www.czone.com.pk/ugreen-nexode-fast-car-charger-60w-retractable-usbc",
-        "in_stock": false
-      }
-    ],
-    "last_updated": "2026-10-16T04:27:56.359346+00:00",
-    "id": 14
+    "last_updated": "2026-10-18T13:40:43.061230+00:00",
+    "id": 11,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Cabletime GA65W 65W Triple GaN Wall Charger, 2xUSB-C PD and USB-A QC, AC100-240V Universal Input",
@@ -254,25 +213,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555269+00:00",
-    "id": 15
-  },
-  {
-    "title": "UGREEN EC703 75W Dual Type-C and 1x USB Car Charger, 2x USB-C PD 3.0 and 1x USB-A, QC 4.0 Plus and PPS Support, Smart Power Distribution, Space Gray 35024",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "car-chargers",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 5800,
-        "url": "https://www.czone.com.pk/ugreen-ec703-75w-dual-type-c-usb-car-charger",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:27:56.359539+00:00",
-    "id": 16
+    "last_updated": "2026-10-18T13:40:43.061500+00:00",
+    "id": 12,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Qi2 15W Magnetic Wireless Car Charger Mount, Auto-Align, Air Vent Mount, LED Lights, 17pcs N52 Magnets, 360 Degree Rotation, W708 35970",
@@ -288,8 +231,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.359731+00:00",
-    "id": 17
+    "last_updated": "2026-10-18T13:41:03.798901+00:00",
+    "id": 13,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode 65W USB C GaN Charger, 3 Ports Wall Charger, Supports PPS GaN II, Intelligent Power Distribution, Model CD244, 10335",
@@ -305,8 +249,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555453+00:00",
-    "id": 18
+    "last_updated": "2026-10-18T13:40:43.061707+00:00",
+    "id": 14,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN NEXODE 65W USB-C GaN 3 Ports Wall Charger, 2 USB-C and 1 USB-A, PD 3.0 and QC 4.0 Plus, Model 10334, US Plug Black",
@@ -322,8 +267,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555618+00:00",
-    "id": 19
+    "last_updated": "2026-10-18T13:40:43.061888+00:00",
+    "id": 15,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN 3-Port Fast Car Charger, 130W Max Output, PD 3.0 Up to 100W Single-Port, Thermal Guard Temperature Control, 1m USB-C Cable, 55511 EC705",
@@ -339,8 +285,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:56.359914+00:00",
-    "id": 20
+    "last_updated": "2026-10-18T13:41:03.799055+00:00",
+    "id": 16,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
+  },
+  {
+    "title": "Xiaomi 33W Power Bank 10000mAh Integrated Cable, 33W Two-Way Fast Charging With PD and QC, BHR9333GL, Tan Color",
+    "brand": "",
+    "category": "chargers",
+    "subcategory": "power-banks",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 6900,
+        "url": "https://www.czone.com.pk/xiaomi-33w-power-bank-10000mah-integrated-cable",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-18T13:41:09.283332+00:00",
+    "id": 17,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Apple 20W USB-C Power Adapter Wall Charger 3 PIN, 20W Output, White (Official Warranty)",
@@ -356,8 +321,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555767+00:00",
-    "id": 21
+    "last_updated": "2026-10-18T13:40:43.062102+00:00",
+    "id": 18,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Amaze TITAN 20000mAh Power Bank A238 70W PD35W QC18W",
@@ -374,25 +340,9 @@
         "old_price": 9800
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.364914+00:00",
-    "id": 22
-  },
-  {
-    "title": "Xiaomi 33W Power Bank 10000mAh Integrated Cable, 33W Two-Way Fast Charging With PD and QC, BHR9333GL, Tan Color",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "power-banks",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 7500,
-        "url": "https://www.czone.com.pk/xiaomi-33w-power-bank-10000mah-integrated-cable",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:28:01.365112+00:00",
-    "id": 23
+    "last_updated": "2026-10-18T13:41:09.283471+00:00",
+    "id": 19,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Xiaomi Redmi Power Bank 20000mAh, 18W Two-Way Fast Charging, Dual USB-A Output and USB-C and Micro-USB Input, 74Wh High Capacity",
@@ -408,8 +358,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.365274+00:00",
-    "id": 24
+    "last_updated": "2026-10-18T13:41:09.283634+00:00",
+    "id": 20,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Uno 65W 3 Ports USB C Charger GaNFast Cute Robot Shape, 2 USB-C and 1 USB-A, LED Emoticon Display, Pink Blue, 35855",
@@ -426,8 +377,9 @@
         "old_price": 18000
       }
     ],
-    "last_updated": "2026-10-16T04:27:35.555926+00:00",
-    "id": 25
+    "last_updated": "2026-10-18T13:40:43.062266+00:00",
+    "id": 21,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Xiaomi Wireless Power Bank 30W 10000mAh Charger, 30W Wireless Flash Charging, 10000mAh, WPB25ZM",
@@ -444,8 +396,9 @@
         "old_price": 13500
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.365441+00:00",
-    "id": 26
+    "last_updated": "2026-10-18T13:41:09.283772+00:00",
+    "id": 22,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN ZAPIX Series Magnetic Wireless Fast Charging Power Bank, 10000mAh, 20W, PD and FQI, 1 x QI and 1 x USB-C, PB561, Black 25919",
@@ -461,8 +414,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.365606+00:00",
-    "id": 27
+    "last_updated": "2026-10-18T13:41:09.283927+00:00",
+    "id": 23,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode Fast Charging Power Bank, 10000mAh, 30W PD USB-C, Dual-Port USB-C and USB-A, TFT Digital Display, Grey, PB502 25185",
@@ -478,8 +432,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.365763+00:00",
-    "id": 28
+    "last_updated": "2026-10-18T13:41:09.284102+00:00",
+    "id": 24,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode 20W Fast Charging Power Bank 20000mAh, 2 Ports USB-C and USB-A, Built-in Cable, Flight Approved, 35340",
@@ -495,8 +450,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.365917+00:00",
-    "id": 29
+    "last_updated": "2026-10-18T13:41:09.284235+00:00",
+    "id": 25,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode Pro 65W GaN Fast Charger With Retractable USB-C Cable, USB-C and USB-A Ports, 65825 X615",
@@ -512,8 +468,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:39.699835+00:00",
-    "id": 30
+    "last_updated": "2026-10-18T13:40:47.223608+00:00",
+    "id": 26,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN 10000mAh Magnetic Wireless Power Bank, 20W USB-C PD Fast Charging, PB561 25208",
@@ -529,8 +486,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.366080+00:00",
-    "id": 31
+    "last_updated": "2026-10-18T13:41:09.284366+00:00",
+    "id": 27,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN MagFlow Qi2 15W 2-in-1 Foldable Wireless Charging Station, Qi2 Certified 15W Wireless Charging, 15W Phone and 5W Earbuds, N48*16 Magnets, Model 35316",
@@ -546,26 +504,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:43.982227+00:00",
-    "id": 32
-  },
-  {
-    "title": "UGREEN Uno Power Bank 10000mAh 30W, PD Fast Charging, Built-in USB-C Cable, TFT Digital Display, Triple-Port Design, 35603B PB511",
-    "brand": "",
-    "category": "chargers",
-    "subcategory": "power-banks",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 11000,
-        "url": "https://www.czone.com.pk/ugreen-uno-power-bank-10000mah-30w-35603b",
-        "in_stock": true,
-        "old_price": 23850
-      }
-    ],
-    "last_updated": "2026-10-16T04:28:01.366243+00:00",
-    "id": 33
+    "last_updated": "2026-10-18T13:40:51.399435+00:00",
+    "id": 28,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode Smart Display Power Bank, 20000mAh 130W, 100W USB-C1, 30W USB-C2, 22.5W USB-A, Built-in USB-C Cable, PB723 55365B",
@@ -581,8 +522,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.366396+00:00",
-    "id": 34
+    "last_updated": "2026-10-18T13:41:09.284655+00:00",
+    "id": 29,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Apple 30W USB-C Power Adapter, Fast Charging, Compact Folding Plug, White",
@@ -598,8 +540,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:48.083781+00:00",
-    "id": 35
+    "last_updated": "2026-10-18T13:40:55.524197+00:00",
+    "id": 30,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode 20000mAh Power Bank, 145W Total Output, Up to 100W USB-C, Built-in USB-C Cable, 72Wh Fast Charging, Model 55992B",
@@ -615,8 +558,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:01.366559+00:00",
-    "id": 36
+    "last_updated": "2026-10-18T13:41:09.284786+00:00",
+    "id": 31,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "Apple 35W Dual USB-C Port Compact Power Adapter, Shared Charging, Travel-Friendly Design, White",
@@ -632,8 +576,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:27:52.279915+00:00",
-    "id": 37
+    "last_updated": "2026-10-18T13:40:59.706697+00:00",
+    "id": 32,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode 20000mAh 130W 3-Port Power Bank USB-C Laptop Charger, 100W Max USB-C1, 30W Max USB-C2, 22.5W USB-A, TFT Display, 35524B",
@@ -650,8 +595,9 @@
         "old_price": 35795
       }
     ],
-    "last_updated": "2026-10-16T04:28:05.449878+00:00",
-    "id": 38
+    "last_updated": "2026-10-18T13:41:13.438735+00:00",
+    "id": 33,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   },
   {
     "title": "UGREEN Nexode 25000mAh 200W 3-Port Power Bank, PD 3.1, TFT Display, 2x USB-C and USB-A, 35525B, Black",
@@ -667,7 +613,82 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:28:09.544696+00:00",
-    "id": 39
+    "last_updated": "2026-10-18T13:41:17.588619+00:00",
+    "id": 34,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
+  },
+  {
+    "title": "Ugreen EC305 25845 2-Port Fast Car Charger, USB-C PD 30W Max and USB-A QC 22.5W Max, 30W, Black",
+    "brand": "",
+    "category": "chargers",
+    "subcategory": "car-chargers",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 1800,
+        "url": "https://www.czone.com.pk/ugreen-ec305-25845-2-port-fast-car-charger",
+        "in_stock": false
+      }
+    ],
+    "last_updated": "2026-10-18T13:41:03.798144+00:00",
+    "id": 35,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
+  },
+  {
+    "title": "Samsung 25W Power Adapter Wall Charger, Super Fast Charging 25W PD 3.0 PPS, Black",
+    "brand": "",
+    "category": "chargers",
+    "subcategory": "wall-chargers",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 2900,
+        "url": "https://www.czone.com.pk/samsung-25w-power-adapter-wall-charger-super-fast-charging-25w-pd-30-pps-black",
+        "in_stock": false,
+        "old_price": 4400
+      }
+    ],
+    "last_updated": "2026-10-18T13:40:43.060024+00:00",
+    "id": 36,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
+  },
+  {
+    "title": "UGREEN EC703 75W Dual Type-C and 1x USB Car Charger, 2x USB-C PD 3.0 and 1x USB-A, QC 4.0 Plus and PPS Support, Smart Power Distribution, Space Gray 35024",
+    "brand": "",
+    "category": "chargers",
+    "subcategory": "car-chargers",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 5800,
+        "url": "https://www.czone.com.pk/ugreen-ec703-75w-dual-type-c-usb-car-charger",
+        "in_stock": false
+      }
+    ],
+    "last_updated": "2026-10-18T13:41:03.798753+00:00",
+    "id": 37,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
+  },
+  {
+    "title": "UGREEN Uno Power Bank 10000mAh 30W, PD Fast Charging, Built-in USB-C Cable, TFT Digital Display, Triple-Port Design, 35603B PB511",
+    "brand": "",
+    "category": "chargers",
+    "subcategory": "power-banks",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 11000,
+        "url": "https://www.czone.com.pk/ugreen-uno-power-bank-10000mah-30w-35603b",
+        "in_stock": false,
+        "old_price": 23850
+      }
+    ],
+    "last_updated": "2026-10-18T13:41:09.284503+00:00",
+    "id": 38,
+    "first_seen": "2026-10-18T13:48:27.593748+00:00"
   }
 ]
