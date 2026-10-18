@@ -13,25 +13,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.626226+00:00",
-    "id": 1
-  },
-  {
-    "title": "Lenovo L22-4e 21.5 Inch IPS FHD Monitor, 100Hz, 99% sRGB, 1300:1, HDMI and VGA, Black",
-    "brand": "",
-    "category": "monitors",
-    "subcategory": "office",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 27500,
-        "url": "https://www.czone.com.pk/lcd-led-monitors-lenovo-lenovo-l22-4e-21-5-inch-ips-fhd-monitor-100hz-99-srgb-1300-1-hdmi-and-vga-black-pakistan-p.19962.aspx",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-16T04:24:28.626508+00:00",
-    "id": 2
+    "last_updated": "2026-10-18T13:37:33.517572+00:00",
+    "id": 1,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "ViewSonic VA240A-H 24\" FHD 120Hz IPS Monitor, 1ms MPRT, Variable Refresh Rate, HDMI and VGA",
@@ -47,8 +31,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.626920+00:00",
-    "id": 3
+    "last_updated": "2026-10-18T13:37:33.517894+00:00",
+    "id": 2,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "AOC 24B36XE 23.8\" IPS FHD Monitor, 1920x1080, 144Hz, 4ms GtG, 0.5ms MPRT, 300cd/m2, 1500:1, HDMI 1.4 and VGA, 4-Sided Frameless, VESA 100x100, Black",
@@ -64,8 +49,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.627133+00:00",
-    "id": 4
+    "last_updated": "2026-10-18T13:37:33.518065+00:00",
+    "id": 3,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "Philips Evnia 24M2N3200FQ 24 Inch FHD Gaming Monitor, Fast IPS, 200Hz, 0.3ms MBR, HDR10, Adaptive Sync, 125% sRGB, Smart Crosshair, ShadowBoost, Charcoal, 6520374",
@@ -81,8 +67,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.627333+00:00",
-    "id": 5
+    "last_updated": "2026-10-18T13:37:33.518235+00:00",
+    "id": 4,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "AOC 24G50F 23.8 Inch FHD IPS Gaming Monitor, 180Hz OC Refresh Rate, 0.5ms MPRT, NVIDIA G-Sync Compatible, 3-Sided Frameless",
@@ -98,8 +85,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.627520+00:00",
-    "id": 6
+    "last_updated": "2026-10-18T13:37:33.518391+00:00",
+    "id": 5,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "KOORUI E1512A 15.6 Inch FHD Portable Monitor, IPS 1920x1080 60Hz, HDMI 1.4 and 2x USB-C, FreeSync and HDR",
@@ -115,8 +103,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.627720+00:00",
-    "id": 7
+    "last_updated": "2026-10-18T13:37:33.518569+00:00",
+    "id": 6,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "Lenovo G24-20 23.8\" FHD Gaming Monitor, Fast IPS, 144Hz to 165Hz Overclock, 0.5ms MPRT",
@@ -132,8 +121,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.627887+00:00",
-    "id": 8
+    "last_updated": "2026-10-18T13:37:33.518720+00:00",
+    "id": 7,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "Lenovo L24-4E Monitor, 23.8\" IPS FHD 100Hz, 99% sRGB, 1300:1, HDMI 1.4 and VGA",
@@ -149,8 +139,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.628074+00:00",
-    "id": 9
+    "last_updated": "2026-10-18T13:37:33.518888+00:00",
+    "id": 8,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "MSI MAG 255F E20 Gaming Monitor, 24.5\" FHD 200Hz, Rapid IPS 0.5ms GtG, HDR Ready, AMD FreeSync Premium",
@@ -167,8 +158,9 @@
         "old_price": 39000
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.628290+00:00",
-    "id": 10
+    "last_updated": "2026-10-18T13:37:33.519067+00:00",
+    "id": 9,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "ViewSonic VX24G30 Gaming Monitor, 24\" FHD 240Hz SuperClear IPS, 0.8ms MPRT, NVIDIA G-Sync Compatible",
@@ -184,8 +176,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.628467+00:00",
-    "id": 11
+    "last_updated": "2026-10-18T13:37:33.519253+00:00",
+    "id": 10,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "ViewSonic VA27G1-H 27\" FHD 144Hz IPS Monitor, 1ms Response Time, Variable Refresh Rate, HDMI 1.4 And VGA Inputs",
@@ -201,8 +194,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:28.628628+00:00",
-    "id": 12
+    "last_updated": "2026-10-18T13:37:33.519407+00:00",
+    "id": 11,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "Lenovo LOQ 24-10 Monitor 23.8\" FHD IPS Gaming Monitor, 200Hz, 0.5ms MPRT, HDR10, FreeSync Premium",
@@ -218,25 +212,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:33.036433+00:00",
-    "id": 13
-  },
-  {
-    "title": "Legion Lenovo Legion R25i-30 24.5\" FHD IPS Gaming Monitor, 165Hz to 180Hz Overclock, 0.5ms MPRT, AMD FreeSync Premium, ClearMR 7000",
-    "brand": "",
-    "category": "monitors",
-    "subcategory": "gaming",
-    "image": "",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 36990,
-        "url": "https://www.czone.com.pk/lenovo-legion-r25i-30-245-fhd-ips-gaming-monitor",
-        "in_stock": false
-      }
-    ],
-    "last_updated": "2026-10-16T04:24:37.206135+00:00",
-    "id": 14
+    "last_updated": "2026-10-18T13:37:33.519680+00:00",
+    "id": 12,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "AOC 24G50Z2 23.8 Inch FHD Fast IPS Gaming Monitor, 260Hz Overclock, 0.3ms MPRT, Adaptive Sync",
@@ -252,8 +230,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:41.370575+00:00",
-    "id": 15
+    "last_updated": "2026-10-18T13:37:37.742999+00:00",
+    "id": 13,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
   {
     "title": "Philips 27M2N3200PF Fast IPS Gaming Monitor, 27 Inch Full HD 260Hz, 0.3ms Smart MBR, HDR10 Support",
@@ -269,7 +248,44 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-16T04:24:45.540446+00:00",
-    "id": 16
+    "last_updated": "2026-10-18T13:37:42.149800+00:00",
+    "id": 14,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
+  },
+  {
+    "title": "ViewSonic VX2779A-HD-PRO 27\" 240Hz FHD Gaming Monitor - AMD FreeSync and NVIDIA G-Sync Compatible - HDR10",
+    "brand": "",
+    "category": "monitors",
+    "subcategory": "gaming",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 42990,
+        "url": "https://www.czone.com.pk/lcd-led-monitors-viewsonic-viewsonic-vx2779a-hd-pro-27-240hz-fhd-gaming-monitor-amd-freesync-and-nvidia-g-sync-compatible-hdr10-pakistan-p.18739.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-18T13:37:46.375061+00:00",
+    "id": 15,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
+  },
+  {
+    "title": "ViewSonic VX24G30-W 24\" FHD 240Hz IPS Gaming Monitor, 0.8ms MPRT, HDR10, NVIDIA G-Sync Compatible, 2x HDMI 2.1 And DisplayPort, White",
+    "brand": "",
+    "category": "monitors",
+    "subcategory": "gaming",
+    "image": "",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 43999,
+        "url": "https://www.czone.com.pk/viewsonic-vx24g30-w-24-fhd-240hz-gaming-monitor",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-18T13:37:50.637445+00:00",
+    "id": 16,
+    "first_seen": "2026-10-18T13:48:27.574024+00:00"
   }
 ]
