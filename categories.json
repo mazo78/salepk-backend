@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-17T18:17:25.749684+00:00",
+  "updated": "2026-10-18T13:48:27.697454+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 248,
+      "count": 1407,
       "min_price": 2149,
       "stores": [
         "MiStore Pakistan",
@@ -17,37 +17,37 @@
         {
           "slug": "apple",
           "name": "Apple iPhone",
-          "count": 13
+          "count": 35
         },
         {
           "slug": "samsung",
           "name": "Samsung",
-          "count": 25
+          "count": 365
         },
         {
           "slug": "xiaomi",
           "name": "Xiaomi / Redmi / Poco",
-          "count": 40
+          "count": 196
         },
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 11
+          "count": 243
         },
         {
           "slug": "oppo-vivo-realme",
           "name": "Oppo / Vivo / Realme",
-          "count": 19
+          "count": 408
         },
         {
           "slug": "honor",
           "name": "Honor",
-          "count": 3
+          "count": 8
         },
         {
           "slug": "nothing",
           "name": "Nothing / CMF",
-          "count": 7
+          "count": 8
         },
         {
           "slug": "motorola",
@@ -57,27 +57,325 @@
         {
           "slug": "nokia-hmd",
           "name": "Nokia / HMD",
-          "count": 7
+          "count": 3
         },
         {
-          "slug": "dcode",
-          "name": "Dcode",
-          "count": 3
+          "slug": "zte",
+          "name": "ZTE",
+          "count": 2
         },
         {
           "slug": "qmobile",
           "name": "QMobile",
-          "count": 14
+          "count": 18
         },
         {
           "slug": "pakistani-feature-phones",
           "name": "Other Mobile Brands",
-          "count": 102
+          "count": 99
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 3
+          "count": 21
+        }
+      ]
+    },
+    {
+      "slug": "graphics-cards",
+      "name": "Graphics Cards",
+      "name_ur": "گرافکس کارڈ",
+      "file": "graphics-cards.json",
+      "count": 77,
+      "min_price": 3400,
+      "stores": [
+        "Czone",
+        "ZAH Computers"
+      ],
+      "subcategories": [
+        {
+          "slug": "nvidia",
+          "name": "NVIDIA GeForce",
+          "count": 61
+        },
+        {
+          "slug": "amd",
+          "name": "AMD Radeon",
+          "count": 14
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "computer-hardware",
+      "name": "Computer Hardware",
+      "name_ur": "کمپیوٹر ہارڈویئر",
+      "file": "computer-hardware.json",
+      "count": 128,
+      "min_price": 1000,
+      "stores": [
+        "Czone"
+      ],
+      "subcategories": [
+        {
+          "slug": "processors",
+          "name": "Processors (CPU)",
+          "count": 19
+        },
+        {
+          "slug": "motherboards",
+          "name": "Motherboards",
+          "count": 14
+        },
+        {
+          "slug": "ram",
+          "name": "RAM / Memory",
+          "count": 18
+        },
+        {
+          "slug": "ssd",
+          "name": "SSD",
+          "count": 16
+        },
+        {
+          "slug": "hdd",
+          "name": "Hard Drives",
+          "count": 13
+        },
+        {
+          "slug": "power-supply",
+          "name": "Power Supply (PSU)",
+          "count": 16
+        },
+        {
+          "slug": "casing",
+          "name": "Casing",
+          "count": 21
+        },
+        {
+          "slug": "cooling",
+          "name": "Cooling",
+          "count": 7
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "slug": "monitors",
+      "name": "LCD / LED Monitors",
+      "name_ur": "مانیٹر",
+      "file": "monitors.json",
+      "count": 16,
+      "min_price": 24000,
+      "stores": [
+        "Czone"
+      ],
+      "subcategories": [
+        {
+          "slug": "gaming",
+          "name": "Gaming (144Hz+)",
+          "count": 12
+        },
+        {
+          "slug": "office",
+          "name": "Office / Everyday",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "slug": "tvs",
+      "name": "LED / LCD TVs",
+      "name_ur": "ٹی وی",
+      "file": "tvs.json",
+      "count": 111,
+      "min_price": 17099,
+      "stores": [
+        "PriceOye"
+      ],
+      "subcategories": [
+        {
+          "slug": "qled-oled",
+          "name": "QLED / OLED / Mini-LED",
+          "count": 14
+        },
+        {
+          "slug": "4k-smart",
+          "name": "4K Smart TV",
+          "count": 50
+        },
+        {
+          "slug": "smart",
+          "name": "Smart / Android TV",
+          "count": 23
+        },
+        {
+          "slug": "led",
+          "name": "LED TV",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "slug": "chargers",
+      "name": "Chargers & Power Banks",
+      "name_ur": "چارجر",
+      "file": "chargers.json",
+      "count": 38,
+      "min_price": 1500,
+      "stores": [
+        "Czone"
+      ],
+      "subcategories": [
+        {
+          "slug": "power-banks",
+          "name": "Power Banks",
+          "count": 14
+        },
+        {
+          "slug": "car-chargers",
+          "name": "Car Chargers",
+          "count": 8
+        },
+        {
+          "slug": "wireless",
+          "name": "Wireless Chargers",
+          "count": 1
+        },
+        {
+          "slug": "wall-chargers",
+          "name": "Wall Chargers / Adapters",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "slug": "electronics-modules",
+      "name": "Electronics Modules & Boards",
+      "name_ur": "الیکٹرانکس ماڈیول",
+      "file": "electronics-modules.json",
+      "count": 1008,
+      "min_price": 2,
+      "stores": [
+        "Digilog",
+        "Electrobes",
+        "Hall Road Lahore",
+        "Robostan",
+        "Smart Samaan"
+      ],
+      "subcategories": [
+        {
+          "slug": "stm32",
+          "name": "STM32 / ARM Boards",
+          "count": 10
+        },
+        {
+          "slug": "esp32-esp8266",
+          "name": "ESP32 / ESP8266",
+          "count": 18
+        },
+        {
+          "slug": "camera-modules",
+          "name": "Camera Modules",
+          "count": 17
+        },
+        {
+          "slug": "raspberry-pi",
+          "name": "Raspberry Pi / SBC",
+          "count": 20
+        },
+        {
+          "slug": "arduino",
+          "name": "Arduino Boards",
+          "count": 32
+        },
+        {
+          "slug": "pic-avr",
+          "name": "PIC / AVR / 8051 Chips",
+          "count": 9
+        },
+        {
+          "slug": "wireless-comm",
+          "name": "Wireless & Communication",
+          "count": 36
+        },
+        {
+          "slug": "sensors",
+          "name": "Sensors",
+          "count": 84
+        },
+        {
+          "slug": "displays",
+          "name": "Displays (LCD / OLED / TFT)",
+          "count": 49
+        },
+        {
+          "slug": "leds",
+          "name": "LEDs & LED Strips",
+          "count": 6
+        },
+        {
+          "slug": "motor-drivers",
+          "name": "Motor Drivers",
+          "count": 12
+        },
+        {
+          "slug": "motors",
+          "name": "Motors & Servos",
+          "count": 70
+        },
+        {
+          "slug": "relays-switching",
+          "name": "Relays & Switching",
+          "count": 22
+        },
+        {
+          "slug": "power-modules",
+          "name": "Power Modules (Buck / Boost / BMS)",
+          "count": 77
+        },
+        {
+          "slug": "batteries",
+          "name": "Batteries & Cells",
+          "count": 66
+        },
+        {
+          "slug": "audio",
+          "name": "Audio Modules & Amplifiers",
+          "count": 6
+        },
+        {
+          "slug": "components",
+          "name": "Components (R / C / ICs)",
+          "count": 179
+        },
+        {
+          "slug": "tools",
+          "name": "Tools (Soldering / Meters)",
+          "count": 86
+        },
+        {
+          "slug": "robotics-3d",
+          "name": "Robotics, RC & 3D Printing",
+          "count": 124
+        },
+        {
+          "slug": "kits",
+          "name": "Kits",
+          "count": 12
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 73
         }
       ]
     }
