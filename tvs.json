@@ -4,7 +4,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -13,7 +13,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286912+00:00",
+    "last_updated": "2026-10-18T16:29:19.636203+00:00",
     "id": 1,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -22,7 +22,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -31,7 +31,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815250+00:00",
+    "last_updated": "2026-10-18T16:29:16.041976+00:00",
     "id": 2,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -40,7 +40,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -49,7 +49,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.355527+00:00",
+    "last_updated": "2026-10-18T16:29:27.255507+00:00",
     "id": 3,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -58,7 +58,7 @@
     "brand": "Sharp",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -67,7 +67,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287207+00:00",
+    "last_updated": "2026-10-18T16:29:19.636400+00:00",
     "id": 4,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -76,7 +76,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -85,7 +85,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287710+00:00",
+    "last_updated": "2026-10-18T16:29:19.636703+00:00",
     "id": 5,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -94,7 +94,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -103,7 +103,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286292+00:00",
+    "last_updated": "2026-10-18T16:29:19.635825+00:00",
     "id": 6,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -112,7 +112,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -121,7 +121,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814239+00:00",
+    "last_updated": "2026-10-18T16:29:16.041047+00:00",
     "id": 7,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -130,7 +130,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -139,7 +139,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814357+00:00",
+    "last_updated": "2026-10-18T16:29:16.041167+00:00",
     "id": 8,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -148,7 +148,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -157,7 +157,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815138+00:00",
+    "last_updated": "2026-10-18T16:29:16.041878+00:00",
     "id": 9,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -166,7 +166,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -175,7 +175,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288002+00:00",
+    "last_updated": "2026-10-18T16:29:19.636903+00:00",
     "id": 10,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -184,7 +184,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -193,7 +193,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754531+00:00",
+    "last_updated": "2026-10-18T16:29:23.613702+00:00",
     "id": 11,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -202,7 +202,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -211,7 +211,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.285576+00:00",
+    "last_updated": "2026-10-18T16:29:19.635459+00:00",
     "id": 12,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -220,7 +220,7 @@
     "brand": "Akira",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -229,7 +229,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.817218+00:00",
+    "last_updated": "2026-10-18T16:29:16.043681+00:00",
     "id": 13,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -238,7 +238,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -247,7 +247,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286026+00:00",
+    "last_updated": "2026-10-18T16:29:19.635708+00:00",
     "id": 14,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -256,7 +256,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -265,7 +265,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.817120+00:00",
+    "last_updated": "2026-10-18T16:29:16.043572+00:00",
     "id": 15,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -274,7 +274,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -283,7 +283,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288851+00:00",
+    "last_updated": "2026-10-18T16:29:19.637353+00:00",
     "id": 16,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -292,7 +292,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -301,7 +301,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.355224+00:00",
+    "last_updated": "2026-10-18T16:29:27.255090+00:00",
     "id": 17,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -310,7 +310,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -319,7 +319,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814595+00:00",
+    "last_updated": "2026-10-18T16:29:16.041372+00:00",
     "id": 18,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -328,7 +328,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -337,7 +337,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.355377+00:00",
+    "last_updated": "2026-10-18T16:29:27.255250+00:00",
     "id": 19,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -346,7 +346,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -355,7 +355,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814473+00:00",
+    "last_updated": "2026-10-18T16:29:16.041277+00:00",
     "id": 20,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -364,7 +364,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -373,7 +373,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815361+00:00",
+    "last_updated": "2026-10-18T16:29:16.042074+00:00",
     "id": 21,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -382,7 +382,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -391,7 +391,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.356361+00:00",
+    "last_updated": "2026-10-18T16:29:27.256341+00:00",
     "id": 22,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -400,7 +400,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -409,7 +409,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.285450+00:00",
+    "last_updated": "2026-10-18T16:29:19.635265+00:00",
     "id": 23,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -418,7 +418,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -427,7 +427,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288496+00:00",
+    "last_updated": "2026-10-18T16:29:19.637176+00:00",
     "id": 24,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -436,7 +436,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -445,7 +445,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.290542+00:00",
+    "last_updated": "2026-10-18T16:29:19.638166+00:00",
     "id": 25,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -454,7 +454,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -463,7 +463,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816689+00:00",
+    "last_updated": "2026-10-18T16:29:16.043233+00:00",
     "id": 26,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -472,7 +472,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -481,7 +481,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.285344+00:00",
+    "last_updated": "2026-10-18T16:29:19.635135+00:00",
     "id": 27,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -490,7 +490,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -499,7 +499,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754031+00:00",
+    "last_updated": "2026-10-18T16:29:23.613224+00:00",
     "id": 28,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -508,7 +508,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -517,7 +517,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814805+00:00",
+    "last_updated": "2026-10-18T16:29:16.041580+00:00",
     "id": 29,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -526,7 +526,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -535,7 +535,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.285803+00:00",
+    "last_updated": "2026-10-18T16:29:19.635582+00:00",
     "id": 30,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -544,7 +544,7 @@
     "brand": "Pel",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -553,7 +553,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.356238+00:00",
+    "last_updated": "2026-10-18T16:29:27.256243+00:00",
     "id": 31,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -562,7 +562,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -571,7 +571,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286470+00:00",
+    "last_updated": "2026-10-18T16:29:19.635923+00:00",
     "id": 32,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -580,7 +580,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -589,7 +589,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.813338+00:00",
+    "last_updated": "2026-10-18T16:29:16.040346+00:00",
     "id": 33,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -598,7 +598,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -607,7 +607,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752043+00:00",
+    "last_updated": "2026-10-18T16:29:23.611260+00:00",
     "id": 34,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -616,7 +616,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -625,7 +625,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286775+00:00",
+    "last_updated": "2026-10-18T16:29:19.636112+00:00",
     "id": 35,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -634,7 +634,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -643,7 +643,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.817015+00:00",
+    "last_updated": "2026-10-18T16:29:16.043488+00:00",
     "id": 36,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -652,7 +652,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -661,7 +661,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.355827+00:00",
+    "last_updated": "2026-10-18T16:29:27.255824+00:00",
     "id": 37,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -670,7 +670,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -679,7 +679,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.289146+00:00",
+    "last_updated": "2026-10-18T16:29:19.637550+00:00",
     "id": 38,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -688,7 +688,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -697,7 +697,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816585+00:00",
+    "last_updated": "2026-10-18T16:29:16.043144+00:00",
     "id": 39,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -706,7 +706,7 @@
     "brand": "Lg",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -715,7 +715,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814920+00:00",
+    "last_updated": "2026-10-18T16:29:16.041698+00:00",
     "id": 40,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -724,7 +724,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -733,7 +733,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815776+00:00",
+    "last_updated": "2026-10-18T16:29:16.042416+00:00",
     "id": 41,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -742,7 +742,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -751,7 +751,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.285211+00:00",
+    "last_updated": "2026-10-18T16:29:19.635022+00:00",
     "id": 42,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -760,7 +760,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -769,7 +769,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287521+00:00",
+    "last_updated": "2026-10-18T16:29:19.636610+00:00",
     "id": 43,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -778,7 +778,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -787,7 +787,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753390+00:00",
+    "last_updated": "2026-10-18T16:29:23.612617+00:00",
     "id": 44,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -796,7 +796,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -805,7 +805,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287864+00:00",
+    "last_updated": "2026-10-18T16:29:19.636804+00:00",
     "id": 45,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -814,7 +814,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -823,7 +823,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287360+00:00",
+    "last_updated": "2026-10-18T16:29:19.636499+00:00",
     "id": 46,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -832,7 +832,7 @@
     "brand": "Lg",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -841,7 +841,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815466+00:00",
+    "last_updated": "2026-10-18T16:29:16.042163+00:00",
     "id": 47,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -850,7 +850,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -859,7 +859,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.355671+00:00",
+    "last_updated": "2026-10-18T16:29:27.255662+00:00",
     "id": 48,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -868,7 +868,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -877,7 +877,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815030+00:00",
+    "last_updated": "2026-10-18T16:29:16.041789+00:00",
     "id": 49,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -886,7 +886,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -895,7 +895,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.289291+00:00",
+    "last_updated": "2026-10-18T16:29:19.637642+00:00",
     "id": 50,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -904,7 +904,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -913,7 +913,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.813906+00:00",
+    "last_updated": "2026-10-18T16:29:16.040706+00:00",
     "id": 51,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -922,7 +922,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -931,7 +931,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.286632+00:00",
+    "last_updated": "2026-10-18T16:29:19.636022+00:00",
     "id": 52,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -940,7 +940,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -949,7 +949,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816784+00:00",
+    "last_updated": "2026-10-18T16:29:16.043318+00:00",
     "id": 53,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -958,7 +958,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -967,7 +967,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815986+00:00",
+    "last_updated": "2026-10-18T16:29:16.042652+00:00",
     "id": 54,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -976,7 +976,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -985,7 +985,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815672+00:00",
+    "last_updated": "2026-10-18T16:29:16.042333+00:00",
     "id": 55,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -994,7 +994,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1003,7 +1003,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.814701+00:00",
+    "last_updated": "2026-10-18T16:29:16.041461+00:00",
     "id": 56,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1012,7 +1012,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1021,7 +1021,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753670+00:00",
+    "last_updated": "2026-10-18T16:29:23.612878+00:00",
     "id": 57,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1030,7 +1030,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1039,7 +1039,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753294+00:00",
+    "last_updated": "2026-10-18T16:29:23.612528+00:00",
     "id": 58,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1048,7 +1048,7 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1057,7 +1057,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.817479+00:00",
+    "last_updated": "2026-10-18T16:29:16.043919+00:00",
     "id": 59,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1066,7 +1066,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1075,7 +1075,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753759+00:00",
+    "last_updated": "2026-10-18T16:29:23.612959+00:00",
     "id": 60,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1084,7 +1084,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1093,7 +1093,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288140+00:00",
+    "last_updated": "2026-10-18T16:29:19.636996+00:00",
     "id": 61,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1102,7 +1102,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1111,7 +1111,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753580+00:00",
+    "last_updated": "2026-10-18T16:29:23.612796+00:00",
     "id": 62,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1120,7 +1120,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1129,7 +1129,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753485+00:00",
+    "last_updated": "2026-10-18T16:29:23.612708+00:00",
     "id": 63,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1138,7 +1138,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1147,7 +1147,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288994+00:00",
+    "last_updated": "2026-10-18T16:29:19.637462+00:00",
     "id": 64,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1156,7 +1156,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1165,7 +1165,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754338+00:00",
+    "last_updated": "2026-10-18T16:29:23.613498+00:00",
     "id": 65,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1174,7 +1174,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1183,7 +1183,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.817384+00:00",
+    "last_updated": "2026-10-18T16:29:16.043831+00:00",
     "id": 66,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1192,7 +1192,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1201,7 +1201,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.813755+00:00",
+    "last_updated": "2026-10-18T16:29:16.040615+00:00",
     "id": 67,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1210,7 +1210,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1219,7 +1219,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288684+00:00",
+    "last_updated": "2026-10-18T16:29:19.637263+00:00",
     "id": 68,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1228,7 +1228,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1237,7 +1237,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753935+00:00",
+    "last_updated": "2026-10-18T16:29:23.613132+00:00",
     "id": 69,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1246,7 +1246,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1255,7 +1255,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.289467+00:00",
+    "last_updated": "2026-10-18T16:29:19.637733+00:00",
     "id": 70,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1264,7 +1264,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1273,7 +1273,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754918+00:00",
+    "last_updated": "2026-10-18T16:29:23.614048+00:00",
     "id": 71,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1282,7 +1282,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1291,7 +1291,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754210+00:00",
+    "last_updated": "2026-10-18T16:29:23.613391+00:00",
     "id": 72,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1300,7 +1300,7 @@
     "brand": "Orient",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1309,7 +1309,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.755229+00:00",
+    "last_updated": "2026-10-18T16:29:23.614304+00:00",
     "id": 73,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1318,7 +1318,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1327,7 +1327,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815881+00:00",
+    "last_updated": "2026-10-18T16:29:16.042530+00:00",
     "id": 74,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1336,7 +1336,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1345,7 +1345,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752534+00:00",
+    "last_updated": "2026-10-18T16:29:23.611827+00:00",
     "id": 75,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1354,7 +1354,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1363,7 +1363,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753847+00:00",
+    "last_updated": "2026-10-18T16:29:23.613045+00:00",
     "id": 76,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1372,7 +1372,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1381,7 +1381,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752814+00:00",
+    "last_updated": "2026-10-18T16:29:23.612092+00:00",
     "id": 77,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1390,7 +1390,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1399,7 +1399,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754121+00:00",
+    "last_updated": "2026-10-18T16:29:23.613310+00:00",
     "id": 78,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1408,7 +1408,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1417,7 +1417,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753021+00:00",
+    "last_updated": "2026-10-18T16:29:23.612266+00:00",
     "id": 79,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1426,7 +1426,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1435,7 +1435,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:47.356024+00:00",
+    "last_updated": "2026-10-18T16:29:27.256035+00:00",
     "id": 80,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1444,7 +1444,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1453,7 +1453,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.755048+00:00",
+    "last_updated": "2026-10-18T16:29:23.614133+00:00",
     "id": 81,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1462,7 +1462,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1471,7 +1471,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.289660+00:00",
+    "last_updated": "2026-10-18T16:29:19.637822+00:00",
     "id": 82,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1480,7 +1480,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1489,7 +1489,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752901+00:00",
+    "last_updated": "2026-10-18T16:29:23.612169+00:00",
     "id": 83,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1498,7 +1498,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1507,7 +1507,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816371+00:00",
+    "last_updated": "2026-10-18T16:29:16.042963+00:00",
     "id": 84,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1516,7 +1516,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1525,7 +1525,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.287063+00:00",
+    "last_updated": "2026-10-18T16:29:19.636287+00:00",
     "id": 85,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1534,7 +1534,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1543,7 +1543,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754624+00:00",
+    "last_updated": "2026-10-18T16:29:23.613786+00:00",
     "id": 86,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1552,7 +1552,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1561,7 +1561,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752619+00:00",
+    "last_updated": "2026-10-18T16:29:23.611931+00:00",
     "id": 87,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1570,7 +1570,7 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1579,7 +1579,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.288336+00:00",
+    "last_updated": "2026-10-18T16:29:19.637086+00:00",
     "id": 88,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1588,7 +1588,7 @@
     "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1597,7 +1597,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.815570+00:00",
+    "last_updated": "2026-10-18T16:29:16.042248+00:00",
     "id": 89,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1606,7 +1606,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1615,7 +1615,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.755137+00:00",
+    "last_updated": "2026-10-18T16:29:23.614218+00:00",
     "id": 90,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1624,7 +1624,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1633,7 +1633,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816465+00:00",
+    "last_updated": "2026-10-18T16:29:16.043055+00:00",
     "id": 91,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1642,7 +1642,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1651,7 +1651,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.289815+00:00",
+    "last_updated": "2026-10-18T16:29:19.637909+00:00",
     "id": 92,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1660,7 +1660,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1669,7 +1669,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816095+00:00",
+    "last_updated": "2026-10-18T16:29:16.042734+00:00",
     "id": 93,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1678,7 +1678,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1687,7 +1687,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.813560+00:00",
+    "last_updated": "2026-10-18T16:29:16.040485+00:00",
     "id": 94,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1696,7 +1696,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1705,7 +1705,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753198+00:00",
+    "last_updated": "2026-10-18T16:29:23.612440+00:00",
     "id": 95,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1714,7 +1714,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1723,7 +1723,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752164+00:00",
+    "last_updated": "2026-10-18T16:29:23.611403+00:00",
     "id": 96,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1732,7 +1732,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1741,7 +1741,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816907+00:00",
+    "last_updated": "2026-10-18T16:29:16.043404+00:00",
     "id": 97,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1750,7 +1750,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1759,7 +1759,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752352+00:00",
+    "last_updated": "2026-10-18T16:29:23.611663+00:00",
     "id": 98,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1768,7 +1768,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1777,7 +1777,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752723+00:00",
+    "last_updated": "2026-10-18T16:29:23.612014+00:00",
     "id": 99,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1786,7 +1786,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1795,7 +1795,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754431+00:00",
+    "last_updated": "2026-10-18T16:29:23.613610+00:00",
     "id": 100,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1804,7 +1804,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1813,7 +1813,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.755384+00:00",
+    "last_updated": "2026-10-18T16:29:23.614387+00:00",
     "id": 101,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1822,7 +1822,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1831,7 +1831,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816279+00:00",
+    "last_updated": "2026-10-18T16:29:16.042887+00:00",
     "id": 102,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1840,7 +1840,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1849,7 +1849,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752440+00:00",
+    "last_updated": "2026-10-18T16:29:23.611747+00:00",
     "id": 103,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1858,7 +1858,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1867,7 +1867,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.755551+00:00",
+    "last_updated": "2026-10-18T16:29:23.614466+00:00",
     "id": 104,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1876,7 +1876,7 @@
     "brand": "Changhongruba",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1885,7 +1885,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.290000+00:00",
+    "last_updated": "2026-10-18T16:29:19.637994+00:00",
     "id": 105,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1894,7 +1894,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1903,7 +1903,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754827+00:00",
+    "last_updated": "2026-10-18T16:29:23.613966+00:00",
     "id": 106,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1912,7 +1912,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1921,7 +1921,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:36.816193+00:00",
+    "last_updated": "2026-10-18T16:29:16.042811+00:00",
     "id": 107,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1930,7 +1930,7 @@
     "brand": "Sony",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1939,7 +1939,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.754718+00:00",
+    "last_updated": "2026-10-18T16:29:23.613881+00:00",
     "id": 108,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1948,7 +1948,7 @@
     "brand": "Tcl",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1957,7 +1957,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.753105+00:00",
+    "last_updated": "2026-10-18T16:29:23.612353+00:00",
     "id": 109,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1966,7 +1966,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1975,7 +1975,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:43.752259+00:00",
+    "last_updated": "2026-10-18T16:29:23.611555+00:00",
     "id": 110,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -1984,7 +1984,7 @@
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://static.priceoye.pk/images/product-placeholder.gif",
+    "image": "",
     "prices": [
       {
         "store": "PriceOye",
@@ -1993,7 +1993,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-18T13:21:40.290271+00:00",
+    "last_updated": "2026-10-18T16:29:19.638074+00:00",
     "id": 111,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   }
