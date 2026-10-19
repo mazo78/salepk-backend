@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T16:32:47.971016+00:00",
+  "updated": "2026-10-19T03:52:04.077436+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 1407,
+      "count": 1514,
       "min_price": 2149,
       "stores": [
         "MiStore Pakistan",
@@ -22,32 +22,32 @@
         {
           "slug": "samsung",
           "name": "Samsung",
-          "count": 365
+          "count": 369
         },
         {
           "slug": "xiaomi",
           "name": "Xiaomi / Redmi / Poco",
-          "count": 196
+          "count": 257
         },
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 243
+          "count": 255
         },
         {
           "slug": "oppo-vivo-realme",
           "name": "Oppo / Vivo / Realme",
-          "count": 408
+          "count": 420
         },
         {
           "slug": "honor",
           "name": "Honor",
-          "count": 8
+          "count": 9
         },
         {
           "slug": "nothing",
           "name": "Nothing / CMF",
-          "count": 8
+          "count": 9
         },
         {
           "slug": "motorola",
@@ -57,22 +57,27 @@
         {
           "slug": "nokia-hmd",
           "name": "Nokia / HMD",
-          "count": 3
+          "count": 18
         },
         {
           "slug": "zte",
           "name": "ZTE",
+          "count": 6
+        },
+        {
+          "slug": "dcode",
+          "name": "Dcode",
           "count": 2
         },
         {
           "slug": "qmobile",
           "name": "QMobile",
-          "count": 18
+          "count": 17
         },
         {
           "slug": "pakistani-feature-phones",
           "name": "Other Mobile Brands",
-          "count": 99
+          "count": 95
         },
         {
           "slug": "other",
@@ -86,23 +91,36 @@
       "name": "Graphics Cards",
       "name_ur": "گرافکس کارڈ",
       "file": "graphics-cards.json",
-      "count": 77,
+      "count": 714,
       "min_price": 3400,
       "stores": [
         "Czone",
+        "Galaxy",
+        "PakByte",
+        "RB Tech & Games",
         "Shophive",
-        "ZAH Computers"
+        "TechArc",
+        "TechGlobe",
+        "TechMatched",
+        "ZAH Computers",
+        "Zestro Gaming",
+        "eezepc"
       ],
       "subcategories": [
         {
           "slug": "nvidia",
           "name": "NVIDIA GeForce",
-          "count": 61
+          "count": 566
         },
         {
           "slug": "amd",
           "name": "AMD Radeon",
-          "count": 14
+          "count": 144
+        },
+        {
+          "slug": "intel-arc",
+          "name": "Intel Arc",
+          "count": 2
         },
         {
           "slug": "other",
@@ -116,7 +134,7 @@
       "name": "Computer Hardware",
       "name_ur": "کمپیوٹر ہارڈویئر",
       "file": "computer-hardware.json",
-      "count": 128,
+      "count": 104,
       "min_price": 1000,
       "stores": [
         "Czone"
@@ -125,47 +143,47 @@
         {
           "slug": "processors",
           "name": "Processors (CPU)",
-          "count": 19
+          "count": 15
         },
         {
           "slug": "motherboards",
           "name": "Motherboards",
-          "count": 14
+          "count": 12
         },
         {
           "slug": "ram",
           "name": "RAM / Memory",
-          "count": 18
+          "count": 15
         },
         {
           "slug": "ssd",
           "name": "SSD",
-          "count": 16
+          "count": 13
         },
         {
           "slug": "hdd",
           "name": "Hard Drives",
-          "count": 13
+          "count": 11
         },
         {
           "slug": "power-supply",
           "name": "Power Supply (PSU)",
-          "count": 16
+          "count": 13
         },
         {
           "slug": "casing",
           "name": "Casing",
-          "count": 21
+          "count": 17
         },
         {
           "slug": "cooling",
           "name": "Cooling",
-          "count": 7
+          "count": 5
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 4
+          "count": 3
         }
       ]
     },
@@ -174,18 +192,16 @@
       "name": "LCD / LED Monitors",
       "name_ur": "مانیٹر",
       "file": "monitors.json",
-      "count": 16,
+      "count": 13,
       "min_price": 24000,
       "stores": [
-        "Czone",
-        "Shophive",
-        "TeleX"
+        "Czone"
       ],
       "subcategories": [
         {
           "slug": "gaming",
           "name": "Gaming (144Hz+)",
-          "count": 12
+          "count": 9
         },
         {
           "slug": "office",
@@ -199,31 +215,38 @@
       "name": "LED / LCD TVs",
       "name_ur": "ٹی وی",
       "file": "tvs.json",
-      "count": 111,
-      "min_price": 17099,
+      "count": 370,
+      "min_price": 10499,
       "stores": [
-        "PriceOye"
+        "Japan Electronics",
+        "PriceOye",
+        "Shophive"
       ],
       "subcategories": [
         {
           "slug": "qled-oled",
           "name": "QLED / OLED / Mini-LED",
-          "count": 14
+          "count": 76
         },
         {
           "slug": "4k-smart",
           "name": "4K Smart TV",
-          "count": 50
+          "count": 107
         },
         {
           "slug": "smart",
           "name": "Smart / Android TV",
-          "count": 23
+          "count": 50
         },
         {
           "slug": "led",
           "name": "LED TV",
-          "count": 24
+          "count": 136
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 1
         }
       ]
     },
@@ -232,18 +255,16 @@
       "name": "Chargers & Power Banks",
       "name_ur": "چارجر",
       "file": "chargers.json",
-      "count": 38,
+      "count": 34,
       "min_price": 1500,
       "stores": [
-        "Czone",
-        "Digilog",
-        "Hall Road Lahore"
+        "Czone"
       ],
       "subcategories": [
         {
           "slug": "power-banks",
           "name": "Power Banks",
-          "count": 14
+          "count": 13
         },
         {
           "slug": "car-chargers",
@@ -251,14 +272,9 @@
           "count": 8
         },
         {
-          "slug": "wireless",
-          "name": "Wireless Chargers",
-          "count": 1
-        },
-        {
           "slug": "wall-chargers",
           "name": "Wall Chargers / Adapters",
-          "count": 15
+          "count": 13
         }
       ]
     },
@@ -271,14 +287,11 @@
       "min_price": 2,
       "stores": [
         "Digilog",
-        "Digilog PK Components",
         "Electrobes",
         "Electronics Hub",
-        "Hall Road",
         "Hall Road Lahore",
         "Robostan",
-        "Smart Samaan",
-        "TeleX"
+        "Smart Samaan"
       ],
       "subcategories": [
         {
