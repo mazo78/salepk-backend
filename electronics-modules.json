@@ -2448,6 +2448,13 @@
         "url": "https://electronicshub.pk/products/tcrt5000-single-channel-line-tracking-sensor",
         "in_stock": true,
         "match": "strict"
+      },
+      {
+        "store": "Digilog PK Components",
+        "price": 165,
+        "url": "https://digilog.com.pk/product/tcrt5000-ir-sensor-module/",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-18T13:30:01.628098+00:00",
@@ -2486,6 +2493,13 @@
         "store": "Electronics Hub",
         "price": 100,
         "url": "https://electronicshub.pk/products/tcrt5000-single-channel-line-tracking-sensor",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
+        "store": "Digilog PK Components",
+        "price": 165,
+        "url": "https://digilog.com.pk/product/tcrt5000-ir-sensor-module/",
         "in_stock": true,
         "match": "strict"
       }
@@ -4184,6 +4198,13 @@
         "url": "https://electronicshub.pk/products/half-size-mb102-solder-less-breadboard-prototyping-board",
         "in_stock": true,
         "match": "strict"
+      },
+      {
+        "store": "Smart Samaan",
+        "price": 240,
+        "url": "https://smartsamaan.com/product/mb102-830-points-solderless-prototyping-breadboard/",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-18T13:30:01.630869+00:00",
@@ -5109,6 +5130,13 @@
         "price": 200,
         "url": "https://robostan.pk/products/mb102-breadboard-with-830-points?variant=54648423809390",
         "in_stock": true
+      },
+      {
+        "store": "Smart Samaan",
+        "price": 240,
+        "url": "https://smartsamaan.com/product/mb102-830-points-solderless-prototyping-breadboard/",
+        "in_stock": true,
+        "match": "strict"
       },
       {
         "store": "Hall Road Lahore",
@@ -6171,6 +6199,13 @@
         "match": "strict"
       },
       {
+        "store": "Smart Samaan",
+        "price": 290,
+        "url": "https://smartsamaan.com/product/towerpro-sg90-180-degree-servo-motor/",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Hall Road Lahore",
         "price": 304,
         "url": "https://hallroadlahore.pk/products/towerpro-sg90-sg-90-180-degree-degree-servo-motor-in-pakistan",
@@ -6227,6 +6262,13 @@
         "price": 310,
         "url": "https://digilog.pk/products/towerpro-sg90-sg-90-180-degree-degree-servo-motor-in-pakistan",
         "in_stock": true,
+        "match": "strict"
+      },
+      {
+        "store": "Electrobes",
+        "price": 200,
+        "url": "https://electrobes.com/product/servo-bracket-pt-pan-tilt-camera-platform-for-aircraft-fpv-dedicated-nylon-ptz-for-9g-sg90/",
+        "in_stock": false,
         "match": "strict"
       }
     ],
@@ -7367,6 +7409,13 @@
         "match": "loose"
       },
       {
+        "store": "Smart Samaan",
+        "price": 380,
+        "url": "https://smartsamaan.com/product/gy-521-mpu6050-3-axis-digital-gyroscope-accelerometer-module/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Digilog",
         "price": 390,
         "url": "https://digilog.pk/products/gy521-mpu6050-3-axis-digital-gyroscope-accelerometer-sensor-module",
@@ -7463,6 +7512,13 @@
         "store": "Digilog",
         "price": 410,
         "url": "https://digilog.pk/products/motor-driver-module-l298n-arduino-dual-bridge",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
+        "store": "Digilog PK Components",
+        "price": 460,
+        "url": "https://digilog.com.pk/product/l298n-motor-driver/",
         "in_stock": true,
         "match": "strict"
       }
@@ -7659,6 +7715,13 @@
         "match": "loose"
       },
       {
+        "store": "Smart Samaan",
+        "price": 375,
+        "url": "https://smartsamaan.com/product/ina219-bi-direction-dc-power-supply-sensor-gy-219-module/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Digilog",
         "price": 380,
         "url": "https://digilog.pk/products/ina219-bi-direction-dc-current-power-supply-sensor-module-gy-219-module-in-pakistan",
@@ -7838,6 +7901,13 @@
     "subcategory": "sensors",
     "image": "https://smartsamaan.com/wp-content/uploads/2024/10/INA219.png",
     "prices": [
+      {
+        "store": "Electrobes",
+        "price": 350,
+        "url": "https://electrobes.com/product/ina219-sensor-pins-4-pack-ina219-i2c-current-sensors/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Hall Road Lahore",
         "price": 367,
@@ -8025,6 +8095,13 @@
         "store": "Electrobes",
         "price": 380,
         "url": "https://electrobes.com/product/mpu6050-gy-521-6dof-3-axis-analog-gyro-sensor-3-axis-accelerometer-module/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Smart Samaan",
+        "price": 380,
+        "url": "https://smartsamaan.com/product/gy-521-mpu6050-3-axis-digital-gyroscope-accelerometer-module/",
         "in_stock": true,
         "match": "loose"
       },
@@ -8281,6 +8358,13 @@
     "image": "https://electrobes.com/wp-content/uploads/2026/08/tb6612-dual-motor-driver-1a-tb6612fng-for-arduino-microcontroller-at-best-price-in-pakistan.jpg",
     "prices": [
       {
+        "store": "Digilog PK Components",
+        "price": 388,
+        "url": "https://digilog.com.pk/product/tb6612fng-dual-dc-motor-driver-module-for-arduino-and-robotics/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Robostan",
         "price": 400,
         "url": "https://robostan.pk/products/tb6612fng-dual-dc-motor-driver-module",
@@ -8313,10 +8397,24 @@
     "image": "https://cdn.shopify.com/s/files/1/1019/7391/8062/files/ChatGPT_Image_Sep_26_2026_07_30_54_PM.png?v=1790433087",
     "prices": [
       {
+        "store": "Digilog PK Components",
+        "price": 388,
+        "url": "https://digilog.com.pk/product/tb6612fng-dual-dc-motor-driver-module-for-arduino-and-robotics/",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Robostan",
         "price": 400,
         "url": "https://robostan.pk/products/tb6612fng-dual-dc-motor-driver-module?variant=67578390446446",
         "in_stock": true
+      },
+      {
+        "store": "Electrobes",
+        "price": 450,
+        "url": "https://electrobes.com/product/tb6612-dual-motor-driver-1a-tb6612fng-for-arduino-microcontroller/",
+        "in_stock": true,
+        "match": "loose"
       },
       {
         "store": "Digilog",
@@ -9222,6 +9320,13 @@
     "image": "https://smartsamaan.com/wp-content/uploads/2025/02/Solder-wire-png.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 275,
+        "url": "https://www.telex.pk/products/01-pc-of-novelty-bone-shape-ballpoint-gel-pen-07mm-ink-refill-writing-ball-pens-school-office-stationery-gifts-supplies",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Smart Samaan",
         "price": 600,
         "url": "https://smartsamaan.com/product/0-7mm-solder-wire-high-quality/",
@@ -9504,6 +9609,13 @@
         "price": 650,
         "url": "https://electrobes.com/product/4s-30a-lifepo4-lithium-iron-phosphate-battery-balanced-charging-bms-pcb-board/",
         "in_stock": true
+      },
+      {
+        "store": "Hall Road",
+        "price": 8800,
+        "url": "https://hallroad.org.pk/product/daly-4s-12v-30a-bms-with-ntc-sensor-for-lifepo4-battery-pack/",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-19T03:19:04.241452+00:00",
@@ -10472,6 +10584,13 @@
         "match": "strict"
       },
       {
+        "store": "Smart Samaan",
+        "price": 1100,
+        "url": "https://smartsamaan.com/product/usb-type-c-esp32-wroom-wifibluetooth-development-board/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Robostan",
         "price": 2250,
         "url": "https://robostan.pk/products/esp32-wifi?variant=54647918068078",
@@ -11151,6 +11270,13 @@
         "match": "loose"
       },
       {
+        "store": "Digilog PK Components",
+        "price": 1650,
+        "url": "https://digilog.com.pk/product/ibt-2-bts7960-43a-driver/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Electrobes",
         "price": 1500,
         "url": "https://electrobes.com/product/43a-h-bridge-double-bts7960-highpower-motor-driver-module/",
@@ -11816,6 +11942,13 @@
     "subcategory": "esp32-esp8266",
     "image": "https://electrobes.com/wp-content/uploads/2026/05/arduino-uno-r4-wifi-development-board-supports-wi-fi-and-bluetooth-at-best-price-in-pakistan.webp",
     "prices": [
+      {
+        "store": "Smart Samaan",
+        "price": 1100,
+        "url": "https://smartsamaan.com/product/usb-type-c-esp32-wroom-wifibluetooth-development-board/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Digilog",
         "price": 1520,
@@ -13341,6 +13474,13 @@
         "url": "https://robostan.pk/products/arduino-mega-2560?variant=54647914725742",
         "in_stock": true,
         "old_price": 3750
+      },
+      {
+        "store": "Digilog PK Components",
+        "price": 3400,
+        "url": "https://digilog.com.pk/product/arduino-mega-2560-r3/",
+        "in_stock": true,
+        "match": "strict"
       },
       {
         "store": "Smart Samaan",
@@ -15045,6 +15185,13 @@
     "subcategory": "arduino",
     "image": "https://smartsamaan.com/wp-content/uploads/2022/04/elegoo-mega.jpeg",
     "prices": [
+      {
+        "store": "Digilog PK Components",
+        "price": 3400,
+        "url": "https://digilog.com.pk/product/arduino-mega-2560-r3/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Smart Samaan",
         "price": 7299,
@@ -18440,6 +18587,13 @@
     "image": "https://electrobes.com/wp-content/uploads/2024/07/ANYCUBIC-Wash-and-Cure-Max-Supersize-2-in-1-Wash-and-Cure-Machine-for-Photon-Mono-Saturn-LCD-SLA-DLP-Resin-Printer-with-Dual-Cleaning-Mode-Detergent-Saving-50-Washing-Size-300x165x300mm-in-Pakistan.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 68999,
+        "url": "https://www.telex.pk/products/hollyland-lark-max-2-combo-wireless-microphone-system",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Electrobes",
         "price": 199000,
         "url": "https://electrobes.com/product/anycubic-wash-and-cure-max-2-in-1-machine/",
@@ -20282,6 +20436,13 @@
     "image": "https://electrobes.com/wp-content/uploads/2024/12/Daly-4S-12V-20A-BMS-Lifepo4-3.2V-LFP-battery-pack-with-NTC-sensor-in-Pakistan.jpg",
     "prices": [
       {
+        "store": "Hall Road",
+        "price": 8800,
+        "url": "https://hallroad.org.pk/product/daly-4s-12v-30a-bms-with-ntc-sensor-for-lifepo4-battery-pack/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Electrobes",
         "price": 2400,
         "url": "https://electrobes.com/product/daly-bms-lfp-lifepo4-4s-12v-20a-bms-battery-management-system-for-lifepo4-battery-pack-balanced-charging-board/",
@@ -20499,6 +20660,13 @@
     "image": "https://electrobes.com/wp-content/uploads/2024/12/Daly-4S-12V-30A-BMS-Lifepo4-3.2V-LFP-battery-pack-with-NTC-sensor-in-Pakistan.webp",
     "prices": [
       {
+        "store": "Hall Road",
+        "price": 8800,
+        "url": "https://hallroad.org.pk/product/daly-4s-12v-30a-bms-with-ntc-sensor-for-lifepo4-battery-pack/",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Electrobes",
         "price": 3600,
         "url": "https://electrobes.com/product/daly-bms-lfp-lifepo4-4s-12v-30a-bms-battery-management-system-for-lifepo4-battery-pack-balanced-charging-board/",
@@ -20534,6 +20702,13 @@
     "subcategory": "power-modules",
     "image": "https://electrobes.com/wp-content/uploads/2024/10/DALY-BMS-4S-12V-50A-LiFePO4-Battery-Protection-Module-PCB-Protection-Board-with-Balance-Leads-Wires-NTC-BMS-for-12V-Battery-Pack-in-Pakistan.jpg",
     "prices": [
+      {
+        "store": "Hall Road",
+        "price": 8800,
+        "url": "https://hallroad.org.pk/product/daly-4s-12v-30a-bms-with-ntc-sensor-for-lifepo4-battery-pack/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Electrobes",
         "price": 3900,
@@ -21169,6 +21344,13 @@
     "subcategory": "power-modules",
     "image": "https://electrobes.com/wp-content/uploads/2024/12/Daly-4S-12V-100A-BMS-Lifepo4-3.2V-LFP-battery-pack-with-NTC-sensor-in-Pakistan.jpg",
     "prices": [
+      {
+        "store": "Hall Road",
+        "price": 8800,
+        "url": "https://hallroad.org.pk/product/daly-4s-12v-30a-bms-with-ntc-sensor-for-lifepo4-battery-pack/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Electrobes",
         "price": 10000,
