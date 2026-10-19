@@ -161,6 +161,13 @@
         "price": 19000,
         "url": "https://www.pakbyte.pk/products/ease-geforce-gt730-4gb-graphics-card",
         "in_stock": true
+      },
+      {
+        "store": "Shophive",
+        "price": 23499,
+        "url": "https://www.shophive.com/afox-gt730-4gb-ddr3-128bit-graphic-card/",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-19T03:30:55.862468+00:00",
@@ -179,6 +186,13 @@
         "price": 19490,
         "url": "https://www.pakbyte.pk/products/arktek-nvidia-geforce-gt730-4gb-ddr3-128-bit-graphics-card",
         "in_stock": true
+      },
+      {
+        "store": "Shophive",
+        "price": 23499,
+        "url": "https://www.shophive.com/afox-gt730-4gb-ddr3-128bit-graphic-card/",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-19T03:30:55.662792+00:00",
@@ -1545,6 +1559,13 @@
     "image": "https://eezepc.com/wp-content/uploads/2022/03/gvhnkj-EEZEPC-1-100x100.jpg",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 13599,
+        "url": "https://www.telex.pk/products/braun-cj-3050-tribute-collection-citrus-juicer-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "eezepc",
         "price": 85990,
         "url": "https://eezepc.com/product/geforce-rtx-3050-eagle-oc-8g-graphics-card-pakistan/",
@@ -1688,6 +1709,13 @@
     "subcategory": "nvidia",
     "image": "https://eezepc.com/wp-content/uploads/2025/04/msi1-2-100x100.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 13599,
+        "url": "https://www.telex.pk/products/braun-cj-3050-tribute-collection-citrus-juicer-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "eezepc",
         "price": 88990,
@@ -2042,6 +2070,13 @@
     "subcategory": "nvidia",
     "image": "https://zestrogaming.com/wp-content/uploads/2026/09/MSI-GeForce-RTX-3050-Ventus-2X-E-6G-OC-Graphics-Card-1.png",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 13599,
+        "url": "https://www.telex.pk/products/braun-cj-3050-tribute-collection-citrus-juicer-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Zestro Gaming",
         "price": 97000,
@@ -6868,6 +6903,13 @@
     "image": "https://eezepc.com/wp-content/uploads/2025/07/zotac--100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "eezepc",
         "price": 199990,
         "url": "https://eezepc.com/product/zotac-gaming-geforce-rtx-5070-twin-edge/",
@@ -7209,6 +7251,13 @@
     "subcategory": "nvidia",
     "image": "https://techmatched.pk/wp-content/uploads/2025/03/Untitled-design-15_converted-5.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "eezepc",
         "price": 219990,
@@ -10302,6 +10351,13 @@
     "image": "https://eezepc.com/wp-content/uploads/2025/04/gigabyte-1-1-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "eezepc",
         "price": 339990,
         "url": "https://eezepc.com/product/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-graphics-card/",
@@ -10506,6 +10562,13 @@
     "image": "https://eezepc.com/wp-content/uploads/2025/08/zotac1-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "eezepc",
         "price": 344990,
         "url": "https://eezepc.com/product/zotac-gaming-geforce-rtx-5070-ti-amp-extreme-infinity/",
@@ -10704,6 +10767,13 @@
     "image": "https://techmatched.pk/wp-content/uploads/2025/07/Zotac-Gaming-GeForce-RTX-5070-Ti-Solid-SFF-Graphics-Card_converted.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "TechMatched",
         "price": 354999,
         "url": "https://techmatched.pk/product/zotac-gaming-rtx-5070-ti-solid-sff-gpu/",
@@ -10829,6 +10899,13 @@
     "subcategory": "nvidia",
     "image": "https://techmatched.pk/wp-content/uploads/2025/07/gpu_converted.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "TechMatched",
         "price": 359999,
@@ -11621,6 +11698,13 @@
     "subcategory": "nvidia",
     "image": "https://techmatched.pk/wp-content/uploads/2025/10/164.png",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 6239,
+        "url": "https://www.telex.pk/products/naviforce-nf-5070-modern-grace-womens-analog-quartz-watch-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "TechMatched",
         "price": 449999,
