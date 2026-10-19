@@ -726,6 +726,13 @@
         "url": "https://japanelectronics.com.pk/products/haier-led-32-h32s80efx?variant=44399578808491",
         "in_stock": true,
         "old_price": 62000
+      },
+      {
+        "store": "TeleX",
+        "price": 55899,
+        "url": "https://www.telex.pk/products/haier-h32s80efx-32-inch-qled-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368142+00:00",
@@ -1843,6 +1850,13 @@
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview.jpg",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 51499,
+        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Shophive",
         "price": 89999,
         "url": "https://www.shophive.com/xiaomi-tv-a-pro-43-2026/",
@@ -2905,6 +2919,13 @@
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview_1.jpg",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 51499,
+        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Shophive",
         "price": 129999,
         "url": "https://www.shophive.com/xiaomi-tv-a-pro-55-2026/",
@@ -3855,6 +3876,13 @@
     "subcategory": "led",
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview_2.jpg",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 51499,
+        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Shophive",
         "price": 199999,
@@ -5581,6 +5609,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-tv-40-inch-h40k800fx-android-google-tv-9826018.webp?v=1767522664",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 66999,
+        "url": "https://www.telex.pk/products/haier-h40k800fx-40-inch-full-hd-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Japan Electronics",
         "price": 61000,
         "url": "https://japanelectronics.com.pk/products/haier-led-tv-40-inch-h40k800fx-android-google-tv?variant=46015830032555",
@@ -6055,6 +6090,13 @@
     "subcategory": "led",
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-50-h50s800ux-665232.webp?v=1757588484",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 129899,
+        "url": "https://www.telex.pk/products/haier-h50s800ux-50-inch-4k-qled-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Japan Electronics",
         "price": 129900,
