@@ -667,6 +667,13 @@
         "price": 69000,
         "url": "https://w11stop.com/inverex/inverex-12v-100ah-lithium-battery-price-in-pakistan",
         "in_stock": true
+      },
+      {
+        "store": "SolarShop",
+        "price": 85000,
+        "url": "https://solarshop.pk/product/12v-100ah-sodium-ion-battery-price-in-pakistan/",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T20:01:53.170043+00:00",
@@ -1778,6 +1785,13 @@
     "image": "https://w11stop.com/image/cache/catalog/1-product-images/inverex/inverex-2-5kw-100ah-ip21-lithium-battery-pice-in-pakistan-250x250.jpg",
     "prices": [
       {
+        "store": "SolarShop",
+        "price": 105000,
+        "url": "https://solarshop.pk/product/24v-100ah-lithium-battery-price-in-pakistan/",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "W11stop",
         "price": 168000,
         "url": "https://w11stop.com/inverex-2-5kw-100ah-ip21-lithium-battery-pice-in-pakistan",
@@ -2135,6 +2149,13 @@
     "image": "https://w11stop.com/image/cache/catalog/1-product-images/inverex/nitrox-10-kw-3-phase-inverter-250x250.jpg",
     "prices": [
       {
+        "store": "SolarShop",
+        "price": 185000,
+        "url": "https://solarshop.pk/product/sofar-10kw-grid-tie-solar-inverter/",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "W11stop",
         "price": 225000,
         "url": "https://w11stop.com/inverex-on-grid-inverters-price-in-pakistan/nitrox-10-kw-3-phase-inverter",
@@ -2292,6 +2313,13 @@
         "url": "https://w11stop.com/solar/solar-inverters/hybrid-inverter/knox-krypton-10kw-pv13002-hybrid-solar-inverter-price-in-pakistan",
         "in_stock": true,
         "old_price": 295000
+      },
+      {
+        "store": "SolarShop",
+        "price": 420000,
+        "url": "https://solarshop.pk/product/knox-krypton-pv13000-11kw-hybrid-solar-inverter/",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:22:02.061456+00:00",
@@ -2384,6 +2412,13 @@
         "price": 285000,
         "url": "https://w11stop.com/nitrox-15-kw-pv-on-grid-inverter",
         "in_stock": true
+      },
+      {
+        "store": "SolarShop",
+        "price": 328000,
+        "url": "https://solarshop.pk/product/infinity-15kw-3-phase-hybrid-on-grid-off-grid-inverter/",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:22:14.714448+00:00",
@@ -2937,6 +2972,13 @@
     "subcategory": "inverters",
     "image": "https://w11stop.com/image/cache/catalog/1-product-images/inverex/inverex-16kw-ip21-lithium-battery-price-in-pakistan1-250x250.jpg",
     "prices": [
+      {
+        "store": "SolarShop",
+        "price": 625000,
+        "url": "https://solarshop.pk/product/hithium-16kwh-lithium-ion-battery-51-2v-314ah/",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "W11stop",
         "price": 695000,
