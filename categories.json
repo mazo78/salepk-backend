@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T05:08:01.898282+00:00",
+  "updated": "2026-10-22T12:31:58.038008+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 1514,
+      "count": 1503,
       "min_price": 2149,
       "stores": [
         "MiStore Pakistan",
@@ -27,12 +27,12 @@
         {
           "slug": "xiaomi",
           "name": "Xiaomi / Redmi / Poco",
-          "count": 258
+          "count": 255
         },
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 256
+          "count": 257
         },
         {
           "slug": "oppo-vivo-realme",
@@ -47,7 +47,7 @@
         {
           "slug": "nothing",
           "name": "Nothing / CMF",
-          "count": 9
+          "count": 8
         },
         {
           "slug": "motorola",
@@ -57,27 +57,27 @@
         {
           "slug": "nokia-hmd",
           "name": "Nokia / HMD",
-          "count": 19
+          "count": 18
         },
         {
           "slug": "zte",
           "name": "ZTE",
-          "count": 1
+          "count": 2
         },
         {
           "slug": "qmobile",
           "name": "QMobile",
-          "count": 12
+          "count": 14
         },
         {
           "slug": "pakistani-feature-phones",
           "name": "Other Mobile Brands",
-          "count": 99
+          "count": 90
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 21
+          "count": 20
         }
       ]
     },
@@ -86,7 +86,7 @@
       "name": "Graphics Cards",
       "name_ur": "گرافکس کارڈ",
       "file": "graphics-cards.json",
-      "count": 737,
+      "count": 743,
       "min_price": 3400,
       "stores": [
         "Czone",
@@ -105,12 +105,12 @@
         {
           "slug": "nvidia",
           "name": "NVIDIA GeForce",
-          "count": 581
+          "count": 582
         },
         {
           "slug": "amd",
           "name": "AMD Radeon",
-          "count": 152
+          "count": 157
         },
         {
           "slug": "intel-arc",
@@ -129,7 +129,7 @@
       "name": "Computer Hardware",
       "name_ur": "کمپیوٹر ہارڈویئر",
       "file": "computer-hardware.json",
-      "count": 132,
+      "count": 137,
       "min_price": 1000,
       "stores": [
         "Czone"
@@ -143,7 +143,7 @@
         {
           "slug": "motherboards",
           "name": "Motherboards",
-          "count": 15
+          "count": 16
         },
         {
           "slug": "ram",
@@ -158,17 +158,17 @@
         {
           "slug": "hdd",
           "name": "Hard Drives",
-          "count": 13
+          "count": 14
         },
         {
           "slug": "power-supply",
           "name": "Power Supply (PSU)",
-          "count": 17
+          "count": 19
         },
         {
           "slug": "casing",
           "name": "Casing",
-          "count": 22
+          "count": 23
         },
         {
           "slug": "cooling",
@@ -187,7 +187,7 @@
       "name": "LCD / LED Monitors",
       "name_ur": "مانیٹر",
       "file": "monitors.json",
-      "count": 16,
+      "count": 17,
       "min_price": 24000,
       "stores": [
         "Czone"
@@ -196,7 +196,7 @@
         {
           "slug": "gaming",
           "name": "Gaming (144Hz+)",
-          "count": 12
+          "count": 13
         },
         {
           "slug": "office",
@@ -210,7 +210,7 @@
       "name": "LED / LCD TVs",
       "name_ur": "ٹی وی",
       "file": "tvs.json",
-      "count": 365,
+      "count": 369,
       "min_price": 10499,
       "stores": [
         "Japan Electronics",
@@ -221,17 +221,17 @@
         {
           "slug": "qled-oled",
           "name": "QLED / OLED / Mini-LED",
-          "count": 73
+          "count": 75
         },
         {
           "slug": "4k-smart",
           "name": "4K Smart TV",
-          "count": 105
+          "count": 106
         },
         {
           "slug": "smart",
           "name": "Smart / Android TV",
-          "count": 48
+          "count": 49
         },
         {
           "slug": "led",
@@ -250,7 +250,7 @@
       "name": "Chargers & Power Banks",
       "name_ur": "چارجر",
       "file": "chargers.json",
-      "count": 691,
+      "count": 699,
       "min_price": 166,
       "stores": [
         "Czone",
@@ -288,7 +288,7 @@
         {
           "slug": "wall-chargers",
           "name": "Wall Chargers / Adapters",
-          "count": 602
+          "count": 610
         },
         {
           "slug": "cables",
@@ -307,7 +307,7 @@
       "name": "Electronics Modules & Boards",
       "name_ur": "الیکٹرانکس ماڈیول",
       "file": "electronics-modules.json",
-      "count": 12407,
+      "count": 12405,
       "min_price": 2,
       "stores": [
         "CircuitHub",
@@ -328,7 +328,7 @@
         {
           "slug": "stm32",
           "name": "STM32 / ARM Boards",
-          "count": 83
+          "count": 82
         },
         {
           "slug": "esp32-esp8266",
@@ -348,7 +348,7 @@
         {
           "slug": "arduino",
           "name": "Arduino Boards",
-          "count": 339
+          "count": 338
         },
         {
           "slug": "pic-avr",
@@ -393,12 +393,12 @@
         {
           "slug": "power-supplies",
           "name": "Power Supplies & Adapters (12V / SMPS)",
-          "count": 329
+          "count": 327
         },
         {
           "slug": "power-modules",
           "name": "Power Modules (Buck / Boost / BMS)",
-          "count": 468
+          "count": 469
         },
         {
           "slug": "batteries",
@@ -413,7 +413,7 @@
         {
           "slug": "components",
           "name": "Components (R / C / ICs)",
-          "count": 4612
+          "count": 4611
         },
         {
           "slug": "tools",
@@ -428,12 +428,12 @@
         {
           "slug": "kits",
           "name": "Kits",
-          "count": 65
+          "count": 66
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 1014
+          "count": 1015
         }
       ]
     },
@@ -442,7 +442,7 @@
       "name": "Beauty & Cosmetics",
       "name_ur": "Beauty & Personal Care",
       "file": "beauty-personal-care.json",
-      "count": 961,
+      "count": 962,
       "min_price": 120,
       "stores": [
         "Cozmetica",
@@ -452,7 +452,7 @@
         {
           "slug": "haircare",
           "name": "Haircare",
-          "count": 263
+          "count": 264
         },
         {
           "slug": "fragrance",
@@ -462,12 +462,12 @@
         {
           "slug": "makeup",
           "name": "Makeup",
-          "count": 442
+          "count": 441
         },
         {
           "slug": "skincare",
           "name": "Skincare",
-          "count": 49
+          "count": 50
         },
         {
           "slug": "personal-care",
