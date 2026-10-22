@@ -13,7 +13,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.284522+00:00",
+    "last_updated": "2026-10-22T03:33:07.625883+00:00",
     "id": 1,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -31,7 +31,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.897590+00:00",
+    "last_updated": "2026-10-22T03:33:03.431107+00:00",
     "id": 2,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -49,7 +49,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.413751+00:00",
+    "last_updated": "2026-10-22T03:32:59.220987+00:00",
     "id": 3,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -67,7 +67,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.348479+00:00",
+    "last_updated": "2026-10-22T03:32:59.233255+00:00",
     "id": 4,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -85,7 +85,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.387015+00:00",
+    "last_updated": "2026-10-22T03:33:03.373252+00:00",
     "id": 5,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -103,7 +103,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.950943+00:00",
+    "last_updated": "2026-10-22T03:33:03.450676+00:00",
     "id": 6,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -121,7 +121,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.384880+00:00",
+    "last_updated": "2026-10-22T03:33:03.483429+00:00",
     "id": 7,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -139,7 +139,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.908301+00:00",
+    "last_updated": "2026-10-22T03:33:07.642801+00:00",
     "id": 8,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -157,7 +157,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.988516+00:00",
+    "last_updated": "2026-10-22T03:33:03.382212+00:00",
     "id": 9,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -175,7 +175,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.373603+00:00",
+    "last_updated": "2026-10-22T03:32:59.155798+00:00",
     "id": 10,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -193,26 +193,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.380264+00:00",
+    "last_updated": "2026-10-22T03:32:59.163818+00:00",
     "id": 11,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Changhong Ruba 32 Inch Smart LED TV (32F5800i)",
-    "brand": "Changhongruba",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/changhong-ruba-32-inch-led32f5800i-pakistan-priceoye-1u65f-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 32200,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-smart-led-tv-32f5800i",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:25.913556+00:00",
-    "id": 12,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -229,8 +211,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.983330+00:00",
-    "id": 13,
+    "last_updated": "2026-10-22T03:33:03.523068+00:00",
+    "id": 12,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -247,8 +229,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.374158+00:00",
-    "id": 14,
+    "last_updated": "2026-10-22T03:33:07.527774+00:00",
+    "id": 13,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -265,9 +247,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.577727+00:00",
-    "id": 15,
+    "last_updated": "2026-10-22T03:33:03.331918+00:00",
+    "id": 14,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Dawlance LED TV 32 Inch E3A-HD",
+    "brand": "Dawlance",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/dawlance-led-tv-32-inch-e3a-hd-995891_600x.webp?v=1757588641",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 37000,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-32-e3a-hd",
+        "in_stock": true,
+        "old_price": 45800
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 37000,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-32-e3a-hd?variant=44079801270443",
+        "in_stock": false,
+        "old_price": 45800
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.432580+00:00",
+    "id": 15,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Akira 43 Inch HD LED TV (43MG430)",
@@ -283,7 +291,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.532037+00:00",
+    "last_updated": "2026-10-22T03:32:59.444214+00:00",
     "id": 16,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -301,9 +309,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.344597+00:00",
+    "last_updated": "2026-10-22T03:33:03.360079+00:00",
     "id": 17,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Xiaomi LED 32\" 32A 2026",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/xiaomi-led-32-32a2025-hd-android-2696382.webp?v=1752525029",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 38900,
+        "url": "https://japanelectronics.com.pk/products/xiaomi-led-32-32a-2026?variant=46031309701291",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:51.006728+00:00",
+    "id": 18,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Ecostar 40 Inch Smart HD LED TV (CX40U852)",
@@ -319,8 +345,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.525805+00:00",
-    "id": 18,
+    "last_updated": "2026-10-22T03:32:59.436803+00:00",
+    "id": 19,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -337,8 +363,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.297612+00:00",
-    "id": 19,
+    "last_updated": "2026-10-22T03:33:07.650496+00:00",
+    "id": 20,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -355,8 +381,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.380746+00:00",
-    "id": 20,
+    "last_updated": "2026-10-22T03:33:03.583806+00:00",
+    "id": 21,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -373,8 +399,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.335672+00:00",
-    "id": 21,
+    "last_updated": "2026-10-22T03:33:03.495767+00:00",
+    "id": 22,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -391,8 +417,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.972982+00:00",
-    "id": 22,
+    "last_updated": "2026-10-22T03:32:59.171935+00:00",
+    "id": 23,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -409,8 +435,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.130312+00:00",
-    "id": 23,
+    "last_updated": "2026-10-22T04:30:04.435666+00:00",
+    "id": 24,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -427,25 +453,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.341987+00:00",
-    "id": 24,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Sony 32 Inch HD LED TV (KLV32R302E)",
-    "brand": "Sony",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/sony-32-inch-klv-32r302e-pakistan-priceoye-kvbq6-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 41499,
-        "url": "https://priceoye.pk/led-tv/sony/sony-32-inch-klv-32r302e",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:14.386772+00:00",
+    "last_updated": "2026-10-22T03:33:03.341262+00:00",
     "id": 25,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -463,7 +471,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.012537+00:00",
+    "last_updated": "2026-10-22T04:29:55.949445+00:00",
     "id": 26,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -481,7 +489,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.420244+00:00",
+    "last_updated": "2026-10-22T03:32:59.243186+00:00",
     "id": 27,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -512,6 +520,24 @@
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
+    "title": "Dawlance LED 32\" Kore FHD Google TV (SMART)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32863060721835",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 44900,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-32-kore-fhd-google-tv-smart?variant=46330442776747",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.834740+00:00",
+    "id": 29,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
+  },
+  {
     "title": "Hisense 32A25 32\" HD LED TV",
     "brand": "",
     "category": "tvs",
@@ -525,27 +551,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.106717+00:00",
-    "id": 29,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL 40 Inch HD LED TV (D3000)",
-    "brand": "Tcl",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/tcl-40-inch-hd-led-tv-d3000-pakistan-priceoye-9ro6m-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 46289,
-        "url": "https://priceoye.pk/led-tv/tcl/tcl-40-inch-hd-led-tv-d3000",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:25.945704+00:00",
+    "last_updated": "2026-10-22T04:30:04.377483+00:00",
     "id": 30,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Hisense 43 Inch FHD Smart LED TV (43N2179)",
@@ -561,7 +569,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.571410+00:00",
+    "last_updated": "2026-10-22T03:33:03.322959+00:00",
     "id": 31,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -579,45 +587,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.413579+00:00",
+    "last_updated": "2026-10-22T03:33:03.548375+00:00",
     "id": 32,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Xiaomi LED 32\" 32A 2026",
-    "brand": "Xiaomi",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/xiaomi-led-32-32a2025-hd-android-2696382.webp?v=1752525029",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 48900,
-        "url": "https://japanelectronics.com.pk/products/xiaomi-led-32-32a-2026?variant=46031309701291",
-        "in_stock": true,
-        "old_price": 53600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371853+00:00",
-    "id": 33,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Changhong Ruba 32 Inch FHD LED TV (L32H7KI)",
-    "brand": "Changhongruba",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/changhong-ruba-32-inch-hd-led-tv-l32h7ki-pakistan-priceoye-162kq-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 48999,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-hd-led-tv-l32h7ki",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.473255+00:00",
-    "id": 34,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -625,8 +596,15 @@
     "brand": "Hisense",
     "category": "tvs",
     "subcategory": "smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/hisense-led-32-32a4n-fhd-google-tv-750137.webp?v=1757587945",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-32-32a4n-fhd-google-tv-750137_600x.webp?v=1757587945",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 49200,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-32-32a4n-fhd-google-tv",
+        "in_stock": true,
+        "old_price": 52600
+      },
       {
         "store": "Japan Electronics",
         "price": 49200,
@@ -635,8 +613,8 @@
         "old_price": 52600
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.368463+00:00",
-    "id": 35,
+    "last_updated": "2026-10-22T04:28:50.545088+00:00",
+    "id": 33,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -655,7 +633,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373808+00:00",
-    "id": 36,
+    "id": 34,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -672,8 +650,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.303976+00:00",
-    "id": 37,
+    "last_updated": "2026-10-22T03:33:11.125645+00:00",
+    "id": 35,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -690,8 +668,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.162515+00:00",
-    "id": 38,
+    "last_updated": "2026-10-22T04:30:04.525643+00:00",
+    "id": 36,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -699,8 +677,15 @@
     "brand": "TCL",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-32-32s51k-q-led-1168035.webp?v=1757587764",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-32-32s51k-q-led-1168035_600x.webp?v=1757587764",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 52000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-32-32s51k-q-led",
+        "in_stock": true,
+        "old_price": 59000
+      },
       {
         "store": "Japan Electronics",
         "price": 52000,
@@ -709,34 +694,33 @@
         "old_price": 59000
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369174+00:00",
-    "id": 39,
+    "last_updated": "2026-10-22T04:29:13.315677+00:00",
+    "id": 37,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Haier LED 32\" H32S80EFX - 32 Inch",
-    "brand": "Haier",
+    "title": "Haier LED 32\" H32S80EFX",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-32-h32s80efx-707529.webp?v=1757588075",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-32-h32s80efx-707529_600x.webp?v=1757588075",
     "prices": [
       {
         "store": "Japan Electronics",
         "price": 52900,
-        "url": "https://japanelectronics.com.pk/products/haier-led-32-h32s80efx?variant=44399578808491",
+        "url": "https://japanelectronics.com.pk/products/haier-led-32-h32s80efx",
         "in_stock": true,
         "old_price": 62000
       },
       {
-        "store": "TeleX",
-        "price": 55899,
-        "url": "https://www.telex.pk/products/haier-h32s80efx-32-inch-qled-google-tv-with-official-warranty",
-        "in_stock": true,
-        "match": "strict"
+        "store": "Japan Electronics",
+        "price": 52900,
+        "url": "https://japanelectronics.com.pk/products/haier-led-32-h32s80efx?variant=44399578808491",
+        "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.368142+00:00",
-    "id": 40,
+    "last_updated": "2026-10-22T04:28:50.485083+00:00",
+    "id": 38,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -755,7 +739,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375199+00:00",
-    "id": 41,
+    "id": 39,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -772,8 +756,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.942173+00:00",
-    "id": 42,
+    "last_updated": "2026-10-22T04:29:55.008271+00:00",
+    "id": 40,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -790,9 +774,34 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.393309+00:00",
-    "id": 43,
+    "last_updated": "2026-10-22T03:32:59.394456+00:00",
+    "id": 41,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "TCL LED 32\" 32S59K (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-32-32s59k-q-led-1086467_600x.webp?v=1757587764",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 53105,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-32-32s59k-q-led?variant=45353250422955",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 56500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-32-32s59k-q-led",
+        "in_stock": true,
+        "old_price": 64300
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.657977+00:00",
+    "id": 42,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Hisense 49 Inch HD LED TV (49M2160)",
@@ -808,26 +817,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.565007+00:00",
-    "id": 44,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Haier 32 Inch FHD LED TV (H32D2M)",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/haier-32-inch-fhd-led-tv-h32d2m-pakistan-priceoye-6tjgx-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 54999,
-        "url": "https://priceoye.pk/led-tv/haier/haier-32-inch-fhd-led-tv-h32d2m",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:22.171799+00:00",
-    "id": 45,
+    "last_updated": "2026-10-22T03:32:59.479967+00:00",
+    "id": 43,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -844,8 +835,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.114656+00:00",
-    "id": 46,
+    "last_updated": "2026-10-22T04:30:04.397926+00:00",
+    "id": 44,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -862,28 +853,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.961694+00:00",
-    "id": 47,
+    "last_updated": "2026-10-22T03:32:59.188871+00:00",
+    "id": 45,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "TCL LED 32\" 32S59K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-32-32s59k-q-led-1086467.webp?v=1757587764",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 56500,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-32-32s59k-q-led?variant=45353250422955",
-        "in_stock": true,
-        "old_price": 64300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369237+00:00",
-    "id": 48,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Aiwa 43 Inch 4K Android Smart TV",
@@ -899,8 +871,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.310374+00:00",
-    "id": 49,
+    "last_updated": "2026-10-22T03:33:11.134287+00:00",
+    "id": 46,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -917,8 +889,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.584578+00:00",
-    "id": 50,
+    "last_updated": "2026-10-22T03:33:03.351653+00:00",
+    "id": 47,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -944,8 +916,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376147+00:00",
-    "id": 51,
+    "id": 48,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED 40\" Kore FHD Google TV (SMART)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/dawlance-led-40-kore-fhd-google-tv-smart-5321532.webp?v=1773985026",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 59900,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-40-kore-fhd-google-tv-smart?variant=46330444808363",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.807188+00:00",
+    "id": 49,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "EcoStar CX-40Q873 40 Inches QLED Smart LED TV",
@@ -961,8 +951,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.020301+00:00",
-    "id": 52,
+    "last_updated": "2026-10-22T04:29:56.046288+00:00",
+    "id": 50,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -979,8 +969,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.940086+00:00",
-    "id": 53,
+    "last_updated": "2026-10-22T03:32:59.320222+00:00",
+    "id": 51,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -998,8 +988,8 @@
         "old_price": 67299
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.575693+00:00",
-    "id": 54,
+    "last_updated": "2026-10-22T04:30:00.599145+00:00",
+    "id": 52,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1016,9 +1006,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.351083+00:00",
-    "id": 55,
+    "last_updated": "2026-10-22T03:33:03.396312+00:00",
+    "id": 53,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-32-ua32t5300ausmm-smart-8436582_600x.webp?v=1757587726",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 63400,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart",
+        "in_stock": true,
+        "old_price": 67400
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 63400,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart?variant=45378335637675",
+        "in_stock": false,
+        "old_price": 67400
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:37.902502+00:00",
+    "id": 54,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Samsung 32T5300 HD Smart TV 2020 With Official Warranty",
@@ -1035,8 +1051,8 @@
         "old_price": 69999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.831103+00:00",
-    "id": 56,
+    "last_updated": "2026-10-22T04:30:08.527234+00:00",
+    "id": 55,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1044,8 +1060,15 @@
     "brand": "EcoStar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-40-cx-40q874-q-led-6991877.webp?v=1757587521",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-40-cx-40q874-q-led-6991877_600x.webp?v=1757587521",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 64000,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-40-cx-40q874-q-led",
+        "in_stock": true,
+        "old_price": 68400
+      },
       {
         "store": "Japan Electronics",
         "price": 64000,
@@ -1054,7 +1077,32 @@
         "old_price": 68400
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.370695+00:00",
+    "last_updated": "2026-10-22T04:29:37.979457+00:00",
+    "id": 56,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL LED 40\" 40S51K (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-40-40s51k-q-led-3322267_600x.webp?v=1757587763",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 64505,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-40-40s51k-q-led?variant=45353254977707",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 69000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-40-40s51k-q-led",
+        "in_stock": true,
+        "old_price": 77900
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.679502+00:00",
     "id": 57,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -1072,7 +1120,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.272129+00:00",
+    "last_updated": "2026-10-22T03:33:07.608651+00:00",
     "id": 58,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -1090,45 +1138,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.500947+00:00",
+    "last_updated": "2026-10-22T04:30:00.381236+00:00",
     "id": 59,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL 49 Inch FHD Smart LED TV (L49S6500)",
-    "brand": "Tcl",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/tcl-series-s-49-inch-full-hd-smart-led-tv-l49s6500-pakistan-priceoye-r0rro-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 65499,
-        "url": "https://priceoye.pk/led-tv/tcl/tcl-49-inch-full-hd-smart-led-tv-l49s6500",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:14.352665+00:00",
-    "id": 60,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Haier LED 40\" 40K85FFX",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-40-40k85ffx-1672264.webp?v=1767522846",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 66900,
-        "url": "https://japanelectronics.com.pk/products/haier-led-40-40k85ffx?variant=46015695552683",
-        "in_stock": true,
-        "old_price": 76800
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371692+00:00",
-    "id": 61,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1147,7 +1158,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375680+00:00",
-    "id": 62,
+    "id": 60,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1173,7 +1184,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376432+00:00",
-    "id": 63,
+    "id": 61,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1190,46 +1201,52 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.290947+00:00",
-    "id": 64,
+    "last_updated": "2026-10-22T03:33:07.633902+00:00",
+    "id": 62,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "TCL LED 40\" 40S51K (Q LED)",
-    "brand": "TCL",
+    "title": "ECOSTAR LED 43\" CX-43Q874",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-40-40s51k-q-led-3322267.webp?v=1757587763",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-43-cx-43q874-3068160_600x.webp?v=1764753549",
     "prices": [
       {
         "store": "Japan Electronics",
-        "price": 69000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-40-40s51k-q-led?variant=45353254977707",
+        "price": 69500,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q874?variant=45915080229035",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 74500,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q874",
         "in_stock": true,
-        "old_price": 77900
+        "old_price": 79900
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369292+00:00",
-    "id": 65,
+    "last_updated": "2026-10-22T04:28:50.847748+00:00",
+    "id": 63,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Changhong Ruba 40 Inch HD LED TV (L40H7Ni)",
-    "brand": "Changhongruba",
+    "title": "Haier LED 40\" 40K85FFX",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://images.priceoye.pk/changhong-ruba-40-inch-hd-led-tv-l40h7ni-pakistan-priceoye-m8zfa-270x270.webp",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32398605189291",
     "prices": [
       {
-        "store": "PriceOye",
-        "price": 69999,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-40-inch-hd-led-tv-l40h7ni",
+        "store": "Japan Electronics",
+        "price": 69900,
+        "url": "https://japanelectronics.com.pk/products/haier-led-40-40k85ffx?variant=46015695552683",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.486030+00:00",
-    "id": 66,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "last_updated": "2026-10-22T04:28:50.915872+00:00",
+    "id": 64,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "EcoStar CX-43Q873 43 Inches QLED Smart LED TV",
@@ -1245,8 +1262,33 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.029530+00:00",
-    "id": 67,
+    "last_updated": "2026-10-22T04:29:56.070982+00:00",
+    "id": 65,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 43\" H43K85FFX (Android Google TV)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-43-h43k85ffx-android-google-tv-4569342_600x.webp?v=1757587736",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 69999,
+        "url": "https://japanelectronics.com.pk/products/haier-led-43-h43k85ffx-android-google-tv?variant=45368600854699",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 73900,
+        "url": "https://japanelectronics.com.pk/products/haier-led-43-h43k85ffx-android-google-tv",
+        "in_stock": true,
+        "old_price": 86300
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.901570+00:00",
+    "id": 66,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1263,8 +1305,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.981098+00:00",
-    "id": 68,
+    "last_updated": "2026-10-22T04:29:55.470005+00:00",
+    "id": 67,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1281,8 +1323,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.364377+00:00",
-    "id": 69,
+    "last_updated": "2026-10-22T03:33:03.421757+00:00",
+    "id": 68,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1299,8 +1341,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.519437+00:00",
-    "id": 70,
+    "last_updated": "2026-10-22T03:32:59.420952+00:00",
+    "id": 69,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1317,28 +1359,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.361085+00:00",
-    "id": 71,
+    "last_updated": "2026-10-22T03:33:03.557303+00:00",
+    "id": 70,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Haier LED 43\" H43K85FFX (Android Google TV)",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-43-h43k85ffx-android-google-tv-4569342.webp?v=1757587736",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 73900,
-        "url": "https://japanelectronics.com.pk/products/haier-led-43-h43k85ffx-android-google-tv?variant=45368600854699",
-        "in_stock": true,
-        "old_price": 86300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370163+00:00",
-    "id": 72,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Changhong Ruba 43 Inch UHD LED TV (L43H7KI)",
@@ -1354,9 +1377,28 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.427626+00:00",
-    "id": 73,
+    "last_updated": "2026-10-22T03:33:03.599484+00:00",
+    "id": 71,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Haier LED 43\" H43K800FX",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-43-h43k800fx-278935_600x.webp?v=1757588488",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 73999,
+        "url": "https://japanelectronics.com.pk/products/haier-led-43-h43k800fx",
+        "in_stock": true,
+        "old_price": 84200
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.460090+00:00",
+    "id": 72,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Samsung 49 Inch Series 5 HD Smart LED TV (49N5300)",
@@ -1372,8 +1414,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.500146+00:00",
-    "id": 74,
+    "last_updated": "2026-10-22T03:32:59.385448+00:00",
+    "id": 73,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1392,7 +1434,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374249+00:00",
-    "id": 75,
+    "id": 74,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1409,8 +1451,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.400242+00:00",
-    "id": 76,
+    "last_updated": "2026-10-22T03:32:59.198310+00:00",
+    "id": 75,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1418,8 +1460,15 @@
     "brand": "TCL",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-40-40s59k-q-led-3494694.webp?v=1757587762",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-40-40s59k-q-led-3494694_600x.webp?v=1757587762",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 76500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-40-40s59k-q-led",
+        "in_stock": true,
+        "old_price": 86400
+      },
       {
         "store": "Japan Electronics",
         "price": 76500,
@@ -1428,8 +1477,8 @@
         "old_price": 86400
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369345+00:00",
-    "id": 77,
+    "last_updated": "2026-10-22T04:29:13.349611+00:00",
+    "id": 76,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1446,9 +1495,34 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.446621+00:00",
-    "id": 78,
+    "last_updated": "2026-10-22T03:32:59.287189+00:00",
+    "id": 77,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Hisense LED 43\" 43A6K (4K UHD Google TV)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-43-43a6k-4k-uhd-google-tv-338466_600x.webp?v=1757587943",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 76999,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43a6k-4k-uhd-google-tv",
+        "in_stock": true,
+        "old_price": 115700
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 99900,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43a6k-4k-uhd-google-tv?variant=44838981533867",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:51.034217+00:00",
+    "id": 78,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Hisense 50 Inch 4K UHD Smart LED TV (50U7A)",
@@ -1464,9 +1538,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.558422+00:00",
+    "last_updated": "2026-10-22T03:32:59.471513+00:00",
     "id": 79,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "TCL LED 43\" 43S51K (Q LED)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-43-43s51k-q-led-6134550_600x.webp?v=1763108535",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 78000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s51k-q-led",
+        "in_stock": true,
+        "old_price": 88500
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 78000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s51k-q-led?variant=45353278505131",
+        "in_stock": false,
+        "old_price": 88500
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:13.370198+00:00",
+    "id": 80,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Aiwa 50 inch 4k led flat smart tv",
@@ -1482,8 +1582,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.316578+00:00",
-    "id": 80,
+    "last_updated": "2026-10-22T03:33:11.141565+00:00",
+    "id": 81,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1500,27 +1600,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.378540+00:00",
-    "id": 81,
+    "last_updated": "2026-10-22T03:33:03.473972+00:00",
+    "id": 82,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
-    "title": "Samsung 32 Inch HD Flat Smart TV (T5300)",
-    "brand": "Samsung",
+    "title": "Hisense LED 43\" 43Q6N (Q LED)",
+    "brand": "Hisense",
     "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/samsung-32-inch-hd-flat-smart-tv-t5300-pakistan-priceoye-c3ob4-270x270.webp",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-43-43q6n-q-led-5169583_600x.webp?v=1757587528",
     "prices": [
       {
-        "store": "PriceOye",
-        "price": 79999,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-32-inch-hd-flat-smart-tv-t5300",
-        "in_stock": true
+        "store": "Japan Electronics",
+        "price": 79900,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led",
+        "in_stock": true,
+        "old_price": 116400
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 79900,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led?variant=45493213954219",
+        "in_stock": false,
+        "old_price": 116400
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.567658+00:00",
-    "id": 82,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "last_updated": "2026-10-22T04:29:37.943697+00:00",
+    "id": 83,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "TCL 43L5A 43'' Smart Android TV",
@@ -1536,8 +1644,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.457986+00:00",
-    "id": 83,
+    "last_updated": "2026-10-22T04:30:12.736731+00:00",
+    "id": 84,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1563,7 +1671,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376178+00:00",
-    "id": 84,
+    "id": 85,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1580,8 +1688,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.949942+00:00",
-    "id": 85,
+    "last_updated": "2026-10-22T04:29:55.105363+00:00",
+    "id": 86,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1598,8 +1706,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.391428+00:00",
-    "id": 86,
+    "last_updated": "2026-10-22T03:33:03.506488+00:00",
+    "id": 87,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1616,8 +1724,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.042441+00:00",
-    "id": 87,
+    "last_updated": "2026-10-22T04:29:56.095323+00:00",
+    "id": 88,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1634,8 +1742,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.956574+00:00",
-    "id": 88,
+    "last_updated": "2026-10-22T03:33:03.464163+00:00",
+    "id": 89,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1643,8 +1751,15 @@
     "brand": "TCL",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-43-43s59k-q-led-6018858.webp?v=1757587760",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-43-43s59k-q-led-6018858_600x.webp?v=1757587760",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 84500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s59k-q-led",
+        "in_stock": true,
+        "old_price": 95800
+      },
       {
         "store": "Japan Electronics",
         "price": 84500,
@@ -1653,8 +1768,8 @@
         "old_price": 95800
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369501+00:00",
-    "id": 89,
+    "last_updated": "2026-10-22T04:29:13.379151+00:00",
+    "id": 90,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1671,8 +1786,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.988806+00:00",
-    "id": 90,
+    "last_updated": "2026-10-22T04:29:55.553042+00:00",
+    "id": 91,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1691,7 +1806,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375978+00:00",
-    "id": 91,
+    "id": 92,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1710,7 +1825,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375362+00:00",
-    "id": 92,
+    "id": 93,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1727,8 +1842,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.426923+00:00",
-    "id": 93,
+    "last_updated": "2026-10-22T03:32:59.254966+00:00",
+    "id": 94,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1747,7 +1862,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376464+00:00",
-    "id": 94,
+    "id": 95,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1764,8 +1879,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.354776+00:00",
-    "id": 95,
+    "last_updated": "2026-10-22T03:33:03.567600+00:00",
+    "id": 96,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1784,7 +1899,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374948+00:00",
-    "id": 96,
+    "id": 97,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1803,7 +1918,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375449+00:00",
-    "id": 97,
+    "id": 98,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1820,9 +1935,34 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.406605+00:00",
-    "id": 98,
+    "last_updated": "2026-10-22T03:32:59.210138+00:00",
+    "id": 99,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Samsung LED 43\" UA43T5300AUSMM (Smart)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-43-ua43t5300ausmm-smart-4359881_600x.png?v=1774594274",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 89900,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-43-ua43t5300ausmm-smart?variant=44079733768363",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 94999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-43-ua43t5300ausmm-smart",
+        "in_stock": true,
+        "old_price": 100000
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.443773+00:00",
+    "id": 100,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Changhong Ruba 50 Inch UHD LED TV (U50H7KI)",
@@ -1838,9 +1978,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.434360+00:00",
-    "id": 99,
+    "last_updated": "2026-10-22T03:33:03.607174+00:00",
+    "id": 101,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Dawlance LED TV 50 Inch G3A Pro",
+    "brand": "Dawlance",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/Dawlance_LED_TV_50_Inch_G3A_Pro_600x.webp?v=1757588640",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 89999,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-g3a-pro",
+        "in_stock": true,
+        "old_price": 118500
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 89999,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-g3a-pro?variant=44079785345195",
+        "in_stock": false,
+        "old_price": 118500
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.420155+00:00",
+    "id": 102,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Xiaomi TV A Pro 43 2026",
@@ -1850,21 +2016,39 @@
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview.jpg",
     "prices": [
       {
-        "store": "TeleX",
-        "price": 51499,
-        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
-        "in_stock": true,
-        "match": "strict"
-      },
-      {
         "store": "Shophive",
         "price": 89999,
         "url": "https://www.shophive.com/xiaomi-tv-a-pro-43-2026/",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.550316+00:00",
-    "id": 100,
+    "last_updated": "2026-10-22T04:30:00.529608+00:00",
+    "id": 103,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED TV 50 Inch 50G22",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/Dawlance_LED_TV_50_Inch_50G22_600x.webp?v=1757588410",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 90900,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-50g22",
+        "in_stock": true,
+        "old_price": 113200
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 91900,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-50g22?variant=44079066775723",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.408076+00:00",
+    "id": 104,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1872,8 +2056,15 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-43-43s80eux-q-led-5670136.webp?v=1757587737",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-43-43s80eux-q-led-5670136_600x.webp?v=1757587737",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 91000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-43-43s80eux-q-led",
+        "in_stock": true,
+        "old_price": 101000
+      },
       {
         "store": "Japan Electronics",
         "price": 91000,
@@ -1882,8 +2073,8 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.370102+00:00",
-    "id": 101,
+    "last_updated": "2026-10-22T04:29:25.949389+00:00",
+    "id": 105,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1902,7 +2093,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371746+00:00",
-    "id": 102,
+    "id": 106,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1910,8 +2101,15 @@
     "brand": "TCL",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/TCL_LED_50_50S51K_Q_LED.webp?v=1759128209",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/TCL_LED_50_50S51K_Q_LED_600x.webp?v=1759128209",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 92000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-50-50s51k-q-led",
+        "in_stock": true,
+        "old_price": 104200
+      },
       {
         "store": "Japan Electronics",
         "price": 92000,
@@ -1920,8 +2118,8 @@
         "old_price": 104200
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.370747+00:00",
-    "id": 103,
+    "last_updated": "2026-10-22T04:29:38.015292+00:00",
+    "id": 107,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1938,8 +2136,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.329288+00:00",
-    "id": 104,
+    "last_updated": "2026-10-22T03:33:11.154490+00:00",
+    "id": 108,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1958,7 +2156,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374308+00:00",
-    "id": 105,
+    "id": 109,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1975,8 +2173,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.366830+00:00",
-    "id": 106,
+    "last_updated": "2026-10-22T03:32:59.147429+00:00",
+    "id": 110,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1994,8 +2192,34 @@
         "old_price": 98999
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.534009+00:00",
-    "id": 107,
+    "last_updated": "2026-10-22T04:30:00.475057+00:00",
+    "id": 111,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL LED 43\" 43P79K (Q LED)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-43-43p79k-q-led-9654946_600x.webp?v=1757587761",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 94000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p79k-q-led",
+        "in_stock": true,
+        "old_price": 110500
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 94000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p79k-q-led?variant=45353274572971",
+        "in_stock": false,
+        "old_price": 110500
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:13.359528+00:00",
+    "id": 112,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2012,8 +2236,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.357528+00:00",
-    "id": 108,
+    "last_updated": "2026-10-22T03:33:03.411692+00:00",
+    "id": 113,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2030,8 +2254,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.509859+00:00",
-    "id": 109,
+    "last_updated": "2026-10-22T04:30:00.401829+00:00",
+    "id": 114,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2049,8 +2273,8 @@
         "old_price": 104999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.823146+00:00",
-    "id": 110,
+    "last_updated": "2026-10-22T04:30:08.502743+00:00",
+    "id": 115,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2067,8 +2291,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.506728+00:00",
-    "id": 111,
+    "last_updated": "2026-10-22T03:32:59.402071+00:00",
+    "id": 116,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2083,17 +2307,10 @@
         "price": 96499,
         "url": "https://www.shophive.com/hisense-43a6k-43-4k-uhd-google-smart-led-tv/",
         "in_stock": true
-      },
-      {
-        "store": "Japan Electronics",
-        "price": 76999,
-        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43a6k-4k-uhd-google-tv?variant=44838981533867",
-        "in_stock": false,
-        "old_price": 115700
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.583446+00:00",
-    "id": 112,
+    "last_updated": "2026-10-22T04:30:00.656458+00:00",
+    "id": 117,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2112,7 +2329,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371597+00:00",
-    "id": 113,
+    "id": 118,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2130,8 +2347,8 @@
         "old_price": 103999
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.542418+00:00",
-    "id": 114,
+    "last_updated": "2026-10-22T04:30:00.504393+00:00",
+    "id": 119,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2150,7 +2367,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375727+00:00",
-    "id": 115,
+    "id": 120,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2169,7 +2386,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374038+00:00",
-    "id": 116,
+    "id": 121,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2186,8 +2403,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.460124+00:00",
-    "id": 117,
+    "last_updated": "2026-10-22T03:32:59.305340+00:00",
+    "id": 122,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2204,9 +2421,60 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.440046+00:00",
-    "id": 118,
+    "last_updated": "2026-10-22T03:32:59.277014+00:00",
+    "id": 123,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Ecostar LED 50\" CX-50Q964",
+    "brand": "EcoStar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-50-cx-50q964-2371241_600x.webp?v=1764753551",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 99900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q964",
+        "in_stock": true,
+        "old_price": 112600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 99900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q964?variant=45915109818539",
+        "in_stock": false,
+        "old_price": 112600
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:38.206786+00:00",
+    "id": 124,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Ecostar LED 50\" CX-50Q966 (Q-LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-50-cx-50q966-q-led-158998_600x.webp?v=1757587793",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 99900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q966-q-led",
+        "in_stock": true,
+        "old_price": 112600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 106500,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q966-q-led?variant=45239595761835",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.861856+00:00",
+    "id": 125,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Sony 49 Inch 4K Smart LED TV (49X7500F)",
@@ -2222,8 +2490,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.393522+00:00",
-    "id": 119,
+    "last_updated": "2026-10-22T03:32:59.179696+00:00",
+    "id": 126,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2240,8 +2508,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.126671+00:00",
-    "id": 120,
+    "last_updated": "2026-10-22T03:33:07.447241+00:00",
+    "id": 127,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2259,8 +2527,34 @@
         "old_price": 106499
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.202709+00:00",
-    "id": 121,
+    "last_updated": "2026-10-22T04:30:04.624442+00:00",
+    "id": 128,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Hisense LED 50\" 50A6K (4K UHD Google TV)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-50-50a6k-4k-uhd-google-tv-558428_600x.png?v=1757587942",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 102000,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50a6k-4k-uhd-google-tv",
+        "in_stock": true,
+        "old_price": 112600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 102000,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50a6k-4k-uhd-google-tv?variant=44838989988011",
+        "in_stock": false,
+        "old_price": 112600
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:01.931693+00:00",
+    "id": 129,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2279,7 +2573,33 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376210+00:00",
-    "id": 122,
+    "id": 130,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED TV 55 Inch 55G22",
+    "brand": "Dawlance",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/dawlance-led-tv-55-inch-55g22-857783_600x.webp?v=1757587920",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 104000,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22",
+        "in_stock": true,
+        "old_price": 129000
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 104000,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22?variant=44939354734763",
+        "in_stock": false,
+        "old_price": 129000
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:02.020899+00:00",
+    "id": 131,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2296,8 +2616,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.561478+00:00",
-    "id": 123,
+    "last_updated": "2026-10-22T03:33:07.424742+00:00",
+    "id": 132,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2314,8 +2634,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.552004+00:00",
-    "id": 124,
+    "last_updated": "2026-10-22T03:32:59.460041+00:00",
+    "id": 133,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2332,8 +2652,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.050662+00:00",
-    "id": 125,
+    "last_updated": "2026-10-22T04:29:56.117862+00:00",
+    "id": 134,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2351,8 +2671,8 @@
         "old_price": 131999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.434327+00:00",
-    "id": 126,
+    "last_updated": "2026-10-22T04:30:12.665002+00:00",
+    "id": 135,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2371,8 +2691,27 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373987+00:00",
-    "id": 127,
+    "id": 136,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 50\" 50S80EUX (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/Haier_LED_50_50S80EUX_Q_LED_600x.png?v=1757587950",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 108000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-50-50s80eux-q-led",
+        "in_stock": true,
+        "old_price": 127300
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.517794+00:00",
+    "id": 137,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Haier LED 50\" 50S80EUX (Q LED) - 50 Inch",
@@ -2390,26 +2729,25 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368351+00:00",
-    "id": 128,
+    "id": 138,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Haier LED 50\" 50S81EUX (Q LED)",
-    "brand": "Haier",
+    "title": "TCL LED 43\" 43P7L (Q LED)",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-50-50s81eux-q-led-1920345.webp?v=1757587736",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-43-43p7l-q-led-7235987.webp?v=1788553052",
     "prices": [
       {
         "store": "Japan Electronics",
-        "price": 108000,
-        "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81eux-q-led?variant=45368602689707",
-        "in_stock": true,
-        "old_price": 127300
+        "price": 109000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p7l-q-led?variant=47748130767019",
+        "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.370220+00:00",
-    "id": 129,
+    "last_updated": "2026-10-22T04:28:50.692317+00:00",
+    "id": 139,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2426,9 +2764,60 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.135731+00:00",
-    "id": 130,
+    "last_updated": "2026-10-22T03:33:07.454967+00:00",
+    "id": 140,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "ECOSTAR LED 55\" CX-55Q964 (Q-LED)",
+    "brand": "EcoStar",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-55-cx-55q964-q-led-314143_600x.webp?v=1757587792",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 109900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q964-q-led",
+        "in_stock": true,
+        "old_price": 127900
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 109900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q964-q-led?variant=45239616209067",
+        "in_stock": false,
+        "old_price": 127900
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:02.046968+00:00",
+    "id": 141,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "ECOSTAR LED 55\" CX-55Q966 (Q-LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/ecostar-led-55-cx-55q966-q-led-305861_600x.webp?v=1757587792",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 109900,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q966-q-led",
+        "in_stock": true,
+        "old_price": 127900
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 121500,
+        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q966-q-led?variant=45241333186731",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.874776+00:00",
+    "id": 142,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Infinix X5W 55\" 4K UHD Frameless Metallic AI Smart QLED TV",
@@ -2444,8 +2833,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.996602+00:00",
-    "id": 131,
+    "last_updated": "2026-10-22T04:29:55.644410+00:00",
+    "id": 143,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2463,8 +2852,78 @@
         "old_price": 114999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.772827+00:00",
-    "id": 132,
+    "last_updated": "2026-10-22T04:30:08.369529+00:00",
+    "id": 144,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 50\" 50S81EUX (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/31369430532267",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 110000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-50-50s81eux-q-led?variant=45368602689707",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.930151+00:00",
+    "id": 145,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Hisense LED 50\" 50Q6N (Q LED)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-50-50q6n-q-led-4982760_600x.png?v=1762481013",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 110000,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50q6n-q-led",
+        "in_stock": true,
+        "old_price": 156400
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 110000,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50q6n-q-led?variant=45808692920491",
+        "in_stock": false,
+        "old_price": 156400
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:38.053838+00:00",
+    "id": 146,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL LED 55\" 55P6K (4K UHD)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-55-55p6k-4k-uhd-5082471_600x.webp?v=1757587755",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 110000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p6k-4k-uhd",
+        "in_stock": true,
+        "old_price": 126300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 110000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p6k-4k-uhd?variant=45362624692395",
+        "in_stock": false,
+        "old_price": 126300
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:13.399550+00:00",
+    "id": 147,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2483,27 +2942,53 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372425+00:00",
-    "id": 133,
+    "id": 148,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "TCL LED 43\" 43P7L (Q LED)",
-    "brand": "TCL",
+    "title": "Haier LED 50\" H50S5UG PRO (4K Android)",
+    "brand": "Haier",
     "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-43-43p7l-q-led-7235987.webp?v=1788553052",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-50-h50s5ug-pro-4k-android-138490_600x.webp?v=1757587949",
     "prices": [
       {
         "store": "Japan Electronics",
-        "price": 112000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p7l-q-led?variant=47748130767019",
+        "price": 114354,
+        "url": "https://japanelectronics.com.pk/products/haier-led-50-h50s5ug-pro-4k-android",
         "in_stock": true,
-        "old_price": 124200
+        "old_price": 124300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 114354,
+        "url": "https://japanelectronics.com.pk/products/haier-led-50-h50s5ug-pro-4k-android?variant=44836153032875",
+        "in_stock": false,
+        "old_price": 124300
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.376084+00:00",
-    "id": 134,
+    "last_updated": "2026-10-22T04:28:50.532462+00:00",
+    "id": 149,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Skyworth LED 55\" 55Q6600G-QLED",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/skyworth-led-55-55q6600g-qled-869648_600x.webp?v=1757587925",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 114900,
+        "url": "https://japanelectronics.com.pk/products/skyworth-led-55-55q6600g-qled",
+        "in_stock": true,
+        "old_price": 142200
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:01.985424+00:00",
+    "id": 150,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "PEL PLD-50US 50\" QLED Smart Google Bezel-less LED TV",
@@ -2519,8 +3004,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.153882+00:00",
-    "id": 135,
+    "last_updated": "2026-10-22T04:30:04.505997+00:00",
+    "id": 151,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2539,7 +3024,25 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375145+00:00",
-    "id": 136,
+    "id": 152,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED TV 55 Inch G3A Pro",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32398898364587",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 115500,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-g3a-pro?variant=46015848579243",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.820638+00:00",
+    "id": 153,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2556,8 +3059,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.398300+00:00",
-    "id": 137,
+    "last_updated": "2026-10-22T03:33:03.532956+00:00",
+    "id": 154,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2574,8 +3077,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.517861+00:00",
-    "id": 138,
+    "last_updated": "2026-10-22T04:30:00.422121+00:00",
+    "id": 155,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2594,7 +3097,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374090+00:00",
-    "id": 139,
+    "id": 156,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2611,8 +3114,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.122382+00:00",
-    "id": 140,
+    "last_updated": "2026-10-22T04:30:04.416303+00:00",
+    "id": 157,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2629,8 +3132,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.580383+00:00",
-    "id": 141,
+    "last_updated": "2026-10-22T03:33:07.439048+00:00",
+    "id": 158,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2649,7 +3152,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375418+00:00",
-    "id": 142,
+    "id": 159,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2666,8 +3169,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.058790+00:00",
-    "id": 143,
+    "last_updated": "2026-10-22T04:29:56.154389+00:00",
+    "id": 160,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2685,8 +3188,8 @@
         "old_price": 127499
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.212510+00:00",
-    "id": 144,
+    "last_updated": "2026-10-22T04:30:04.646669+00:00",
+    "id": 161,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2705,7 +3208,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376243+00:00",
-    "id": 145,
+    "id": 162,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2724,7 +3227,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372958+00:00",
-    "id": 146,
+    "id": 163,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2741,8 +3244,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.573839+00:00",
-    "id": 147,
+    "last_updated": "2026-10-22T03:33:07.431304+00:00",
+    "id": 164,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2759,8 +3262,33 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.864892+00:00",
-    "id": 148,
+    "last_updated": "2026-10-22T04:30:08.630130+00:00",
+    "id": 165,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 55\" H55S80EUX",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-55-h55s80eux-6195772_600x.webp?v=1759387125",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 125000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-55-h55s80eux?variant=44399586967723",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 127000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-55-h55s80eux",
+        "in_stock": true,
+        "old_price": 147300
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.496611+00:00",
+    "id": 166,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2779,7 +3307,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375480+00:00",
-    "id": 149,
+    "id": 167,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2798,7 +3326,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.370275+00:00",
-    "id": 150,
+    "id": 168,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2817,26 +3345,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375622+00:00",
-    "id": 151,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Haier LED 55\" H55S80EUX - 55 Inch",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-55-h55s80eux-6195772.webp?v=1759387125",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 127000,
-        "url": "https://japanelectronics.com.pk/products/haier-led-55-h55s80eux?variant=44399586967723",
-        "in_stock": true,
-        "old_price": 147300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368210+00:00",
-    "id": 152,
+    "id": 169,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2853,8 +3362,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.924346+00:00",
-    "id": 153,
+    "last_updated": "2026-10-22T03:33:03.591372+00:00",
+    "id": 170,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2871,8 +3380,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.184979+00:00",
-    "id": 154,
+    "last_updated": "2026-10-22T03:33:07.502788+00:00",
+    "id": 171,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2889,9 +3398,80 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.545595+00:00",
-    "id": 155,
+    "last_updated": "2026-10-22T03:32:59.452093+00:00",
+    "id": 172,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "TCL LED 55\" 55T6C (Q LED)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-55-55t6c-q-led-8754780_600x.webp?v=1757587753",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 129200,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55t6c-q-led",
+        "in_stock": true,
+        "old_price": 146300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 129200,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55t6c-q-led?variant=45362670207147",
+        "in_stock": false,
+        "old_price": 146300
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:13.419584+00:00",
+    "id": 173,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 50\" H50S800UX",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-50-h50s800ux-665232_600x.webp?v=1757588484",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 129900,
+        "url": "https://japanelectronics.com.pk/products/haier-led-50-h50s800ux",
+        "in_stock": true,
+        "old_price": 157800
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.474485+00:00",
+    "id": 174,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
+  },
+  {
+    "title": "Hisense LED 55\" 55A6K (4K UHD Google TV)",
+    "brand": "Hisense",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/hisense-led-55-55a6k-4k-uhd-google-tv-437009_600x.webp?v=1757587942",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 129900,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-55-55a6k-4k-uhd-google-tv",
+        "in_stock": true,
+        "old_price": 146300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 129900,
+        "url": "https://japanelectronics.com.pk/products/hisense-led-55-55a6k-4k-uhd-google-tv?variant=44838997852331",
+        "in_stock": false,
+        "old_price": 146300
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:01.941242+00:00",
+    "id": 175,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Sony 55 Inch 4K UHD Smart LED TV (55X7500F)",
@@ -2907,8 +3487,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.359550+00:00",
-    "id": 156,
+    "last_updated": "2026-10-22T03:32:59.139756+00:00",
+    "id": 176,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2919,21 +3499,14 @@
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview_1.jpg",
     "prices": [
       {
-        "store": "TeleX",
-        "price": 51499,
-        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
-        "in_stock": true,
-        "match": "strict"
-      },
-      {
         "store": "Shophive",
         "price": 129999,
         "url": "https://www.shophive.com/xiaomi-tv-a-pro-55-2026/",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.558783+00:00",
-    "id": 157,
+    "last_updated": "2026-10-22T04:30:00.549390+00:00",
+    "id": 177,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2952,7 +3525,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371909+00:00",
-    "id": 158,
+    "id": 178,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2970,8 +3543,8 @@
         "old_price": 139999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.781315+00:00",
-    "id": 159,
+    "last_updated": "2026-10-22T04:30:08.391068+00:00",
+    "id": 179,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2989,8 +3562,8 @@
         "old_price": 140999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.880996+00:00",
-    "id": 160,
+    "last_updated": "2026-10-22T04:30:08.681382+00:00",
+    "id": 180,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3009,7 +3582,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374141+00:00",
-    "id": 161,
+    "id": 181,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3026,8 +3599,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.420329+00:00",
-    "id": 162,
+    "last_updated": "2026-10-22T03:33:03.575485+00:00",
+    "id": 182,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3046,7 +3619,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372477+00:00",
-    "id": 163,
+    "id": 183,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3065,7 +3638,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375772+00:00",
-    "id": 164,
+    "id": 184,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3082,8 +3655,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.164382+00:00",
-    "id": 165,
+    "last_updated": "2026-10-22T03:33:07.475426+00:00",
+    "id": 185,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3101,8 +3674,8 @@
         "old_price": 192499
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.855778+00:00",
-    "id": 166,
+    "last_updated": "2026-10-22T04:30:08.598806+00:00",
+    "id": 186,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3120,8 +3693,8 @@
         "old_price": 148999
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.221145+00:00",
-    "id": 167,
+    "last_updated": "2026-10-22T04:30:04.665534+00:00",
+    "id": 187,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3138,8 +3711,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.440837+00:00",
-    "id": 168,
+    "last_updated": "2026-10-22T03:33:03.616322+00:00",
+    "id": 188,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3156,8 +3729,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.235983+00:00",
-    "id": 169,
+    "last_updated": "2026-10-22T03:33:07.562112+00:00",
+    "id": 189,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3176,7 +3749,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372794+00:00",
-    "id": 170,
+    "id": 190,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3193,8 +3766,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.978111+00:00",
-    "id": 171,
+    "last_updated": "2026-10-22T03:33:07.492734+00:00",
+    "id": 191,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3213,7 +3786,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376495+00:00",
-    "id": 172,
+    "id": 192,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3230,8 +3803,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.934813+00:00",
-    "id": 173,
+    "last_updated": "2026-10-22T03:33:07.586619+00:00",
+    "id": 193,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3248,8 +3821,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.452996+00:00",
-    "id": 174,
+    "last_updated": "2026-10-22T03:32:59.296051+00:00",
+    "id": 194,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3266,8 +3839,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.138213+00:00",
-    "id": 175,
+    "last_updated": "2026-10-22T04:30:04.455556+00:00",
+    "id": 195,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3285,8 +3858,8 @@
         "old_price": 181499
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.846920+00:00",
-    "id": 176,
+    "last_updated": "2026-10-22T04:30:08.577020+00:00",
+    "id": 196,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3305,7 +3878,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375818+00:00",
-    "id": 177,
+    "id": 197,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3323,8 +3896,8 @@
         "old_price": 157999
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.526134+00:00",
-    "id": 178,
+    "last_updated": "2026-10-22T04:30:00.451750+00:00",
+    "id": 198,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3342,8 +3915,8 @@
         "old_price": 164999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.450026+00:00",
-    "id": 179,
+    "last_updated": "2026-10-22T04:30:12.708767+00:00",
+    "id": 199,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3361,8 +3934,8 @@
         "old_price": 165499
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.790154+00:00",
-    "id": 180,
+    "last_updated": "2026-10-22T04:30:08.409311+00:00",
+    "id": 200,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3381,7 +3954,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373378+00:00",
-    "id": 181,
+    "id": 201,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3400,7 +3973,32 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372529+00:00",
-    "id": 182,
+    "id": 202,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL LED 55\" 55P8K (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-55-55p8k-q-led-1379235_600x.webp?v=1757587754",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 160000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p8k-q-led?variant=45362663293099",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 160000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p8k-q-led",
+        "in_stock": true,
+        "old_price": 184200
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.709616+00:00",
+    "id": 203,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3417,8 +4015,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.518272+00:00",
-    "id": 183,
+    "last_updated": "2026-10-22T03:33:07.371052+00:00",
+    "id": 204,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3426,8 +4024,15 @@
     "brand": "Haier",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-55-55m80fux-1875877.webp?v=1764753551",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-55-55m80fux-1875877_600x.webp?v=1764753551",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 165000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-55-55m80fux",
+        "in_stock": true,
+        "old_price": 199900
+      },
       {
         "store": "Japan Electronics",
         "price": 165000,
@@ -3436,8 +4041,8 @@
         "old_price": 199900
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.371076+00:00",
-    "id": 184,
+    "last_updated": "2026-10-22T04:29:38.235799+00:00",
+    "id": 205,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3454,28 +4059,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.149557+00:00",
-    "id": 185,
+    "last_updated": "2026-10-22T03:33:07.464542+00:00",
+    "id": 206,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Samsung LED 50\" QA-50Q7FAAUSMM",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-50-qa-50q7faausmm-3014340.webp?v=1764753551",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 171999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-50-qa-50q7faausmm?variant=45916314828971",
-        "in_stock": true,
-        "old_price": 181100
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371240+00:00",
-    "id": 186,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "TCL LED 50\" 50C6K",
@@ -3493,7 +4079,51 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371550+00:00",
-    "id": 187,
+    "id": 207,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED 55\" Delta Series",
+    "brand": "Dawlance",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/dawlance-led-55-delta-series-5821024_600x.png?v=1764753551",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 175400,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-55-delta-series",
+        "in_stock": true,
+        "old_price": 186600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 175400,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-55-delta-series?variant=45915042218155",
+        "in_stock": false,
+        "old_price": 186600
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:38.091806+00:00",
+    "id": 208,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 50\" QA-50Q7FAAUSMM",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-50-qa-50q7faausmm-3014340.webp?v=1764753551",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 176000,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-50-qa-50q7faausmm?variant=45916314828971",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.578399+00:00",
+    "id": 209,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3510,8 +4140,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.399650+00:00",
-    "id": 188,
+    "last_updated": "2026-10-22T03:33:07.392213+00:00",
+    "id": 210,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3530,7 +4160,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373096+00:00",
-    "id": 189,
+    "id": 211,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3548,8 +4178,26 @@
         "old_price": 199999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.401983+00:00",
-    "id": 190,
+    "last_updated": "2026-10-22T04:30:12.540329+00:00",
+    "id": 212,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Xiaomi LED 65\" 65A PRO (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32871516602539",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 179999,
+        "url": "https://japanelectronics.com.pk/products/xiaomi-led-65-65a-pro-2026-q-led?variant=46333935288491",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:51.020065+00:00",
+    "id": 213,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3568,7 +4216,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376274+00:00",
-    "id": 191,
+    "id": 214,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3585,8 +4233,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:52.004475+00:00",
-    "id": 192,
+    "last_updated": "2026-10-22T04:29:55.759160+00:00",
+    "id": 215,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3605,7 +4253,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372999+00:00",
-    "id": 193,
+    "id": 216,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3624,26 +4272,33 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372331+00:00",
-    "id": 194,
+    "id": 217,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Xiaomi LED 65\" 65A PRO 2026",
-    "brand": "Xiaomi",
+    "title": "Haier LED 65\" 65S80EUX (Q LED)",
+    "brand": "Haier",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/xiaomi-led-65-65a-pro-q-led-7635583.webp?v=1774071314",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/haier-led-65-65s80eux-q-led-5872957_600x.webp?v=1757587734",
     "prices": [
       {
         "store": "Japan Electronics",
-        "price": 189900,
-        "url": "https://japanelectronics.com.pk/products/xiaomi-led-65-65a-pro-2026-q-led?variant=46333935288491",
+        "price": 190000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-65-65s80eux-q-led",
         "in_stock": true,
-        "old_price": 218900
+        "old_price": 215700
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 190000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-65-65s80eux-q-led?variant=45374591697067",
+        "in_stock": false,
+        "old_price": 215700
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.372858+00:00",
-    "id": 195,
+    "last_updated": "2026-10-22T04:29:25.968511+00:00",
+    "id": 218,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3662,26 +4317,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374846+00:00",
-    "id": 196,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Haier LED 65\" 65S81EUX (Q LED)",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-65-65s81eux-q-led-5271550.webp?v=1757587734",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 190000,
-        "url": "https://japanelectronics.com.pk/products/haier-led-65-65s81eux-q-led?variant=45374598906027",
-        "in_stock": true,
-        "old_price": 215700
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370384+00:00",
-    "id": 197,
+    "id": 219,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3700,7 +4336,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374582+00:00",
-    "id": 198,
+    "id": 220,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3717,8 +4353,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.472854+00:00",
-    "id": 199,
+    "last_updated": "2026-10-22T04:30:00.318208+00:00",
+    "id": 221,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3735,8 +4371,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.957549+00:00",
-    "id": 200,
+    "last_updated": "2026-10-22T04:29:55.203716+00:00",
+    "id": 222,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 65\" 65S81EUX (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/31381909799083",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 195000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-65-65s81eux-q-led?variant=45374598906027",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.967210+00:00",
+    "id": 223,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3755,7 +4409,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374193+00:00",
-    "id": 201,
+    "id": 224,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3774,7 +4428,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372739+00:00",
-    "id": 202,
+    "id": 225,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3791,28 +4445,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.929593+00:00",
-    "id": 203,
+    "last_updated": "2026-10-22T03:33:07.484584+00:00",
+    "id": 226,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Samsung LED 55\" QA-55Q7FAAUSMM",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-55-qa-55q7faausmm-4955735.webp?v=1764753548",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 199900,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-55-qa-55q7faausmm?variant=45916324823211",
-        "in_stock": true,
-        "old_price": 222200
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371297+00:00",
-    "id": 204,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Samsung 55 Inch UHD 4K Smart TV (AU7000)",
@@ -3828,8 +4463,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.548693+00:00",
-    "id": 205,
+    "last_updated": "2026-10-22T03:33:07.405243+00:00",
+    "id": 227,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3846,8 +4481,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.918826+00:00",
-    "id": 206,
+    "last_updated": "2026-10-22T03:32:59.428297+00:00",
+    "id": 228,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3865,8 +4500,34 @@
         "old_price": 235999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.410037+00:00",
-    "id": 207,
+    "last_updated": "2026-10-22T04:30:12.582193+00:00",
+    "id": 229,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Sony LED 55\" KD-55X75K (4K UHD)",
+    "brand": "Sony",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/sony-led-55-kd-55x75k-4k-uhd-3547400_600x.webp?v=1757587729",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 199999,
+        "url": "https://japanelectronics.com.pk/products/sony-led-55-kd-55x75k-4k-uhd",
+        "in_stock": true,
+        "old_price": 210600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 199999,
+        "url": "https://japanelectronics.com.pk/products/sony-led-55-kd-55x75k-4k-uhd?variant=45378258567339",
+        "in_stock": false,
+        "old_price": 210600
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:25.977926+00:00",
+    "id": 230,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3877,21 +4538,14 @@
     "image": "https://www.shophive.com/media/catalog/product/cache/c831b74073e8f93ee349897f877fc397/x/i/xiaomitvapro432026_1-removebg-preview_2.jpg",
     "prices": [
       {
-        "store": "TeleX",
-        "price": 51499,
-        "url": "https://www.telex.pk/products/samsung-galaxy-buds-4-pro-2026",
-        "in_stock": true,
-        "match": "strict"
-      },
-      {
         "store": "Shophive",
         "price": 199999,
         "url": "https://www.shophive.com/xiaomi-tv-a-pro-65-2026/",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.566731+00:00",
-    "id": 208,
+    "last_updated": "2026-10-22T04:30:00.570945+00:00",
+    "id": 231,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3909,8 +4563,8 @@
         "old_price": 220999
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.972861+00:00",
-    "id": 209,
+    "last_updated": "2026-10-22T04:29:55.409568+00:00",
+    "id": 232,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3918,8 +4572,15 @@
     "brand": "TCL",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-55-55c6k-mini-q-led-4555742.webp?v=1757587757",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-55-55c6k-mini-q-led-4555742_600x.webp?v=1757587757",
     "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 200500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55c6k-mini-q-led",
+        "in_stock": true,
+        "old_price": 232600
+      },
       {
         "store": "Japan Electronics",
         "price": 200500,
@@ -3928,8 +4589,8 @@
         "old_price": 232600
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369558+00:00",
-    "id": 210,
+    "last_updated": "2026-10-22T04:29:13.389727+00:00",
+    "id": 233,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3946,8 +4607,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.243464+00:00",
-    "id": 211,
+    "last_updated": "2026-10-22T03:33:07.570209+00:00",
+    "id": 234,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3965,8 +4626,8 @@
         "old_price": 215999
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.229239+00:00",
-    "id": 212,
+    "last_updated": "2026-10-22T04:30:04.686021+00:00",
+    "id": 235,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3985,26 +4646,34 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376370+00:00",
-    "id": 213,
+    "id": 236,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Changhong Ruba 70 Inch UHD LED TV (U70H7TI)",
-    "brand": "Changhongruba",
+    "title": "Samsung LED 55\" CY-55Q60DAUSMZ (4K + Smart)",
+    "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/changhong-ruba-70-inch-uhd-ips-tv-u70h7ti-pakistan-priceoye-es0p6-270x270.webp",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-55-cy-55q60dausmz-4k-smart-758546_600x.webp?v=1757587928",
     "prices": [
       {
-        "store": "PriceOye",
-        "price": 211000,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-70-inch-uhd-ips-tv-u70h7ti",
-        "in_stock": true
+        "store": "Japan Electronics",
+        "price": 214999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q60dausmz-4k-smart",
+        "in_stock": true,
+        "old_price": 226400
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 214999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q60dausmz-4k-smart?variant=44843326046379",
+        "in_stock": false,
+        "old_price": 226400
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.447133+00:00",
-    "id": 214,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "last_updated": "2026-10-22T04:29:01.975235+00:00",
+    "id": 237,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Hisense LED 65\" 65Q7Q (4K Q LED)",
@@ -4022,7 +4691,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375873+00:00",
-    "id": 215,
+    "id": 238,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4039,8 +4708,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:59.146162+00:00",
-    "id": 216,
+    "last_updated": "2026-10-22T04:30:04.483069+00:00",
+    "id": 239,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4059,7 +4728,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376557+00:00",
-    "id": 217,
+    "id": 240,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4076,9 +4745,35 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.541300+00:00",
-    "id": 218,
+    "last_updated": "2026-10-22T03:33:07.398744+00:00",
+    "id": 241,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "TCL LED 65\" 65P8K (Q LED)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-65-65p8k-q-led-1244181_600x.webp?v=1757587749",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 225000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-65-65p8k-q-led",
+        "in_stock": true,
+        "old_price": 263100
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 225000,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-65-65p8k-q-led?variant=45365069447339",
+        "in_stock": false,
+        "old_price": 263100
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:25.910972+00:00",
+    "id": 242,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Samsung 55 Inch 4K HD Smart QLED TV (55Q7F)",
@@ -4094,8 +4789,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.486152+00:00",
-    "id": 219,
+    "last_updated": "2026-10-22T03:32:59.366304+00:00",
+    "id": 243,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4113,8 +4808,8 @@
         "old_price": 239999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.799288+00:00",
-    "id": 220,
+    "last_updated": "2026-10-22T04:30:08.432155+00:00",
+    "id": 244,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4133,7 +4828,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374495+00:00",
-    "id": 221,
+    "id": 245,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4152,25 +4847,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372580+00:00",
-    "id": 222,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung 55 Inch QLED 4K Smart TV (Q70A)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "qled-oled",
-    "image": "https://images.priceoye.pk/samsung-55-inch-qled-4k-smart-tv-q70a-pakistan-priceoye-ivt8s-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 233999,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q70a",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.479602+00:00",
-    "id": 223,
+    "id": 246,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4189,7 +4866,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374894+00:00",
-    "id": 224,
+    "id": 247,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4206,8 +4883,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.370672+00:00",
-    "id": 225,
+    "last_updated": "2026-10-22T03:33:03.442729+00:00",
+    "id": 248,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4224,8 +4901,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.211042+00:00",
-    "id": 226,
+    "last_updated": "2026-10-22T03:33:07.536647+00:00",
+    "id": 249,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4243,8 +4920,8 @@
         "old_price": 264999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.575501+00:00",
-    "id": 227,
+    "last_updated": "2026-10-22T04:30:12.940959+00:00",
+    "id": 250,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4263,7 +4940,33 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373152+00:00",
-    "id": 228,
+    "id": 251,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 55\" CY-55Q70DAUSMZ (4K + Smart)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-55-cy-55q70dausmz-4k-smart-6053337_600x.webp?v=1752091065",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 248999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q70dausmz-4k-smart",
+        "in_stock": true,
+        "old_price": 262200
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 248999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q70dausmz-4k-smart?variant=45378314797227",
+        "in_stock": false,
+        "old_price": 262200
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:37.855739+00:00",
+    "id": 252,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4280,27 +4983,28 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.278410+00:00",
-    "id": 229,
+    "last_updated": "2026-10-22T03:33:07.617141+00:00",
+    "id": 253,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Samsung 55 Inch QLED 4K Smart TV (Q60A)",
-    "brand": "Samsung",
+    "title": "Skyworth LED 75\" 75Q6600G-QLED",
+    "brand": "",
     "category": "tvs",
     "subcategory": "qled-oled",
-    "image": "https://images.priceoye.pk/samsung-55-inch-qled-4k-smart-tv-q60a-pakistan-priceoye-1ozni-270x270.webp",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/skyworth-led-75-75q6600g-qled-866119_600x.webp?v=1757587921",
     "prices": [
       {
-        "store": "PriceOye",
-        "price": 249999,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q60a",
-        "in_stock": true
+        "store": "Japan Electronics",
+        "price": 249900,
+        "url": "https://japanelectronics.com.pk/products/skyworth-led-75-75q6600g-qled",
+        "in_stock": true,
+        "old_price": 309500
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.367501+00:00",
-    "id": 230,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+    "last_updated": "2026-10-22T04:29:02.007288+00:00",
+    "id": 254,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Samsung 65Q6F 65″ 4K SUHD Flat QLED TV",
@@ -4317,8 +5021,33 @@
         "old_price": 299999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.838936+00:00",
-    "id": 231,
+    "last_updated": "2026-10-22T04:30:08.552607+00:00",
+    "id": 255,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Dawlance LED 65\" Delta Series",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/dawlance-led-65-delta-series-8400172_600x.png?v=1764753546",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 250400,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-65-delta-series?variant=45915058340011",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 250400,
+        "url": "https://japanelectronics.com.pk/products/dawlance-led-65-delta-series",
+        "in_stock": true,
+        "old_price": 262600
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.781380+00:00",
+    "id": 256,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4335,8 +5064,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.524522+00:00",
-    "id": 232,
+    "last_updated": "2026-10-22T03:33:07.378209+00:00",
+    "id": 257,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4353,9 +5082,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.406809+00:00",
-    "id": 233,
+    "last_updated": "2026-10-22T03:33:03.541332+00:00",
+    "id": 258,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Samsung LED 55\" QA-55Q7FAAUSMM",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-55-qa-55q7faausmm-4955735.webp?v=1764753548",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 259900,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-55-qa-55q7faausmm?variant=45916324823211",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.593923+00:00",
+    "id": 259,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "EcoStar 75 Inch 4K Smart LED TV (CX75UD921P)",
@@ -4371,8 +5118,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.433371+00:00",
-    "id": 234,
+    "last_updated": "2026-10-22T03:32:59.267464+00:00",
+    "id": 260,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4389,8 +5136,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.250820+00:00",
-    "id": 235,
+    "last_updated": "2026-10-22T03:33:07.579169+00:00",
+    "id": 261,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4409,8 +5156,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376306+00:00",
-    "id": 236,
+    "id": 262,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 65\" CY-65DU8000",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32246577004715",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 261999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65du8000usmz?variant=45913066274987",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.610118+00:00",
+    "id": 263,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Samsung 55 Inch Curved 4K HD Smart LED TV (55Q8C)",
@@ -4426,26 +5191,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.493418+00:00",
-    "id": 237,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Changhong Ruba 75 Inch UHD LED TV (U75K9I)",
-    "brand": "Changhongruba",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/changhong-ruba-75-inch-uhd-led-tv-u75k9i-pakistan-priceoye-hw8ys-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 270200,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-75-inch-uhd-led-tv-u75k9i",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.454155+00:00",
-    "id": 238,
+    "last_updated": "2026-10-22T03:32:59.375873+00:00",
+    "id": 264,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4464,7 +5211,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375534+00:00",
-    "id": 239,
+    "id": 265,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4483,26 +5230,58 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375922+00:00",
-    "id": 240,
+    "id": 266,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "TCL LED 65\" 65C6K (Mini Q LED)",
-    "brand": "TCL",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-65-65c6k-mini-q-led-1665495.webp?v=1783112047",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-65-65c6k-mini-q-led-1665495_600x.webp?v=1783112047",
     "prices": [
       {
         "store": "Japan Electronics",
         "price": 272500,
         "url": "https://japanelectronics.com.pk/products/tcl-led-65-65c6k-mini-q-led?variant=45362673352875",
+        "in_stock": true
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 272500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-65-65c6k-mini-q-led",
         "in_stock": true,
         "old_price": 317800
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369757+00:00",
-    "id": 241,
+    "last_updated": "2026-10-22T04:28:50.725126+00:00",
+    "id": 267,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL LED 75\" 75P79K (Q LED)",
+    "brand": "TCL",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-75-75p79k-q-led-6865013_600x.webp?v=1757587745",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 273900,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75p79k-q-led",
+        "in_stock": true,
+        "old_price": 326300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 273900,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75p79k-q-led?variant=45365087764651",
+        "in_stock": false,
+        "old_price": 326300
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:25.929311+00:00",
+    "id": 268,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4519,8 +5298,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.466569+00:00",
-    "id": 242,
+    "last_updated": "2026-10-22T03:32:59.338027+00:00",
+    "id": 269,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4538,9 +5317,27 @@
         "old_price": 299999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.418113+00:00",
-    "id": 243,
+    "last_updated": "2026-10-22T04:30:12.613325+00:00",
+    "id": 270,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 75\" 75S80EUX (Q LED)",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/30876975169707",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 275000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-75-75s80eux-q-led?variant=44836174463147",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.980877+00:00",
+    "id": 271,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Hisense LED 75\" 75Q6N",
@@ -4558,7 +5355,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371174+00:00",
-    "id": 244,
+    "id": 272,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4577,7 +5374,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371351+00:00",
-    "id": 245,
+    "id": 273,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4595,27 +5392,9 @@
         "old_price": 344999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.465783+00:00",
-    "id": 246,
+    "last_updated": "2026-10-22T04:30:12.762659+00:00",
+    "id": 274,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL 32 Inch Android Smart LED TV (32S6500)",
-    "brand": "Tcl",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/tcl-32-inch-smart-tv-32s6500-pakistan-priceoye-6osrr-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 298999,
-        "url": "https://priceoye.pk/led-tv/tcl/tcl-32-inch-smart-android-tv-32s6500",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:25.902972+00:00",
-    "id": 247,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
     "title": "TCL 75T69D 75\" QLED 4K Smart TV",
@@ -4632,8 +5411,8 @@
         "old_price": 313999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.764884+00:00",
-    "id": 248,
+    "last_updated": "2026-10-22T04:30:08.350152+00:00",
+    "id": 275,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4650,8 +5429,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.555167+00:00",
-    "id": 249,
+    "last_updated": "2026-10-22T03:33:07.418205+00:00",
+    "id": 276,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4670,7 +5449,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376619+00:00",
-    "id": 250,
+    "id": 277,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4689,26 +5468,34 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376402+00:00",
-    "id": 251,
+    "id": 278,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Samsung 65 Inch Crystal UHD 4K Smart TV (AU9000)",
+    "title": "Samsung LED 65\" CY-65Q60DAUSMZ (4K + Smart)",
     "brand": "Samsung",
     "category": "tvs",
     "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/samsung-65-inch-crystal-uhd-4k-smart-tv-au9000-pakistan-priceoye-far5z-270x270.webp",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-65-cy-65q60dausmz-4k-smart-257212_600x.webp?v=1757587932",
     "prices": [
       {
-        "store": "PriceOye",
-        "price": 309000,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-65-inch-crystal-uhd-4k-smart-tv-au9000",
-        "in_stock": true
+        "store": "Japan Electronics",
+        "price": 306999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65q60dausmz-4k-smart",
+        "in_stock": true,
+        "old_price": 323200
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 306999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65q60dausmz-4k-smart?variant=44843274895531",
+        "in_stock": false,
+        "old_price": 323200
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.492527+00:00",
-    "id": 252,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "last_updated": "2026-10-22T04:29:01.952691+00:00",
+    "id": 279,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Samsung 75 Inch 4K HD Smart LED TV (75RU7100)",
@@ -4724,26 +5511,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.513123+00:00",
-    "id": 253,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "TCL 55 Inch Mini LED 4K TV",
-    "brand": "Tcl",
-    "category": "tvs",
-    "subcategory": "qled-oled",
-    "image": "https://images.priceoye.pk/tcl-55-inch-mini-led-4k-tv-pakistan-priceoye-pacug-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 320900,
-        "url": "https://priceoye.pk/led-tv/tcl/tcl-55-inch-mini-led-4k-tv",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.505418+00:00",
-    "id": 254,
+    "last_updated": "2026-10-22T03:32:59.412522+00:00",
+    "id": 280,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4760,8 +5529,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.532929+00:00",
-    "id": 255,
+    "last_updated": "2026-10-22T03:33:07.384397+00:00",
+    "id": 281,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4778,8 +5547,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.442357+00:00",
-    "id": 256,
+    "last_updated": "2026-10-22T04:30:12.688191+00:00",
+    "id": 282,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4797,8 +5566,8 @@
         "old_price": 348999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.807532+00:00",
-    "id": 257,
+    "last_updated": "2026-10-22T04:30:08.457098+00:00",
+    "id": 283,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4817,7 +5586,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372632+00:00",
-    "id": 258,
+    "id": 284,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4834,8 +5603,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.192824+00:00",
-    "id": 259,
+    "last_updated": "2026-10-22T03:33:07.519709+00:00",
+    "id": 285,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4853,8 +5622,8 @@
         "old_price": 358999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.562609+00:00",
-    "id": 260,
+    "last_updated": "2026-10-22T04:30:12.913995+00:00",
+    "id": 286,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4871,8 +5640,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.259101+00:00",
-    "id": 261,
+    "last_updated": "2026-10-22T03:33:07.593841+00:00",
+    "id": 287,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4891,7 +5660,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373207+00:00",
-    "id": 262,
+    "id": 288,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4909,8 +5678,8 @@
         "old_price": 464999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.501289+00:00",
-    "id": 263,
+    "last_updated": "2026-10-22T04:30:12.832347+00:00",
+    "id": 289,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4929,8 +5698,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376032+00:00",
-    "id": 264,
+    "id": 290,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 75\" CY-75DU7000",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32398834139307",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 369999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-75-cy-75du7000?variant=46015812403371",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.627688+00:00",
+    "id": 291,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "Samsung 65 Inch Smart QLED TV (65q6f)",
@@ -4946,8 +5733,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.479648+00:00",
-    "id": 265,
+    "last_updated": "2026-10-22T03:32:59.356311+00:00",
+    "id": 292,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4966,7 +5753,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373466+00:00",
-    "id": 266,
+    "id": 293,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4985,26 +5772,32 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373596+00:00",
-    "id": 267,
+    "id": 294,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "TCL LED 75\" 75C6K (Mini Q LED)",
-    "brand": "TCL",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-75-75c6k-mini-q-led-4772144.webp?v=1757587747",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-75-75c6k-mini-q-led-4772144_600x.webp?v=1757587747",
     "prices": [
       {
         "store": "Japan Electronics",
         "price": 392500,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75c6k-mini-q-led?variant=45365081899179",
+        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75c6k-mini-q-led",
         "in_stock": true,
         "old_price": 452600
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 394500,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75c6k-mini-q-led?variant=45365081899179",
+        "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.369924+00:00",
-    "id": 268,
+    "last_updated": "2026-10-22T04:28:50.740177+00:00",
+    "id": 295,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5022,8 +5815,8 @@
         "old_price": 498999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.474342+00:00",
-    "id": 269,
+    "last_updated": "2026-10-22T04:30:12.784358+00:00",
+    "id": 296,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5040,8 +5833,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:18.511706+00:00",
-    "id": 270,
+    "last_updated": "2026-10-22T03:33:07.364576+00:00",
+    "id": 297,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5060,7 +5853,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376338+00:00",
-    "id": 271,
+    "id": 298,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5079,7 +5872,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374784+00:00",
-    "id": 272,
+    "id": 299,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5096,8 +5889,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.482595+00:00",
-    "id": 273,
+    "last_updated": "2026-10-22T04:30:00.336918+00:00",
+    "id": 300,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5114,46 +5907,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.265687+00:00",
-    "id": 274,
+    "last_updated": "2026-10-22T03:33:07.601257+00:00",
+    "id": 301,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Changhong Ruba 82 Inch UHD LED TV (U82K9I)",
-    "brand": "Changhongruba",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/changhong-ruba-82-inch-uhd-led-tv-u82k9i-pakistan-priceoye-0c4ea-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 439999,
-        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-82-inch-uhd-led-tv-u82k9i",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.460661+00:00",
-    "id": 275,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Haier LED 85\" 85M80FUX",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-85-85m80fux-8898401.webp?v=1764753551",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 475000,
-        "url": "https://japanelectronics.com.pk/products/haier-led-85-85m80fux?variant=45916202729643",
-        "in_stock": true,
-        "old_price": 673600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371125+00:00",
-    "id": 276,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Samsung 65LS03D 65\" The Frame QLED 4K Art Mode Smart TV (2024)",
@@ -5169,8 +5925,71 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.482103+00:00",
-    "id": 277,
+    "last_updated": "2026-10-22T04:30:12.807264+00:00",
+    "id": 302,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Skyworth LED 85\" 85G6600G-UHD",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/skyworth-led-85-85g6600g-uhd-510750_600x.webp?v=1757587921",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 500000,
+        "url": "https://japanelectronics.com.pk/products/skyworth-led-85-85g6600g-uhd",
+        "in_stock": true,
+        "old_price": 526400
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:01.997508+00:00",
+    "id": 303,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
+  },
+  {
+    "title": "Samsung LED 75\" CY-75Q70DUSMZ (4K + Smart)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-75-cy-75q70dusmz-4k-smart-140837_600x.webp?v=1757587929",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 505999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-75-cy-75q70dusmz-4k-smart",
+        "in_stock": true,
+        "old_price": 532700
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 505999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-75-cy-75q70dusmz-4k-smart?variant=44843305762987",
+        "in_stock": false,
+        "old_price": 532700
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:01.964681+00:00",
+    "id": 304,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Haier LED 85\" 85M80FUX",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32252293906603",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 515000,
+        "url": "https://japanelectronics.com.pk/products/haier-led-85-85m80fux?variant=45916202729643",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.994708+00:00",
+    "id": 305,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5188,8 +6007,8 @@
         "old_price": 555999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.815374+00:00",
-    "id": 278,
+    "last_updated": "2026-10-22T04:30:08.482932+00:00",
+    "id": 306,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5208,7 +6027,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372684+00:00",
-    "id": 279,
+    "id": 307,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5227,7 +6046,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373275+00:00",
-    "id": 280,
+    "id": 308,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5244,8 +6063,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.591303+00:00",
-    "id": 281,
+    "last_updated": "2026-10-22T04:30:00.703089+00:00",
+    "id": 309,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 85\" 85DU8000",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/#/schema/ImageObject/32252525707435",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 609990,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-85-85du8000?variant=45916338421931",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.643423+00:00",
+    "id": 310,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5263,27 +6100,59 @@
         "old_price": 699999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.525026+00:00",
-    "id": 282,
+    "last_updated": "2026-10-22T04:30:12.863551+00:00",
+    "id": 311,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 75\" CY-75Q80DAUSMZ",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-75-cy-75q80dausmz-2161356_600x.webp?v=1774071915",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 633999,
+        "url": "https://japanelectronics.com.pk/products/samsung-75q80d-75-qled-4k-smart-tv",
+        "in_stock": true,
+        "old_price": 667400
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 633999,
+        "url": "https://japanelectronics.com.pk/products/samsung-75q80d-75-qled-4k-smart-tv?variant=44669547872427",
+        "in_stock": false,
+        "old_price": 667400
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.507772+00:00",
+    "id": 312,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "TCL LED 85\" 85C6K (Mini Q LED)",
-    "brand": "TCL",
+    "brand": "",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-85-85c6k-mini-q-led-6661878.webp?v=1757587741",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-85-85c6k-mini-q-led-6661878_600x.webp?v=1757587741",
     "prices": [
       {
         "store": "Japan Electronics",
         "price": 647500,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c6k-mini-q-led?variant=45365102313643",
+        "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c6k-mini-q-led",
         "in_stock": true,
         "old_price": 746300
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 664905,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-85-85c6k-mini-q-led?variant=45365102313643",
+        "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.370044+00:00",
-    "id": 283,
+    "last_updated": "2026-10-22T04:28:50.754689+00:00",
+    "id": 313,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5300,8 +6169,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.226342+00:00",
-    "id": 284,
+    "last_updated": "2026-10-22T03:33:07.554568+00:00",
+    "id": 314,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5318,8 +6187,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:14.473159+00:00",
-    "id": 285,
+    "last_updated": "2026-10-22T03:32:59.347854+00:00",
+    "id": 315,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5336,8 +6205,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:55.492184+00:00",
-    "id": 286,
+    "last_updated": "2026-10-22T04:30:00.359216+00:00",
+    "id": 316,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5355,8 +6224,8 @@
         "old_price": 1124999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.426139+00:00",
-    "id": 287,
+    "last_updated": "2026-10-22T04:30:12.639792+00:00",
+    "id": 317,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5374,8 +6243,34 @@
         "old_price": 823999
       }
     ],
-    "last_updated": "2026-10-19T03:35:06.548790+00:00",
-    "id": 288,
+    "last_updated": "2026-10-22T04:30:12.890259+00:00",
+    "id": 318,
+    "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung LED 85\" 85Q70D (IN)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/samsung-led-85-85q70d-in-2687358_600x.webp?v=1757587727",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 755999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-85-85q70d-in",
+        "in_stock": true,
+        "old_price": 795800
+      },
+      {
+        "store": "Japan Electronics",
+        "price": 755999,
+        "url": "https://japanelectronics.com.pk/products/samsung-led-85-85q70d-in?variant=45378286289067",
+        "in_stock": false,
+        "old_price": 795800
+      }
+    ],
+    "last_updated": "2026-10-22T04:29:37.801435+00:00",
+    "id": 319,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5392,8 +6287,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.218109+00:00",
-    "id": 289,
+    "last_updated": "2026-10-22T03:33:07.544589+00:00",
+    "id": 320,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5412,7 +6307,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373331+00:00",
-    "id": 290,
+    "id": 321,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5430,8 +6325,8 @@
         "old_price": 899999
       }
     ],
-    "last_updated": "2026-10-19T03:34:51.965239+00:00",
-    "id": 291,
+    "last_updated": "2026-10-22T04:29:55.310369+00:00",
+    "id": 322,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5450,7 +6345,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373696+00:00",
-    "id": 292,
+    "id": 323,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5467,9 +6362,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:25.966992+00:00",
-    "id": 293,
+    "last_updated": "2026-10-22T03:33:07.411642+00:00",
+    "id": 324,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "TCL LED 98\" 98C6K",
+    "brand": "",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://japanelectronics.com.pk/cdn/shop/files/tcl-led-98-98c6k-8879331.webp?v=1764753550",
+    "prices": [
+      {
+        "store": "Japan Electronics",
+        "price": 949905,
+        "url": "https://japanelectronics.com.pk/products/tcl-led-98-98c6k?variant=45917648912555",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:28:50.768232+00:00",
+    "id": 325,
+    "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
     "title": "TCL LED 98\" 98C7L (MINI Q LED)",
@@ -5487,7 +6400,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373752+00:00",
-    "id": 294,
+    "id": 326,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5504,8 +6417,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:15:22.322966+00:00",
-    "id": 295,
+    "last_updated": "2026-10-22T03:33:11.147716+00:00",
+    "id": 327,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5523,63 +6436,8 @@
         "old_price": 1999999
       }
     ],
-    "last_updated": "2026-10-19T03:35:02.873078+00:00",
-    "id": 296,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung 82 Inch QLED 8K Smart TV (Q800T)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "qled-oled",
-    "image": "https://images.priceoye.pk/samsung-82-inch-qled-8k-smart-tv-q800t-pakistan-priceoye-99fxu-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 1850000,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-82-inch-qled-8k-smart-tv-q800t",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.499119+00:00",
-    "id": 297,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Samsung 85 Inch Neo QLED 4K Smart TV (QN85A)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "qled-oled",
-    "image": "https://images.priceoye.pk/samsung-85-inch-neo-qled-4k-smart-tv-qn85a-pakistan-priceoye-88mq6-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 1899999,
-        "url": "https://priceoye.pk/led-tv/samsung/samsung-85-inch-neo-qled-4k-smart-tv-qn85a",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:15:18.467057+00:00",
-    "id": 298,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Dawlance LED TV 32 Inch E3A-HD",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/dawlance-led-tv-32-inch-e3a-hd-995891.webp?v=1757588641",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 37000,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-32-e3a-hd?variant=44079801270443",
-        "in_stock": false,
-        "old_price": 45800
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.367846+00:00",
-    "id": 299,
+    "last_updated": "2026-10-22T04:30:08.652999+00:00",
+    "id": 328,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5598,7 +6456,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372038+00:00",
-    "id": 300,
+    "id": 329,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5609,13 +6467,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-tv-40-inch-h40k800fx-android-google-tv-9826018.webp?v=1767522664",
     "prices": [
       {
-        "store": "TeleX",
-        "price": 66999,
-        "url": "https://www.telex.pk/products/haier-h40k800fx-40-inch-full-hd-google-tv-with-official-warranty",
-        "in_stock": true,
-        "match": "strict"
-      },
-      {
         "store": "Japan Electronics",
         "price": 61000,
         "url": "https://japanelectronics.com.pk/products/haier-led-tv-40-inch-h40k800fx-android-google-tv?variant=46015830032555",
@@ -5624,26 +6475,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372103+00:00",
-    "id": 301,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 32\" UA32T5300AUSMM (Smart)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-32-ua32t5300ausmm-smart-8436582.webp?v=1757587726",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 63400,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-32-ua32t5300ausmm-smart?variant=45378335637675",
-        "in_stock": false,
-        "old_price": 67400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370585+00:00",
-    "id": 302,
+    "id": 330,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5662,64 +6494,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368000+00:00",
-    "id": 303,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "ECOSTAR LED 43\" CX-43Q874",
-    "brand": "EcoStar",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-43-cx-43q874-3068160.webp?v=1764753549",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 74500,
-        "url": "https://japanelectronics.com.pk/products/ecostar-led-43-cx-43q874?variant=45915080229035",
-        "in_stock": false,
-        "old_price": 79900
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370975+00:00",
-    "id": 304,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 43\" 43S51K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-43-43s51k-q-led-6134550.webp?v=1763108535",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 78000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43s51k-q-led?variant=45353278505131",
-        "in_stock": false,
-        "old_price": 88500
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369449+00:00",
-    "id": 305,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense LED 43\" 43Q6N (Q LED)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/hisense-led-43-43q6n-q-led-5169583.webp?v=1757587528",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 79900,
-        "url": "https://japanelectronics.com.pk/products/hisense-led-43-43q6n-q-led?variant=45493213954219",
-        "in_stock": false,
-        "old_price": 116400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370639+00:00",
-    "id": 306,
+    "id": 331,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5738,159 +6513,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374728+00:00",
-    "id": 307,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED TV 50 Inch G3A Pro",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/Dawlance_LED_TV_50_Inch_G3A_Pro.webp?v=1757588640",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 89999,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-g3a-pro?variant=44079785345195",
-        "in_stock": false,
-        "old_price": 118500
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.367761+00:00",
-    "id": 308,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED TV 50 Inch 50G22",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/Dawlance_LED_TV_50_Inch_50G22.webp?v=1757588410",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 90900,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-50-50g22?variant=44079066775723",
-        "in_stock": false,
-        "old_price": 113200
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.367659+00:00",
-    "id": 309,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 43\" 43P79K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-43-43p79k-q-led-9654946.webp?v=1757587761",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 94000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-43-43p79k-q-led?variant=45353274572971",
-        "in_stock": false,
-        "old_price": 110500
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369397+00:00",
-    "id": 310,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 43\" UA43T5300AUSMM (Smart) - 43 inch",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-43-ua43t5300ausmm-smart-4359881.png?v=1774594274",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 94999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-43-ua43t5300ausmm-smart?variant=44079733768363",
-        "in_stock": false,
-        "old_price": 100000
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.367926+00:00",
-    "id": 311,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Ecostar LED 50\" CX-50Q964",
-    "brand": "EcoStar",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-50-cx-50q964-2371241.webp?v=1764753551",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 99900,
-        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q964?variant=45915109818539",
-        "in_stock": false,
-        "old_price": 112600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371027+00:00",
-    "id": 312,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Ecostar LED 50\" CX-50Q966 (Q-LED)",
-    "brand": "EcoStar",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-50-cx-50q966-q-led-158998.webp?v=1757587793",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 99900,
-        "url": "https://japanelectronics.com.pk/products/ecostar-led-50-cx-50q966-q-led?variant=45239595761835",
-        "in_stock": false,
-        "old_price": 112600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369008+00:00",
-    "id": 313,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense LED 50\" 50A6K (4K UHD Google TV)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/hisense-led-50-50a6k-4k-uhd-google-tv-558428.png?v=1757587942",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 102000,
-        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50a6k-4k-uhd-google-tv?variant=44838989988011",
-        "in_stock": false,
-        "old_price": 112600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368561+00:00",
-    "id": 314,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED TV 55 Inch 55G22",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/dawlance-led-tv-55-inch-55g22-857783.webp?v=1757587920",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 104000,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-55g22?variant=44939354734763",
-        "in_stock": false,
-        "old_price": 129000
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368950+00:00",
-    "id": 315,
+    "id": 332,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5909,102 +6532,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375002+00:00",
-    "id": 316,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "ECOSTAR LED 55\" CX-55Q964 (Q-LED)",
-    "brand": "EcoStar",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-55-cx-55q964-q-led-314143.webp?v=1757587792",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 109900,
-        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q964-q-led?variant=45239616209067",
-        "in_stock": false,
-        "old_price": 127900
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369064+00:00",
-    "id": 317,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "ECOSTAR LED 55\" CX-55Q966 (Q-LED)",
-    "brand": "EcoStar",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/ecostar-led-55-cx-55q966-q-led-305861.webp?v=1757587792",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 109900,
-        "url": "https://japanelectronics.com.pk/products/ecostar-led-55-cx-55q966-q-led?variant=45241333186731",
-        "in_stock": false,
-        "old_price": 127900
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369121+00:00",
-    "id": 318,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense LED 50\" 50Q6N (Q LED)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/hisense-led-50-50q6n-q-led-4982760.png?v=1762481013",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 110000,
-        "url": "https://japanelectronics.com.pk/products/hisense-led-50-50q6n-q-led?variant=45808692920491",
-        "in_stock": false,
-        "old_price": 156400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370801+00:00",
-    "id": 319,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 55\" 55P6K (4K UHD)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-55-55p6k-4k-uhd-5082471.webp?v=1757587755",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 110000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p6k-4k-uhd?variant=45362624692395",
-        "in_stock": false,
-        "old_price": 126300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369600+00:00",
-    "id": 320,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Haier LED 50\" H50S5UG PRO (4K Android)",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-50-h50s5ug-pro-4k-android-138490.webp?v=1757587949",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 114354,
-        "url": "https://japanelectronics.com.pk/products/haier-led-50-h50s5ug-pro-4k-android?variant=44836153032875",
-        "in_stock": false,
-        "old_price": 124300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368402+00:00",
-    "id": 321,
+    "id": 333,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6023,26 +6551,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368794+00:00",
-    "id": 322,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED TV 55 Inch G3A Pro",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/dawlance-led-tv-55-inch-g3a-pro-6929791.webp?v=1773029166",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 115500,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-tv-55-inch-g3a-pro?variant=46015848579243",
-        "in_stock": false,
-        "old_price": 144800
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371967+00:00",
-    "id": 323,
+    "id": 334,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6061,26 +6570,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375315+00:00",
-    "id": 324,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 55\" 55T6C (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-55-55t6c-q-led-8754780.webp?v=1757587753",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 129200,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55t6c-q-led?variant=45362670207147",
-        "in_stock": false,
-        "old_price": 146300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369702+00:00",
-    "id": 325,
+    "id": 335,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6091,13 +6581,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-50-h50s800ux-665232.webp?v=1757588484",
     "prices": [
       {
-        "store": "TeleX",
-        "price": 129899,
-        "url": "https://www.telex.pk/products/haier-h50s800ux-50-inch-4k-qled-google-tv-with-official-warranty",
-        "in_stock": true,
-        "match": "strict"
-      },
-      {
         "store": "Japan Electronics",
         "price": 129900,
         "url": "https://japanelectronics.com.pk/products/haier-led-50-h50s800ux?variant=44120163451051",
@@ -6106,7 +6589,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368071+00:00",
-    "id": 326,
+    "id": 336,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6125,26 +6608,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373876+00:00",
-    "id": 327,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense LED 55\" 55A6K (4K UHD Google TV)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/hisense-led-55-55a6k-4k-uhd-google-tv-437009.webp?v=1757587942",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 129900,
-        "url": "https://japanelectronics.com.pk/products/hisense-led-55-55a6k-4k-uhd-google-tv?variant=44838997852331",
-        "in_stock": false,
-        "old_price": 146300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368610+00:00",
-    "id": 328,
+    "id": 337,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6163,7 +6627,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375057+00:00",
-    "id": 329,
+    "id": 338,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6182,45 +6646,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373422+00:00",
-    "id": 330,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 55\" 55P8K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-55-55p8k-q-led-1379235.webp?v=1757587754",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 160000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-55-55p8k-q-led?variant=45362663293099",
-        "in_stock": false,
-        "old_price": 184200
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369651+00:00",
-    "id": 331,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED 55\" Delta Series",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/dawlance-led-55-delta-series-5821024.png?v=1764753551",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 175400,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-55-delta-series?variant=45915042218155",
-        "in_stock": false,
-        "old_price": 186600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370865+00:00",
-    "id": 332,
+    "id": 339,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6239,7 +6665,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372274+00:00",
-    "id": 333,
+    "id": 340,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6258,7 +6684,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372205+00:00",
-    "id": 334,
+    "id": 341,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6277,83 +6703,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371792+00:00",
-    "id": 335,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Haier LED 65\" 65S80EUX (Q LED)",
-    "brand": "Haier",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-65-65s80eux-q-led-5872957.webp?v=1757587734",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 190000,
-        "url": "https://japanelectronics.com.pk/products/haier-led-65-65s80eux-q-led?variant=45374591697067",
-        "in_stock": false,
-        "old_price": 215700
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370330+00:00",
-    "id": 336,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Sony LED 55\" KD-55X75K (4K UHD)",
-    "brand": "Sony",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/sony-led-55-kd-55x75k-4k-uhd-3547400.webp?v=1757587729",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 199999,
-        "url": "https://japanelectronics.com.pk/products/sony-led-55-kd-55x75k-4k-uhd?variant=45378258567339",
-        "in_stock": false,
-        "old_price": 210600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370429+00:00",
-    "id": 337,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 55\" CY-55Q60DAUSMZ (4K + Smart)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-55-cy-55q60dausmz-4k-smart-758546.webp?v=1757587928",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 214999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q60dausmz-4k-smart?variant=44843326046379",
-        "in_stock": false,
-        "old_price": 226400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368758+00:00",
-    "id": 338,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 65\" 65P8K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-65-65p8k-q-led-1244181.webp?v=1757587749",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 225000,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-65-65p8k-q-led?variant=45365069447339",
-        "in_stock": false,
-        "old_price": 263100
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369808+00:00",
-    "id": 339,
+    "id": 342,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6372,7 +6722,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373936+00:00",
-    "id": 340,
+    "id": 343,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6391,26 +6741,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373510+00:00",
-    "id": 341,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 55\" CY-55Q70DAUSMZ (4K + Smart)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-55-cy-55q70dausmz-4k-smart-6053337.webp?v=1752091065",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 248999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-55-cy-55q70dausmz-4k-smart?variant=45378314797227",
-        "in_stock": false,
-        "old_price": 262200
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370532+00:00",
-    "id": 342,
+    "id": 344,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6429,26 +6760,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368894+00:00",
-    "id": 343,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Dawlance LED 65\" Delta Series",
-    "brand": "Dawlance",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/dawlance-led-65-delta-series-8400172.png?v=1764753546",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 250400,
-        "url": "https://japanelectronics.com.pk/products/dawlance-led-65-delta-series?variant=45915058340011",
-        "in_stock": false,
-        "old_price": 262600
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370923+00:00",
-    "id": 344,
+    "id": 345,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6467,7 +6779,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372377+00:00",
-    "id": 345,
+    "id": 346,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6486,7 +6798,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373040+00:00",
-    "id": 346,
+    "id": 347,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6505,25 +6817,6 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375263+00:00",
-    "id": 347,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "TCL LED 75\" 75P79K (Q LED)",
-    "brand": "TCL",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/tcl-led-75-75p79k-q-led-6865013.webp?v=1757587745",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 273900,
-        "url": "https://japanelectronics.com.pk/products/tcl-led-75-75p79k-q-led?variant=45365087764651",
-        "in_stock": false,
-        "old_price": 326300
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.369988+00:00",
     "id": 348,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -6566,25 +6859,6 @@
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
-    "title": "Samsung LED 65\" CY-65Q60DAUSMZ (4K + Smart)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-65-cy-65q60dausmz-4k-smart-257212.webp?v=1757587932",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 306999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-65-cy-65q60dausmz-4k-smart?variant=44843274895531",
-        "in_stock": false,
-        "old_price": 323200
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368660+00:00",
-    "id": 351,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
     "title": "LG LED 65\" 65QNED82ASA (4K UHD)",
     "brand": "LG",
     "category": "tvs",
@@ -6600,7 +6874,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374668+00:00",
-    "id": 352,
+    "id": 351,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6619,7 +6893,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372150+00:00",
-    "id": 353,
+    "id": 352,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6638,7 +6912,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376674+00:00",
-    "id": 354,
+    "id": 353,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6657,26 +6931,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368855+00:00",
-    "id": 355,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 75\" CY-75Q70DUSMZ (4K + Smart)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-75-cy-75q70dusmz-4k-smart-140837.webp?v=1757587929",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 505999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-75-cy-75q70dusmz-4k-smart?variant=44843305762987",
-        "in_stock": false,
-        "old_price": 532700
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368709+00:00",
-    "id": 356,
+    "id": 354,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6695,7 +6950,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373639+00:00",
-    "id": 357,
+    "id": 355,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6714,26 +6969,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371643+00:00",
-    "id": 358,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 85\" 85DU8000",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-85-85du8000-4367767.webp?v=1764753549",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 603900,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-85-85du8000?variant=45916338421931",
-        "in_stock": false,
-        "old_price": 746400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.371403+00:00",
-    "id": 359,
+    "id": 356,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6752,26 +6988,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375102+00:00",
-    "id": 360,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 75\" CY-75Q80DAUSMZ",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-75-cy-75q80dausmz-2161356.webp?v=1774071915",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 633999,
-        "url": "https://japanelectronics.com.pk/products/samsung-75q80d-75-qled-4k-smart-tv?variant=44669547872427",
-        "in_stock": false,
-        "old_price": 667400
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.368281+00:00",
-    "id": 361,
+    "id": 357,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6790,26 +7007,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374538+00:00",
-    "id": 362,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Samsung LED 85\" 85Q70D (IN)",
-    "brand": "Samsung",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/samsung-led-85-85q70d-in-2687358.webp?v=1757587727",
-    "prices": [
-      {
-        "store": "Japan Electronics",
-        "price": 755999,
-        "url": "https://japanelectronics.com.pk/products/samsung-led-85-85q70d-in?variant=45378286289067",
-        "in_stock": false,
-        "old_price": 795800
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:51.370482+00:00",
-    "id": 363,
+    "id": 358,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6828,7 +7026,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371457+00:00",
-    "id": 364,
+    "id": 359,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6847,7 +7045,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375568+00:00",
-    "id": 365,
+    "id": 360,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6866,7 +7064,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371503+00:00",
-    "id": 366,
+    "id": 361,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6885,7 +7083,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372915+00:00",
-    "id": 367,
+    "id": 362,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6904,7 +7102,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374452+00:00",
-    "id": 368,
+    "id": 363,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6923,7 +7121,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374408+00:00",
-    "id": 369,
+    "id": 364,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6942,7 +7140,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374362+00:00",
-    "id": 370,
+    "id": 365,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   }
 ]
