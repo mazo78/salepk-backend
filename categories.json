@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:37:35.381237+00:00",
+  "updated": "2026-10-22T22:11:36.770059+00:00",
   "categories": [
     {
       "slug": "mobiles",
@@ -195,7 +195,9 @@
       "count": 17,
       "min_price": 24000,
       "stores": [
-        "Czone"
+        "Czone",
+        "Shophive",
+        "TeleX"
       ],
       "subcategories": [
         {
@@ -220,7 +222,8 @@
       "stores": [
         "Japan Electronics",
         "PriceOye",
-        "Shophive"
+        "Shophive",
+        "TeleX"
       ],
       "subcategories": [
         {
@@ -257,11 +260,13 @@
         "Digilog",
         "Electrobes",
         "Electronation",
+        "Electronics Hub",
         "Epro",
         "Hall Road Lahore",
         "PriceOye",
         "Robochacha",
         "Robostan",
+        "TeleX",
         "W11stop"
       ],
       "subcategories": [
@@ -469,6 +474,7 @@
       "count": 842,
       "min_price": 120,
       "stores": [
+        "Bagallery",
         "Cozmetica",
         "D Watson Cosmetics"
       ],
@@ -513,6 +519,7 @@
       "count": 153,
       "min_price": 2500,
       "stores": [
+        "SolarShop",
         "W11stop"
       ],
       "subcategories": [
