@@ -13,7 +13,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.652783+00:00",
+    "last_updated": "2026-10-22T12:01:06.622943+00:00",
     "id": 1,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -31,7 +31,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.667585+00:00",
+    "last_updated": "2026-10-22T12:01:06.631666+00:00",
     "id": 2,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -49,7 +49,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.677655+00:00",
+    "last_updated": "2026-10-22T12:01:06.636641+00:00",
     "id": 3,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -67,7 +67,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.687807+00:00",
+    "last_updated": "2026-10-22T12:01:06.641546+00:00",
     "id": 4,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -85,7 +85,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.697608+00:00",
+    "last_updated": "2026-10-22T12:01:06.648382+00:00",
     "id": 5,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -103,7 +103,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.707596+00:00",
+    "last_updated": "2026-10-22T12:01:06.653267+00:00",
     "id": 6,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -121,7 +121,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.718900+00:00",
+    "last_updated": "2026-10-22T12:01:06.657939+00:00",
     "id": 7,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -139,7 +139,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.730868+00:00",
+    "last_updated": "2026-10-22T12:01:06.663330+00:00",
     "id": 8,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -158,7 +158,7 @@
         "old_price": 39000
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.745391+00:00",
+    "last_updated": "2026-10-22T12:01:06.668069+00:00",
     "id": 9,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -176,7 +176,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.755948+00:00",
+    "last_updated": "2026-10-22T12:01:06.672952+00:00",
     "id": 10,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -194,7 +194,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.766494+00:00",
+    "last_updated": "2026-10-22T12:01:06.679063+00:00",
     "id": 11,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -212,7 +212,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:18.779553+00:00",
+    "last_updated": "2026-10-22T12:01:06.683878+00:00",
     "id": 12,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -225,12 +225,12 @@
     "prices": [
       {
         "store": "Czone",
-        "price": 38000,
+        "price": 36800,
         "url": "https://www.czone.com.pk/aoc-24g50z2-fast-ips-fhd-260hz-gaming-monitor",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:23.255101+00:00",
+    "last_updated": "2026-10-22T12:01:11.042534+00:00",
     "id": 13,
     "first_seen": "2026-10-18T13:48:27.574024+00:00"
   },
@@ -248,7 +248,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:28.053312+00:00",
+    "last_updated": "2026-10-22T12:01:15.349389+00:00",
     "id": 14,
     "first_seen": "2026-10-22T05:06:23.819342+00:00"
   },
@@ -266,9 +266,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T04:23:32.791187+00:00",
+    "last_updated": "2026-10-22T12:01:19.722352+00:00",
     "id": 15,
     "first_seen": "2026-10-22T05:06:23.819342+00:00"
+  },
+  {
+    "title": "ASUS ROG Strix XG259CS Gaming Monitor 24.5 Inch 1080P, HDR, 180Hz, 1ms, Fast IPS, ELMB Sync, USB-C, G-SYNC Compatible",
+    "brand": "",
+    "category": "monitors",
+    "subcategory": "gaming",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-38-1540-19296-260925010652-87161-2462250-021025025059.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 43000,
+        "url": "https://www.czone.com.pk/lcd-led-monitors-asus-asus-rog-strix-xg259cs-gaming-monitor-24-5-inch-1080p-hdr-180hz-1ms-fast-ips-elmb-sync-usb-c-g-sync-compatible-pakistan-p.19296.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T12:01:24.063843+00:00",
+    "id": 16,
+    "first_seen": "2026-10-22T12:31:57.579181+00:00"
   },
   {
     "title": "ViewSonic VX24G30-W 24\" FHD 240Hz IPS Gaming Monitor, 0.8ms MPRT, HDR10, NVIDIA G-Sync Compatible, 2x HDMI 2.1 And DisplayPort, White",
@@ -285,7 +303,7 @@
       }
     ],
     "last_updated": "2026-10-22T04:23:38.118065+00:00",
-    "id": 16,
+    "id": 17,
     "first_seen": "2026-10-22T05:06:23.819342+00:00"
   }
 ]
