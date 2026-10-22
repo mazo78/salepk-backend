@@ -1,23 +1,5 @@
 [
   {
-    "title": "OKTRA 19 Inch Premium HD LED TV (K568-19)",
-    "brand": "Oktra",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/oktra-19-inch-hd-led-tv-pakistan-priceoye-01apn-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 10499,
-        "url": "https://priceoye.pk/led-tv/oktra/oktra-19-inch-premium-hd-led-tv-k568-19",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.151371+00:00",
-    "id": 1,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
     "title": "Samsung 20 Inch HD LED TV (20J4003)",
     "brand": "Samsung",
     "category": "tvs",
@@ -31,8 +13,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.344156+00:00",
-    "id": 2,
+    "last_updated": "2026-10-22T17:32:31.741993+00:00",
+    "id": 1,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -49,8 +31,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.522198+00:00",
-    "id": 3,
+    "last_updated": "2026-10-22T17:32:31.705738+00:00",
+    "id": 2,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -67,8 +49,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.528815+00:00",
-    "id": 4,
+    "last_updated": "2026-10-22T17:32:20.188364+00:00",
+    "id": 3,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -85,8 +67,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.302313+00:00",
-    "id": 5,
+    "last_updated": "2026-10-22T17:32:31.729572+00:00",
+    "id": 4,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -103,8 +85,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.370844+00:00",
-    "id": 6,
+    "last_updated": "2026-10-22T17:32:23.907946+00:00",
+    "id": 5,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -121,27 +103,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.417731+00:00",
-    "id": 7,
+    "last_updated": "2026-10-22T17:32:23.915269+00:00",
+    "id": 6,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "OKTRA 24 Inch Premium HD LED TV (K568-24)",
-    "brand": "Oktra",
-    "category": "tvs",
-    "subcategory": "led",
-    "image": "https://images.priceoye.pk/oktra-24-inch-premium-hd-led-tv-ok568-24-pakistan-priceoye-w68fr-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 29499,
-        "url": "https://priceoye.pk/led-tv/oktra/oktra-24-inch-premium-hd-led-tv-k568-24",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.162062+00:00",
-    "id": 8,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "EcoStar 40 Inch LED TV (CX40U545)",
@@ -157,8 +121,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.309664+00:00",
-    "id": 9,
+    "last_updated": "2026-10-22T17:32:31.749750+00:00",
+    "id": 7,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -175,8 +139,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.476135+00:00",
-    "id": 10,
+    "last_updated": "2026-10-22T17:32:20.139753+00:00",
+    "id": 8,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -193,9 +157,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.482487+00:00",
-    "id": 11,
+    "last_updated": "2026-10-22T17:32:31.755333+00:00",
+    "id": 9,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Changhong Ruba 32 Inch Smart LED TV (32F5800i)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://images.priceoye.pk/changhong-ruba-32-inch-led32f5800i-pakistan-priceoye-1u65f-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 32200,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-smart-led-tv-32f5800i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:20.179601+00:00",
+    "id": 10,
+    "first_seen": "2026-10-22T16:07:45.705214+00:00"
   },
   {
     "title": "Orient 40 Inch Jaguar FHD LED TV",
@@ -211,27 +193,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.451915+00:00",
-    "id": 12,
+    "last_updated": "2026-10-22T17:32:31.788085+00:00",
+    "id": 11,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
-    "title": "Hisense 40 Inch HD LED TV (40N2173)",
-    "brand": "Hisense",
+    "title": "EcoStar 32 Inch Sound Pro LED TV(CX32U575)",
+    "brand": "Ecostar",
     "category": "tvs",
     "subcategory": "led",
-    "image": "https://images.priceoye.pk/hisense-40-inch-hd-led-tv-40n2173-pakistan-priceoye-4aodp-270x270.webp",
+    "image": "https://images.priceoye.pk/ecostar-32-inch-sound-pro-led-tv-cx32u575-pakistan-priceoye-fda0r-270x270.webp",
     "prices": [
       {
         "store": "PriceOye",
-        "price": 35990,
-        "url": "https://priceoye.pk/led-tv/hisense/hisense-40-inch-hd-led-tv-40n2173",
+        "price": 35500,
+        "url": "https://priceoye.pk/led-tv/ecostar/ecostar-32-inch-sound-pro-led-tv-cx32u575",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.270196+00:00",
-    "id": 13,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
+    "last_updated": "2026-10-22T17:32:31.700371+00:00",
+    "id": 12,
+    "first_seen": "2026-10-22T16:07:45.705214+00:00"
   },
   {
     "title": "Dawlance LED TV 32 Inch E3A-HD",
@@ -255,8 +237,8 @@
         "old_price": 45800
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.862402+00:00",
-    "id": 14,
+    "last_updated": "2026-10-22T18:59:10.398792+00:00",
+    "id": 13,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -273,8 +255,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.713879+00:00",
-    "id": 15,
+    "last_updated": "2026-10-22T17:32:20.345792+00:00",
+    "id": 14,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -291,8 +273,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.294300+00:00",
-    "id": 16,
+    "last_updated": "2026-10-22T17:32:23.872809+00:00",
+    "id": 15,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -309,8 +291,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.086351+00:00",
-    "id": 17,
+    "last_updated": "2026-10-22T18:59:10.587226+00:00",
+    "id": 16,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -327,27 +309,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.707105+00:00",
-    "id": 18,
+    "last_updated": "2026-10-22T17:32:31.724213+00:00",
+    "id": 17,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "MULTYNET 32 Inch Androidtv (32NX7)",
-    "brand": "Multynet",
-    "category": "tvs",
-    "subcategory": "other",
-    "image": "https://images.priceoye.pk/multynet-32-inch-androidtv-32nx7-pakistan-priceoye-ixaum-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 39900,
-        "url": "https://priceoye.pk/led-tv/multynet/multynet-32-inch-androidtv-32nx7",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.167747+00:00",
-    "id": 19,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Haier 32 Inch Smart HD LED TV (LE32K6600G)",
@@ -363,8 +327,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.521540+00:00",
-    "id": 20,
+    "last_updated": "2026-10-22T17:32:31.767251+00:00",
+    "id": 18,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -381,26 +345,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.428385+00:00",
-    "id": 21,
-    "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Sony 32 Inch HD Smart LED TV (32W600D)",
-    "brand": "Sony",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/sony-32-inch-hd-32w600d-s-pakistan-priceoye-yiixe-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 40500,
-        "url": "https://priceoye.pk/led-tv/sony/sony-32-inch-hd-32w600d-s",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:10:54.489571+00:00",
-    "id": 22,
+    "last_updated": "2026-10-22T17:32:23.922106+00:00",
+    "id": 19,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -417,8 +363,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.594656+00:00",
-    "id": 23,
+    "last_updated": "2026-10-22T19:03:27.742910+00:00",
+    "id": 20,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -435,8 +381,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.277902+00:00",
-    "id": 24,
+    "last_updated": "2026-10-22T17:32:23.856799+00:00",
+    "id": 21,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -453,8 +399,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.364183+00:00",
-    "id": 25,
+    "last_updated": "2026-10-22T19:03:20.815774+00:00",
+    "id": 22,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -471,8 +417,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.537592+00:00",
-    "id": 26,
+    "last_updated": "2026-10-22T17:32:20.197084+00:00",
+    "id": 23,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -498,7 +444,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376116+00:00",
-    "id": 27,
+    "id": 24,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -515,8 +461,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.017428+00:00",
-    "id": 28,
+    "last_updated": "2026-10-22T18:59:10.528860+00:00",
+    "id": 25,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -533,9 +479,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.557868+00:00",
-    "id": 29,
+    "last_updated": "2026-10-22T19:03:27.716455+00:00",
+    "id": 26,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL 40 Inch HD LED TV (D3000)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://images.priceoye.pk/tcl-40-inch-hd-led-tv-d3000-pakistan-priceoye-9ro6m-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 46289,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-40-inch-hd-led-tv-d3000",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:31.772261+00:00",
+    "id": 27,
+    "first_seen": "2026-10-22T16:07:45.705214+00:00"
   },
   {
     "title": "Hisense 43 Inch FHD Smart LED TV (43N2179)",
@@ -551,8 +515,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.261787+00:00",
-    "id": 30,
+    "last_updated": "2026-10-22T17:32:20.390474+00:00",
+    "id": 28,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -569,9 +533,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.477525+00:00",
-    "id": 31,
+    "last_updated": "2026-10-22T17:32:23.948511+00:00",
+    "id": 29,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Changhong Ruba 32 Inch FHD LED TV (L32H7KI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://images.priceoye.pk/changhong-ruba-32-inch-hd-led-tv-l32h7ki-pakistan-priceoye-162kq-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 48999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-32-inch-hd-led-tv-l32h7ki",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.015740+00:00",
+    "id": 30,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Hisense LED 32\" 32A4N (FHD Google TV)",
@@ -595,8 +577,8 @@
         "old_price": 52600
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.903986+00:00",
-    "id": 32,
+    "last_updated": "2026-10-22T18:59:10.436992+00:00",
+    "id": 31,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -615,25 +597,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373808+00:00",
-    "id": 33,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "OKTRA 40 Inch Smart HD LED TV (K569S-40)",
-    "brand": "Oktra",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/oktra-40-inch-smart-hd-led-tv-k569s-40-pakistan-priceoye-h6p8b-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 50000,
-        "url": "https://priceoye.pk/led-tv/oktra/oktra-40-inch-smart-hd-led-tv-k569s-40",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.172948+00:00",
-    "id": 34,
+    "id": 32,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -650,8 +614,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.648950+00:00",
-    "id": 35,
+    "last_updated": "2026-10-22T19:03:27.776468+00:00",
+    "id": 33,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -676,8 +640,8 @@
         "old_price": 59000
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.599043+00:00",
-    "id": 36,
+    "last_updated": "2026-10-22T19:01:42.145056+00:00",
+    "id": 34,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -701,8 +665,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.882270+00:00",
-    "id": 37,
+    "last_updated": "2026-10-22T18:59:10.416850+00:00",
+    "id": 35,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -721,7 +685,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375199+00:00",
-    "id": 38,
+    "id": 36,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -738,8 +702,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.276608+00:00",
-    "id": 39,
+    "last_updated": "2026-10-22T19:03:20.737592+00:00",
+    "id": 37,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -756,8 +720,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.667997+00:00",
-    "id": 40,
+    "last_updated": "2026-10-22T17:32:20.308379+00:00",
+    "id": 38,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -781,8 +745,8 @@
         "old_price": 64300
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.946250+00:00",
-    "id": 41,
+    "last_updated": "2026-10-22T18:59:10.471845+00:00",
+    "id": 39,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -799,8 +763,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.744248+00:00",
-    "id": 42,
+    "last_updated": "2026-10-22T17:32:20.383662+00:00",
+    "id": 40,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -817,8 +781,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.339535+00:00",
-    "id": 43,
+    "last_updated": "2026-10-22T17:32:27.968878+00:00",
+    "id": 41,
     "first_seen": "2026-10-22T12:31:55.972899+00:00"
   },
   {
@@ -835,8 +799,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.569429+00:00",
-    "id": 44,
+    "last_updated": "2026-10-22T19:03:27.725658+00:00",
+    "id": 42,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -853,27 +817,9 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.502687+00:00",
-    "id": 45,
+    "last_updated": "2026-10-22T17:32:20.155079+00:00",
+    "id": 43,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
-  },
-  {
-    "title": "Aiwa 43 Inch 4K Android Smart TV",
-    "brand": "Aiwa",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/aiwa-43-inch-4k-android-smart-tv-z-series-pakistan-priceoye-q3c91-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 56999,
-        "url": "https://priceoye.pk/led-tv/aiwa/aiwa-43-inch-4k-android-smart-tv",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.177998+00:00",
-    "id": 46,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
     "title": "Hisense 43 Inch 4K UHD Smart LED TV (43A6100)",
@@ -889,8 +835,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.286683+00:00",
-    "id": 47,
+    "last_updated": "2026-10-22T17:32:23.865797+00:00",
+    "id": 44,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -916,7 +862,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376147+00:00",
-    "id": 48,
+    "id": 45,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -933,8 +879,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.003118+00:00",
-    "id": 49,
+    "last_updated": "2026-10-22T18:59:10.519259+00:00",
+    "id": 46,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -951,8 +897,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.374346+00:00",
-    "id": 50,
+    "last_updated": "2026-10-22T19:03:20.824034+00:00",
+    "id": 47,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -969,8 +915,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.620160+00:00",
-    "id": 51,
+    "last_updated": "2026-10-22T17:32:20.256071+00:00",
+    "id": 48,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -988,8 +934,8 @@
         "old_price": 67299
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.699286+00:00",
-    "id": 52,
+    "last_updated": "2026-10-22T19:03:24.349289+00:00",
+    "id": 49,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1006,8 +952,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.317871+00:00",
-    "id": 53,
+    "last_updated": "2026-10-22T17:32:23.880028+00:00",
+    "id": 50,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1032,8 +978,8 @@
         "old_price": 67400
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.172913+00:00",
-    "id": 54,
+    "last_updated": "2026-10-22T19:03:08.738779+00:00",
+    "id": 51,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1051,8 +997,8 @@
         "old_price": 69999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.817679+00:00",
-    "id": 55,
+    "last_updated": "2026-10-22T19:03:31.306182+00:00",
+    "id": 52,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1077,8 +1023,8 @@
         "old_price": 68400
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.183994+00:00",
-    "id": 56,
+    "last_updated": "2026-10-22T19:03:08.747428+00:00",
+    "id": 53,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1102,8 +1048,8 @@
         "old_price": 77900
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.951651+00:00",
-    "id": 57,
+    "last_updated": "2026-10-22T18:59:10.476645+00:00",
+    "id": 54,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1120,8 +1066,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.491373+00:00",
-    "id": 58,
+    "last_updated": "2026-10-22T17:32:28.069454+00:00",
+    "id": 55,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1138,9 +1084,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.530555+00:00",
-    "id": 59,
+    "last_updated": "2026-10-22T19:03:24.271688+00:00",
+    "id": 56,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL 49 Inch FHD Smart LED TV (L49S6500)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://images.priceoye.pk/tcl-series-s-49-inch-full-hd-smart-led-tv-l49s6500-pakistan-priceoye-r0rro-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 65499,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-49-inch-full-hd-smart-led-tv-l49s6500",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:20.115252+00:00",
+    "id": 57,
+    "first_seen": "2026-10-22T16:07:45.705214+00:00"
   },
   {
     "title": "Hisense LED 40\" 40A4Q (FHD Google TV)",
@@ -1158,7 +1122,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375680+00:00",
-    "id": 60,
+    "id": 58,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1184,7 +1148,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376432+00:00",
-    "id": 61,
+    "id": 59,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1201,8 +1165,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:06.156765+00:00",
-    "id": 62,
+    "last_updated": "2026-10-22T17:32:31.713052+00:00",
+    "id": 60,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1226,8 +1190,8 @@
         "old_price": 79900
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.027362+00:00",
-    "id": 63,
+    "last_updated": "2026-10-22T18:59:10.533835+00:00",
+    "id": 61,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1244,9 +1208,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.055842+00:00",
-    "id": 64,
+    "last_updated": "2026-10-22T18:59:10.558178+00:00",
+    "id": 62,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Changhong Ruba 40 Inch HD LED TV (L40H7Ni)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "led",
+    "image": "https://images.priceoye.pk/changhong-ruba-40-inch-hd-led-tv-l40h7ni-pakistan-priceoye-m8zfa-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 69999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-40-inch-hd-led-tv-l40h7ni",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.034463+00:00",
+    "id": 63,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "EcoStar CX-43Q873 43 Inches QLED Smart LED TV",
@@ -1262,8 +1244,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.383914+00:00",
-    "id": 65,
+    "last_updated": "2026-10-22T19:03:20.832396+00:00",
+    "id": 64,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1287,8 +1269,8 @@
         "old_price": 86300
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.050324+00:00",
-    "id": 66,
+    "last_updated": "2026-10-22T18:59:10.553305+00:00",
+    "id": 65,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1305,8 +1287,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.320816+00:00",
-    "id": 67,
+    "last_updated": "2026-10-22T19:03:20.781122+00:00",
+    "id": 66,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1323,8 +1305,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.334630+00:00",
-    "id": 68,
+    "last_updated": "2026-10-22T17:32:23.894238+00:00",
+    "id": 67,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1341,8 +1323,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.691357+00:00",
-    "id": 69,
+    "last_updated": "2026-10-22T17:32:20.330889+00:00",
+    "id": 68,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1359,8 +1341,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.486513+00:00",
-    "id": 70,
+    "last_updated": "2026-10-22T17:32:23.954564+00:00",
+    "id": 69,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1377,8 +1359,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.541848+00:00",
-    "id": 71,
+    "last_updated": "2026-10-22T17:32:23.972916+00:00",
+    "id": 70,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1396,8 +1378,8 @@
         "old_price": 84200
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.873235+00:00",
-    "id": 72,
+    "last_updated": "2026-10-22T18:59:10.407245+00:00",
+    "id": 71,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -1414,8 +1396,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.660602+00:00",
-    "id": 73,
+    "last_updated": "2026-10-22T17:32:20.300860+00:00",
+    "id": 72,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1434,7 +1416,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374249+00:00",
-    "id": 74,
+    "id": 73,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1451,8 +1433,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.509161+00:00",
-    "id": 75,
+    "last_updated": "2026-10-22T17:32:20.163508+00:00",
+    "id": 74,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1477,8 +1459,8 @@
         "old_price": 86400
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.611879+00:00",
-    "id": 76,
+    "last_updated": "2026-10-22T19:01:42.158665+00:00",
+    "id": 75,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1495,8 +1477,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.594682+00:00",
-    "id": 77,
+    "last_updated": "2026-10-22T17:32:20.233643+00:00",
+    "id": 76,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1520,8 +1502,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.096898+00:00",
-    "id": 78,
+    "last_updated": "2026-10-22T18:59:10.597588+00:00",
+    "id": 77,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1538,8 +1520,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.736805+00:00",
-    "id": 79,
+    "last_updated": "2026-10-22T17:32:20.375875+00:00",
+    "id": 78,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1564,26 +1546,8 @@
         "old_price": 88500
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.620556+00:00",
-    "id": 80,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Aiwa 50 inch 4k led flat smart tv",
-    "brand": "Aiwa",
-    "category": "tvs",
-    "subcategory": "4k-smart",
-    "image": "https://images.priceoye.pk/aiwa-50-inch-4k-led-flat-smart-tv-pakistan-priceoye-kngeb-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 78999,
-        "url": "https://priceoye.pk/led-tv/aiwa/aiwa-50-inch-4k-led-flat-smart-tv",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.183422+00:00",
-    "id": 81,
+    "last_updated": "2026-10-22T19:01:42.173511+00:00",
+    "id": 79,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1600,8 +1564,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.401014+00:00",
-    "id": 82,
+    "last_updated": "2026-10-22T17:32:31.761054+00:00",
+    "id": 80,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1626,8 +1590,8 @@
         "old_price": 116400
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.178312+00:00",
-    "id": 83,
+    "last_updated": "2026-10-22T19:03:08.743209+00:00",
+    "id": 81,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1644,8 +1608,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.234534+00:00",
-    "id": 84,
+    "last_updated": "2026-10-22T17:32:27.918374+00:00",
+    "id": 82,
     "first_seen": "2026-10-22T12:31:55.972899+00:00"
   },
   {
@@ -1662,8 +1626,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.901755+00:00",
-    "id": 85,
+    "last_updated": "2026-10-22T19:03:34.821241+00:00",
+    "id": 83,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1689,7 +1653,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376178+00:00",
-    "id": 86,
+    "id": 84,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1706,8 +1670,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.284966+00:00",
-    "id": 87,
+    "last_updated": "2026-10-22T19:03:20.745718+00:00",
+    "id": 85,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1724,8 +1688,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.442686+00:00",
-    "id": 88,
+    "last_updated": "2026-10-22T17:32:23.929294+00:00",
+    "id": 86,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1742,8 +1706,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.394086+00:00",
-    "id": 89,
+    "last_updated": "2026-10-22T19:03:20.840663+00:00",
+    "id": 87,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1760,8 +1724,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.380556+00:00",
-    "id": 90,
+    "last_updated": "2026-10-22T17:32:31.718751+00:00",
+    "id": 88,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1786,8 +1750,8 @@
         "old_price": 95800
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.624799+00:00",
-    "id": 91,
+    "last_updated": "2026-10-22T19:01:42.179064+00:00",
+    "id": 89,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1804,8 +1768,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.331698+00:00",
-    "id": 92,
+    "last_updated": "2026-10-22T19:03:20.790844+00:00",
+    "id": 90,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1824,7 +1788,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375978+00:00",
-    "id": 93,
+    "id": 91,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1843,7 +1807,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375362+00:00",
-    "id": 94,
+    "id": 92,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1860,8 +1824,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.549648+00:00",
-    "id": 95,
+    "last_updated": "2026-10-22T17:32:20.205452+00:00",
+    "id": 93,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1880,7 +1844,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376464+00:00",
-    "id": 96,
+    "id": 94,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1897,8 +1861,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.499669+00:00",
-    "id": 97,
+    "last_updated": "2026-10-22T17:32:31.781406+00:00",
+    "id": 95,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1917,7 +1881,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374948+00:00",
-    "id": 98,
+    "id": 96,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1936,7 +1900,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375449+00:00",
-    "id": 99,
+    "id": 97,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1953,8 +1917,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.515545+00:00",
-    "id": 100,
+    "last_updated": "2026-10-22T17:32:20.171602+00:00",
+    "id": 98,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -1978,8 +1942,8 @@
         "old_price": 100000
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.867110+00:00",
-    "id": 101,
+    "last_updated": "2026-10-22T18:59:10.402871+00:00",
+    "id": 99,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -1996,8 +1960,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.550234+00:00",
-    "id": 102,
+    "last_updated": "2026-10-22T17:32:23.978983+00:00",
+    "id": 100,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2022,8 +1986,8 @@
         "old_price": 118500
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.855908+00:00",
-    "id": 103,
+    "last_updated": "2026-10-22T18:59:10.394473+00:00",
+    "id": 101,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2040,8 +2004,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.654224+00:00",
-    "id": 104,
+    "last_updated": "2026-10-22T19:03:24.322233+00:00",
+    "id": 102,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2065,8 +2029,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.850298+00:00",
-    "id": 105,
+    "last_updated": "2026-10-22T18:59:10.390120+00:00",
+    "id": 103,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2091,8 +2055,8 @@
         "old_price": 101000
       }
     ],
-    "last_updated": "2026-10-22T12:07:42.379474+00:00",
-    "id": 106,
+    "last_updated": "2026-10-22T19:02:58.054798+00:00",
+    "id": 104,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2111,7 +2075,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371746+00:00",
-    "id": 107,
+    "id": 105,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2136,26 +2100,8 @@
         "old_price": 104200
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.188706+00:00",
-    "id": 108,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense 50 Inch Smart LED TV(A7400F)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/hisense-50-inch-smart-led-tv-a7400f-pakistan-priceoye-7b9fh-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 92900,
-        "url": "https://priceoye.pk/led-tv/hisense/hisense-50-inch-smart-led-tv-a7400f",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.193576+00:00",
-    "id": 109,
+    "last_updated": "2026-10-22T19:03:08.751979+00:00",
+    "id": 106,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2174,7 +2120,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374308+00:00",
-    "id": 110,
+    "id": 107,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2191,8 +2137,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.469084+00:00",
-    "id": 111,
+    "last_updated": "2026-10-22T17:32:20.131237+00:00",
+    "id": 108,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2210,8 +2156,8 @@
         "old_price": 98999
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.609811+00:00",
-    "id": 112,
+    "last_updated": "2026-10-22T19:03:24.304982+00:00",
+    "id": 109,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2236,8 +2182,8 @@
         "old_price": 110500
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.616330+00:00",
-    "id": 113,
+    "last_updated": "2026-10-22T19:01:42.162803+00:00",
+    "id": 110,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2254,8 +2200,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.326175+00:00",
-    "id": 114,
+    "last_updated": "2026-10-22T17:32:23.887019+00:00",
+    "id": 111,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2272,8 +2218,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.571268+00:00",
-    "id": 115,
+    "last_updated": "2026-10-22T19:03:24.279822+00:00",
+    "id": 112,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2291,8 +2237,8 @@
         "old_price": 104999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.805837+00:00",
-    "id": 116,
+    "last_updated": "2026-10-22T19:03:31.297867+00:00",
+    "id": 113,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2309,8 +2255,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.675760+00:00",
-    "id": 117,
+    "last_updated": "2026-10-22T17:32:20.315683+00:00",
+    "id": 114,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2327,8 +2273,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.712204+00:00",
-    "id": 118,
+    "last_updated": "2026-10-22T19:03:24.358940+00:00",
+    "id": 115,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2347,7 +2293,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371597+00:00",
-    "id": 119,
+    "id": 116,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2365,8 +2311,8 @@
         "old_price": 103999
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.630408+00:00",
-    "id": 120,
+    "last_updated": "2026-10-22T19:03:24.313407+00:00",
+    "id": 117,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2385,7 +2331,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375727+00:00",
-    "id": 121,
+    "id": 118,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2404,7 +2350,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374038+00:00",
-    "id": 122,
+    "id": 119,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2421,8 +2367,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.613100+00:00",
-    "id": 123,
+    "last_updated": "2026-10-22T17:32:20.248809+00:00",
+    "id": 120,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2439,8 +2385,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.579406+00:00",
-    "id": 124,
+    "last_updated": "2026-10-22T17:32:20.221066+00:00",
+    "id": 121,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2465,8 +2411,8 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.248229+00:00",
-    "id": 125,
+    "last_updated": "2026-10-22T19:03:08.773282+00:00",
+    "id": 122,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2490,8 +2436,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.034399+00:00",
-    "id": 126,
+    "last_updated": "2026-10-22T18:59:10.538533+00:00",
+    "id": 123,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2508,8 +2454,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.496020+00:00",
-    "id": 127,
+    "last_updated": "2026-10-22T17:32:20.147181+00:00",
+    "id": 124,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2526,8 +2472,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.258556+00:00",
-    "id": 128,
+    "last_updated": "2026-10-22T17:32:27.937516+00:00",
+    "id": 125,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2545,8 +2491,8 @@
         "old_price": 106499
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.782633+00:00",
-    "id": 129,
+    "last_updated": "2026-10-22T19:03:27.819636+00:00",
+    "id": 126,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2571,8 +2517,8 @@
         "old_price": 112600
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.623314+00:00",
-    "id": 130,
+    "last_updated": "2026-10-22T18:59:21.085224+00:00",
+    "id": 127,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2591,7 +2537,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376210+00:00",
-    "id": 131,
+    "id": 128,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2616,8 +2562,8 @@
         "old_price": 129000
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.691900+00:00",
-    "id": 132,
+    "last_updated": "2026-10-22T18:59:21.121003+00:00",
+    "id": 129,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2634,8 +2580,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.226383+00:00",
-    "id": 133,
+    "last_updated": "2026-10-22T17:32:27.910033+00:00",
+    "id": 130,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2652,8 +2598,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.729641+00:00",
-    "id": 134,
+    "last_updated": "2026-10-22T17:32:20.368747+00:00",
+    "id": 131,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2670,8 +2616,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.404967+00:00",
-    "id": 135,
+    "last_updated": "2026-10-22T19:03:20.850147+00:00",
+    "id": 132,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2689,8 +2635,8 @@
         "old_price": 131999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.875299+00:00",
-    "id": 136,
+    "last_updated": "2026-10-22T19:03:34.795560+00:00",
+    "id": 133,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2709,7 +2655,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373987+00:00",
-    "id": 137,
+    "id": 134,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2727,8 +2673,8 @@
         "old_price": 127300
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.895316+00:00",
-    "id": 138,
+    "last_updated": "2026-10-22T18:59:10.428745+00:00",
+    "id": 135,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -2747,7 +2693,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368351+00:00",
-    "id": 139,
+    "id": 136,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2764,8 +2710,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.956498+00:00",
-    "id": 140,
+    "last_updated": "2026-10-22T18:59:10.481638+00:00",
+    "id": 137,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2782,8 +2728,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.278676+00:00",
-    "id": 141,
+    "last_updated": "2026-10-22T17:32:27.948585+00:00",
+    "id": 138,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -2808,8 +2754,8 @@
         "old_price": 127900
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.702772+00:00",
-    "id": 142,
+    "last_updated": "2026-10-22T18:59:21.130476+00:00",
+    "id": 139,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2833,8 +2779,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.040401+00:00",
-    "id": 143,
+    "last_updated": "2026-10-22T18:59:10.543309+00:00",
+    "id": 140,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2851,8 +2797,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.342832+00:00",
-    "id": 144,
+    "last_updated": "2026-10-22T19:03:20.799022+00:00",
+    "id": 141,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2870,8 +2816,8 @@
         "old_price": 114999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.749000+00:00",
-    "id": 145,
+    "last_updated": "2026-10-22T19:03:31.246993+00:00",
+    "id": 142,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2888,8 +2834,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.060920+00:00",
-    "id": 146,
+    "last_updated": "2026-10-22T18:59:10.563120+00:00",
+    "id": 143,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2914,8 +2860,8 @@
         "old_price": 156400
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.195192+00:00",
-    "id": 147,
+    "last_updated": "2026-10-22T19:03:08.756413+00:00",
+    "id": 144,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2940,8 +2886,8 @@
         "old_price": 126300
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.635132+00:00",
-    "id": 148,
+    "last_updated": "2026-10-22T19:01:42.189598+00:00",
+    "id": 145,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2960,7 +2906,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372425+00:00",
-    "id": 149,
+    "id": 146,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -2985,8 +2931,8 @@
         "old_price": 124300
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.899500+00:00",
-    "id": 150,
+    "last_updated": "2026-10-22T18:59:10.433106+00:00",
+    "id": 147,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3004,8 +2950,8 @@
         "old_price": 142200
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.653936+00:00",
-    "id": 151,
+    "last_updated": "2026-10-22T18:59:21.107674+00:00",
+    "id": 148,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -3022,8 +2968,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.637203+00:00",
-    "id": 152,
+    "last_updated": "2026-10-22T19:03:27.768077+00:00",
+    "id": 149,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3042,7 +2988,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375145+00:00",
-    "id": 153,
+    "id": 150,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3059,8 +3005,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.010274+00:00",
-    "id": 154,
+    "last_updated": "2026-10-22T18:59:10.524115+00:00",
+    "id": 151,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3077,8 +3023,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.460260+00:00",
-    "id": 155,
+    "last_updated": "2026-10-22T17:32:23.935925+00:00",
+    "id": 152,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3095,8 +3041,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.583246+00:00",
-    "id": 156,
+    "last_updated": "2026-10-22T19:03:24.288308+00:00",
+    "id": 153,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3115,7 +3061,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374090+00:00",
-    "id": 157,
+    "id": 154,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3132,8 +3078,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.580898+00:00",
-    "id": 158,
+    "last_updated": "2026-10-22T19:03:27.734354+00:00",
+    "id": 155,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3150,8 +3096,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.249900+00:00",
-    "id": 159,
+    "last_updated": "2026-10-22T17:32:27.931205+00:00",
+    "id": 156,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3170,7 +3116,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375418+00:00",
-    "id": 160,
+    "id": 157,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3187,8 +3133,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.417130+00:00",
-    "id": 161,
+    "last_updated": "2026-10-22T19:03:20.860094+00:00",
+    "id": 158,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3206,8 +3152,8 @@
         "old_price": 127499
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.794829+00:00",
-    "id": 162,
+    "last_updated": "2026-10-22T19:03:27.828283+00:00",
+    "id": 159,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3226,7 +3172,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376243+00:00",
-    "id": 163,
+    "id": 160,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3245,7 +3191,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372958+00:00",
-    "id": 164,
+    "id": 161,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3262,8 +3208,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.242159+00:00",
-    "id": 165,
+    "last_updated": "2026-10-22T17:32:27.925053+00:00",
+    "id": 162,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3280,8 +3226,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.878798+00:00",
-    "id": 166,
+    "last_updated": "2026-10-22T19:03:31.341781+00:00",
+    "id": 163,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3305,8 +3251,8 @@
         "old_price": 147300
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.886936+00:00",
-    "id": 167,
+    "last_updated": "2026-10-22T18:59:10.420732+00:00",
+    "id": 164,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3325,7 +3271,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375480+00:00",
-    "id": 168,
+    "id": 165,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3344,7 +3290,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.370275+00:00",
-    "id": 169,
+    "id": 166,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3363,7 +3309,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375622+00:00",
-    "id": 170,
+    "id": 167,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3380,8 +3326,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.532075+00:00",
-    "id": 171,
+    "last_updated": "2026-10-22T17:32:23.966694+00:00",
+    "id": 168,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3398,8 +3344,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.387932+00:00",
-    "id": 172,
+    "last_updated": "2026-10-22T17:32:27.990911+00:00",
+    "id": 169,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3416,8 +3362,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.721586+00:00",
-    "id": 173,
+    "last_updated": "2026-10-22T17:32:20.361321+00:00",
+    "id": 170,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3442,8 +3388,8 @@
         "old_price": 146300
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.645166+00:00",
-    "id": 174,
+    "last_updated": "2026-10-22T19:01:42.198745+00:00",
+    "id": 171,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3461,8 +3407,8 @@
         "old_price": 157800
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.877802+00:00",
-    "id": 175,
+    "last_updated": "2026-10-22T18:59:10.412350+00:00",
+    "id": 172,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -3487,8 +3433,8 @@
         "old_price": 146300
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.628015+00:00",
-    "id": 176,
+    "last_updated": "2026-10-22T18:59:21.089582+00:00",
+    "id": 173,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3505,8 +3451,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.462411+00:00",
-    "id": 177,
+    "last_updated": "2026-10-22T17:32:20.122936+00:00",
+    "id": 174,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3523,8 +3469,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.673043+00:00",
-    "id": 178,
+    "last_updated": "2026-10-22T19:03:24.331421+00:00",
+    "id": 175,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3543,7 +3489,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371909+00:00",
-    "id": 179,
+    "id": 176,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3561,8 +3507,8 @@
         "old_price": 139999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.758720+00:00",
-    "id": 180,
+    "last_updated": "2026-10-22T19:03:31.255317+00:00",
+    "id": 177,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3580,8 +3526,8 @@
         "old_price": 140999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.903543+00:00",
-    "id": 181,
+    "last_updated": "2026-10-22T19:03:31.358552+00:00",
+    "id": 178,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3600,7 +3546,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374141+00:00",
-    "id": 182,
+    "id": 179,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3617,8 +3563,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.509248+00:00",
-    "id": 183,
+    "last_updated": "2026-10-22T17:32:23.960683+00:00",
+    "id": 180,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3637,7 +3583,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372477+00:00",
-    "id": 184,
+    "id": 181,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3656,7 +3602,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375772+00:00",
-    "id": 185,
+    "id": 182,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3673,8 +3619,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.319266+00:00",
-    "id": 186,
+    "last_updated": "2026-10-22T17:32:27.962701+00:00",
+    "id": 183,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3692,8 +3638,8 @@
         "old_price": 192499
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.868385+00:00",
-    "id": 187,
+    "last_updated": "2026-10-22T19:03:31.332580+00:00",
+    "id": 184,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3711,8 +3657,8 @@
         "old_price": 148999
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.809542+00:00",
-    "id": 188,
+    "last_updated": "2026-10-22T19:03:27.836754+00:00",
+    "id": 185,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3729,8 +3675,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.558090+00:00",
-    "id": 189,
+    "last_updated": "2026-10-22T17:32:23.985131+00:00",
+    "id": 186,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3747,8 +3693,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.435604+00:00",
-    "id": 190,
+    "last_updated": "2026-10-22T17:32:28.027144+00:00",
+    "id": 187,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3767,7 +3713,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372794+00:00",
-    "id": 191,
+    "id": 188,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3784,8 +3730,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.370922+00:00",
-    "id": 192,
+    "last_updated": "2026-10-22T17:32:27.984439+00:00",
+    "id": 189,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3804,7 +3750,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376495+00:00",
-    "id": 193,
+    "id": 190,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3821,8 +3767,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.463943+00:00",
-    "id": 194,
+    "last_updated": "2026-10-22T17:32:28.049444+00:00",
+    "id": 191,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3839,8 +3785,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.605817+00:00",
-    "id": 195,
+    "last_updated": "2026-10-22T17:32:20.241383+00:00",
+    "id": 192,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -3857,8 +3803,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.606769+00:00",
-    "id": 196,
+    "last_updated": "2026-10-22T19:03:27.751512+00:00",
+    "id": 193,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3876,8 +3822,8 @@
         "old_price": 181499
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.853756+00:00",
-    "id": 197,
+    "last_updated": "2026-10-22T19:03:31.323318+00:00",
+    "id": 194,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3896,7 +3842,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375818+00:00",
-    "id": 198,
+    "id": 195,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3914,8 +3860,8 @@
         "old_price": 157999
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.597778+00:00",
-    "id": 199,
+    "last_updated": "2026-10-22T19:03:24.296491+00:00",
+    "id": 196,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3933,8 +3879,8 @@
         "old_price": 164999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.893330+00:00",
-    "id": 200,
+    "last_updated": "2026-10-22T19:03:34.812748+00:00",
+    "id": 197,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3952,8 +3898,8 @@
         "old_price": 165499
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.767629+00:00",
-    "id": 201,
+    "last_updated": "2026-10-22T19:03:31.263833+00:00",
+    "id": 198,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3972,7 +3918,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373378+00:00",
-    "id": 202,
+    "id": 199,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -3991,7 +3937,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372529+00:00",
-    "id": 203,
+    "id": 200,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4015,8 +3961,8 @@
         "old_price": 184200
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.961396+00:00",
-    "id": 204,
+    "last_updated": "2026-10-22T18:59:10.486467+00:00",
+    "id": 201,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4033,8 +3979,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.150503+00:00",
-    "id": 205,
+    "last_updated": "2026-10-22T17:32:24.059178+00:00",
+    "id": 202,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4059,8 +4005,8 @@
         "old_price": 199900
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.264282+00:00",
-    "id": 206,
+    "last_updated": "2026-10-22T19:03:08.777217+00:00",
+    "id": 203,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4077,8 +4023,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.298911+00:00",
-    "id": 207,
+    "last_updated": "2026-10-22T17:32:27.955255+00:00",
+    "id": 204,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4097,7 +4043,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371550+00:00",
-    "id": 208,
+    "id": 205,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4122,8 +4068,8 @@
         "old_price": 186600
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.207818+00:00",
-    "id": 209,
+    "last_updated": "2026-10-22T19:03:08.760527+00:00",
+    "id": 206,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4140,8 +4086,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.913450+00:00",
-    "id": 210,
+    "last_updated": "2026-10-22T18:59:10.446528+00:00",
+    "id": 207,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4158,8 +4104,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.187374+00:00",
-    "id": 211,
+    "last_updated": "2026-10-22T17:32:24.078216+00:00",
+    "id": 208,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4178,7 +4124,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373096+00:00",
-    "id": 212,
+    "id": 209,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4196,8 +4142,8 @@
         "old_price": 199999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.822106+00:00",
-    "id": 213,
+    "last_updated": "2026-10-22T19:03:34.760555+00:00",
+    "id": 210,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4214,8 +4160,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.091710+00:00",
-    "id": 214,
+    "last_updated": "2026-10-22T18:59:10.592530+00:00",
+    "id": 211,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4234,7 +4180,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376274+00:00",
-    "id": 215,
+    "id": 212,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4251,8 +4197,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.352910+00:00",
-    "id": 216,
+    "last_updated": "2026-10-22T19:03:20.807407+00:00",
+    "id": 213,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4271,7 +4217,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372999+00:00",
-    "id": 217,
+    "id": 214,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4290,7 +4236,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372331+00:00",
-    "id": 218,
+    "id": 215,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4315,8 +4261,8 @@
         "old_price": 215700
       }
     ],
-    "last_updated": "2026-10-22T12:07:42.438579+00:00",
-    "id": 219,
+    "last_updated": "2026-10-22T19:02:58.064364+00:00",
+    "id": 216,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4335,7 +4281,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374846+00:00",
-    "id": 220,
+    "id": 217,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4354,7 +4300,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374582+00:00",
-    "id": 221,
+    "id": 218,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4371,8 +4317,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.466347+00:00",
-    "id": 222,
+    "last_updated": "2026-10-22T19:03:24.246530+00:00",
+    "id": 219,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4389,8 +4335,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.292970+00:00",
-    "id": 223,
+    "last_updated": "2026-10-22T19:03:20.756166+00:00",
+    "id": 220,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4407,8 +4353,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.070699+00:00",
-    "id": 224,
+    "last_updated": "2026-10-22T18:59:10.572277+00:00",
+    "id": 221,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4427,7 +4373,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374193+00:00",
-    "id": 225,
+    "id": 222,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4446,7 +4392,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372739+00:00",
-    "id": 226,
+    "id": 223,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4463,8 +4409,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.355350+00:00",
-    "id": 227,
+    "last_updated": "2026-10-22T17:32:27.977564+00:00",
+    "id": 224,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4481,8 +4427,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.204003+00:00",
-    "id": 228,
+    "last_updated": "2026-10-22T17:32:27.885920+00:00",
+    "id": 225,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4499,8 +4445,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.698736+00:00",
-    "id": 229,
+    "last_updated": "2026-10-22T17:32:20.338697+00:00",
+    "id": 226,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4518,8 +4464,8 @@
         "old_price": 235999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.839234+00:00",
-    "id": 230,
+    "last_updated": "2026-10-22T19:03:34.768554+00:00",
+    "id": 227,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4544,8 +4490,8 @@
         "old_price": 210600
       }
     ],
-    "last_updated": "2026-10-22T12:07:42.444942+00:00",
-    "id": 231,
+    "last_updated": "2026-10-22T19:02:58.068737+00:00",
+    "id": 228,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4562,8 +4508,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.685416+00:00",
-    "id": 232,
+    "last_updated": "2026-10-22T19:03:24.339920+00:00",
+    "id": 229,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4581,8 +4527,8 @@
         "old_price": 220999
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.310083+00:00",
-    "id": 233,
+    "last_updated": "2026-10-22T19:03:20.772916+00:00",
+    "id": 230,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4607,8 +4553,8 @@
         "old_price": 232600
       }
     ],
-    "last_updated": "2026-10-22T12:07:31.630569+00:00",
-    "id": 234,
+    "last_updated": "2026-10-22T19:01:42.184176+00:00",
+    "id": 231,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4625,8 +4571,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.445311+00:00",
-    "id": 235,
+    "last_updated": "2026-10-22T17:32:28.033417+00:00",
+    "id": 232,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4644,8 +4590,8 @@
         "old_price": 215999
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.827181+00:00",
-    "id": 236,
+    "last_updated": "2026-10-22T19:03:27.845474+00:00",
+    "id": 233,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4664,8 +4610,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376370+00:00",
-    "id": 237,
+    "id": 234,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Changhong Ruba 70 Inch UHD LED TV (U70H7TI)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://images.priceoye.pk/changhong-ruba-70-inch-uhd-ips-tv-u70h7ti-pakistan-priceoye-es0p6-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 211000,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-70-inch-uhd-ips-tv-u70h7ti",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:23.991309+00:00",
+    "id": 235,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Samsung LED 55\" CY-55Q60DAUSMZ (4K + Smart)",
@@ -4689,8 +4653,8 @@
         "old_price": 226400
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.647275+00:00",
-    "id": 238,
+    "last_updated": "2026-10-22T18:59:21.102558+00:00",
+    "id": 236,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4709,7 +4673,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375873+00:00",
-    "id": 239,
+    "id": 237,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4726,8 +4690,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:14.626430+00:00",
-    "id": 240,
+    "last_updated": "2026-10-22T19:03:27.759601+00:00",
+    "id": 238,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4746,7 +4710,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376557+00:00",
-    "id": 241,
+    "id": 239,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4763,8 +4727,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.195480+00:00",
-    "id": 242,
+    "last_updated": "2026-10-22T17:32:24.085287+00:00",
+    "id": 240,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4789,8 +4753,8 @@
         "old_price": 263100
       }
     ],
-    "last_updated": "2026-10-22T12:07:42.355928+00:00",
-    "id": 243,
+    "last_updated": "2026-10-22T19:02:58.036896+00:00",
+    "id": 241,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4807,8 +4771,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.647328+00:00",
-    "id": 244,
+    "last_updated": "2026-10-22T17:32:20.285234+00:00",
+    "id": 242,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4826,8 +4790,8 @@
         "old_price": 239999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.776391+00:00",
-    "id": 245,
+    "last_updated": "2026-10-22T19:03:31.272125+00:00",
+    "id": 243,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4846,7 +4810,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374495+00:00",
-    "id": 246,
+    "id": 244,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4865,8 +4829,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372580+00:00",
-    "id": 247,
+    "id": 245,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "Samsung 55 Inch QLED 4K Smart TV (Q70A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://images.priceoye.pk/samsung-55-inch-qled-4k-smart-tv-q70a-pakistan-priceoye-ivt8s-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 233999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q70a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.021734+00:00",
+    "id": 246,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Haier LED 75\" 75K85FUX (4K + SMART)",
@@ -4884,7 +4866,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374894+00:00",
-    "id": 248,
+    "id": 247,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4901,8 +4883,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.359051+00:00",
-    "id": 249,
+    "last_updated": "2026-10-22T17:32:23.901162+00:00",
+    "id": 248,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4919,8 +4901,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.407580+00:00",
-    "id": 250,
+    "last_updated": "2026-10-22T17:32:28.003994+00:00",
+    "id": 249,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -4938,8 +4920,8 @@
         "old_price": 264999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.974881+00:00",
-    "id": 251,
+    "last_updated": "2026-10-22T19:03:34.892799+00:00",
+    "id": 250,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4958,7 +4940,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373152+00:00",
-    "id": 252,
+    "id": 251,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -4983,8 +4965,8 @@
         "old_price": 262200
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.168246+00:00",
-    "id": 253,
+    "last_updated": "2026-10-22T19:03:08.734444+00:00",
+    "id": 252,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5001,8 +4983,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.499389+00:00",
-    "id": 254,
+    "last_updated": "2026-10-22T17:32:28.078483+00:00",
+    "id": 253,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5020,9 +5002,27 @@
         "old_price": 309500
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.684182+00:00",
-    "id": 255,
+    "last_updated": "2026-10-22T18:59:21.116668+00:00",
+    "id": 254,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
+  },
+  {
+    "title": "Samsung 55 Inch QLED 4K Smart TV (Q60A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://images.priceoye.pk/samsung-55-inch-qled-4k-smart-tv-q60a-pakistan-priceoye-1ozni-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 249999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-55-inch-qled-4k-smart-tv-q60a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.027753+00:00",
+    "id": 255,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Samsung 65Q6F 65″ 4K SUHD Flat QLED TV",
@@ -5039,7 +5039,7 @@
         "old_price": 299999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.836271+00:00",
+    "last_updated": "2026-10-22T19:03:31.314962+00:00",
     "id": 256,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -5064,7 +5064,7 @@
         "old_price": 262600
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.988417+00:00",
+    "last_updated": "2026-10-22T18:59:10.510290+00:00",
     "id": 257,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -5082,7 +5082,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.164332+00:00",
+    "last_updated": "2026-10-22T17:32:24.065585+00:00",
     "id": 258,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -5100,7 +5100,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:58.469101+00:00",
+    "last_updated": "2026-10-22T17:32:23.942304+00:00",
     "id": 259,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -5118,7 +5118,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.918889+00:00",
+    "last_updated": "2026-10-22T18:59:10.451768+00:00",
     "id": 260,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
@@ -5136,7 +5136,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.564289+00:00",
+    "last_updated": "2026-10-22T17:32:20.213585+00:00",
     "id": 261,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -5154,7 +5154,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.453864+00:00",
+    "last_updated": "2026-10-22T17:32:28.039539+00:00",
     "id": 262,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
@@ -5191,7 +5191,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.929018+00:00",
+    "last_updated": "2026-10-22T18:59:10.456835+00:00",
     "id": 264,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
@@ -5209,9 +5209,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.653638+00:00",
+    "last_updated": "2026-10-22T17:32:20.293575+00:00",
     "id": 265,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Changhong Ruba 75 Inch UHD LED TV (U75K9I)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://images.priceoye.pk/changhong-ruba-75-inch-uhd-led-tv-u75k9i-pakistan-priceoye-hw8ys-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 270200,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-75-inch-uhd-led-tv-u75k9i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:23.997315+00:00",
+    "id": 266,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Haier LED 75\" 75S81GUX (Q LED)",
@@ -5229,7 +5247,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375534+00:00",
-    "id": 266,
+    "id": 267,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5248,7 +5266,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375922+00:00",
-    "id": 267,
+    "id": 268,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5272,8 +5290,8 @@
         "old_price": 317800
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.967486+00:00",
-    "id": 268,
+    "last_updated": "2026-10-22T18:59:10.491081+00:00",
+    "id": 269,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5298,8 +5316,8 @@
         "old_price": 326300
       }
     ],
-    "last_updated": "2026-10-22T12:07:42.367055+00:00",
-    "id": 269,
+    "last_updated": "2026-10-22T19:02:58.045971+00:00",
+    "id": 270,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5316,8 +5334,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.627315+00:00",
-    "id": 270,
+    "last_updated": "2026-10-22T17:32:20.263346+00:00",
+    "id": 271,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5335,8 +5353,8 @@
         "old_price": 299999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.855862+00:00",
-    "id": 271,
+    "last_updated": "2026-10-22T19:03:34.778164+00:00",
+    "id": 272,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5353,8 +5371,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.075738+00:00",
-    "id": 272,
+    "last_updated": "2026-10-22T18:59:10.577059+00:00",
+    "id": 273,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -5373,7 +5391,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371174+00:00",
-    "id": 273,
+    "id": 274,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5392,7 +5410,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371351+00:00",
-    "id": 274,
+    "id": 275,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5410,9 +5428,27 @@
         "old_price": 344999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.910490+00:00",
-    "id": 275,
+    "last_updated": "2026-10-22T19:03:34.829852+00:00",
+    "id": 276,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
+  },
+  {
+    "title": "TCL 32 Inch Android Smart LED TV (32S6500)",
+    "brand": "Tcl",
+    "category": "tvs",
+    "subcategory": "smart",
+    "image": "https://images.priceoye.pk/tcl-32-inch-smart-tv-32s6500-pakistan-priceoye-6osrr-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 298999,
+        "url": "https://priceoye.pk/led-tv/tcl/tcl-32-inch-smart-android-tv-32s6500",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:31.735786+00:00",
+    "id": 277,
+    "first_seen": "2026-10-22T16:07:45.705214+00:00"
   },
   {
     "title": "TCL 75T69D 75\" QLED 4K Smart TV",
@@ -5429,8 +5465,8 @@
         "old_price": 313999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.739536+00:00",
-    "id": 276,
+    "last_updated": "2026-10-22T19:03:31.238518+00:00",
+    "id": 278,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5447,8 +5483,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.219129+00:00",
-    "id": 277,
+    "last_updated": "2026-10-22T17:32:27.900305+00:00",
+    "id": 279,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5467,7 +5503,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376619+00:00",
-    "id": 278,
+    "id": 280,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5486,7 +5522,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376402+00:00",
-    "id": 279,
+    "id": 281,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5511,8 +5547,8 @@
         "old_price": 323200
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.633238+00:00",
-    "id": 280,
+    "last_updated": "2026-10-22T18:59:21.094117+00:00",
+    "id": 282,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5529,8 +5565,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.101417+00:00",
-    "id": 281,
+    "last_updated": "2026-10-22T17:32:24.040552+00:00",
+    "id": 283,
     "first_seen": "2026-10-22T12:31:55.972899+00:00"
   },
   {
@@ -5547,8 +5583,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.683351+00:00",
-    "id": 282,
+    "last_updated": "2026-10-22T17:32:20.322963+00:00",
+    "id": 284,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5565,8 +5601,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.125856+00:00",
-    "id": 283,
+    "last_updated": "2026-10-22T17:32:27.878742+00:00",
+    "id": 285,
     "first_seen": "2026-10-22T12:31:55.972899+00:00"
   },
   {
@@ -5583,8 +5619,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.176256+00:00",
-    "id": 284,
+    "last_updated": "2026-10-22T17:32:24.071673+00:00",
+    "id": 286,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5601,8 +5637,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.884646+00:00",
-    "id": 285,
+    "last_updated": "2026-10-22T19:03:34.804568+00:00",
+    "id": 287,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5620,8 +5656,8 @@
         "old_price": 348999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.786090+00:00",
-    "id": 286,
+    "last_updated": "2026-10-22T19:03:31.280603+00:00",
+    "id": 288,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5640,7 +5676,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372632+00:00",
-    "id": 287,
+    "id": 289,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5657,8 +5693,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.399345+00:00",
-    "id": 288,
+    "last_updated": "2026-10-22T17:32:27.997131+00:00",
+    "id": 290,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5676,8 +5712,8 @@
         "old_price": 358999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.965458+00:00",
-    "id": 289,
+    "last_updated": "2026-10-22T19:03:34.882423+00:00",
+    "id": 291,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5694,8 +5730,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.474509+00:00",
-    "id": 290,
+    "last_updated": "2026-10-22T17:32:28.055917+00:00",
+    "id": 292,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5714,7 +5750,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373207+00:00",
-    "id": 291,
+    "id": 293,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5732,8 +5768,8 @@
         "old_price": 464999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.937449+00:00",
-    "id": 292,
+    "last_updated": "2026-10-22T19:03:34.856302+00:00",
+    "id": 294,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5752,7 +5788,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376032+00:00",
-    "id": 293,
+    "id": 295,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5769,8 +5805,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.934498+00:00",
-    "id": 294,
+    "last_updated": "2026-10-22T18:59:10.461833+00:00",
+    "id": 296,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -5787,8 +5823,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.640647+00:00",
-    "id": 295,
+    "last_updated": "2026-10-22T17:32:20.277903+00:00",
+    "id": 297,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5807,7 +5843,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373466+00:00",
-    "id": 296,
+    "id": 298,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5826,7 +5862,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373596+00:00",
-    "id": 297,
+    "id": 299,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5850,8 +5886,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.972466+00:00",
-    "id": 298,
+    "last_updated": "2026-10-22T18:59:10.495968+00:00",
+    "id": 300,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5869,8 +5905,8 @@
         "old_price": 498999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.919120+00:00",
-    "id": 299,
+    "last_updated": "2026-10-22T19:03:34.838089+00:00",
+    "id": 301,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5887,8 +5923,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.138666+00:00",
-    "id": 300,
+    "last_updated": "2026-10-22T17:32:24.053080+00:00",
+    "id": 302,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -5907,7 +5943,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376338+00:00",
-    "id": 301,
+    "id": 303,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5926,7 +5962,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374784+00:00",
-    "id": 302,
+    "id": 304,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5943,8 +5979,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.498264+00:00",
-    "id": 303,
+    "last_updated": "2026-10-22T19:03:24.255128+00:00",
+    "id": 305,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5961,9 +5997,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.482551+00:00",
-    "id": 304,
+    "last_updated": "2026-10-22T17:32:28.062015+00:00",
+    "id": 306,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
+  },
+  {
+    "title": "Changhong Ruba 82 Inch UHD LED TV (U82K9I)",
+    "brand": "Changhongruba",
+    "category": "tvs",
+    "subcategory": "4k-smart",
+    "image": "https://images.priceoye.pk/changhong-ruba-82-inch-uhd-led-tv-u82k9i-pakistan-priceoye-0c4ea-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 439999,
+        "url": "https://priceoye.pk/led-tv/changhongruba/changhong-ruba-82-inch-uhd-led-tv-u82k9i",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.003462+00:00",
+    "id": 307,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Samsung 65LS03D 65\" The Frame QLED 4K Art Mode Smart TV (2024)",
@@ -5979,8 +6033,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.928911+00:00",
-    "id": 305,
+    "last_updated": "2026-10-22T19:03:34.847093+00:00",
+    "id": 308,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -5998,8 +6052,8 @@
         "old_price": 526400
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.671844+00:00",
-    "id": 306,
+    "last_updated": "2026-10-22T18:59:21.112380+00:00",
+    "id": 309,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -6024,8 +6078,8 @@
         "old_price": 532700
       }
     ],
-    "last_updated": "2026-10-22T12:06:15.638652+00:00",
-    "id": 307,
+    "last_updated": "2026-10-22T18:59:21.098438+00:00",
+    "id": 310,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6042,8 +6096,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:05.080613+00:00",
-    "id": 308,
+    "last_updated": "2026-10-22T18:59:10.582316+00:00",
+    "id": 311,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6061,8 +6115,8 @@
         "old_price": 555999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.796827+00:00",
-    "id": 309,
+    "last_updated": "2026-10-22T19:03:31.288901+00:00",
+    "id": 312,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6081,7 +6135,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372684+00:00",
-    "id": 310,
+    "id": 313,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6100,7 +6154,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373275+00:00",
-    "id": 311,
+    "id": 314,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6117,8 +6171,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.721681+00:00",
-    "id": 312,
+    "last_updated": "2026-10-22T19:03:24.367719+00:00",
+    "id": 315,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6135,8 +6189,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.941229+00:00",
-    "id": 313,
+    "last_updated": "2026-10-22T18:59:10.466957+00:00",
+    "id": 316,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6154,8 +6208,8 @@
         "old_price": 699999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.947259+00:00",
-    "id": 314,
+    "last_updated": "2026-10-22T19:03:34.865714+00:00",
+    "id": 317,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6180,8 +6234,8 @@
         "old_price": 667400
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.891278+00:00",
-    "id": 315,
+    "last_updated": "2026-10-22T18:59:10.424729+00:00",
+    "id": 318,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6205,8 +6259,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.977339+00:00",
-    "id": 316,
+    "last_updated": "2026-10-22T18:59:10.500956+00:00",
+    "id": 319,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6223,8 +6277,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.427087+00:00",
-    "id": 317,
+    "last_updated": "2026-10-22T17:32:28.020663+00:00",
+    "id": 320,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -6241,8 +6295,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:10:54.634159+00:00",
-    "id": 318,
+    "last_updated": "2026-10-22T17:32:20.270407+00:00",
+    "id": 321,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -6259,8 +6313,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:08:10.513395+00:00",
-    "id": 319,
+    "last_updated": "2026-10-22T19:03:24.263412+00:00",
+    "id": 322,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6278,8 +6332,8 @@
         "old_price": 1124999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.866827+00:00",
-    "id": 320,
+    "last_updated": "2026-10-22T19:03:34.786193+00:00",
+    "id": 323,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6297,8 +6351,8 @@
         "old_price": 823999
       }
     ],
-    "last_updated": "2026-10-22T12:08:22.956385+00:00",
-    "id": 321,
+    "last_updated": "2026-10-22T19:03:34.873709+00:00",
+    "id": 324,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6323,8 +6377,8 @@
         "old_price": 795800
       }
     ],
-    "last_updated": "2026-10-22T12:07:53.162636+00:00",
-    "id": 322,
+    "last_updated": "2026-10-22T19:03:08.729854+00:00",
+    "id": 325,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6341,8 +6395,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.416421+00:00",
-    "id": 323,
+    "last_updated": "2026-10-22T17:32:28.013240+00:00",
+    "id": 326,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -6361,7 +6415,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373331+00:00",
-    "id": 324,
+    "id": 327,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6379,8 +6433,8 @@
         "old_price": 899999
       }
     ],
-    "last_updated": "2026-10-22T12:08:06.302043+00:00",
-    "id": 325,
+    "last_updated": "2026-10-22T19:03:20.764530+00:00",
+    "id": 328,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6399,7 +6453,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373696+00:00",
-    "id": 326,
+    "id": 329,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6416,8 +6470,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.212357+00:00",
-    "id": 327,
+    "last_updated": "2026-10-22T17:32:27.893439+00:00",
+    "id": 330,
     "first_seen": "2026-10-18T13:48:27.473817+00:00"
   },
   {
@@ -6434,8 +6488,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T12:06:04.983440+00:00",
-    "id": 328,
+    "last_updated": "2026-10-22T18:59:10.505608+00:00",
+    "id": 331,
     "first_seen": "2026-10-22T05:01:04.278928+00:00"
   },
   {
@@ -6454,25 +6508,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373752+00:00",
-    "id": 329,
-    "first_seen": "2026-10-19T03:52:03.603587+00:00"
-  },
-  {
-    "title": "Hisense 100 Inch Smart LED TV(100LN60D)",
-    "brand": "Hisense",
-    "category": "tvs",
-    "subcategory": "smart",
-    "image": "https://images.priceoye.pk/hisense-100-inch-smart-led-tv-100ln60d-pakistan-priceoye-md8yv-270x270.webp",
-    "prices": [
-      {
-        "store": "PriceOye",
-        "price": 1394999,
-        "url": "https://priceoye.pk/led-tv/hisense/hisense-100-inch-smart-led-tv-100ln60d",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-22T11:11:06.188502+00:00",
-    "id": 330,
+    "id": 332,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6490,8 +6526,8 @@
         "old_price": 1999999
       }
     ],
-    "last_updated": "2026-10-22T12:08:18.890429+00:00",
-    "id": 331,
+    "last_updated": "2026-10-22T19:03:31.350461+00:00",
+    "id": 333,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6508,9 +6544,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-22T11:11:02.115863+00:00",
-    "id": 332,
+    "last_updated": "2026-10-22T17:32:24.046467+00:00",
+    "id": 334,
     "first_seen": "2026-10-22T12:31:55.972899+00:00"
+  },
+  {
+    "title": "Samsung 85 Inch Neo QLED 4K Smart TV (QN85A)",
+    "brand": "Samsung",
+    "category": "tvs",
+    "subcategory": "qled-oled",
+    "image": "https://images.priceoye.pk/samsung-85-inch-neo-qled-4k-smart-tv-qn85a-pakistan-priceoye-88mq6-270x270.webp",
+    "prices": [
+      {
+        "store": "PriceOye",
+        "price": 1899999,
+        "url": "https://priceoye.pk/led-tv/samsung/samsung-85-inch-neo-qled-4k-smart-tv-qn85a",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T17:32:24.009587+00:00",
+    "id": 335,
+    "first_seen": "2026-10-22T20:37:26.056758+00:00"
   },
   {
     "title": "Beetro LED TV 32 Inch (TJ-32S7452) Android (Bezel Less)",
@@ -6528,7 +6582,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372038+00:00",
-    "id": 333,
+    "id": 336,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6547,7 +6601,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372103+00:00",
-    "id": 334,
+    "id": 337,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6566,7 +6620,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368000+00:00",
-    "id": 335,
+    "id": 338,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6585,7 +6639,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374728+00:00",
-    "id": 336,
+    "id": 339,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6604,7 +6658,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375002+00:00",
-    "id": 337,
+    "id": 340,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6623,7 +6677,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368794+00:00",
-    "id": 338,
+    "id": 341,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6642,7 +6696,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375315+00:00",
-    "id": 339,
+    "id": 342,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6661,7 +6715,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368071+00:00",
-    "id": 340,
+    "id": 343,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6680,7 +6734,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373876+00:00",
-    "id": 341,
+    "id": 344,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6699,7 +6753,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375057+00:00",
-    "id": 342,
+    "id": 345,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6718,7 +6772,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373422+00:00",
-    "id": 343,
+    "id": 346,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6737,7 +6791,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372274+00:00",
-    "id": 344,
+    "id": 347,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6756,7 +6810,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372205+00:00",
-    "id": 345,
+    "id": 348,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6775,7 +6829,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371792+00:00",
-    "id": 346,
+    "id": 349,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6794,7 +6848,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373936+00:00",
-    "id": 347,
+    "id": 350,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6813,7 +6867,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373510+00:00",
-    "id": 348,
+    "id": 351,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6832,7 +6886,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368894+00:00",
-    "id": 349,
+    "id": 352,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6851,7 +6905,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372377+00:00",
-    "id": 350,
+    "id": 353,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6870,7 +6924,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373040+00:00",
-    "id": 351,
+    "id": 354,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6889,7 +6943,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375263+00:00",
-    "id": 352,
+    "id": 355,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6908,7 +6962,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373553+00:00",
-    "id": 353,
+    "id": 356,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6927,7 +6981,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374625+00:00",
-    "id": 354,
+    "id": 357,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6946,7 +7000,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374668+00:00",
-    "id": 355,
+    "id": 358,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6965,7 +7019,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372150+00:00",
-    "id": 356,
+    "id": 359,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -6984,7 +7038,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.376674+00:00",
-    "id": 357,
+    "id": 360,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7003,7 +7057,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.368855+00:00",
-    "id": 358,
+    "id": 361,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7022,7 +7076,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.373639+00:00",
-    "id": 359,
+    "id": 362,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7041,7 +7095,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371643+00:00",
-    "id": 360,
+    "id": 363,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7060,7 +7114,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375102+00:00",
-    "id": 361,
+    "id": 364,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7079,7 +7133,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374538+00:00",
-    "id": 362,
+    "id": 365,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7098,7 +7152,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371457+00:00",
-    "id": 363,
+    "id": 366,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7117,7 +7171,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.375568+00:00",
-    "id": 364,
+    "id": 367,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7136,7 +7190,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.371503+00:00",
-    "id": 365,
+    "id": 368,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7155,7 +7209,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.372915+00:00",
-    "id": 366,
+    "id": 369,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7174,7 +7228,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374452+00:00",
-    "id": 367,
+    "id": 370,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7193,7 +7247,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374408+00:00",
-    "id": 368,
+    "id": 371,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   },
   {
@@ -7212,7 +7266,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:51.374362+00:00",
-    "id": 369,
+    "id": 372,
     "first_seen": "2026-10-19T03:52:03.603587+00:00"
   }
 ]
