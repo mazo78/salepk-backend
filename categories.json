@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T04:12:38.602373+00:00",
+  "updated": "2026-10-22T05:08:01.898282+00:00",
   "categories": [
     {
       "slug": "mobiles",
@@ -22,22 +22,22 @@
         {
           "slug": "samsung",
           "name": "Samsung",
-          "count": 369
+          "count": 371
         },
         {
           "slug": "xiaomi",
           "name": "Xiaomi / Redmi / Poco",
-          "count": 257
+          "count": 258
         },
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 255
+          "count": 256
         },
         {
           "slug": "oppo-vivo-realme",
           "name": "Oppo / Vivo / Realme",
-          "count": 420
+          "count": 421
         },
         {
           "slug": "honor",
@@ -52,32 +52,27 @@
         {
           "slug": "motorola",
           "name": "Motorola",
-          "count": 1
+          "count": 3
         },
         {
           "slug": "nokia-hmd",
           "name": "Nokia / HMD",
-          "count": 18
+          "count": 19
         },
         {
           "slug": "zte",
           "name": "ZTE",
-          "count": 6
-        },
-        {
-          "slug": "dcode",
-          "name": "Dcode",
-          "count": 2
+          "count": 1
         },
         {
           "slug": "qmobile",
           "name": "QMobile",
-          "count": 17
+          "count": 12
         },
         {
           "slug": "pakistani-feature-phones",
           "name": "Other Mobile Brands",
-          "count": 95
+          "count": 99
         },
         {
           "slug": "other",
@@ -91,7 +86,7 @@
       "name": "Graphics Cards",
       "name_ur": "گرافکس کارڈ",
       "file": "graphics-cards.json",
-      "count": 714,
+      "count": 737,
       "min_price": 3400,
       "stores": [
         "Czone",
@@ -102,7 +97,6 @@
         "TechArc",
         "TechGlobe",
         "TechMatched",
-        "TeleX",
         "ZAH Computers",
         "Zestro Gaming",
         "eezepc"
@@ -111,12 +105,12 @@
         {
           "slug": "nvidia",
           "name": "NVIDIA GeForce",
-          "count": 566
+          "count": 581
         },
         {
           "slug": "amd",
           "name": "AMD Radeon",
-          "count": 144
+          "count": 152
         },
         {
           "slug": "intel-arc",
@@ -135,7 +129,7 @@
       "name": "Computer Hardware",
       "name_ur": "کمپیوٹر ہارڈویئر",
       "file": "computer-hardware.json",
-      "count": 104,
+      "count": 132,
       "min_price": 1000,
       "stores": [
         "Czone"
@@ -144,47 +138,47 @@
         {
           "slug": "processors",
           "name": "Processors (CPU)",
-          "count": 15
+          "count": 20
         },
         {
           "slug": "motherboards",
           "name": "Motherboards",
-          "count": 12
+          "count": 15
         },
         {
           "slug": "ram",
           "name": "RAM / Memory",
-          "count": 15
+          "count": 18
         },
         {
           "slug": "ssd",
           "name": "SSD",
-          "count": 13
+          "count": 16
         },
         {
           "slug": "hdd",
           "name": "Hard Drives",
-          "count": 11
+          "count": 13
         },
         {
           "slug": "power-supply",
           "name": "Power Supply (PSU)",
-          "count": 13
+          "count": 17
         },
         {
           "slug": "casing",
           "name": "Casing",
-          "count": 17
+          "count": 22
         },
         {
           "slug": "cooling",
           "name": "Cooling",
-          "count": 5
+          "count": 7
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -193,18 +187,16 @@
       "name": "LCD / LED Monitors",
       "name_ur": "مانیٹر",
       "file": "monitors.json",
-      "count": 13,
+      "count": 16,
       "min_price": 24000,
       "stores": [
-        "Czone",
-        "Shophive",
-        "TeleX"
+        "Czone"
       ],
       "subcategories": [
         {
           "slug": "gaming",
           "name": "Gaming (144Hz+)",
-          "count": 9
+          "count": 12
         },
         {
           "slug": "office",
@@ -218,34 +210,33 @@
       "name": "LED / LCD TVs",
       "name_ur": "ٹی وی",
       "file": "tvs.json",
-      "count": 370,
+      "count": 365,
       "min_price": 10499,
       "stores": [
         "Japan Electronics",
         "PriceOye",
-        "Shophive",
-        "TeleX"
+        "Shophive"
       ],
       "subcategories": [
         {
           "slug": "qled-oled",
           "name": "QLED / OLED / Mini-LED",
-          "count": 76
+          "count": 73
         },
         {
           "slug": "4k-smart",
           "name": "4K Smart TV",
-          "count": 107
+          "count": 105
         },
         {
           "slug": "smart",
           "name": "Smart / Android TV",
-          "count": 50
+          "count": 48
         },
         {
           "slug": "led",
           "name": "LED TV",
-          "count": 136
+          "count": 138
         },
         {
           "slug": "other",
@@ -259,28 +250,55 @@
       "name": "Chargers & Power Banks",
       "name_ur": "چارجر",
       "file": "chargers.json",
-      "count": 34,
-      "min_price": 1500,
+      "count": 691,
+      "min_price": 166,
       "stores": [
         "Czone",
         "Digilog",
-        "Hall Road Lahore"
+        "Electrobes",
+        "Electronation",
+        "Epro",
+        "Hall Road Lahore",
+        "PriceOye",
+        "Robochacha",
+        "Robostan",
+        "W11stop"
       ],
       "subcategories": [
         {
           "slug": "power-banks",
           "name": "Power Banks",
-          "count": 13
+          "count": 42
         },
         {
           "slug": "car-chargers",
           "name": "Car Chargers",
-          "count": 8
+          "count": 10
+        },
+        {
+          "slug": "wireless",
+          "name": "Wireless Chargers",
+          "count": 2
+        },
+        {
+          "slug": "laptop-chargers",
+          "name": "Laptop & PD Chargers",
+          "count": 24
         },
         {
           "slug": "wall-chargers",
           "name": "Wall Chargers / Adapters",
-          "count": 13
+          "count": 602
+        },
+        {
+          "slug": "cables",
+          "name": "Cables",
+          "count": 3
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 8
         }
       ]
     },
@@ -289,124 +307,210 @@
       "name": "Electronics Modules & Boards",
       "name_ur": "الیکٹرانکس ماڈیول",
       "file": "electronics-modules.json",
-      "count": 1008,
+      "count": 12407,
       "min_price": 2,
       "stores": [
+        "CircuitHub",
         "Digilog",
         "Digilog PK Components",
         "Electrobes",
+        "Electronation",
         "Electronics Hub",
+        "Electronicstore.pk",
+        "Epro",
         "Hall Road",
         "Hall Road Lahore",
+        "Robochacha",
         "Robostan",
-        "Smart Samaan",
-        "TeleX"
+        "Smart Samaan"
       ],
       "subcategories": [
         {
           "slug": "stm32",
           "name": "STM32 / ARM Boards",
-          "count": 10
+          "count": 83
         },
         {
           "slug": "esp32-esp8266",
           "name": "ESP32 / ESP8266",
-          "count": 18
+          "count": 184
         },
         {
           "slug": "camera-modules",
           "name": "Camera Modules",
-          "count": 17
+          "count": 90
         },
         {
           "slug": "raspberry-pi",
           "name": "Raspberry Pi / SBC",
-          "count": 20
+          "count": 187
         },
         {
           "slug": "arduino",
           "name": "Arduino Boards",
-          "count": 32
+          "count": 339
         },
         {
           "slug": "pic-avr",
           "name": "PIC / AVR / 8051 Chips",
-          "count": 9
+          "count": 106
         },
         {
           "slug": "wireless-comm",
           "name": "Wireless & Communication",
-          "count": 36
+          "count": 198
         },
         {
           "slug": "sensors",
           "name": "Sensors",
-          "count": 84
+          "count": 930
         },
         {
           "slug": "displays",
           "name": "Displays (LCD / OLED / TFT)",
-          "count": 49
+          "count": 385
         },
         {
           "slug": "leds",
           "name": "LEDs & LED Strips",
-          "count": 6
+          "count": 287
         },
         {
           "slug": "motor-drivers",
           "name": "Motor Drivers",
-          "count": 12
+          "count": 116
         },
         {
           "slug": "motors",
           "name": "Motors & Servos",
-          "count": 70
+          "count": 438
         },
         {
           "slug": "relays-switching",
           "name": "Relays & Switching",
-          "count": 22
+          "count": 468
+        },
+        {
+          "slug": "power-supplies",
+          "name": "Power Supplies & Adapters (12V / SMPS)",
+          "count": 329
         },
         {
           "slug": "power-modules",
           "name": "Power Modules (Buck / Boost / BMS)",
-          "count": 77
+          "count": 468
         },
         {
           "slug": "batteries",
           "name": "Batteries & Cells",
-          "count": 66
+          "count": 618
         },
         {
           "slug": "audio",
           "name": "Audio Modules & Amplifiers",
-          "count": 6
+          "count": 230
         },
         {
           "slug": "components",
           "name": "Components (R / C / ICs)",
-          "count": 179
+          "count": 4612
         },
         {
           "slug": "tools",
           "name": "Tools (Soldering / Meters)",
-          "count": 86
+          "count": 739
         },
         {
           "slug": "robotics-3d",
           "name": "Robotics, RC & 3D Printing",
-          "count": 124
+          "count": 521
         },
         {
           "slug": "kits",
           "name": "Kits",
-          "count": 12
+          "count": 65
         },
         {
           "slug": "other",
           "name": "Other",
-          "count": 73
+          "count": 1014
+        }
+      ]
+    },
+    {
+      "slug": "beauty-personal-care",
+      "name": "Beauty & Cosmetics",
+      "name_ur": "Beauty & Personal Care",
+      "file": "beauty-personal-care.json",
+      "count": 961,
+      "min_price": 120,
+      "stores": [
+        "Cozmetica",
+        "D Watson Cosmetics"
+      ],
+      "subcategories": [
+        {
+          "slug": "haircare",
+          "name": "Haircare",
+          "count": 263
+        },
+        {
+          "slug": "fragrance",
+          "name": "Fragrances",
+          "count": 39
+        },
+        {
+          "slug": "makeup",
+          "name": "Makeup",
+          "count": 442
+        },
+        {
+          "slug": "skincare",
+          "name": "Skincare",
+          "count": 49
+        },
+        {
+          "slug": "personal-care",
+          "name": "Personal Care",
+          "count": 2
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 166
+        }
+      ]
+    },
+    {
+      "slug": "solar-energy",
+      "name": "Solar, UPS & Inverters",
+      "name_ur": "Solar & Energy",
+      "file": "solar-energy.json",
+      "count": 153,
+      "min_price": 2500,
+      "stores": [
+        "W11stop"
+      ],
+      "subcategories": [
+        {
+          "slug": "solar-panels",
+          "name": "Solar Panels",
+          "count": 1
+        },
+        {
+          "slug": "ups",
+          "name": "UPS & Home Inverters",
+          "count": 34
+        },
+        {
+          "slug": "inverters",
+          "name": "Inverters",
+          "count": 117
+        },
+        {
+          "slug": "batteries",
+          "name": "Batteries",
+          "count": 1
         }
       ]
     }
