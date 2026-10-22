@@ -13,7 +13,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.801323+00:00",
+    "last_updated": "2026-10-22T04:26:31.621278+00:00",
     "id": 1,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -31,7 +31,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.805629+00:00",
+    "last_updated": "2026-10-22T04:26:31.632992+00:00",
     "id": 2,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -49,7 +49,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.809739+00:00",
+    "last_updated": "2026-10-22T04:26:31.643667+00:00",
     "id": 3,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -67,7 +67,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.814136+00:00",
+    "last_updated": "2026-10-22T04:26:31.657728+00:00",
     "id": 4,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -85,7 +85,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.818492+00:00",
+    "last_updated": "2026-10-22T04:26:31.675407+00:00",
     "id": 5,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -103,7 +103,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.822666+00:00",
+    "last_updated": "2026-10-22T04:26:31.688916+00:00",
     "id": 6,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -116,12 +116,12 @@
     "prices": [
       {
         "store": "Czone",
-        "price": 1700,
+        "price": 1900,
         "url": "https://www.czone.com.pk/cooling-solutions-case-fans-thermalright-tl-m12r-s-120mm-argb-pwm-reverse-airflow-case-fan-1500rpm-silent-operation-inverted-design-black-pakistan-p.19217.aspx",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.826867+00:00",
+    "last_updated": "2026-10-22T04:26:31.702627+00:00",
     "id": 7,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -139,7 +139,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.831114+00:00",
+    "last_updated": "2026-10-22T04:26:31.715218+00:00",
     "id": 8,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -157,7 +157,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.835290+00:00",
+    "last_updated": "2026-10-22T04:26:31.737054+00:00",
     "id": 9,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -193,7 +193,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:33.023068+00:00",
+    "last_updated": "2026-10-22T04:26:31.768691+00:00",
     "id": 11,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -211,7 +211,7 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.843646+00:00",
+    "last_updated": "2026-10-22T04:26:31.746937+00:00",
     "id": 12,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
@@ -229,9 +229,81 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:28.847917+00:00",
+    "last_updated": "2026-10-22T04:26:31.759260+00:00",
     "id": 13,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Thermal Grizzly Polartherm X-8 CPU Thermal Paste, 10 Grams, High Thermal Conductivity, Long Durability, Non-Conductive Thermal Grease, Thermal Compound Kit with Spatula",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "cooling",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260921094339-87161-0-210926094408374.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 3000,
+        "url": "https://www.czone.com.pk/thermal-grizzly-polartherm-x-8-thermal-paste",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:36.187902+00:00",
+    "id": 14,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Thermalright TL-M12QRW-S X3 Reverse CPU Fan Building Blocks 120mm Case Cooler, PWM, ARGB, White",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260411113659-87161-0-110426114243730.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 4100,
+        "url": "https://www.czone.com.pk/thermalright-tlm12qrws-x3-reverse-cpu-fan-building-blocks-120mm-case-cooler-pwm-argb-white",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:40.895996+00:00",
+    "id": 15,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Thermalright TL-C12C-S X3 120mm Cooling Fan, 4-Pin PWM ARGB, 1550RPM",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "cooling",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260122094833-87161-0-220126094846464.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 4200,
+        "url": "https://www.czone.com.pk/thermalright-tlc12cs-x3-120mm-cooling-fan-4pin-pwm-argb-1550rpm",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:46.094719+00:00",
+    "id": 16,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Thermalright TL-M12QR-S X3 Reverse CPU Fan Building Blocks 120mm Case Cooler, 1500RPM 4 Pin PWM ARGB 3 Pin 5V Black",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260411113538-87161-0-110426113551254.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 4600,
+        "url": "https://www.czone.com.pk/thermalright-tlm12qrs-x3-reverse-cpu-fan-building-blocks-120mm-case-cooler-1500rpm-4-pin-pwm-argb-3-",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:50.912563+00:00",
+    "id": 17,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "HikSemi WAVE 128GB SSD, SATAIII, 2.5 Inch, 460MB/s to 510MB/s Read",
@@ -247,8 +319,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.032051+00:00",
-    "id": 14,
+    "last_updated": "2026-10-22T04:24:55.486331+00:00",
+    "id": 18,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -265,26 +337,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.036102+00:00",
-    "id": 15,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
-  },
-  {
-    "title": "ID-Cooling Ware 310 ARGB White ATX Mid-Tower PC Case, High-Airflow Mesh Front, Tempered Glass Side Panel, 4x120mm ARGB Fans, Up to 360mm Radiator Support, USB Type-C, White",
-    "brand": "",
-    "category": "computer-hardware",
-    "subcategory": "casing",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260808065255-87161-0-080826065304511.webp",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 11500,
-        "url": "https://www.czone.com.pk/id-cooling-ware-310-argb-white-atx-pc-case",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:23.462925+00:00",
-    "id": 16,
+    "last_updated": "2026-10-22T04:24:55.499257+00:00",
+    "id": 19,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -302,8 +356,8 @@
         "old_price": 12800
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.468325+00:00",
-    "id": 17,
+    "last_updated": "2026-10-22T04:26:08.776023+00:00",
+    "id": 20,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -320,8 +374,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.472721+00:00",
-    "id": 18,
+    "last_updated": "2026-10-22T04:26:08.785471+00:00",
+    "id": 21,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -338,8 +392,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.498739+00:00",
-    "id": 19,
+    "last_updated": "2026-10-22T04:26:08.812127+00:00",
+    "id": 22,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -356,8 +410,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.477590+00:00",
-    "id": 20,
+    "last_updated": "2026-10-22T04:26:08.794591+00:00",
+    "id": 23,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -374,8 +428,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.486495+00:00",
-    "id": 21,
+    "last_updated": "2026-10-22T04:26:08.803443+00:00",
+    "id": 24,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "ID-Cooling Ware 310 ARGB White ATX Mid-Tower PC Case, High-Airflow Mesh Front, Tempered Glass Side Panel, 4x120mm ARGB Fans, Up to 360mm Radiator Support, USB Type-C, White",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260808065255-87161-0-080826065304511.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 12990,
+        "url": "https://www.czone.com.pk/id-cooling-ware-310-argb-white-atx-pc-case",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:08.820697+00:00",
+    "id": 25,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -392,8 +464,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.067851+00:00",
-    "id": 22,
+    "last_updated": "2026-10-22T04:25:43.563425+00:00",
+    "id": 26,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -410,8 +482,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.504758+00:00",
-    "id": 23,
+    "last_updated": "2026-10-22T04:26:08.829952+00:00",
+    "id": 27,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -428,27 +500,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.516099+00:00",
-    "id": 24,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
-  },
-  {
-    "title": "Sonic EL2 ATX Gaming Case, Mid-Tower, ATX Micro-ATX Mini-ITX Support, 4 Fans Included, Black",
-    "brand": "",
-    "category": "computer-hardware",
-    "subcategory": "casing",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261010114157-87161-0-101026114214774.webp",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 14000,
-        "url": "https://www.czone.com.pk/sonic-el2-atx-gaming-case",
-        "in_stock": true,
-        "old_price": 16000
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:23.511481+00:00",
-    "id": 25,
+    "last_updated": "2026-10-22T04:26:08.849691+00:00",
+    "id": 28,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -465,8 +518,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.526041+00:00",
-    "id": 26,
+    "last_updated": "2026-10-22T04:26:08.870616+00:00",
+    "id": 29,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -483,8 +536,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.520610+00:00",
-    "id": 27,
+    "last_updated": "2026-10-22T04:26:08.859869+00:00",
+    "id": 30,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -501,9 +554,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:23.531012+00:00",
-    "id": 28,
+    "last_updated": "2026-10-22T04:26:08.879823+00:00",
+    "id": 31,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Cougar AIRFACE 180 ARGB ATX Mid Tower PC Case, Tempered Glass, Magnetic Front Filter Panel, Up To 360mm Radiator Support, Up To 340mm GPU Length, 3x ARGB Fans Pre-Installed, White",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260909102300-87161-2622244-090926102301039.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 16500,
+        "url": "https://www.czone.com.pk/cougar-airface-180-argb-atx-mid-tower-pc-case",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:17.822131+00:00",
+    "id": 32,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "Cougar DuoFace RGB Mid-Tower ATX Case, 3x ARGB Fans Pre-Installed, Two Distinctive Front Panels, Up to 280mm Radiator, White",
@@ -519,8 +590,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:27.688900+00:00",
-    "id": 29,
+    "last_updated": "2026-10-22T04:26:13.282379+00:00",
+    "id": 33,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -537,8 +608,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.072247+00:00",
-    "id": 30,
+    "last_updated": "2026-10-22T04:25:43.574473+00:00",
+    "id": 34,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -555,8 +626,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.076463+00:00",
-    "id": 31,
+    "last_updated": "2026-10-22T04:25:43.585446+00:00",
+    "id": 35,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -573,8 +644,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.642473+00:00",
-    "id": 32,
+    "last_updated": "2026-10-22T04:24:31.096890+00:00",
+    "id": 36,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -591,8 +662,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.646601+00:00",
-    "id": 33,
+    "last_updated": "2026-10-22T04:24:31.105872+00:00",
+    "id": 37,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -609,8 +680,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.044588+00:00",
-    "id": 34,
+    "last_updated": "2026-10-22T04:24:55.524690+00:00",
+    "id": 38,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Lexar NQ100 2.5 Inch SATA III SSD, 512GB, Up To 550MB/s Read",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ssd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-1-1540-18911-200825065505-87161-2461983-021025015140.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 18500,
+        "url": "https://www.czone.com.pk/solid-state-drives-ssd-lexar-lexar-nq100-2-5-inch-sata-iii-ssd-512gb-up-to-550mb-s-read-pakistan-p.18911.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:55.534815+00:00",
+    "id": 39,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -627,8 +716,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.048811+00:00",
-    "id": 35,
+    "last_updated": "2026-10-22T04:24:55.544257+00:00",
+    "id": 40,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -645,27 +734,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.053192+00:00",
-    "id": 36,
+    "last_updated": "2026-10-22T04:24:55.557238+00:00",
+    "id": 41,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
-    "title": "Lexar NQ100 2.5 Inch SATA III SSD, 512GB, Up To 550MB/s Read",
+    "title": "Cougar MX600 Air Pro Mid-Tower ATX Gaming PC Case, 6x ARGB Fans Pre-Installed, Perforated Front Panel, Optimised Airflow Design, Supports 360mm Radiator, White",
     "brand": "",
     "category": "computer-hardware",
-    "subcategory": "ssd",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-1-1540-18911-200825065505-87161-2461983-021025015140.webp",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260907075141-87161-0-070926075145304.webp",
     "prices": [
       {
         "store": "Czone",
         "price": 19000,
-        "url": "https://www.czone.com.pk/solid-state-drives-ssd-lexar-lexar-nq100-2-5-inch-sata-iii-ssd-512gb-up-to-550mb-s-read-pakistan-p.18911.aspx",
+        "url": "https://www.czone.com.pk/cougar-mx600-air-pro",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.057470+00:00",
-    "id": 37,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+    "last_updated": "2026-10-22T04:26:27.187184+00:00",
+    "id": 42,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "Gigabyte A520M K V2 Motherboard, AMD A520, PCIe Gen3 x4 M.2, Dual Channel DDR4, GbE LAN, 8-Channel HD Audio, HDMI and D-Sub, AM4",
@@ -681,8 +770,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.259423+00:00",
-    "id": 38,
+    "last_updated": "2026-10-22T04:24:07.172881+00:00",
+    "id": 43,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -699,8 +788,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.267656+00:00",
-    "id": 39,
+    "last_updated": "2026-10-22T04:24:07.193690+00:00",
+    "id": 44,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -717,8 +806,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.263553+00:00",
-    "id": 40,
+    "last_updated": "2026-10-22T04:24:07.182948+00:00",
+    "id": 45,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -735,8 +824,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.271942+00:00",
-    "id": 41,
+    "last_updated": "2026-10-22T04:24:07.207449+00:00",
+    "id": 46,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -754,7 +843,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:33:56.276023+00:00",
-    "id": 42,
+    "id": 47,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -771,8 +860,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.114112+00:00",
-    "id": 43,
+    "last_updated": "2026-10-22T04:23:42.514582+00:00",
+    "id": 48,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Transcend ESD310 512GB Dual USB Type-A and USB Type-C External SSD Up To 1050MB/s Black TS512GESD310S",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ssd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260401095205-87161-0-010426095209186.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 24990,
+        "url": "https://www.czone.com.pk/transcend-esd310-512gb-dual-usb-typea-and-usb-typec-external-ssd-up-to-1050mbs-black-ts512gesd310s",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:55.577937+00:00",
+    "id": 49,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -789,8 +896,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.070057+00:00",
-    "id": 44,
+    "last_updated": "2026-10-22T04:24:55.591334+00:00",
+    "id": 50,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -807,8 +914,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.360368+00:00",
-    "id": 45,
+    "last_updated": "2026-10-22T04:25:19.194666+00:00",
+    "id": 51,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -825,8 +932,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.080676+00:00",
-    "id": 46,
+    "last_updated": "2026-10-22T04:25:43.596953+00:00",
+    "id": 52,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -843,8 +950,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.074431+00:00",
-    "id": 47,
+    "last_updated": "2026-10-22T04:24:55.610190+00:00",
+    "id": 53,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -861,8 +968,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.280144+00:00",
-    "id": 48,
+    "last_updated": "2026-10-22T04:24:07.218830+00:00",
+    "id": 54,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -879,8 +986,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.284584+00:00",
-    "id": 49,
+    "last_updated": "2026-10-22T04:24:07.231874+00:00",
+    "id": 55,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -898,8 +1005,8 @@
         "old_price": 33000
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.288761+00:00",
-    "id": 50,
+    "last_updated": "2026-10-22T04:24:07.243447+00:00",
+    "id": 56,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -916,8 +1023,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.292766+00:00",
-    "id": 51,
+    "last_updated": "2026-10-22T04:24:07.257162+00:00",
+    "id": 57,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -934,8 +1041,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.118540+00:00",
-    "id": 52,
+    "last_updated": "2026-10-22T04:23:42.525670+00:00",
+    "id": 58,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -952,8 +1059,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.296815+00:00",
-    "id": 53,
+    "last_updated": "2026-10-22T04:24:07.270945+00:00",
+    "id": 59,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -970,8 +1077,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.301628+00:00",
-    "id": 54,
+    "last_updated": "2026-10-22T04:24:07.283764+00:00",
+    "id": 60,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -988,8 +1095,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:56.305842+00:00",
-    "id": 55,
+    "last_updated": "2026-10-22T04:24:07.297036+00:00",
+    "id": 61,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1006,8 +1113,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.650653+00:00",
-    "id": 56,
+    "last_updated": "2026-10-22T04:24:31.116147+00:00",
+    "id": 62,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1024,8 +1131,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.078482+00:00",
-    "id": 57,
+    "last_updated": "2026-10-22T04:24:55.637194+00:00",
+    "id": 63,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1042,8 +1149,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:00.469162+00:00",
-    "id": 58,
+    "last_updated": "2026-10-22T04:24:07.310674+00:00",
+    "id": 64,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1060,26 +1167,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.364612+00:00",
-    "id": 59,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
-  },
-  {
-    "title": "Super Flower Leadex III Gold 850W Power Supply, ATX 3.1 And PCIe 5.1, Fully Modular, 80 PLUS Gold, Cybenetics Gold, 140mm Fluid Dynamic Bearing Fan, White, SF-850F14GE",
-    "brand": "",
-    "category": "computer-hardware",
-    "subcategory": "power-supply",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260909110059-87161-0-090926110108916.webp",
-    "prices": [
-      {
-        "store": "Czone",
-        "price": 31000,
-        "url": "https://www.czone.com.pk/super-flower-leadex-iii-gold-850w",
-        "in_stock": true
-      }
-    ],
-    "last_updated": "2026-10-19T03:34:18.084964+00:00",
-    "id": 60,
+    "last_updated": "2026-10-22T04:25:19.206567+00:00",
+    "id": 65,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1096,8 +1185,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.368826+00:00",
-    "id": 61,
+    "last_updated": "2026-10-22T04:25:19.217987+00:00",
+    "id": 66,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1114,8 +1203,26 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.373215+00:00",
-    "id": 62,
+    "last_updated": "2026-10-22T04:25:19.229244+00:00",
+    "id": 67,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Lexar 16GB DDR4-3200 UDIMM Desktop Memory 1.2V",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ram",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260416085156-87161-0-160426085209359.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 33000,
+        "url": "https://www.czone.com.pk/lexar-16gb-ddr43200-udimm-desktop-memory-12v",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:31.125856+00:00",
+    "id": 68,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1132,9 +1239,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.122791+00:00",
-    "id": 63,
+    "last_updated": "2026-10-22T04:23:42.537935+00:00",
+    "id": 69,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "ASUS B760M-AYW WIFI Motherboard, Intel B760 LGA1700 mATX, DDR5, PCIe4.0 With 2x PCIe4.0 M.2, WiFi 6 and Realtek 2.5Gb Ethernet",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "motherboards",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260718071857-87161-2640434-180726071913779.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 35000,
+        "url": "https://www.czone.com.pk/asus-b760m-ayw-wifi",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:16.676003+00:00",
+    "id": 70,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "AMD Ryzen 5 5600X Desktop Processor, 6 Cores 12 Threads, 3.7GHz Base, 4.6GHz Max Boost, AM4 Socket, Unlocked, Tray",
@@ -1151,8 +1276,26 @@
       }
     ],
     "last_updated": "2026-10-19T03:33:51.127066+00:00",
-    "id": 64,
+    "id": 71,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Asus Prime B760M-A DDR5 MicroATX Motherboard, Intel B760 LGA1700, DDR5 7200+(OC), PCIe 4.0, 2x M.2, Realtek 2.5Gb Ethernet, DisplayPort, Dual HDMI, SATA 6Gbps, USB 3.2 Gen 2, USB 3.2 Gen 1 Type-C, Aura Sync",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "motherboards",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260617082951-87161-0-170626082954917.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 35500,
+        "url": "https://www.czone.com.pk/asus-prime-b760m-a-ddr5-motherboard",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:21.141283+00:00",
+    "id": 72,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "AMD Ryzen 5 7500F Processor, 6-Core 12-Thread Zen 4 CPU, 3.7 GHz Base / Up to 5.0 GHz Boost, Socket AM5, 32 MB L3, DDR5 (Tray)",
@@ -1168,8 +1311,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.131324+00:00",
-    "id": 65,
+    "last_updated": "2026-10-22T04:23:42.547332+00:00",
+    "id": 73,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1186,8 +1329,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.659365+00:00",
-    "id": 66,
+    "last_updated": "2026-10-22T04:24:31.135572+00:00",
+    "id": 74,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1204,9 +1347,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.377368+00:00",
-    "id": 67,
+    "last_updated": "2026-10-22T04:25:19.240799+00:00",
+    "id": 75,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "GIGABYTE B760M Gaming Plus WiFi DDR4 Motherboard, LGA 1700, Intel B760, M-ATX, 2x M.2 PCIe 4.0, Front USB 3.2 Gen 1 Type-C, 6GbE LAN, Q-Flash Plus, EZ-Latch",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "motherboards",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261019071343-1-87161-0-191026071353991.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 36900,
+        "url": "https://www.czone.com.pk/gigabyte-b760m-gaming-plus-wifi-ddr4",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:26.298374+00:00",
+    "id": 76,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "Intel Core i5-12400F Processor - LGA 1700 - 6 Cores | 12 Threads (Tray Pack)",
@@ -1222,8 +1383,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.135746+00:00",
-    "id": 68,
+    "last_updated": "2026-10-22T04:23:42.559010+00:00",
+    "id": 77,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1240,8 +1401,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.663562+00:00",
-    "id": 69,
+    "last_updated": "2026-10-22T04:24:31.147869+00:00",
+    "id": 78,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1258,9 +1419,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:11.279782+00:00",
-    "id": 70,
+    "last_updated": "2026-10-22T04:25:00.183761+00:00",
+    "id": 79,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Lian Li SX Series Modular Power Supply, 1000W, 80 PLUS Platinum Efficiency, ATX 3.1 and PCIe 5.1 Compliant, Fully Modular Braided Cables, 120mm FDB Fan with Zero RPM Mode, Black",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "power-supply",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261019043203-87161-0-191026043208512.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 39800,
+        "url": "https://www.czone.com.pk/lian-li-sx-series-1000w-modular-power-supply",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:43.619020+00:00",
+    "id": 80,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "MSI MAG A1000GL PCIE5 Power Supply 1000W 80 Plus Gold Fully Modular ATX3.0",
@@ -1276,8 +1455,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.089296+00:00",
-    "id": 71,
+    "last_updated": "2026-10-22T04:25:43.631688+00:00",
+    "id": 81,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1294,8 +1473,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.093590+00:00",
-    "id": 72,
+    "last_updated": "2026-10-22T04:25:43.641548+00:00",
+    "id": 82,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1312,9 +1491,64 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.097822+00:00",
-    "id": 73,
+    "last_updated": "2026-10-22T04:25:43.656838+00:00",
+    "id": 83,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Lian Li SX Series Modular Power Supply, 80 PLUS Platinum Efficiency, ATX 3.1 and PCIe 5.1 Compliant, Fully Modular Braided Cables, 120mm FDB Fan With Zero RPM Mode, 1000W, White",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "power-supply",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261019043357-87161-0-191026043400149.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 40800,
+        "url": "https://www.czone.com.pk/lian-li-sx-series-modular-power-supply-1000w",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:43.669602+00:00",
+    "id": 84,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Transcend ESD310 1TB External SSD, USB 3.2 Gen2 10Gbps Type-A and Type-C, Up To 1,050MB/s Black TS1TESD310C",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ssd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260420092632-87161-0-200426092652604.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 40900,
+        "url": "https://www.czone.com.pk/transcend-esd310-1tb-external-ssd-usb-32-gen2-10gbps-typea-and-typec-up-to-1050mbs-black-ts1tesd310c",
+        "in_stock": true,
+        "old_price": 49500
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:09.527849+00:00",
+    "id": 85,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "WD Blue SN5100 NVMe SSD 1TB, PCIe Gen 4.0, M.2 2280, Read Up To 7100MB/s",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ssd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-52-1540-19930-051225102520-87161-2509424-231225073220.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 41500,
+        "url": "https://www.czone.com.pk/solid-state-drives-ssd-western-digital-wd-wd-blue-sn5100-nvme-ssd-1tb-pcie-gen-4-0-m-2-2280-read-up-to-7100mb-s-pakistan-p.19930.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:14.287426+00:00",
+    "id": 86,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "ASUS TUF Gaming 1000W Gold EVO Power Supply, 80 PLUS Gold, ATX 3.1 and PCIe 5.1 Compatible, Active PFC, Dual-Ball Fan Bearings, Protective PCB Coating, TUF-GAMING-1000G-EVO",
@@ -1330,8 +1564,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.106390+00:00",
-    "id": 74,
+    "last_updated": "2026-10-22T04:25:43.694946+00:00",
+    "id": 87,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1348,8 +1582,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.102035+00:00",
-    "id": 75,
+    "last_updated": "2026-10-22T04:25:43.681283+00:00",
+    "id": 88,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1366,8 +1600,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.139964+00:00",
-    "id": 76,
+    "last_updated": "2026-10-22T04:23:42.575121+00:00",
+    "id": 89,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1384,8 +1618,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.144034+00:00",
-    "id": 77,
+    "last_updated": "2026-10-22T04:23:42.586612+00:00",
+    "id": 90,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1402,8 +1636,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.148233+00:00",
-    "id": 78,
+    "last_updated": "2026-10-22T04:23:42.595135+00:00",
+    "id": 91,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1420,9 +1654,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.381541+00:00",
-    "id": 79,
+    "last_updated": "2026-10-22T04:25:19.250707+00:00",
+    "id": 92,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Lian Li SX Platinum 1200W Power Supply, 80 PLUS Platinum, ATX 3.1, Black SX1200P",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "power-supply",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260815100005-87161-2559101-150826100021090.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 44800,
+        "url": "https://www.czone.com.pk/lian-li-sx-platinum-1200w-power-supply-80-plus-platinum-atx-31-black",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:49.092930+00:00",
+    "id": 93,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "Western Digital WD Purple 2TB Surveillance Internal Hard Drive HDD SATA 6Gb/s 3.5 inch WD20PURZ",
@@ -1438,27 +1690,27 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.385627+00:00",
-    "id": 80,
+    "last_updated": "2026-10-22T04:25:19.263129+00:00",
+    "id": 94,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
-    "title": "WD My Passport Portable External Hard Drive 5TB USB 3.1 and USB 3.0 Compatible Black WDBPKJ0050BBK",
+    "title": "Lian Li SX1200P Platinum Compact ATX Form Factor 1200W Power Supply, ATX 3.1 and PCIE 5.1 Ready, 12V-2x6 Cable, Full Modular, 140mm Fan, White, SX1200P.W",
     "brand": "",
     "category": "computer-hardware",
-    "subcategory": "hdd",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/18-czone.com.pk-1540-12259-071021072126-87161-2459891-011025034931.webp",
+    "subcategory": "power-supply",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260507085845-1-87161-0-070526085856810.webp",
     "prices": [
       {
         "store": "Czone",
-        "price": 51500,
-        "url": "https://www.czone.com.pk/hard-drives-external-hard-drives-wd-my-passport-5tb-external-usb-3-0-portable-hard-drive-black-wdbpkj0050bbk-pakistan-p.12259.aspx",
+        "price": 45800,
+        "url": "https://www.czone.com.pk/lian-li-sx1200p-platinum-compact-atx-form-factor-1200w-power-supply-atx-31-and-pcie-51-ready-12v2x6-",
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.390596+00:00",
-    "id": 81,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+    "last_updated": "2026-10-22T04:25:53.912870+00:00",
+    "id": 95,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "MSI MAG A1250GL PCIE5 Fully Modular Compact Gaming Power Supply, 1250W, 80 Plus Gold, ATX 3.1 and PCIe 5.1 Ready, Native Dual-Color 12V-2x6 Cable",
@@ -1474,8 +1726,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.110533+00:00",
-    "id": 82,
+    "last_updated": "2026-10-22T04:25:58.755705+00:00",
+    "id": 96,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1492,8 +1744,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:18.114761+00:00",
-    "id": 83,
+    "last_updated": "2026-10-22T04:26:03.528383+00:00",
+    "id": 97,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1510,8 +1762,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.152471+00:00",
-    "id": 84,
+    "last_updated": "2026-10-22T04:23:42.605251+00:00",
+    "id": 98,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1528,8 +1780,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.156917+00:00",
-    "id": 85,
+    "last_updated": "2026-10-22T04:23:42.614542+00:00",
+    "id": 99,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1546,8 +1798,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:51.161061+00:00",
-    "id": 86,
+    "last_updated": "2026-10-22T04:23:42.623525+00:00",
+    "id": 100,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1564,8 +1816,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.394766+00:00",
-    "id": 87,
+    "last_updated": "2026-10-22T04:25:19.286015+00:00",
+    "id": 101,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1582,8 +1834,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.667492+00:00",
-    "id": 88,
+    "last_updated": "2026-10-22T04:24:31.160087+00:00",
+    "id": 102,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1600,8 +1852,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.399099+00:00",
-    "id": 89,
+    "last_updated": "2026-10-22T04:25:19.296142+00:00",
+    "id": 103,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1619,7 +1871,7 @@
       }
     ],
     "last_updated": "2026-10-19T03:34:22.306248+00:00",
-    "id": 90,
+    "id": 104,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1636,8 +1888,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.403310+00:00",
-    "id": 91,
+    "last_updated": "2026-10-22T04:25:19.306473+00:00",
+    "id": 105,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1655,8 +1907,8 @@
         "old_price": 72000
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.672250+00:00",
-    "id": 92,
+    "last_updated": "2026-10-22T04:24:31.169809+00:00",
+    "id": 106,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1673,8 +1925,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.676323+00:00",
-    "id": 93,
+    "last_updated": "2026-10-22T04:24:31.179038+00:00",
+    "id": 107,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1691,8 +1943,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:12.407752+00:00",
-    "id": 94,
+    "last_updated": "2026-10-22T04:25:19.317226+00:00",
+    "id": 108,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1709,8 +1961,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:33:55.327082+00:00",
-    "id": 95,
+    "last_updated": "2026-10-22T04:23:42.634172+00:00",
+    "id": 109,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1727,8 +1979,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.680320+00:00",
-    "id": 96,
+    "last_updated": "2026-10-22T04:24:31.191195+00:00",
+    "id": 110,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1745,8 +1997,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.684388+00:00",
-    "id": 97,
+    "last_updated": "2026-10-22T04:24:31.201035+00:00",
+    "id": 111,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1763,8 +2015,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:16.611330+00:00",
-    "id": 98,
+    "last_updated": "2026-10-22T04:25:23.958879+00:00",
+    "id": 112,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1781,8 +2033,8 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:05.888851+00:00",
-    "id": 99,
+    "last_updated": "2026-10-22T04:24:36.368871+00:00",
+    "id": 113,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1799,8 +2051,207 @@
         "in_stock": true
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.688578+00:00",
-    "id": 100,
+    "last_updated": "2026-10-22T04:24:31.209988+00:00",
+    "id": 114,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Kingston FURY Beast 16GB DDR5 Desktop Memory, 6000MT/s CL30, AMD EXPO, Intel XMP 3.0, KF560C30BBE-16",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ram",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260904085954-87161-0-040926090635258.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 77990,
+        "url": "https://www.czone.com.pk/kingston-fury-beast-16gb-ddr5-6000mts-cl30",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:41.183574+00:00",
+    "id": 115,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Synology DS223j 2-Bay Diskstation NAS | Diskless",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "other",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-21-1540-18040-250325095205-87161-2459984-011025035303.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 81900,
+        "url": "https://www.czone.com.pk/hard-drives-hard-drive-arrays-nas-synology-ds223j-2-bay-diskstation-nas-diskless-pakistan-p.18040.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:29.428430+00:00",
+    "id": 116,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "AMD Ryzen 7 7800X3D Desktop Processor, AM5, 8-Core 16-Thread, Up To 5GHz Boost, 120W, Tray",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "processors",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260112103837-87161-0-120126103836411.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 81990,
+        "url": "https://www.czone.com.pk/amd-ryzen-7-7800x3d-desktop-processor-am5-8core-16thread-up-to-5ghz-boost-120w-tray",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:23:47.063022+00:00",
+    "id": 117,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Seagate SkyHawk 6TB Surveillance Internal Hard Drive HDD, 3.5 Inch, SATA 6Gb/s, 256MB Cache, 7200RPM, ST6000VX009",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "hdd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260516113615-87161-0-160526113630910.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 83000,
+        "url": "https://www.czone.com.pk/seagate-skyhawk-6tb-surveillance-internal-hard-drive-hdd-35-inch-sata-6gbs-256mb-cache-7200rpm-st600",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:34.318039+00:00",
+    "id": 118,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Intel Core Ultra 7 265K Desktop Processor, 20 Cores, 30MB Cache, Up To 5.5GHz, Socket FCLGA1851, Unlocked, Tray",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "processors",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-10-1540-19161-170925081113-87161-2462585-021025053532.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 88990,
+        "url": "https://www.czone.com.pk/processors-intel-core-ultra-7-intel-core-ultra-7-265k-desktop-processor-20-cores-30mb-cache-up-to-5-5ghz-socket-fclga1851-unlocked-tray-pakistan-p.19161.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:23:52.137547+00:00",
+    "id": 119,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Seagate One Touch External Hard Drive Desktop HDD, 8TB, USB-C Compatible with Most Windows and macOS, Rescue Recovery STNB8000400",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "hdd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261010121524-1-87161-0-101026121554909.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 89000,
+        "url": "https://www.czone.com.pk/seagate-one-touch-8tb-external-hard-drive",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:38.843138+00:00",
+    "id": 120,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Intel Core i7-13700KF Gaming Desktop Processor, 16 Cores 24 Threads, Up to 5.4GHz, 30M Cache, Unlocked, Tray Pack",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "processors",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260815120532-87161-0-150826120532052.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 92000,
+        "url": "https://www.czone.com.pk/intel-core-i7-13700kf",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:23:56.670118+00:00",
+    "id": 121,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Intel Core i7 processor 14700KF Desktop Processor - Unlocked",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "processors",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/1-czone.com.pk-1540-16414-120724081930-87161-2462559-021025053138.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 103000,
+        "url": "https://www.czone.com.pk/processors-intel-core-i7-processors-intel-core-i7-processor-14700kf-desktop-processor-unlocked-pakistan-p.16414.aspx",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:02.235638+00:00",
+    "id": 122,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Kingston ValueRAM 32GB DDR5 5600MHz SODIMM Laptop Memory Module, KVR56S46BD8-32",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ram",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260418094231-87161-0-180426094233243.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 125999,
+        "url": "https://www.czone.com.pk/kingston-valueram-32gb-ddr5-sodimm-laptop-memory-module-kvr56s46bd832",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:45.595334+00:00",
+    "id": 123,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Lexar SODIMM 32GB DDR5 RAM 5600MHz, 262-Pin Laptop Memory, 1.1V, CL46-45-45-90, LD5S32G56C46ST-BGS",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "ram",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260602160121-87161-2609629-020626040126376.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 141999,
+        "url": "https://www.czone.com.pk/lexar-32gb-ddr5-5600mhz-sodimm-ram",
+        "in_stock": true
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:50.689618+00:00",
+    "id": 124,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Sonic EL2 ATX Gaming Case, Mid-Tower, ATX Micro-ATX Mini-ITX Support, 4 Fans Included, Black",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20261010114157-87161-0-101026114214774.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 14000,
+        "url": "https://www.czone.com.pk/sonic-el2-atx-gaming-case",
+        "in_stock": false,
+        "old_price": 16000
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:08.840261+00:00",
+    "id": 125,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
@@ -1817,9 +2268,27 @@
         "in_stock": false
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.040491+00:00",
-    "id": 101,
+    "last_updated": "2026-10-22T04:24:55.511980+00:00",
+    "id": 126,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Cougar MX600 Air Pro Mid-Tower ATX Gaming PC Case, 6x ARGB Fans Pre-Installed, Perforated Front Panel, Supports Up to 360mm Radiator, Black",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "casing",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260907075331-87161-0-070926075336762.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 18500,
+        "url": "https://www.czone.com.pk/cougar-mx600-air-pro-pc-case",
+        "in_stock": false
+      }
+    ],
+    "last_updated": "2026-10-22T04:26:22.294255+00:00",
+    "id": 127,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
     "title": "WD Green SN3000 500GB NVMe SSD M.2 2280 5000MB/s PCIe Gen4",
@@ -1836,44 +2305,80 @@
         "old_price": 29000
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.061560+00:00",
-    "id": 102,
+    "last_updated": "2026-10-22T04:24:55.566685+00:00",
+    "id": 128,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   },
   {
-    "title": "Transcend ESD310 512GB Dual USB Type-A and USB Type-C External SSD Up To 1050MB/s Black TS512GESD310S",
+    "title": "Super Flower Leadex III Gold 850W Power Supply, ATX 3.1 And PCIe 5.1, Fully Modular, 80 PLUS Gold, Cybenetics Gold, 140mm Fluid Dynamic Bearing Fan, White, SF-850F14GE",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "power-supply",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260909110059-87161-0-090926110108916.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 31000,
+        "url": "https://www.czone.com.pk/super-flower-leadex-iii-gold-850w",
+        "in_stock": false
+      }
+    ],
+    "last_updated": "2026-10-22T04:25:43.608046+00:00",
+    "id": 129,
+    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+  },
+  {
+    "title": "Asus PRIME B550M-K ARGB Motherboard, AMD B550, Ryzen AM4, Micro ATX, Dual M.2, PCIe 4.0, Realtek 1Gb Ethernet, DisplayPort and HDMI, SATA 6Gbps, USB 3.2 Gen 1, Front USB 3.2 Gen 1 Type-C",
+    "brand": "",
+    "category": "computer-hardware",
+    "subcategory": "processors",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260718092527-87161-0-180726092534124.webp",
+    "prices": [
+      {
+        "store": "Czone",
+        "price": 32900,
+        "url": "https://www.czone.com.pk/asus-prime-b550m-k-argb",
+        "in_stock": false
+      }
+    ],
+    "last_updated": "2026-10-22T04:24:11.947441+00:00",
+    "id": 130,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
+  },
+  {
+    "title": "Lexar 1TB NQ780 SSD PCIe Gen4 NVMe M.2 2280 Internal Solid State Drive, Up To 6000MB/s Read, Compatible With PS5",
     "brand": "",
     "category": "computer-hardware",
     "subcategory": "ssd",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260401095205-87161-0-010426095209186.webp",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-13-1540-19183-170925104213-87161-2461977-021025015011.webp",
     "prices": [
       {
         "store": "Czone",
-        "price": 24990,
-        "url": "https://www.czone.com.pk/transcend-esd310-512gb-dual-usb-typea-and-usb-typec-external-ssd-up-to-1050mbs-black-ts512gesd310s",
+        "price": 39990,
+        "url": "https://www.czone.com.pk/solid-state-drives-ssd-lexar-lexar-1tb-nq780-ssd-pcie-gen4-nvme-m-2-2280-internal-solid-state-drive-up-to-6000mb-s-read-compatible-with-ps5-pakistan-p.19183.aspx",
         "in_stock": false
       }
     ],
-    "last_updated": "2026-10-19T03:34:07.065704+00:00",
-    "id": 103,
-    "first_seen": "2026-10-18T13:48:27.587149+00:00"
+    "last_updated": "2026-10-22T04:25:04.997896+00:00",
+    "id": 131,
+    "first_seen": "2026-10-22T05:06:23.854301+00:00"
   },
   {
-    "title": "Lexar 16GB DDR4-3200 UDIMM Desktop Memory 1.2V",
+    "title": "WD My Passport Portable External Hard Drive 5TB USB 3.1 and USB 3.0 Compatible Black WDBPKJ0050BBK",
     "brand": "",
     "category": "computer-hardware",
-    "subcategory": "ram",
-    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260416085156-87161-0-160426085209359.webp",
+    "subcategory": "hdd",
+    "image": "https://static.webx.pk/files/87161/Images/Thumbnails-Large/18-czone.com.pk-1540-12259-071021072126-87161-2459891-011025034931.webp",
     "prices": [
       {
         "store": "Czone",
-        "price": 33000,
-        "url": "https://www.czone.com.pk/lexar-16gb-ddr43200-udimm-desktop-memory-12v",
+        "price": 51500,
+        "url": "https://www.czone.com.pk/hard-drives-external-hard-drives-wd-my-passport-5tb-external-usb-3-0-portable-hard-drive-black-wdbpkj0050bbk-pakistan-p.12259.aspx",
         "in_stock": false
       }
     ],
-    "last_updated": "2026-10-19T03:34:01.655239+00:00",
-    "id": 104,
+    "last_updated": "2026-10-22T04:25:19.274170+00:00",
+    "id": 132,
     "first_seen": "2026-10-18T13:48:27.587149+00:00"
   }
 ]
