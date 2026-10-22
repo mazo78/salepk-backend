@@ -121,6 +121,13 @@
         "price": 250,
         "url": "https://robostan.pk/products/lcd-display-dual-usb-power-bank",
         "in_stock": true
+      },
+      {
+        "store": "Electronics Hub",
+        "price": 399,
+        "url": "https://electronicshub.pk/products/lcd-display-dual-usb-5v-1a-2-1a-power-bank",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T18:24:14.434902+00:00",
@@ -516,6 +523,13 @@
     "subcategory": "wall-chargers",
     "image": "https://images.priceoye.pk/vizo-v007-quick-charge-3-0-type-c-charger-18w-pakistan-priceoye-22ar3-100x100.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 559,
+        "url": "https://www.telex.pk/products/vizo-v007-18w-fast-wall-charger-with-type-c-cable",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "PriceOye",
         "price": 699,
@@ -934,6 +948,13 @@
     "subcategory": "wall-chargers",
     "image": "https://images.priceoye.pk/vizo-kw300-dual-port-charger-2-4a-pakistan-priceoye-n0saf-100x100.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 699,
+        "url": "https://www.telex.pk/products/vizo-kw300-dual-port-wall-charger-with-built-in-micro-cable",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "PriceOye",
         "price": 799,
@@ -1356,6 +1377,13 @@
         "url": "https://priceoye.pk/mobile-chargers/assorted/amc-am-201-4-5a-micro-fast-charger",
         "in_stock": true,
         "old_price": 1399
+      },
+      {
+        "store": "TeleX",
+        "price": 699,
+        "url": "https://www.telex.pk/products/amc-am-201-4-5a-micro-ultra-fast-charger",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:21:01.019785+00:00",
@@ -1565,6 +1593,13 @@
         "url": "https://priceoye.pk/mobile-chargers/assorted/amc-am-003-67w-4in1-type-c-car-charger",
         "in_stock": true,
         "old_price": 1449
+      },
+      {
+        "store": "TeleX",
+        "price": 739,
+        "url": "https://www.telex.pk/products/amc-am-003-67w-4-in-1-type-c-car-charger",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:21:34.421883+00:00",
@@ -2195,6 +2230,13 @@
         "url": "https://priceoye.pk/mobile-chargers/assorted/amc-am-204-4-4a-type-c-pd-usb-fast-charger",
         "in_stock": true,
         "old_price": 1549
+      },
+      {
+        "store": "TeleX",
+        "price": 779,
+        "url": "https://www.telex.pk/products/amc-am-204-4-4a-type-c-pd-usb-fast-charger",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:21:01.020294+00:00",
@@ -2285,6 +2327,13 @@
     "image": "https://images.priceoye.pk/lrb-214-3-1a-wall-charger-pakistan-priceoye-ho0ka-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 879,
+        "url": "https://www.telex.pk/products/lrb-214",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "PriceOye",
         "price": 999,
         "url": "https://priceoye.pk/mobile-chargers/lrb/lrb-214-3-1a-wall-charger",
@@ -2303,6 +2352,13 @@
     "subcategory": "wall-chargers",
     "image": "https://images.priceoye.pk/lrb-216-3-1a-wall-charger-pakistan-priceoye-v7eb1-100x100.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 759,
+        "url": "https://www.telex.pk/products/lrb-216",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "PriceOye",
         "price": 999,
@@ -2342,6 +2398,13 @@
     "image": "https://images.priceoye.pk/lrb-220-3-1a-charger-pakistan-priceoye-kzitx-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 879,
+        "url": "https://www.telex.pk/products/lrb-220",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "PriceOye",
         "price": 999,
         "url": "https://priceoye.pk/mobile-chargers/lrb/lrb-220-3-1a-charger",
@@ -2360,6 +2423,13 @@
     "subcategory": "wall-chargers",
     "image": "https://images.priceoye.pk/lrb-221-3-1a-wall-charger-pakistan-priceoye-run7i-100x100.webp",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 759,
+        "url": "https://www.telex.pk/products/lrb-221",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "PriceOye",
         "price": 999,
@@ -3639,6 +3709,13 @@
     "image": "https://images.priceoye.pk/lrb-311-zaigo-45w-wall-charger-pakistan-priceoye-trzb6-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 999,
+        "url": "https://www.telex.pk/products/lrb-312",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "PriceOye",
         "price": 1199,
         "url": "https://priceoye.pk/mobile-chargers/lrb/lrb-311-zaigo-45w-wall-charger",
@@ -4286,6 +4363,20 @@
         "url": "https://epro.pk/product/vendens-vd-pb058-10000mah-fast-charging-power-bank/",
         "in_stock": true,
         "old_price": 1560
+      },
+      {
+        "store": "TeleX",
+        "price": 2019,
+        "url": "https://www.telex.pk/products/lrb-285",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Digilog",
+        "price": 3300,
+        "url": "https://digilog.pk/products/aspor-a382-wireless-charging-10000mah-power-bank-max-15w-fast-charging-pd20w-1",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:15:24.024225+00:00",
@@ -4569,6 +4660,13 @@
         "url": "https://priceoye.pk/mobile-chargers/vizo/vizo-mivo-vmc120-120w-super-fast-charger",
         "in_stock": true,
         "old_price": 2049
+      },
+      {
+        "store": "TeleX",
+        "price": 1499,
+        "url": "https://www.telex.pk/products/vizo-vmc120-120w-super-fast-charger",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:21:08.400749+00:00",
@@ -4670,6 +4768,13 @@
         "url": "https://priceoye.pk/mobile-chargers/infinix/infinix-xc06-kit-30w-charger",
         "in_stock": true,
         "old_price": 4000
+      },
+      {
+        "store": "TeleX",
+        "price": 1599,
+        "url": "https://www.telex.pk/products/infinix-xc06-kit-30w-fast-charger-with-type-c-to-type-c-cable",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:21:38.081787+00:00",
@@ -5541,6 +5646,13 @@
     "image": "https://images.priceoye.pk/hoco-c126-pure-power-pd-40w-three-port-2c1a-charger-us-pakistan-priceoye-2kbyu-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 1889,
+        "url": "https://www.telex.pk/products/hoco-c126-pure-power-40w-3-port-fast-wall-charger-2c1a",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "PriceOye",
         "price": 1949,
         "url": "https://priceoye.pk/mobile-chargers/assorted/hoco-c126-pure-power-pd-40w-three-port-2c1a-charger-us",
@@ -6260,6 +6372,20 @@
     "image": "https://images.priceoye.pk/infinix-xc05-kit-20w-wall-charger-pakistan-priceoye-oz8c7-100x100.webp",
     "prices": [
       {
+        "store": "Hall Road Lahore",
+        "price": 1784,
+        "url": "https://hallroadlahore.pk/products/infinix-xc05-kit-20w-wall-charger-type-c-to-type-c-cable-digilog-pk",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Digilog",
+        "price": 1820,
+        "url": "https://digilog.pk/products/infinix-xc05-kit-20w-wall-charger-type-c-to-type-c-cable-digilog-pk",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "PriceOye",
         "price": 2249,
         "url": "https://priceoye.pk/mobile-chargers/infinix/infinix-xc05-kit-20w-wall-charger",
@@ -6321,6 +6447,20 @@
         "price": 2250,
         "url": "https://www.robochacha.pk/product/aspor-a851-65w-gan-fast-charger-eu-wall-adapter-qc3-0-power-delivery-multi-port-usb-charger-in-pakistan/",
         "in_stock": true
+      },
+      {
+        "store": "Hall Road Lahore",
+        "price": 2470,
+        "url": "https://hallroadlahore.pk/products/aspor-a851-eu-charger-adapter-65w-qc3-0-wall-multi-port-usb",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
+        "store": "Digilog",
+        "price": 2520,
+        "url": "https://digilog.pk/products/aspor-a851-eu-charger-adapter-65w-qc3-0-wall-multi-port-usb",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:16:57.341691+00:00",
@@ -6771,6 +6911,13 @@
     "image": "https://images.priceoye.pk/maxon-t-500-flash-120w-fast-charger-pakistan-priceoye-o168v-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 1499,
+        "url": "https://www.telex.pk/products/vizo-vmc120-120w-super-fast-charger",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "PriceOye",
         "price": 2499,
         "url": "https://priceoye.pk/mobile-chargers/maxon/maxon-t-500-flash-120w-fast-charger",
@@ -7208,6 +7355,13 @@
         "price": 2650,
         "url": "https://epro.pk/product/ven-dens-20000mah-high-capacity-power-bank/",
         "in_stock": true
+      },
+      {
+        "store": "Digilog",
+        "price": 3890,
+        "url": "https://digilog.pk/products/aspor-a396-20000mah-power-bank",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:15:24.014558+00:00",
@@ -7303,6 +7457,13 @@
         "url": "https://priceoye.pk/mobile-chargers/samsung/samsung-3-pin-25w-travel-adapter",
         "in_stock": true,
         "old_price": 5999
+      },
+      {
+        "store": "TeleX",
+        "price": 3299,
+        "url": "https://www.telex.pk/products/samsung-25w-adapter-3-pin-without-cable",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:20:37.632406+00:00",
@@ -7373,6 +7534,13 @@
     "subcategory": "power-banks",
     "image": "https://www.robochacha.pk/wp-content/uploads/2026/08/Handheld-Rechargeable-Mini-Portable-Fan-LED-Light-.webp",
     "prices": [
+      {
+        "store": "Hall Road Lahore",
+        "price": 2127,
+        "url": "https://hallroadlahore.pk/products/remax-kiyuan-series-20w-22-5w-pd-qc-fast-charging-power-bank-10000mah-rpp-5-white",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "Robochacha",
         "price": 2700,
@@ -8077,6 +8245,13 @@
         "price": 3030,
         "url": "https://digilog.pk/collections/all/products/20000mah-fast-charging-power-bank-black-wp-163-led-display",
         "in_stock": true
+      },
+      {
+        "store": "Hall Road Lahore",
+        "price": 4410,
+        "url": "https://hallroadlahore.pk/products/speedx-sp-s285-22-5w-20000mah-super-fast-charging-power-bank",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T17:49:32.024437+00:00",
@@ -8091,10 +8266,31 @@
     "image": "https://www.robochacha.pk/wp-content/uploads/2026/08/Aspor-18.5W-5000mAh-Magnetic-Portable-Mini-Wireless-Power-Bank-A381.webp",
     "prices": [
       {
+        "store": "Hall Road Lahore",
+        "price": 2969,
+        "url": "https://hallroadlahore.pk/products/aspor-18-5w-5000mah-magnetic-portable-mini-wireless-power-bank-a381",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
+        "store": "TeleX",
+        "price": 2999,
+        "url": "https://www.telex.pk/products/dimiqi-5000mah-wireless-power-bank-fast-charging-portable-charger",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
         "store": "Robochacha",
         "price": 3030,
         "url": "https://www.robochacha.pk/product/aspor-18-5w-5000mah-magnetic-portable-mini-wireless-power-bank-a381-magsafe-compatible-fast-charger-in-pakistan/",
         "in_stock": true
+      },
+      {
+        "store": "Digilog",
+        "price": 3030,
+        "url": "https://digilog.pk/products/aspor-18-5w-5000mah-magnetic-portable-mini-wireless-power-bank-a381",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:16:57.332415+00:00",
@@ -8375,6 +8571,13 @@
     "image": "https://images.priceoye.pk/awei-pd58-65w-fast-charger-dual-port-adapter-pakistan-priceoye-zftfv-100x100.webp",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 3150,
+        "url": "https://www.telex.pk/products/awei-pd58-65w-fast-charger-dual-port-adapter",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "PriceOye",
         "price": 3299,
         "url": "https://priceoye.pk/mobile-chargers/awei/awei-pd58-65w-fast-charger-dual-port-adapter",
@@ -8621,6 +8824,20 @@
     "subcategory": "wall-chargers",
     "image": "https://images.priceoye.pk/aspor-a851-eu-charger-adapter-65w-pakistan-priceoye-emo5v-100x100.webp",
     "prices": [
+      {
+        "store": "Hall Road Lahore",
+        "price": 2470,
+        "url": "https://hallroadlahore.pk/products/aspor-a851-eu-charger-adapter-65w-qc3-0-wall-multi-port-usb",
+        "in_stock": true,
+        "match": "loose"
+      },
+      {
+        "store": "Digilog",
+        "price": 2520,
+        "url": "https://digilog.pk/products/aspor-a851-eu-charger-adapter-65w-qc3-0-wall-multi-port-usb",
+        "in_stock": true,
+        "match": "loose"
+      },
       {
         "store": "PriceOye",
         "price": 3499,
@@ -8871,6 +9088,13 @@
         "price": 3690,
         "url": "https://epro.pk/product/ucci-20000mah-22-5w-fast-charging-power-bank/",
         "in_stock": true
+      },
+      {
+        "store": "Hall Road Lahore",
+        "price": 4410,
+        "url": "https://hallroadlahore.pk/products/speedx-sp-s285-22-5w-20000mah-super-fast-charging-power-bank",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:15:24.007731+00:00",
