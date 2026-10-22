@@ -663,6 +663,13 @@
         "price": 52900,
         "url": "https://japanelectronics.com.pk/products/haier-led-32-h32s80efx?variant=44399578808491",
         "in_stock": true
+      },
+      {
+        "store": "TeleX",
+        "price": 55899,
+        "url": "https://www.telex.pk/products/haier-h32s80efx-32-inch-qled-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T18:59:10.416850+00:00",
@@ -6593,6 +6600,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-tv-40-inch-h40k800fx-android-google-tv-9826018.webp?v=1767522664",
     "prices": [
       {
+        "store": "TeleX",
+        "price": 66999,
+        "url": "https://www.telex.pk/products/haier-h40k800fx-40-inch-full-hd-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Japan Electronics",
         "price": 61000,
         "url": "https://japanelectronics.com.pk/products/haier-led-tv-40-inch-h40k800fx-android-google-tv?variant=46015830032555",
@@ -6706,6 +6720,13 @@
     "subcategory": "led",
     "image": "https://cdn.shopify.com/s/files/1/0579/9945/8475/files/haier-led-50-h50s800ux-665232.webp?v=1757588484",
     "prices": [
+      {
+        "store": "TeleX",
+        "price": 129899,
+        "url": "https://www.telex.pk/products/haier-h50s800ux-50-inch-4k-qled-google-tv-with-official-warranty",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Japan Electronics",
         "price": 129900,
