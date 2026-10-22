@@ -695,6 +695,13 @@
         "price": 320,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-hair-fall-solution-shampoo-180ml?variant=44834174435489",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 400,
+        "url": "https://bagallery.com/products/set-and-touch-hair-fall-solution-shampoo-180ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:38:47.193677+00:00",
@@ -713,6 +720,13 @@
         "price": 320,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-keratin-repair-shampoo-180ml?variant=44834174304417",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 400,
+        "url": "https://bagallery.com/products/set-and-touch-keratin-repair-shampoo-180ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:34:11.973065+00:00",
@@ -731,6 +745,13 @@
         "price": 320,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-rich-black-shine-shampoo-180ml?variant=44834174042273",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 499,
+        "url": "https://bagallery.com/products/vatika-shampoo-black-olive-180ml-small",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:38:51.968181+00:00",
@@ -749,6 +770,13 @@
         "price": 320,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-shampoo-long-and-strong-shampoo-180ml?variant=44834173911201",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 400,
+        "url": "https://bagallery.com/products/set-and-touch-long-and-strong-shampoo-180ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:38:51.970449+00:00",
@@ -821,6 +849,13 @@
         "price": 352,
         "url": "https://cozmetica.pk/products/lifebuoy-shampoo-naturally-silky-175ml?variant=45241532186785",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 320,
+        "url": "https://bagallery.com/products/lifebuoy-naturally-silky-shampoo-175ml-1",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:45:51.078647+00:00",
@@ -1345,6 +1380,13 @@
         "price": 492,
         "url": "https://cozmetica.pk/products/tresemme-cnd-bond-plex-repair-24x160ml?variant=44669412376737",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 560,
+        "url": "https://bagallery.com/products/tresemme-color-vibrance-conditioner-160ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:47:01.140108+00:00",
@@ -1363,6 +1405,13 @@
         "price": 492,
         "url": "https://cozmetica.pk/products/tresemme-botanique-nourish-replenish-conditioner-160ml?variant=44834286895265",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 560,
+        "url": "https://bagallery.com/products/tresemme-color-vibrance-conditioner-160ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.045448+00:00",
@@ -1453,6 +1502,13 @@
         "price": 499,
         "url": "https://cozmetica.pk/products/clear-men-deep-cleanse-anti-dandruff-shampoo-200ml?variant=45877431926945",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 499,
+        "url": "https://bagallery.com/products/product-1",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:49:16.415819+00:00",
@@ -1525,6 +1581,13 @@
         "price": 519,
         "url": "https://cozmetica.pk/products/meclay-london-damage-repair-conditioner-180ml?variant=45063131431073",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 600,
+        "url": "https://bagallery.com/products/dove-intense-repair-conditioner-180ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:06.811946+00:00",
@@ -1615,6 +1678,13 @@
         "price": 520,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-rich-black-shine-shampoo-360ml?variant=44834174009505",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 450,
+        "url": "https://bagallery.com/products/head-shoulder-black-360ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:34:11.973795+00:00",
@@ -1633,6 +1703,13 @@
         "price": 520,
         "url": "https://cozmetica.pk/products/golden-pearl-set-and-touch-shampoo-long-and-strong-shampoo-360ml?variant=44834173878433",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 650,
+        "url": "https://bagallery.com/products/set-and-touch-long-and-strong-shampoo-360ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:38:51.971192+00:00",
@@ -1687,6 +1764,13 @@
         "price": 558,
         "url": "https://cozmetica.pk/products/loreal-paris-elvive-hyaluron-moisture-conditioner-175ml-1?variant=45150069162145",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 558,
+        "url": "https://bagallery.com/products/loreal-paris-elvive-glycolic-gloss-conditioner-175ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:46.617389+00:00",
@@ -1705,6 +1789,13 @@
         "price": 558,
         "url": "https://cozmetica.pk/products/loreal-paris-elvive-hyaluron-pure-conditioner-175ml?variant=45018387382433",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 558,
+        "url": "https://bagallery.com/products/loreal-paris-elvive-glycolic-gloss-conditioner-175ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:49:26.578708+00:00",
@@ -1822,6 +1913,13 @@
         "price": 599,
         "url": "https://cozmetica.pk/products/loreal-paris-elvive-glycolic-gloss-shampoo-175ml?variant=46690634301601",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 558,
+        "url": "https://bagallery.com/products/loreal-paris-elvive-glycolic-gloss-conditioner-175ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:46.616613+00:00",
@@ -1883,6 +1981,13 @@
         "price": 639,
         "url": "https://cozmetica.pk/products/revlon-professional-orofluido%E2%84%A2-radiance-argan-conditioner-50ml?variant=45110846193825",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1080,
+        "url": "https://bagallery.com/products/swiss-miss-romance-perfume-50ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:21.311132+00:00",
@@ -2298,6 +2403,13 @@
         "price": 759,
         "url": "https://cozmetica.pk/products/revlon-professional-orofluido%E2%84%A2-moisturizing-body-cream-purse-size-50ml?variant=45110846128289",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1080,
+        "url": "https://bagallery.com/products/swiss-miss-romance-perfume-50ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:16.472036+00:00",
@@ -2500,6 +2612,13 @@
         "price": 835,
         "url": "https://cozmetica.pk/products/tresemme-botanique-nourish-replenish-conditioner-360ml?variant=43369234727073",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 950,
+        "url": "https://bagallery.com/products/tresemme-bondplex-sleek-and-repair-conditioner-360ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:29:31.993400+00:00",
@@ -3217,6 +3336,13 @@
         "price": 990,
         "url": "https://cozmetica.pk/products/salon-designers-intimo-after-wax-oil-azulene-menthol-100ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2270,
+        "url": "https://bagallery.com/products/brut-glass-perfume-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.981139+00:00",
@@ -3235,6 +3361,13 @@
         "price": 990,
         "url": "https://cozmetica.pk/products/salon-designers-intimo-after-wax-oil-gold-macadamia-100ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2270,
+        "url": "https://bagallery.com/products/brut-glass-perfume-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.981596+00:00",
@@ -3253,6 +3386,13 @@
         "price": 990,
         "url": "https://cozmetica.pk/products/salon-designers-intimo-pre-wax-lotion-argan-100ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2270,
+        "url": "https://bagallery.com/products/brut-glass-perfume-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.050876+00:00",
@@ -3271,6 +3411,13 @@
         "price": 990,
         "url": "https://cozmetica.pk/products/salon-designers-intimo-pre-wax-lotion-macadamia-100ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2270,
+        "url": "https://bagallery.com/products/brut-glass-perfume-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:55.881778+00:00",
@@ -3362,6 +3509,13 @@
         "price": 1039,
         "url": "https://cozmetica.pk/products/revlon-professional-equave-curls-definition-instant-detangling-conditioner-50ml?variant=45234768740513",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1080,
+        "url": "https://bagallery.com/products/swiss-miss-romance-perfume-50ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.047175+00:00",
@@ -4350,6 +4504,13 @@
     "subcategory": "makeup",
     "image": "https://cozmetica.pk/cdn/shop/files/FitMeFoundation18mlMain.webp?v=1735744196&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 1111,
+        "url": "https://bagallery.com/products/tbs-aloe-calm-sheet-mask-18ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 1299,
@@ -5579,6 +5740,13 @@
     "image": "https://cozmetica.pk/cdn/shop/products/lg_wonder_E2_80_99swipe-2-in-1_002-instafamous_1.png?v=1742289353&width=240",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 890,
+        "url": "https://bagallery.com/products/home-co-2in1-telescopic-duster-wiper",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Cozmetica",
         "price": 1530,
         "url": "https://cozmetica.pk/products/rimmel-london-wonder-swipe-2-in-1-liner-to-shadow-002-instafamous",
@@ -6048,6 +6216,13 @@
         "price": 1600,
         "url": "https://cozmetica.pk/products/salon-designers-intimo-after-wax-oil-argan-250ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2520,
+        "url": "https://bagallery.com/products/bioblas-argan-conditioner-250ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:11.065743+00:00",
@@ -6205,6 +6380,13 @@
     "subcategory": "makeup",
     "image": "https://cozmetica.pk/cdn/shop/files/MNY_LumiMattecopy.jpg?v=1766580072&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 1111,
+        "url": "https://bagallery.com/products/tbs-aloe-calm-sheet-mask-18ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 1624,
@@ -6382,6 +6564,13 @@
         "price": 1665,
         "url": "https://cozmetica.pk/products/dove-all-day-nourish-uv-protect-hair-serum-100ml?variant=45101198999713",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2270,
+        "url": "https://bagallery.com/products/brut-glass-perfume-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:41.754160+00:00",
@@ -6418,6 +6607,13 @@
         "price": 1680,
         "url": "https://cozmetica.pk/products/dove-deep-repair-hair-mask-250ml?variant=44955188887713",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2100,
+        "url": "https://bagallery.com/products/dove-deep-repair-hair-mask-250ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:41.754937+00:00",
@@ -7328,6 +7524,13 @@
         "price": 1800,
         "url": "https://cozmetica.pk/products/loccitane-gentle-balance-micellar-shampoo-35ml?variant=43765838807201",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1800,
+        "url": "https://bagallery.com/products/loccitane-gentle-balance-micellar-shampoo-35ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:02.027484+00:00",
@@ -7626,6 +7829,13 @@
         "price": 1912,
         "url": "https://cozmetica.pk/products/bioblas-argan-oil-shampoo-360ml?variant=44461392003233",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2025,
+        "url": "https://bagallery.com/products/bioblas-coconut-oil-shampoo-360ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:29:27.090544+00:00",
@@ -7644,6 +7854,13 @@
         "price": 1912,
         "url": "https://cozmetica.pk/products/bioblas-coconut-oil-shampoo-360ml?variant=44461392036001",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2025,
+        "url": "https://bagallery.com/products/bioblas-coconut-oil-shampoo-360ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:41.752672+00:00",
@@ -7680,6 +7897,13 @@
         "price": 1912,
         "url": "https://cozmetica.pk/products/bioblas-olive-oil-shampoo-360ml?variant=44461392298145",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2025,
+        "url": "https://bagallery.com/products/bioblas-coconut-oil-shampoo-360ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:41.757424+00:00",
@@ -8293,6 +8517,13 @@
         "price": 1999,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-brave-reds-275ml?variant=45110853435553",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-brave-reds-275ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:51.130835+00:00",
@@ -8311,6 +8542,13 @@
         "price": 1999,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-golden-blondes-275ml?variant=45110853370017",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-golden-blondes-275ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:51.129938+00:00",
@@ -8329,6 +8567,13 @@
         "price": 1999,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-intense-coppers-275ml?variant=45110853271713",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-intense-coppers-275ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:55.874892+00:00",
@@ -8347,6 +8592,13 @@
         "price": 1999,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-radiant-darks-275ml?variant=45110853107873",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-45-days-total-color-care-conditioning-shampoo-radiant-darks-275ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:55.873999+00:00",
@@ -8365,6 +8617,13 @@
         "price": 1999,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone%E2%84%A2-foam-treatment-200ml-all-in-one-10-benefits-hair-serum-classic-fragrance?variant=45110849011873",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 4340,
+        "url": "https://bagallery.com/products/mercedes-benz-select-body-spray-200ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:36.252479+00:00",
@@ -8587,6 +8846,13 @@
         "price": 2108,
         "url": "https://cozmetica.pk/products/framesi-rigenol-conditioner-tube-250-ml?variant=40722694045857",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2520,
+        "url": "https://bagallery.com/products/bioblas-argan-conditioner-250ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:25.993025+00:00",
@@ -8959,6 +9225,13 @@
         "price": 2280,
         "url": "https://cozmetica.pk/products/revolution-relove-super-serum-foundation-f10-5?variant=44325542068385",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2736,
+        "url": "https://bagallery.com/products/revolution-relove-super-serum-foundation-f10-5",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:34:11.976459+00:00",
@@ -8977,6 +9250,13 @@
         "price": 2295,
         "url": "https://cozmetica.pk/products/eveline-4d-whitening-makeup-removing-lotion-245ml?variant=39259429077153",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1155,
+        "url": "https://bagallery.com/products/eveline-white-prestige-4d-body-lotion-245ml",
+        "in_stock": false,
+        "match": "loose"
       }
     ],
     "last_updated": "2026-10-22T19:41:31.418652+00:00",
@@ -9760,6 +10040,13 @@
         "price": 2399,
         "url": "https://cozmetica.pk/products/argan-deluxe-argan-oil-nourishing-conditioner-300ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2600,
+        "url": "https://bagallery.com/products/boots-ingredients-argan-oil-jojoba-oil-conditioner-300ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:29:27.088994+00:00",
@@ -10527,6 +10814,13 @@
         "price": 2695,
         "url": "https://cozmetica.pk/products/eveline-cosmetic-wonder-match-4in1-cheek-lip-n01-001?variant=43373337772193",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1199,
+        "url": "https://bagallery.com/products/bioaqua-4in1-face-acne-treatment-scar-spots-removal-series",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:49:21.266986+00:00",
@@ -10545,6 +10839,13 @@
         "price": 2695,
         "url": "https://cozmetica.pk/products/eveline-cosmetic-wonder-match-4in1-cheek-lip-n03-001?variant=43373338263713",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1199,
+        "url": "https://bagallery.com/products/bioaqua-4in1-face-acne-treatment-scar-spots-removal-series",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:45:41.233745+00:00",
@@ -10563,6 +10864,13 @@
         "price": 2695,
         "url": "https://cozmetica.pk/products/eveline-wonder-match-4in1-cheek-lip-color-balm-04?variant=45241748160673",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 1199,
+        "url": "https://bagallery.com/products/bioaqua-4in1-face-acne-treatment-scar-spots-removal-series",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:53:25.767551+00:00",
@@ -10961,6 +11269,13 @@
         "price": 2799,
         "url": "https://cozmetica.pk/products/revlon-professional-orofluido%E2%84%A2-moisturizing-body-cream-200ml?variant=45110846292129",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 4340,
+        "url": "https://bagallery.com/products/mercedes-benz-select-body-spray-200ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:16.471058+00:00",
@@ -10979,6 +11294,13 @@
         "price": 2799,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-technics-creme-developer-10-vol-3-900ml?variant=45110846521505",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 3499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-technics-creme-peroxide-developer-10-vol-3-900ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:16.469350+00:00",
@@ -10997,6 +11319,13 @@
         "price": 2799,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-technics-creme-developer-20-vol-6-900ml?variant=45110846587041",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 3499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-technics-creme-peroxide-developer-20-vol-6-900ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:11.671487+00:00",
@@ -11015,6 +11344,13 @@
         "price": 2799,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-technics-creme-developer-30-vol-9-900ml?variant=45110846423201",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 3499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-technics-creme-peroxide-developer-30-vol-9-900ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:16.468561+00:00",
@@ -11231,6 +11567,13 @@
         "price": 2868,
         "url": "https://cozmetica.pk/products/bioblas-forte-shampoo-360ml?variant=45154978496673",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 3038,
+        "url": "https://bagallery.com/products/bioblas-forte-shampoo-360ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:50:41.751788+00:00",
@@ -11468,6 +11811,13 @@
         "price": 2999,
         "url": "https://cozmetica.pk/products/jalea-real-deluxe-sulfate-free-royal-jelly-hair-mask-250ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2100,
+        "url": "https://bagallery.com/products/dove-deep-repair-hair-mask-250ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:34:11.970065+00:00",
@@ -11510,6 +11860,13 @@
         "price": 2999,
         "url": "https://cozmetica.pk/products/macadamia-deluxe-macadamia-oil-hair-mask-250ml",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2100,
+        "url": "https://bagallery.com/products/dove-deep-repair-hair-mask-250ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:29:31.996485+00:00",
@@ -11999,6 +12356,13 @@
     "image": "https://cozmetica.pk/cdn/shop/products/Argan-Deluxe-Anti-Hair-Loss-Shampoo-500-ml-front_45c671a3-3cca-4117-ae73-473dfcaea814.jpg?v=1699329453&width=240",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 1320,
+        "url": "https://bagallery.com/products/cosmo-baby-lotion-500ml-new-design",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Cozmetica",
         "price": 3299,
         "url": "https://cozmetica.pk/products/argan-deluxe-hair-loss-control-shampoo-500ml?variant=42643552141473",
@@ -12022,6 +12386,13 @@
     "subcategory": "haircare",
     "image": "https://cozmetica.pk/cdn/shop/products/Keratin-Deluxe-Hair-Shampoo-500-ml_f5ffad88-636e-4485-a547-4df107040daf.jpg?v=1699348246&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 1320,
+        "url": "https://bagallery.com/products/cosmo-baby-lotion-500ml-new-design",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 3299,
@@ -12231,6 +12602,13 @@
         "price": 3439,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone%E2%84%A2-all-in-one-shampoo-classic-fragrance-230ml?variant=45110848454817",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 4299,
+        "url": "https://bagallery.com/products/revlon-uniqone%E2%84%A2-all-in-one-shampoo-classic-fragrance-230ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:36.248596+00:00",
@@ -12515,6 +12893,13 @@
     "subcategory": "haircare",
     "image": "https://cozmetica.pk/cdn/shop/files/ShisiedoFinoHairMask1.webp?v=1762946429&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 3499,
+        "url": "https://bagallery.com/products/shiseido-fino-premium-touch-hair-mask-230g",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 3599,
@@ -12830,6 +13215,13 @@
         "price": 3999,
         "url": "https://cozmetica.pk/products/revlon-professional-style-masters%E2%84%A2-curly-fanaticurls-150ml?variant=45110852354209",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.975102+00:00",
@@ -12848,6 +13240,13 @@
         "price": 3999,
         "url": "https://cozmetica.pk/products/revlon-professional-style-masters%E2%84%A2-curly-orbital-150ml?variant=45110854680737",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:51.129055+00:00",
@@ -13046,6 +13445,13 @@
         "price": 4239,
         "url": "https://cozmetica.pk/products/revlon-professional-style-masters%E2%84%A2-creator-fiber-wax-85gm?variant=45110855106721",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5299,
+        "url": "https://bagallery.com/products/revlon-style-masters%E2%84%A2-creator-fiber-wax-85gm",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:51.125180+00:00",
@@ -13064,6 +13470,13 @@
         "price": 4239,
         "url": "https://cozmetica.pk/products/revlon-professional-style-masters%E2%84%A2-creator-matt-clay-85gm?variant=45110852419745",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5299,
+        "url": "https://bagallery.com/products/revlon-style-masters%E2%84%A2-creator-matt-clay-85gm",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.974007+00:00",
@@ -13082,6 +13495,13 @@
         "price": 4239,
         "url": "https://cozmetica.pk/products/revlon-professional-style-masters%E2%84%A2-creator-memory-hair-spray-150ml?variant=45110854582433",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:42:51.127956+00:00",
@@ -13154,6 +13574,13 @@
         "price": 4399,
         "url": "https://cozmetica.pk/products/orofluido-radiance-argan-shampoo-240ml?variant=45234768707745",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5499,
+        "url": "https://bagallery.com/products/revlon-orofluido%E2%84%A2-radiance-argan-shampoo-240ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.048034+00:00",
@@ -13167,6 +13594,13 @@
     "subcategory": "haircare",
     "image": "https://cozmetica.pk/cdn/shop/files/white_b5db4d11-568d-40a0-9c0e-b2aa575a4737.jpg?v=1757418814&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 4340,
+        "url": "https://bagallery.com/products/mercedes-benz-select-body-spray-200ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 4399,
@@ -13208,6 +13642,13 @@
         "price": 4399,
         "url": "https://cozmetica.pk/products/uniqone-sulfate-free-curls-shampoo-230ml?variant=45234768773281",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5499,
+        "url": "https://bagallery.com/products/revlon-uniqone%E2%84%A2-sulfate-free-curls-shampoo-230ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.046335+00:00",
@@ -13227,6 +13668,13 @@
         "url": "https://cozmetica.pk/products/benetton-colors-black-eau-de-toilette-spray-for-men-100ml",
         "in_stock": true,
         "old_price": 4500
+      },
+      {
+        "store": "Bagallery",
+        "price": 4700,
+        "url": "https://bagallery.com/products/junaid-jamshed-black-ice-100ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:52:11.023050+00:00",
@@ -13259,6 +13707,13 @@
     "subcategory": "fragrance",
     "image": "https://cozmetica.pk/cdn/shop/products/8433982013232_bfdf38bd-4352-4de9-b2f2-c24f1a87d6e9.jpg?v=1699324879&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 4070,
+        "url": "https://bagallery.com/products/emper-unplugged-noir-men-edt-80ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 4431,
@@ -13427,6 +13882,13 @@
         "price": 4769,
         "url": "https://cozmetica.pk/products/schwarzkopf-bonacure-scalp-therapy-anti-pollution-water-for-all-hair-types-150ml?variant=45973299626145",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:45:36.194176+00:00",
@@ -13445,6 +13907,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/orofluido-radiance-argan-conditioner-240ml?variant=45234768674977",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5499,
+        "url": "https://bagallery.com/products/revlon-orofluido%E2%84%A2-radiance-argan-shampoo-240ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:16.048910+00:00",
@@ -13481,6 +13950,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/re-start%E2%84%A2-repair-mask-250ml?variant=45110843900065",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 2100,
+        "url": "https://bagallery.com/products/dove-deep-repair-hair-mask-250ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:31.428231+00:00",
@@ -13499,6 +13975,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone%E2%84%A2-all-in-one-leave-in-hair-treatment-for-curls-230ml?variant=45110847209633",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 5999,
+        "url": "https://bagallery.com/products/revlon-uniqone%E2%84%A2-all-in-one-leave-in-hair-treatment-for-curls-230ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:31.430929+00:00",
@@ -13517,6 +14000,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone-repair-hair-spray-leave-in-treatment-150ml-all-in-one-10-benefits-hair-serum-coconut-fragrance?variant=45110855401633",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:41.102017+00:00",
@@ -13535,6 +14025,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone-repair-hair-spray-leave-in-treatment-150ml-all-in-one-10-benefits-hair-serum-green-tea-fragrance?variant=45110855336097",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-green-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:41.098793+00:00",
@@ -13553,6 +14050,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone-repair-hair-spray-leave-in-treatment-150ml-all-in-one-10-benefits-hair-serum-lotus-fragrance?variant=45110855467169",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:41.100257+00:00",
@@ -13571,6 +14075,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone%E2%84%A2-repair-hair-spray-leave-in-treatment-150ml-all-in-one-10-benefits-hair-serum-mental-wellness-edition?variant=45110847307937",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:31.432845+00:00",
@@ -13625,6 +14136,13 @@
         "price": 4799,
         "url": "https://cozmetica.pk/products/uniqone%E2%84%A2-all-in-one-leave-in-hair-treatment-classic-fragrance-150ml?variant=45110855565473",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8670,
+        "url": "https://bagallery.com/products/guess-guess-seductive-for-men-edt-150ml",
+        "in_stock": true,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.978924+00:00",
@@ -13877,6 +14395,13 @@
     "image": "https://cozmetica.pk/cdn/shop/files/loreal-paris---infallible-24hr-fresh-wear-face-powder-foundation---220-sand.jpg?v=1735743620&width=240",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 4399,
+        "url": "https://bagallery.com/products/loreal-paris-infaillible-24hr-fresh-wear-face-powder-foundation-220-sand",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Cozmetica",
         "price": 5499,
         "url": "https://cozmetica.pk/products/loreal-paris-infallible-24hr-fresh-wear-face-powder-foundation-220-sand?variant=43372274679969",
@@ -13917,6 +14442,13 @@
         "price": 5599,
         "url": "https://cozmetica.pk/products/revlon-professional-uniqone%E2%84%A2-all-in-one-shampoo-classic-fragrance-490ml?variant=45110849634465",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 6999,
+        "url": "https://bagallery.com/products/revlon-uniqone%E2%84%A2-all-in-one-shampoo-classic-fragrance-490ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:41.094046+00:00",
@@ -13949,6 +14481,13 @@
     "image": "https://cozmetica.pk/cdn/shop/files/2921789_BC_CP_Anti_Dandruff_Shampoo_250ml_1.png?v=1777291349&width=240",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 2520,
+        "url": "https://bagallery.com/products/bioblas-argan-conditioner-250ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Cozmetica",
         "price": 5615,
         "url": "https://cozmetica.pk/products/schwarzkopf-bonacure-anti-dandruff-shampoo-250ml?variant=45973322956961",
@@ -13966,6 +14505,13 @@
     "subcategory": "haircare",
     "image": "https://cozmetica.pk/cdn/shop/files/2708457_BC_2025_RR_Shampoo_250ml_01.png?v=1777291328&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 2520,
+        "url": "https://bagallery.com/products/bioblas-argan-conditioner-250ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 5615,
@@ -14302,6 +14848,13 @@
         "price": 7199,
         "url": "https://cozmetica.pk/products/re-start%E2%84%A2-density-anti-hair-loss-professional-vials-12-x-5-ml?variant=45110845702305",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 8999,
+        "url": "https://bagallery.com/products/revlon-re-start%E2%84%A2-density-anti-hair-loss-professional-vials-12-x-5-ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:21.311975+00:00",
@@ -14374,6 +14927,13 @@
         "price": 7599,
         "url": "https://cozmetica.pk/products/revlon-professional-revlonissimo%E2%84%A2-color-remover-2x100ml?variant=45110851895457",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 9499,
+        "url": "https://bagallery.com/products/revlon-revlonissimo%E2%84%A2-technics-color-remover-2x100ml",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:44:05.976987+00:00",
@@ -14539,6 +15099,13 @@
     "subcategory": "haircare",
     "image": "https://cozmetica.pk/cdn/shop/files/Absolut-Repair-Shampoo.webp?v=1738653764&width=240",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 6250,
+        "url": "https://bagallery.com/products/medicube-pdrn-booster-gel-300ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "Cozmetica",
         "price": 8499,
@@ -14742,6 +15309,13 @@
         "price": 11599,
         "url": "https://cozmetica.pk/products/revlon-professional-magnet%E2%84%A2-blondes-ultimate-powder-9-750gm?variant=45110846718113",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 14499,
+        "url": "https://bagallery.com/products/revlon-magnet%E2%84%A2-blondes-ultimate-powder-9-750gm",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:40:11.670713+00:00",
@@ -14937,6 +15511,13 @@
     "image": "https://cozmetica.pk/cdn/shop/products/3607346236581_5b7263e8-672c-40b1-9895-ba3b6f73601e.jpg?v=1699372576&width=240",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 12270,
+        "url": "https://bagallery.com/products/roberto-cavali-just-cavali-men-edt-90ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "Cozmetica",
         "price": 13922,
         "url": "https://cozmetica.pk/products/roberto-cavalli-just-cavalli-edt-for-men-90ml",
@@ -14979,6 +15560,13 @@
         "price": 15999,
         "url": "https://cozmetica.pk/products/revlon-professional%E2%84%A2-hair-dryer-2200w-with-2-styling-nozzles-air-diffuser?variant=45110848651425",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 19999,
+        "url": "https://bagallery.com/products/revlon-revlon-professional%E2%84%A2-hair-dryer-2200w-with-2-styling-nozzles-air-diffuser",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:41:36.250317+00:00",
@@ -15098,6 +15686,13 @@
         "price": 25999,
         "url": "https://cozmetica.pk/products/remington-as8670-curler-multi-styler?variant=40550080905377",
         "in_stock": true
+      },
+      {
+        "store": "Bagallery",
+        "price": 18000,
+        "url": "https://bagallery.com/products/remington-as8670-interchangeable-multi-styler",
+        "in_stock": false,
+        "match": "strict"
       }
     ],
     "last_updated": "2026-10-22T19:34:07.203140+00:00",
@@ -15483,6 +16078,13 @@
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/SAPIL-NICE-FEELING-BLUE-75ML.webp?v=1743063979&width=720",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 1900,
+        "url": "https://bagallery.com/products/junaid-jamshed-deep-blue-75ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "D Watson Cosmetics",
         "price": 3700,
         "url": "https://dwatsoncosmetics.pk/products/sapil-nice-feeling-blue-75ml",
@@ -15518,6 +16120,13 @@
     "subcategory": "skincare",
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/THEPURESTSERUMNIACINAMIDE5_ZINC1_30ML.webp?v=1766488616&width=720",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 2999,
+        "url": "https://bagallery.com/products/the-ordinary-niacinamide-10-zinc-1-30ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "D Watson Cosmetics",
         "price": 4800,
@@ -15609,6 +16218,13 @@
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/47.CERAVE-FOAMING-FACIAL-CLEANSER-355ML-OIL-CONTROL.webp?v=1790600023&width=720",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 8300,
+        "url": "https://bagallery.com/products/cerave-acne-control-cleanser-355ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "D Watson Cosmetics",
         "price": 8100,
         "url": "https://dwatsoncosmetics.pk/products/cerave-foaming-facial-cleanser-355ml-oil-control",
@@ -15681,6 +16297,13 @@
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/PACORABANNELADYMILLIONLUCKYEDP80ML_SET.jpg?v=1730371689&width=720",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 32000,
+        "url": "https://bagallery.com/products/paco-rabanne-lady-million-edp-spray-80ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "D Watson Cosmetics",
         "price": 19500,
         "url": "https://dwatsoncosmetics.pk/products/paco-rabanne-lady-million-lucky-edp-80ml",
@@ -15716,6 +16339,13 @@
     "subcategory": "other",
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/CHRISTIAN-DIOR-SAUVAGE-A-S-BALM-100ML.webp?v=1743064347&width=720",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 45375,
+        "url": "https://bagallery.com/products/christion-dior-addict-women-edp-100ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "D Watson Cosmetics",
         "price": 29500,
@@ -15771,6 +16401,13 @@
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/PACORABANNEMILLIONEDT100ML_SET.webp?v=1730371917&width=720",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 45375,
+        "url": "https://bagallery.com/products/christion-dior-addict-women-edp-100ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "D Watson Cosmetics",
         "price": 31000,
         "url": "https://dwatsoncosmetics.pk/products/paco-rabanne-million-edt-100ml",
@@ -15788,6 +16425,13 @@
     "subcategory": "fragrance",
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/VERSACEEROSFLAMEEDP200ML_LOOK.webp?v=1730365129&width=720",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 34000,
+        "url": "https://bagallery.com/products/versace-eros-flame-edp-5ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "D Watson Cosmetics",
         "price": 35000,
@@ -15825,6 +16469,13 @@
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/YSLYEDPINTENSE100ML_FRONT.webp?v=1730361710&width=720",
     "prices": [
       {
+        "store": "Bagallery",
+        "price": 45375,
+        "url": "https://bagallery.com/products/christion-dior-addict-women-edp-100ml",
+        "in_stock": true,
+        "match": "strict"
+      },
+      {
         "store": "D Watson Cosmetics",
         "price": 49500,
         "url": "https://dwatsoncosmetics.pk/products/ysl-y-edp-intense-100ml",
@@ -15842,6 +16493,13 @@
     "subcategory": "fragrance",
     "image": "https://dwatsoncosmetics.pk/cdn/shop/files/CHRISTIAN-DIOR-SAUVAGE-PARFUM-100ML.webp?v=1743063847&width=720",
     "prices": [
+      {
+        "store": "Bagallery",
+        "price": 45375,
+        "url": "https://bagallery.com/products/christion-dior-addict-women-edp-100ml",
+        "in_stock": true,
+        "match": "strict"
+      },
       {
         "store": "D Watson Cosmetics",
         "price": 60000,
