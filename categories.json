@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T12:31:58.038008+00:00",
+  "updated": "2026-10-22T20:37:35.381237+00:00",
   "categories": [
     {
       "slug": "mobiles",
       "name": "Mobiles",
       "name_ur": "موبائل",
       "file": "mobiles.json",
-      "count": 1503,
+      "count": 1505,
       "min_price": 2149,
       "stores": [
         "MiStore Pakistan",
@@ -32,7 +32,7 @@
         {
           "slug": "infinix-tecno",
           "name": "Infinix / Tecno / Itel",
-          "count": 257
+          "count": 258
         },
         {
           "slug": "oppo-vivo-realme",
@@ -47,7 +47,7 @@
         {
           "slug": "nothing",
           "name": "Nothing / CMF",
-          "count": 8
+          "count": 7
         },
         {
           "slug": "motorola",
@@ -57,17 +57,22 @@
         {
           "slug": "nokia-hmd",
           "name": "Nokia / HMD",
-          "count": 18
+          "count": 15
         },
         {
           "slug": "zte",
           "name": "ZTE",
-          "count": 2
+          "count": 5
+        },
+        {
+          "slug": "dcode",
+          "name": "Dcode",
+          "count": 1
         },
         {
           "slug": "qmobile",
           "name": "QMobile",
-          "count": 14
+          "count": 15
         },
         {
           "slug": "pakistani-feature-phones",
@@ -86,7 +91,7 @@
       "name": "Graphics Cards",
       "name_ur": "گرافکس کارڈ",
       "file": "graphics-cards.json",
-      "count": 743,
+      "count": 741,
       "min_price": 3400,
       "stores": [
         "Czone",
@@ -105,7 +110,7 @@
         {
           "slug": "nvidia",
           "name": "NVIDIA GeForce",
-          "count": 582
+          "count": 580
         },
         {
           "slug": "amd",
@@ -210,8 +215,8 @@
       "name": "LED / LCD TVs",
       "name_ur": "ٹی وی",
       "file": "tvs.json",
-      "count": 369,
-      "min_price": 10499,
+      "count": 372,
+      "min_price": 17099,
       "stores": [
         "Japan Electronics",
         "PriceOye",
@@ -221,27 +226,22 @@
         {
           "slug": "qled-oled",
           "name": "QLED / OLED / Mini-LED",
-          "count": 75
+          "count": 78
         },
         {
           "slug": "4k-smart",
           "name": "4K Smart TV",
-          "count": 106
+          "count": 107
         },
         {
           "slug": "smart",
           "name": "Smart / Android TV",
-          "count": 49
+          "count": 48
         },
         {
           "slug": "led",
           "name": "LED TV",
-          "count": 138
-        },
-        {
-          "slug": "other",
-          "name": "Other",
-          "count": 1
+          "count": 139
         }
       ]
     },
@@ -307,7 +307,7 @@
       "name": "Electronics Modules & Boards",
       "name_ur": "الیکٹرانکس ماڈیول",
       "file": "electronics-modules.json",
-      "count": 12405,
+      "count": 12415,
       "min_price": 2,
       "stores": [
         "CircuitHub",
@@ -333,7 +333,7 @@
         {
           "slug": "esp32-esp8266",
           "name": "ESP32 / ESP8266",
-          "count": 184
+          "count": 185
         },
         {
           "slug": "camera-modules",
@@ -358,7 +358,7 @@
         {
           "slug": "wireless-comm",
           "name": "Wireless & Communication",
-          "count": 198
+          "count": 199
         },
         {
           "slug": "sensors",
@@ -378,7 +378,7 @@
         {
           "slug": "motor-drivers",
           "name": "Motor Drivers",
-          "count": 116
+          "count": 117
         },
         {
           "slug": "motors",
@@ -413,7 +413,7 @@
         {
           "slug": "components",
           "name": "Components (R / C / ICs)",
-          "count": 4611
+          "count": 4618
         },
         {
           "slug": "tools",
@@ -438,11 +438,35 @@
       ]
     },
     {
+      "slug": "womens-fashion",
+      "name": "Women Fashion & Lingerie",
+      "name_ur": "Women Fashion",
+      "file": "womens-fashion.json",
+      "count": 432,
+      "min_price": 400,
+      "stores": [
+        "Stylo",
+        "Zubaidas"
+      ],
+      "subcategories": [
+        {
+          "slug": "lingerie",
+          "name": "Lingerie & Nightwear",
+          "count": 316
+        },
+        {
+          "slug": "other",
+          "name": "Other",
+          "count": 116
+        }
+      ]
+    },
+    {
       "slug": "beauty-personal-care",
       "name": "Beauty & Cosmetics",
       "name_ur": "Beauty & Personal Care",
       "file": "beauty-personal-care.json",
-      "count": 962,
+      "count": 842,
       "min_price": 120,
       "stores": [
         "Cozmetica",
@@ -452,22 +476,22 @@
         {
           "slug": "haircare",
           "name": "Haircare",
-          "count": 264
+          "count": 263
         },
         {
           "slug": "fragrance",
           "name": "Fragrances",
-          "count": 39
+          "count": 31
         },
         {
           "slug": "makeup",
           "name": "Makeup",
-          "count": 441
+          "count": 369
         },
         {
           "slug": "skincare",
           "name": "Skincare",
-          "count": 50
+          "count": 39
         },
         {
           "slug": "personal-care",
@@ -477,7 +501,7 @@
         {
           "slug": "other",
           "name": "Other",
-          "count": 166
+          "count": 138
         }
       ]
     },
